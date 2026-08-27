@@ -1,7 +1,7 @@
 ---
 import '../styles/global.css';
 import siteConfig from '../data/site.config.json';
-import { getInitials } from '../pages/favicon.svg';
+import { ICONS, getInitials } from '../lib/logoIcon';
 
 interface Props {
   title: string;
@@ -14,6 +14,7 @@ const { title, description, indexable = true, canonicalPath = Astro.url.pathname
 const canonicalUrl = new URL(canonicalPath, `https://${siteConfig.domain}`).toString();
 const telHref = `tel:${siteConfig.phone.replace(/\s+/g, '')}`;
 const initials = getInitials(siteConfig.siteName);
+const iconPaths = (siteConfig as any).logoIcon && ICONS[(siteConfig as any).logoIcon];
 
 const localBusinessSchema = {
   '@context': 'https://schema.org',
@@ -50,7 +51,11 @@ const localBusinessSchema = {
   <body>
     <header class="site-header">
       <a class="logo" href="/">
-        <span class="logo-badge" aria-hidden="true">{initials}</span>
+        <span class="logo-badge" aria-hidden="true">
+          {iconPaths ? (
+            <svg viewBox="0 0 36 36" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" set:html={iconPaths} />
+          ) : initials}
+        </span>
         {siteConfig.siteName}
       </a>
       <div class="header-actions">

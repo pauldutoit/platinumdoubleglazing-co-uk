@@ -1,13 +1,13 @@
 import type { APIRoute } from 'astro';
 import siteConfig from '../data/site.config.json';
-
-export function getInitials(name: string): string {
-  const words = name.split(/\s+/).filter(Boolean);
-  return words.slice(0, 2).map((w) => w[0]?.toUpperCase() ?? '').join('') || '?';
-}
+import { ICONS, getInitials } from '../lib/logoIcon';
 
 export const GET: APIRoute = async () => {
-  const initials = getInitials(siteConfig.siteName);
+  const iconPaths = (siteConfig as any).logoIcon && ICONS[(siteConfig as any).logoIcon];
+  const inner = iconPaths
+    ? `<g transform="translate(14,14)" fill="none" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">${iconPaths}</g>`
+    : `<text x="32" y="33" text-anchor="middle" dominant-baseline="central" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-weight="800" letter-spacing="-1" font-size="24" fill="#ffffff">${getInitials(siteConfig.siteName)}</text>`;
+
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
@@ -16,7 +16,7 @@ export const GET: APIRoute = async () => {
     </linearGradient>
   </defs>
   <circle cx="32" cy="32" r="30" fill="url(#g)" />
-  <text x="32" y="33" text-anchor="middle" dominant-baseline="central" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-weight="800" letter-spacing="-1" font-size="24" fill="#ffffff">${initials}</text>
+  ${inner}
 </svg>`;
   return new Response(svg, { headers: { 'Content-Type': 'image/svg+xml' } });
 };

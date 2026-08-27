@@ -32,6 +32,13 @@ const faqSchema = {
             <a class="btn btn-accent" href={telHref}>Call {siteConfig.phone}</a>
           </div>
         )}
+        <ul class="trust-badges">
+          {siteConfig.aggregateRating && (
+            <li>&#9733; {siteConfig.aggregateRating.value}/5 ({siteConfig.aggregateRating.count} reviews)</li>
+          )}
+          <li>100% free, no obligation</li>
+          {siteConfig.disclosureText && <li>Vetted installers only</li>}
+        </ul>
       </div>
       <div class="hero-form-card card">
         <h2>Get a free quote</h2>

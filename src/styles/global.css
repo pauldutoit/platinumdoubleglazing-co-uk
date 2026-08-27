@@ -245,3 +245,12 @@ ul { padding-left: 1.25rem; }
 @media (max-width: 860px) {
   .hero-grid { grid-template-columns: 1fr; }
 }
+
+.logo-badge svg { width: 1.15rem; height: 1.15rem; color: #fff; }
+
+.trust-badges {
+  display: flex; flex-wrap: wrap; gap: 0.5rem 1.25rem;
+  list-style: none; padding: 0; margin: 1.5rem 0 0;
+  font-size: 0.88rem; font-weight: 600; color: var(--color-body);
+}
+.trust-badges li { display: flex; align-items: center; gap: 0.35rem; }
