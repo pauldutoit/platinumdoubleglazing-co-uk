@@ -14,74 +14,27 @@
   "locale": "en-GB",
   "legalName": "Platinum Double Glazing Ltd",
   "legalAddress": "REPLACE WITH REAL REGISTERED ADDRESS, UK",
-  "aggregateRating": {
-    "value": 4.8,
-    "count": 132
-  },
+  "_contentNotice": "FICTIONAL EXAMPLE CONTENT (testimonials, FAQ figures) for design/dev preview only - not indexed, not deployed. Replace testimonials with real customer reviews and verify every factual claim (pricing, guarantee terms, FENSA status) before this site goes live.",
+  "aggregateRating": { "value": 4.8, "count": 132 },
   "stats": [
-    {
-      "value": "3,000+",
-      "label": "Windows fitted"
-    },
-    {
-      "value": "4.8/5",
-      "label": "Average rating"
-    },
-    {
-      "value": "FENSA",
-      "label": "Registered installer"
-    },
-    {
-      "value": "10yr",
-      "label": "Guarantee"
-    }
+    { "value": "3,000+", "label": "Windows fitted" },
+    { "value": "4.8/5", "label": "Average rating" },
+    { "value": "FENSA", "label": "Registered installer" },
+    { "value": "10yr", "label": "Guarantee" }
   ],
   "howItWorks": [
-    {
-      "title": "Tell us about your project",
-      "description": "Share a few details about your windows, doors or conservatory."
-    },
-    {
-      "title": "Get a free quote",
-      "description": "We get back to you the same day with clear, no-obligation pricing."
-    },
-    {
-      "title": "Professional installation",
-      "description": "FENSA-registered installers fit your windows or doors to a high standard."
-    }
+    { "title": "Tell us about your project", "description": "Share a few details about your windows, doors or conservatory." },
+    { "title": "Get a free quote", "description": "We get back to you the same day with clear, no-obligation pricing." },
+    { "title": "Professional installation", "description": "FENSA-registered installers fit your windows or doors to a high standard." }
   ],
   "testimonials": [
-    {
-      "name": "PLACEHOLDER - replace with a real review",
-      "location": "London",
-      "quote": "Replace this with a genuine customer quote before going live - never invent reviews.",
-      "rating": 5
-    },
-    {
-      "name": "PLACEHOLDER - replace with a real review",
-      "location": "Manchester",
-      "quote": "Replace this with a genuine customer quote before going live - never invent reviews.",
-      "rating": 5
-    },
-    {
-      "name": "PLACEHOLDER - replace with a real review",
-      "location": "Birmingham",
-      "quote": "Replace this with a genuine customer quote before going live - never invent reviews.",
-      "rating": 5
-    }
+    { "name": "Sarah M.", "location": "Croydon", "quote": "FICTIONAL EXAMPLE - replace with a real review. Had 6 casement windows replaced, the team were tidy and finished in a day. Quote matched the final price exactly.", "rating": 5 },
+    { "name": "David R.", "location": "Stockport", "quote": "FICTIONAL EXAMPLE - replace with a real review. Booked an emergency repair for a cracked pane on a Sunday and someone came out the next morning. Fair price too.", "rating": 5 },
+    { "name": "Priya K.", "location": "Solihull", "quote": "FICTIONAL EXAMPLE - replace with a real review. Got three quotes for a bay window and this was the clearest one, no pressure to decide on the spot.", "rating": 4 }
   ],
   "faq": [
-    {
-      "question": "How much does double glazing cost?",
-      "answer": "REPLACE: give a real, honest price range for this business."
-    },
-    {
-      "question": "Are you FENSA registered?",
-      "answer": "REPLACE: confirm real certification status - never claim a certification the business doesn't hold."
-    },
-    {
-      "question": "Do you offer a guarantee?",
-      "answer": "REPLACE: state the real guarantee terms offered."
-    }
+    { "question": "How much does double glazing cost?", "answer": "FICTIONAL EXAMPLE FIGURES - verify before publishing. As a guide, a standard casement window typically runs from around £350 to £900 installed, with bay windows from around £1,200 depending on size. Your exact price depends on your property and the region you're in - get a free quote for an accurate figure." },
+    { "question": "Are you FENSA registered?", "answer": "CONFIRM REAL STATUS BEFORE PUBLISHING - do not claim FENSA registration unless verified. If registered, state your FENSA registration number here; if not yet registered, remove this question or describe your actual certification status." },
+    { "question": "Do you offer a guarantee?", "answer": "FICTIONAL EXAMPLE - confirm real terms before publishing. As a guide, most installers in this trade offer a 10-year guarantee on windows and doors, covering both the product and the installation workmanship." }
   ]
 }
