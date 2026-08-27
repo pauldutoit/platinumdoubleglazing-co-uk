@@ -2,39 +2,40 @@
   "siteName": "Platinum Double Glazing",
   "domain": "platinumdoubleglazing.co.uk",
   "niche": "double glazing",
-  "nicheLabel": "Double Glazing Specialists",
+  "nicheLabel": "Double Glazing Quote Comparison",
   "phone": "+44 0000 000000",
   "phoneEnabled": false,
   "email": "contact@platinumdoubleglazing.co.uk",
   "fromEmail": "leads@platinumdoubleglazing.co.uk",
-  "tagline": "Double glazing installation and repair across the UK",
-  "subTagline": "A-rated windows and doors, free no-obligation quotes, FENSA-registered installers.",
+  "tagline": "Compare double glazing quotes from trusted UK installers",
+  "subTagline": "Free, no-obligation quotes from vetted local installers - fast and unbiased, no cold calls.",
+  "disclosureText": "Platinum Double Glazing is an independent quote comparison service. We do not carry out installation work ourselves - we connect homeowners with vetted, independently-operated local installers. CONFIRM YOUR REAL FUNDING/VETTING MODEL before publishing.",
   "themeColor": "#0b5fa5",
   "accentColor": "#e8590c",
   "locale": "en-GB",
   "legalName": "Platinum Double Glazing Ltd",
   "legalAddress": "REPLACE WITH REAL REGISTERED ADDRESS, UK",
-  "_contentNotice": "FICTIONAL EXAMPLE CONTENT (testimonials, FAQ figures) for design/dev preview only - not indexed, not deployed. Replace testimonials with real customer reviews and verify every factual claim (pricing, guarantee terms, FENSA status) before this site goes live.",
+  "_contentNotice": "FICTIONAL EXAMPLE CONTENT (testimonials, FAQ figures) for design/dev preview only - not indexed, not deployed. Replace testimonials with real customer reviews and verify every factual claim (pricing, guarantee terms, installer vetting/FENSA status, funding model) before this site goes live.",
   "aggregateRating": { "value": 4.8, "count": 132 },
   "stats": [
-    { "value": "3,000+", "label": "Windows fitted" },
+    { "value": "3,000+", "label": "Quotes matched" },
     { "value": "4.8/5", "label": "Average rating" },
-    { "value": "FENSA", "label": "Registered installer" },
-    { "value": "10yr", "label": "Guarantee" }
+    { "value": "FENSA", "label": "Vetted installer network" },
+    { "value": "10yr", "label": "Typical guarantee" }
   ],
   "howItWorks": [
     { "title": "Tell us about your project", "description": "Share a few details about your windows, doors or conservatory." },
-    { "title": "Get a free quote", "description": "We get back to you the same day with clear, no-obligation pricing." },
-    { "title": "Professional installation", "description": "FENSA-registered installers fit your windows or doors to a high standard." }
+    { "title": "Compare free quotes", "description": "We match you with vetted local installers who compete for your job." },
+    { "title": "Choose your installer", "description": "Pick the best quote and book directly - no obligation, no pressure." }
   ],
   "testimonials": [
-    { "name": "Sarah M.", "location": "Croydon", "quote": "FICTIONAL EXAMPLE - replace with a real review. Had 6 casement windows replaced, the team were tidy and finished in a day. Quote matched the final price exactly.", "rating": 5 },
-    { "name": "David R.", "location": "Stockport", "quote": "FICTIONAL EXAMPLE - replace with a real review. Booked an emergency repair for a cracked pane on a Sunday and someone came out the next morning. Fair price too.", "rating": 5 },
-    { "name": "Priya K.", "location": "Solihull", "quote": "FICTIONAL EXAMPLE - replace with a real review. Got three quotes for a bay window and this was the clearest one, no pressure to decide on the spot.", "rating": 4 }
+    { "name": "Sarah M.", "location": "Croydon", "quote": "FICTIONAL EXAMPLE - replace with a real review. Got three quotes within a day, no cold calls, no pressure. Picked the installer with the best reviews and price.", "rating": 5 },
+    { "name": "David R.", "location": "Stockport", "quote": "FICTIONAL EXAMPLE - replace with a real review. Needed an urgent repair and was matched with a local installer who came out the next morning.", "rating": 5 },
+    { "name": "Priya K.", "location": "Solihull", "quote": "FICTIONAL EXAMPLE - replace with a real review. Compared quotes for a bay window and saved a few hundred pounds versus the first quote I got elsewhere.", "rating": 4 }
   ],
   "faq": [
-    { "question": "How much does double glazing cost?", "answer": "FICTIONAL EXAMPLE FIGURES - verify before publishing. As a guide, a standard casement window typically runs from around £350 to £900 installed, with bay windows from around £1,200 depending on size. Your exact price depends on your property and the region you're in - get a free quote for an accurate figure." },
-    { "question": "Are you FENSA registered?", "answer": "CONFIRM REAL STATUS BEFORE PUBLISHING - do not claim FENSA registration unless verified. If registered, state your FENSA registration number here; if not yet registered, remove this question or describe your actual certification status." },
-    { "question": "Do you offer a guarantee?", "answer": "FICTIONAL EXAMPLE - confirm real terms before publishing. As a guide, most installers in this trade offer a 10-year guarantee on windows and doors, covering both the product and the installation workmanship." }
+    { "question": "How much does double glazing cost?", "answer": "As a guide based on typical UK market rates, a standard casement window runs from around £350 to £900 installed, sash windows from around £600 to £1,100, and bay windows from around £1,200 to £3,200 depending on size - prices vary by region and specification. Compare free quotes to get an exact figure for your property." },
+    { "question": "Is this service really free?", "answer": "CONFIRM YOUR REAL FUNDING MODEL BEFORE PUBLISHING. As a guide, comparison services like this are typically free for homeowners, funded instead by a referral fee paid by installers when they receive a quote request - which keeps quotes unbiased since there's no incentive to push one installer over another." },
+    { "question": "Are your installers FENSA registered?", "answer": "CONFIRM YOUR REAL VETTING CRITERIA BEFORE PUBLISHING - do not claim FENSA registration for installers in your network unless verified. As a guide, most reputable comparison services only accept FENSA-registered installers into their network." }
   ]
 }

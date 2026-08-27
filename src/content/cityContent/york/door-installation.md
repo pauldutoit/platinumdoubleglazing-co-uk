@@ -25,11 +25,11 @@ Security and insulation are the two things that come up most when we quote door 
 
 ## Pricing in York
 
-York carries a regional price factor of 0.92x the national average, so a door installation here typically runs from around **£782** up to **£1656** — get a free quote for an exact figure for your property.
+York carries a regional price factor of 0.92x the national average, so a door installation here typically runs from around **£782** up to **£1656** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around York
 
-We cover York and the surrounding area, including Leeds, Harrogate, Selby, Scarborough and Malton. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover York and the surrounding area, including Leeds, Harrogate, Selby, Scarborough and Malton. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
@@ -40,4 +40,4 @@ Composite doors have a solid timber-effect core that's more resistant to warping
 Multi-point locking systems, reinforced frames and toughened glass panels are all standard on the doors we fit, which is a significant step up from older single-lock doors still found on a lot of older housing in York.
 
 **Can I get a matching front and back door in York?**
-Yes — most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.
+Yes - most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.

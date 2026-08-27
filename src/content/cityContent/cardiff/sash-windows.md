@@ -29,7 +29,7 @@ Applying Cardiff's 0.88x regional factor to our national range gives a typical c
 
 ## Areas we cover around Cardiff
 
-We cover Cardiff and the surrounding area, including Barry, Penarth, Caerphilly, Pontypridd and Bridgend. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Cardiff and the surrounding area, including Barry, Penarth, Caerphilly, Pontypridd and Bridgend. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

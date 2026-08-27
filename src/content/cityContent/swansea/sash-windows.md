@@ -29,7 +29,7 @@ With a local price factor of 0.86x, a sash window replacement in Swansea general
 
 ## Areas we cover around Swansea
 
-We cover Swansea and the surrounding area, including Neath, Port Talbot, Llanelli, Bridgend and Merthyr Tydfil. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Swansea and the surrounding area, including Neath, Port Talbot, Llanelli, Bridgend and Merthyr Tydfil. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

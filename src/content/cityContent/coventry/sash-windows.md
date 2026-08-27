@@ -25,11 +25,11 @@ Sash windows are common across the older parts of Coventry, and they need a diff
 
 ## Pricing in Coventry
 
-Coventry carries a regional price factor of 0.91x the national average, so a sash window replacement here typically runs from around **£546** up to **£1001** — get a free quote for an exact figure for your property.
+Coventry carries a regional price factor of 0.91x the national average, so a sash window replacement here typically runs from around **£546** up to **£1001** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Coventry
 
-We cover Coventry and the surrounding area, including Kenilworth, Nuneaton, Rugby, Leamington Spa and Birmingham. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Coventry and the surrounding area, including Kenilworth, Nuneaton, Rugby, Leamington Spa and Birmingham. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

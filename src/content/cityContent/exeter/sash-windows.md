@@ -29,7 +29,7 @@ Applying Exeter's 0.93x regional factor to our national range gives a typical co
 
 ## Areas we cover around Exeter
 
-We cover Exeter and the surrounding area, including Torquay, Taunton, Newton Abbot, Sidmouth and Crediton. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Exeter and the surrounding area, including Torquay, Taunton, Newton Abbot, Sidmouth and Crediton. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

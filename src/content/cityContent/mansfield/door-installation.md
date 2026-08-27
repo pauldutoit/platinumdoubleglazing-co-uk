@@ -24,7 +24,7 @@ Whether it's a tired front door or a leaking patio door, Mansfield homeowners us
 
 ## Pricing in Mansfield
 
-East Midlands carries a regional price factor of 0.85x the national average, so door installation in Mansfield typically runs from around £723 up to £1530 — get a free quote for an exact figure for your property.
+East Midlands carries a regional price factor of 0.85x the national average, so door installation in Mansfield typically runs from around £723 up to £1530 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Mansfield
 

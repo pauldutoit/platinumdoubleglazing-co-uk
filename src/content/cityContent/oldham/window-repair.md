@@ -32,11 +32,11 @@ As well as Oldham, we take on jobs across nearby Manchester, Rochdale, Ashton-un
 
 ## Frequently asked questions
 
-**My double glazing has gone misty — does that mean I need a full replacement in Oldham?**
+**My double glazing has gone misty - does that mean I need a full replacement in Oldham?**
 Not necessarily. Misted glass is almost always a failed seal between the panes, which usually means replacing just the glazed unit rather than the whole frame.
 
 **How quickly can a window repair be booked in Oldham?**
 Simple repairs like a failed seal, a stiff hinge or a broken handle are usually quicker to schedule than a full replacement, since there's no manufacturing lead time involved.
 
 **What causes draughts around windows that are otherwise in good condition?**
-Usually worn weather seals or a hinge that's dropped slightly, letting the sash or casement close out of true — wear that tends to show up faster on the more exposed streets of Oldham.
+Usually worn weather seals or a hinge that's dropped slightly, letting the sash or casement close out of true - wear that tends to show up faster on the more exposed streets of Oldham.

@@ -32,7 +32,7 @@ As well as Bury, we take on jobs across nearby Manchester, Bolton, Rochdale, Old
 
 ## Frequently asked questions
 
-**My double glazing has gone misty — does that mean I need a full replacement in Bury?**
+**My double glazing has gone misty - does that mean I need a full replacement in Bury?**
 Not necessarily. Misted glass is almost always a failed seal between the panes, which usually means replacing just the glazed unit rather than the whole frame.
 
 **How quickly can a window repair be booked in Bury?**

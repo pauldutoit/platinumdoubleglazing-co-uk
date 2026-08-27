@@ -29,12 +29,12 @@ Applying Leeds's 0.88x regional factor to our national range gives a typical cos
 
 ## Areas we cover around Leeds
 
-We cover Leeds and the surrounding area, including Bradford, Wakefield, Huddersfield, Harrogate and York. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Leeds and the surrounding area, including Bradford, Wakefield, Huddersfield, Harrogate and York. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Leeds?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Leeds?**
 Usually not for a like-for-like replacement, but conservation areas around Chapel Allerton and Roundhay mean some streets have restrictions on visible window styles, so it's worth checking if you're changing the shape or size of the existing bay.

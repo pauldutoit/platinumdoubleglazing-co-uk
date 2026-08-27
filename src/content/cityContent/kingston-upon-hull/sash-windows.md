@@ -25,11 +25,11 @@ Original timber sashes are still common on Kingston upon Hull's older streets, a
 
 ## Pricing in Kingston upon Hull
 
-Kingston upon Hull sits at a 0.84x price factor relative to the national baseline, so expect a quote for a sash window replacement in the **£504–£924** range — a free survey will confirm the exact number for your property.
+Kingston upon Hull sits at a 0.84x price factor relative to the national baseline, so expect a quote for a sash window replacement in the **£504–£924** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Kingston upon Hull
 
-We cover Kingston upon Hull and the surrounding area, including Beverley, Cottingham, Bridlington, Goole and Brough. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Kingston upon Hull and the surrounding area, including Beverley, Cottingham, Bridlington, Goole and Brough. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

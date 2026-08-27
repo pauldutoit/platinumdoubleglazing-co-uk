@@ -19,17 +19,17 @@ Casement windows are the most common replacement window type in the UK, hinged a
 
 - Egress-compliant opening casements for upstairs bedrooms, so escape windows meet building regulations
 - A-rated (or better) energy ratings on modern casement units, which helps against heat loss through single-glazed or tired double-glazed originals
-- A Regency spa town — its full name is Royal Leamington Spa — that grew up around its mineral springs, which shapes a fair bit of the Leamington Spa housing stock we work on
+- A Regency spa town - its full name is Royal Leamington Spa - that grew up around its mineral springs, which shapes a fair bit of the Leamington Spa housing stock we work on
 - Experience working to conservation area and listed building requirements, common across the older parts of town
 - Free, no-obligation quotes with a written price before any work is booked in
 
 ## Pricing in Leamington Spa
 
-Leamington Spa carries a regional price factor of 0.95x the national average, a little below the UK norm, so casement windows typically run from around **£333** up to **£855** depending on size, materials and how many openings need doing — get a free quote for an exact figure for your property.
+Leamington Spa carries a regional price factor of 0.95x the national average, a little below the UK norm, so casement windows typically run from around **£333** up to **£855** depending on size, materials and how many openings need doing - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Leamington Spa
 
-We cover Leamington Spa and the surrounding area, including Lillington, Whitnash, Milverton, Warwick and Kenilworth. If you're just outside these, get in touch anyway — we quote a wider radius than this list on a case-by-case basis.
+We cover Leamington Spa and the surrounding area, including Lillington, Whitnash, Milverton, Warwick and Kenilworth. If you're just outside these, get in touch anyway - we quote a wider radius than this list on a case-by-case basis.
 
 ## Frequently asked questions
 
@@ -37,7 +37,7 @@ We cover Leamington Spa and the surrounding area, including Lillington, Whitnash
 A standard-sized casement window usually takes 30-60 minutes to fit once the installer is on site; a full house of 8-10 windows is normally done in a single day by a two-person team.
 
 **Can I get uPVC casement windows in a conservation area near Leamington Spa?**
-It depends on the specific conservation area rules — some allow uPVC if the profile and glazing bar pattern match the original, others require timber. Check with the local planning department before ordering.
+It depends on the specific conservation area rules - some allow uPVC if the profile and glazing bar pattern match the original, others require timber. Check with the local planning department before ordering.
 
 **What's the difference between top-hung and side-hung casement windows?**
 Side-hung casements open outward like a door and give the widest opening for ventilation; top-hung casements (often called awning windows) hinge at the top and can stay open a crack even in light rain.

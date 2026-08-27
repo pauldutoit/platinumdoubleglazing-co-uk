@@ -24,7 +24,7 @@ If you're comparing quotes for casement windows in Bolton, here's what actually 
 
 ## Pricing in Bolton
 
-North West England carries a regional price factor of 0.86x the national average, so casement window installation in Bolton typically runs from around £301 up to £774 — get a free quote for an exact figure for your property.
+North West England carries a regional price factor of 0.86x the national average, so casement window installation in Bolton typically runs from around £301 up to £774 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Bolton
 

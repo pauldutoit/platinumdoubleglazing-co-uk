@@ -25,16 +25,16 @@ For most Portsmouth properties, casement windows offer the best balance of cost 
 
 ## Pricing in Portsmouth
 
-Portsmouth carries a regional price factor of 1.03x the national average, so a casement window replacement here typically runs from around **£361** up to **£927** — get a free quote for an exact figure for your property.
+Portsmouth carries a regional price factor of 1.03x the national average, so a casement window replacement here typically runs from around **£361** up to **£927** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Portsmouth
 
-We cover Portsmouth and the surrounding area, including Southampton, Fareham, Gosport, Havant and Waterlooville. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Portsmouth and the surrounding area, including Southampton, Fareham, Gosport, Havant and Waterlooville. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Do casement windows need planning permission in Portsmouth?**
-Most like-for-like casement replacements do not need planning permission. The main exception is where old Portsmouth and parts of Southsea carry conservation status protecting their Georgian and Victorian character — in that case it is worth a quick check with the council before ordering.
+Most like-for-like casement replacements do not need planning permission. The main exception is where old Portsmouth and parts of Southsea carry conservation status protecting their Georgian and Victorian character - in that case it is worth a quick check with the council before ordering.
 
 **How long does a casement window installation take?**
 A typical Portsmouth home with six to eight casement windows is usually finished in a single day by a two-person team, though larger properties or ones with tricky access can take longer.

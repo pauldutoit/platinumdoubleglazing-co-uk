@@ -13,7 +13,7 @@ generatedBy: "llm"
 
 ## Casement Windows for Stevenage homes
 
-Casement windows remain the default choice for most UK homes — simple, side- or top-hung frames that open outward and seal well against draughts. In Stevenage, that means working with purpose-built New Town housing from the late 1940s onward around a pedestrianised centre, plus the older Stevenage Old Town nearby. The original New Town houses were built to fairly standardised specifications, which usually makes measuring and quoting for replacements more predictable than in older, irregular housing stock. We quote against the property in front of us rather than a generic price list, so Stevenage jobs are measured and priced individually.
+Casement windows remain the default choice for most UK homes - simple, side- or top-hung frames that open outward and seal well against draughts. In Stevenage, that means working with purpose-built New Town housing from the late 1940s onward around a pedestrianised centre, plus the older Stevenage Old Town nearby. The original New Town houses were built to fairly standardised specifications, which usually makes measuring and quoting for replacements more predictable than in older, irregular housing stock. We quote against the property in front of us rather than a generic price list, so Stevenage jobs are measured and priced individually.
 
 ## Why locals choose us
 
@@ -25,16 +25,16 @@ Casement windows remain the default choice for most UK homes — simple, side- o
 
 ## Pricing in Stevenage
 
-Stevenage carries a regional price factor of 1.06x the national average, reflecting higher local labour and living costs, so casement windows typically run from around **£371** up to **£954** depending on size, materials and how many openings need doing — get a free quote for an exact figure for your property.
+Stevenage carries a regional price factor of 1.06x the national average, reflecting higher local labour and living costs, so casement windows typically run from around **£371** up to **£954** depending on size, materials and how many openings need doing - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Stevenage
 
-We cover Stevenage and the surrounding area, including Old Town, Bedwell, Broadwater, Chells and Hitchin. If you're just outside these, get in touch anyway — we quote a wider radius than this list on a case-by-case basis.
+We cover Stevenage and the surrounding area, including Old Town, Bedwell, Broadwater, Chells and Hitchin. If you're just outside these, get in touch anyway - we quote a wider radius than this list on a case-by-case basis.
 
 ## Frequently asked questions
 
 **Can I get uPVC casement windows in a conservation area near Stevenage?**
-It depends on the specific conservation area rules — some allow uPVC if the profile and glazing bar pattern match the original, others require timber. Check with the local planning department before ordering.
+It depends on the specific conservation area rules - some allow uPVC if the profile and glazing bar pattern match the original, others require timber. Check with the local planning department before ordering.
 
 **What's the difference between top-hung and side-hung casement windows?**
 Side-hung casements open outward like a door and give the widest opening for ventilation; top-hung casements (often called awning windows) hinge at the top and can stay open a crack even in light rain.

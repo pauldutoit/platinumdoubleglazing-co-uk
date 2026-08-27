@@ -29,7 +29,7 @@ With a local price factor of 0.88x, a door installation in Liverpool generally f
 
 ## Areas we cover around Liverpool
 
-We cover Liverpool and the surrounding area, including Birkenhead, St Helens, Southport, Bootle and Widnes. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Liverpool and the surrounding area, including Birkenhead, St Helens, Southport, Bootle and Widnes. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
@@ -40,4 +40,4 @@ Composite doors have a solid timber-effect core that's more resistant to warping
 Multi-point locking systems, reinforced frames and toughened glass panels are all standard on the doors we fit, which is a significant step up from older single-lock doors still found on a lot of older housing in Liverpool.
 
 **Can I get a matching front and back door in Liverpool?**
-Yes — most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.
+Yes - most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.

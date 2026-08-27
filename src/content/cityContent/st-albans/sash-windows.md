@@ -36,7 +36,7 @@ As well as St Albans, we take on jobs across nearby Luton, Watford, Hertford, Ha
 Standard sash replacements usually don't need planning permission unless the property is listed. Given how much of St Albans sits within conservation areas, it's worth checking before ordering.
 
 **Can sash windows be draught-proofed without full replacement?**
-Often, yes — brush seals and a refurbished sash box can cut draughts significantly on original timber sashes that are otherwise in decent condition, which is worth considering before committing to full replacement.
+Often, yes - brush seals and a refurbished sash box can cut draughts significantly on original timber sashes that are otherwise in decent condition, which is worth considering before committing to full replacement.
 
 **Do sash window replacements in St Albans have to be timber?**
-No — uPVC and timber-composite sash options can replicate a Georgian and Victorian glazing bar pattern at a lower price than solid timber, though timber is usually still preferred where a conservation officer is involved.
+No - uPVC and timber-composite sash options can replicate a Georgian and Victorian glazing bar pattern at a lower price than solid timber, though timber is usually still preferred where a conservation officer is involved.

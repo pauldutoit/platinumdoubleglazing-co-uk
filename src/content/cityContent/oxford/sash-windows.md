@@ -25,11 +25,11 @@ Sash windows are common across the older parts of Oxford, and they need a differ
 
 ## Pricing in Oxford
 
-Oxford sits at a 1.15x price factor relative to the national baseline, so expect a quote for a sash window replacement in the **£690–£1265** range — a free survey will confirm the exact number for your property.
+Oxford sits at a 1.15x price factor relative to the national baseline, so expect a quote for a sash window replacement in the **£690–£1265** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Oxford
 
-We cover Oxford and the surrounding area, including Abingdon, Witney, Bicester, Didcot and Banbury. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Oxford and the surrounding area, including Abingdon, Witney, Bicester, Didcot and Banbury. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

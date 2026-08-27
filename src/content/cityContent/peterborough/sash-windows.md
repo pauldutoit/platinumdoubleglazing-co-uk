@@ -25,11 +25,11 @@ If you're dealing with draughty, hard-to-open sash windows in Peterborough, you'
 
 ## Pricing in Peterborough
 
-Peterborough carries a regional price factor of 0.9x the national average, so a sash window replacement here typically runs from around **£540** up to **£990** — get a free quote for an exact figure for your property.
+Peterborough carries a regional price factor of 0.9x the national average, so a sash window replacement here typically runs from around **£540** up to **£990** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Peterborough
 
-We cover Peterborough and the surrounding area, including Cambridge, Stamford, Spalding, March and Wisbech. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Peterborough and the surrounding area, including Cambridge, Stamford, Spalding, March and Wisbech. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

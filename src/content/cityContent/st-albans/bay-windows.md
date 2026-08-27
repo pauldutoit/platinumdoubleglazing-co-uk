@@ -13,7 +13,7 @@ generatedBy: "llm"
 
 ## St Albans bay window installation, done properly
 
-Bay window installation in St Albans tends to cost more than people expect, mostly because of what's involved structurally. It's one of the more affluent commuter towns north of London, and homeowners here often want period-accurate replacements rather than the cheapest option. Get a surveyor out before you settle on a price — bay jobs vary a lot more than standard windows.
+Bay window installation in St Albans tends to cost more than people expect, mostly because of what's involved structurally. It's one of the more affluent commuter towns north of London, and homeowners here often want period-accurate replacements rather than the cheapest option. Get a surveyor out before you settle on a price - bay jobs vary a lot more than standard windows.
 
 ## Why locals choose us
 
@@ -36,7 +36,7 @@ Coverage extends beyond St Albans out to Luton, Watford, Hertford, Harpenden and
 A single bay window usually takes one to two days, mostly because of the extra structural checks and multiple panes involved compared with a standard window.
 
 **Can you replace just the glass in a bay window rather than the whole frame?**
-Sometimes, if the frame is in good structural condition — but on older Georgian and Victorian bays the frame and glass are often replaced together since they were built and sealed as one unit.
+Sometimes, if the frame is in good structural condition - but on older Georgian and Victorian bays the frame and glass are often replaced together since they were built and sealed as one unit.
 
 **Do bay windows cost more to replace than standard windows in St Albans?**
-Yes, generally — a bay involves multiple panes, angled joints and often some support work above it, which is why bay jobs are priced well above a single standard window.
+Yes, generally - a bay involves multiple panes, angled joints and often some support work above it, which is why bay jobs are priced well above a single standard window.

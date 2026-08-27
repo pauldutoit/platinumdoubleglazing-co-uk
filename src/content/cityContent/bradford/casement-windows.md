@@ -25,16 +25,16 @@ For most Bradford properties, casement windows offer the best balance of cost an
 
 ## Pricing in Bradford
 
-Bradford carries a regional price factor of 0.86x the national average, so a casement window replacement here typically runs from around **£301** up to **£774** — get a free quote for an exact figure for your property.
+Bradford carries a regional price factor of 0.86x the national average, so a casement window replacement here typically runs from around **£301** up to **£774** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Bradford
 
-We cover Bradford and the surrounding area, including Leeds, Keighley, Bingley, Shipley and Ilkley. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Bradford and the surrounding area, including Leeds, Keighley, Bingley, Shipley and Ilkley. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Do casement windows need planning permission in Bradford?**
-Most like-for-like casement replacements do not need planning permission. The main exception is where the nearby UNESCO village of Saltaire sets the tone for conservation expectations across several of Bradford's older residential areas — in that case it is worth a quick check with the council before ordering.
+Most like-for-like casement replacements do not need planning permission. The main exception is where the nearby UNESCO village of Saltaire sets the tone for conservation expectations across several of Bradford's older residential areas - in that case it is worth a quick check with the council before ordering.
 
 **How long does a casement window installation take?**
 A typical Bradford home with six to eight casement windows is usually finished in a single day by a two-person team, though larger properties or ones with tricky access can take longer.

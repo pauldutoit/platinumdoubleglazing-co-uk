@@ -32,7 +32,7 @@ As well as Rotherham, we take on jobs across nearby Sheffield, Barnsley, Doncast
 
 ## Frequently asked questions
 
-**My double glazing has gone misty — does that mean I need a full replacement in Rotherham?**
+**My double glazing has gone misty - does that mean I need a full replacement in Rotherham?**
 Not necessarily. Misted glass is almost always a failed seal between the panes, which usually means replacing just the glazed unit rather than the whole frame.
 
 **How quickly can a window repair be booked in Rotherham?**

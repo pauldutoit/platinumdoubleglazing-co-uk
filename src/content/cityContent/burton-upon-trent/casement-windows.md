@@ -19,17 +19,17 @@ A casement window is a straightforward hinged frame, usually opening outward fro
 
 - UPVC, aluminium or timber-effect frames depending on the look you want and how much upkeep you're happy to do
 - Trickle vents and multi-point locking as standard on new casement units, which matters for both condensation control and insurance compliance
-- A brewing town that grew up around Bass, Worthington and Marston's — Marston's still brews here today, which shapes a fair bit of the Burton upon Trent housing stock we work on
+- A brewing town that grew up around Bass, Worthington and Marston's - Marston's still brews here today, which shapes a fair bit of the Burton upon Trent housing stock we work on
 - Egress-compliant opening casements for upstairs bedrooms, so escape windows meet building regulations
 - Free, no-obligation quotes with a written price before any work is booked in
 
 ## Pricing in Burton upon Trent
 
-Burton upon Trent carries a regional price factor of 0.88x the national average, a little below the UK norm, so casement windows typically run from around **£308** up to **£792** depending on size, materials and how many openings need doing — get a free quote for an exact figure for your property.
+Burton upon Trent carries a regional price factor of 0.88x the national average, a little below the UK norm, so casement windows typically run from around **£308** up to **£792** depending on size, materials and how many openings need doing - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Burton upon Trent
 
-We cover Burton upon Trent and the surrounding area, including Winshill, Stretton, Horninglow, Branston and Stapenhill. If you're just outside these, get in touch anyway — we quote a wider radius than this list on a case-by-case basis.
+We cover Burton upon Trent and the surrounding area, including Winshill, Stretton, Horninglow, Branston and Stapenhill. If you're just outside these, get in touch anyway - we quote a wider radius than this list on a case-by-case basis.
 
 ## Frequently asked questions
 
@@ -40,4 +40,4 @@ Side-hung casements open outward like a door and give the widest opening for ven
 A standard-sized casement window usually takes 30-60 minutes to fit once the installer is on site; a full house of 8-10 windows is normally done in a single day by a two-person team.
 
 **Can I get uPVC casement windows in a conservation area near Burton upon Trent?**
-It depends on the specific conservation area rules — some allow uPVC if the profile and glazing bar pattern match the original, others require timber. Check with the local planning department before ordering.
+It depends on the specific conservation area rules - some allow uPVC if the profile and glazing bar pattern match the original, others require timber. Check with the local planning department before ordering.

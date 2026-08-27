@@ -25,16 +25,16 @@ Bay windows are one of the more involved jobs we do in Chelmsford, and also one 
 
 ## Pricing in Chelmsford
 
-Chelmsford sits at a 1.05x price factor relative to the national baseline, so expect a quote for a bay window installation in the **£1260–£3360** range — a free survey will confirm the exact number for your property.
+Chelmsford sits at a 1.05x price factor relative to the national baseline, so expect a quote for a bay window installation in the **£1260–£3360** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Chelmsford
 
-We cover Chelmsford and the surrounding area, including Colchester, Southend-on-Sea, Basildon, Braintree and Witham. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Chelmsford and the surrounding area, including Colchester, Southend-on-Sea, Basildon, Braintree and Witham. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Chelmsford?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Chelmsford?**
 Usually not for a like-for-like replacement, but some conservation coverage exists in the city centre, though most of Chelmsford's housing is comparatively modern, so it's worth checking if you're changing the shape or size of the existing bay.

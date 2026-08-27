@@ -25,16 +25,16 @@ Bay window replacement in Nottingham usually comes down to getting the structure
 
 ## Pricing in Nottingham
 
-Nottingham sits at a 0.89x price factor relative to the national baseline, so expect a quote for a bay window installation in the **£1068–£2848** range — a free survey will confirm the exact number for your property.
+Nottingham sits at a 0.89x price factor relative to the national baseline, so expect a quote for a bay window installation in the **£1068–£2848** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Nottingham
 
-We cover Nottingham and the surrounding area, including Derby, Mansfield, Beeston, Long Eaton and Hucknall. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Nottingham and the surrounding area, including Derby, Mansfield, Beeston, Long Eaton and Hucknall. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Nottingham?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Nottingham?**
 Usually not for a like-for-like replacement, but the Lace Market and the Park Estate both carry conservation status, with the Park Estate in particular having unusually strict private covenants, so it's worth checking if you're changing the shape or size of the existing bay.

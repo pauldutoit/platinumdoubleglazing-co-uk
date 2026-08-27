@@ -36,7 +36,7 @@ As well as Warrington, we take on jobs across nearby Widnes, Runcorn, Northwich,
 Standard sash replacements usually don't need planning permission unless the property is listed. It's still worth confirming with the council if you're unsure about your property's status.
 
 **Can sash windows be draught-proofed without full replacement?**
-Often, yes — brush seals and a refurbished sash box can cut draughts significantly on original timber sashes that are otherwise in decent condition, which is worth considering before committing to full replacement.
+Often, yes - brush seals and a refurbished sash box can cut draughts significantly on original timber sashes that are otherwise in decent condition, which is worth considering before committing to full replacement.
 
 **Do sash window replacements in Warrington have to be timber?**
-No — uPVC and timber-composite sash options can replicate a 1970s-80s glazing bar pattern at a lower price than solid timber, though timber is usually still preferred where a conservation officer is involved.
+No - uPVC and timber-composite sash options can replicate a 1970s-80s glazing bar pattern at a lower price than solid timber, though timber is usually still preferred where a conservation officer is involved.

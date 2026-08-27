@@ -24,7 +24,7 @@ Whether it's a tired front door or a leaking patio door, Darlington homeowners u
 
 ## Pricing in Darlington
 
-North East England carries a regional price factor of 0.83x the national average, so door installation in Darlington typically runs from around £706 up to £1494 — get a free quote for an exact figure for your property.
+North East England carries a regional price factor of 0.83x the national average, so door installation in Darlington typically runs from around £706 up to £1494 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Darlington
 
@@ -32,7 +32,7 @@ We cover Darlington itself plus the surrounding area, including Middlesbrough, D
 
 ## Frequently asked questions
 
-**Composite or uPVC — which is better for a front door in Darlington?**
+**Composite or uPVC - which is better for a front door in Darlington?**
 Composite doors cost more but hold their shape and colour better over time and generally feel more solid. uPVC is the cheaper option and still performs well if budget is the main concern.
 
 **How secure are modern replacement doors?**

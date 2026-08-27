@@ -32,11 +32,11 @@ As well as Barnsley, we take on jobs across nearby Sheffield, Wakefield, Doncast
 
 ## Frequently asked questions
 
-**My double glazing has gone misty — does that mean I need a full replacement in Barnsley?**
+**My double glazing has gone misty - does that mean I need a full replacement in Barnsley?**
 Not necessarily. Misted glass is almost always a failed seal between the panes, which usually means replacing just the glazed unit rather than the whole frame.
 
 **How quickly can a window repair be booked in Barnsley?**
 Simple repairs like a failed seal, a stiff hinge or a broken handle are usually quicker to schedule than a full replacement, since there's no manufacturing lead time involved.
 
 **Is it worth repairing an old uPVC window rather than replacing it?**
-Often, yes — hardware like hinges, handles and locks can be replaced individually, and it's usually far cheaper than a full frame replacement if the frame itself is still sound.
+Often, yes - hardware like hinges, handles and locks can be replaced individually, and it's usually far cheaper than a full frame replacement if the frame itself is still sound.

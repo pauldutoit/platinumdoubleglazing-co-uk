@@ -24,7 +24,7 @@ If you're comparing quotes for casement windows in Huddersfield, here's what act
 
 ## Pricing in Huddersfield
 
-Yorkshire and the Humber carries a regional price factor of 0.87x the national average, so casement window installation in Huddersfield typically runs from around £305 up to £783 — get a free quote for an exact figure for your property.
+Yorkshire and the Humber carries a regional price factor of 0.87x the national average, so casement window installation in Huddersfield typically runs from around £305 up to £783 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Huddersfield
 

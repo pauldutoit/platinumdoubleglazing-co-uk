@@ -32,11 +32,11 @@ As well as Bournemouth, we take on jobs across nearby Poole, Christchurch, Weymo
 
 ## Frequently asked questions
 
-**My double glazing has gone misty — does that mean I need a full replacement in Bournemouth?**
+**My double glazing has gone misty - does that mean I need a full replacement in Bournemouth?**
 Not necessarily. Misted glass is almost always a failed seal between the panes, which usually means replacing just the glazed unit rather than the whole frame.
 
 **How quickly can a window repair be booked in Bournemouth?**
 Simple repairs like a failed seal, a stiff hinge or a broken handle are usually quicker to schedule than a full replacement, since there's no manufacturing lead time involved.
 
 **What causes draughts around windows that are otherwise in good condition?**
-Usually worn weather seals or a hinge that's dropped slightly, letting the sash or casement close out of true — wear that tends to show up faster on the more exposed streets of Bournemouth.
+Usually worn weather seals or a hinge that's dropped slightly, letting the sash or casement close out of true - wear that tends to show up faster on the more exposed streets of Bournemouth.

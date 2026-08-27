@@ -29,12 +29,12 @@ Applying Colchester's 0.99x regional factor to our national range gives a typica
 
 ## Areas we cover around Colchester
 
-We cover Colchester and the surrounding area, including Ipswich, Chelmsford, Clacton-on-Sea, Braintree and Halstead. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Colchester and the surrounding area, including Ipswich, Chelmsford, Clacton-on-Sea, Braintree and Halstead. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Colchester?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Colchester?**
 Usually not for a like-for-like replacement, but the Roman walls and Dutch Quarter conservation areas cover much of the historic centre, so it's worth checking if you're changing the shape or size of the existing bay.

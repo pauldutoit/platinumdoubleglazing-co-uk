@@ -29,7 +29,7 @@ Applying Glasgow's 0.88x regional factor to our national range gives a typical c
 
 ## Areas we cover around Glasgow
 
-We cover Glasgow and the surrounding area, including Paisley, Motherwell, Hamilton, East Kilbride and Dumbarton. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Glasgow and the surrounding area, including Paisley, Motherwell, Hamilton, East Kilbride and Dumbarton. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

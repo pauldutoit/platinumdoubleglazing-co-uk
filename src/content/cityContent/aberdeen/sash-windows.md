@@ -25,11 +25,11 @@ Sash window work in Aberdeen usually means balancing double glazing benefits aga
 
 ## Pricing in Aberdeen
 
-Aberdeen carries a regional price factor of 0.9x the national average, so a sash window replacement here typically runs from around **£540** up to **£990** — get a free quote for an exact figure for your property.
+Aberdeen carries a regional price factor of 0.9x the national average, so a sash window replacement here typically runs from around **£540** up to **£990** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Aberdeen
 
-We cover Aberdeen and the surrounding area, including Inverurie, Stonehaven, Ellon, Westhill and Peterhead. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Aberdeen and the surrounding area, including Inverurie, Stonehaven, Ellon, Westhill and Peterhead. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

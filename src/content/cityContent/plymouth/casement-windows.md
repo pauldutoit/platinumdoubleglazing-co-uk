@@ -29,12 +29,12 @@ With a local price factor of 0.9x, a casement window replacement in Plymouth gen
 
 ## Areas we cover around Plymouth
 
-We cover Plymouth and the surrounding area, including Torquay, Exeter, Paignton, Newton Abbot and Totnes. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Plymouth and the surrounding area, including Torquay, Exeter, Paignton, Newton Abbot and Totnes. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Do casement windows need planning permission in Plymouth?**
-Most like-for-like casement replacements do not need planning permission. The main exception is where the Barbican and areas around the Hoe have conservation status protecting their historic character — in that case it is worth a quick check with the council before ordering.
+Most like-for-like casement replacements do not need planning permission. The main exception is where the Barbican and areas around the Hoe have conservation status protecting their historic character - in that case it is worth a quick check with the council before ordering.
 
 **How long does a casement window installation take?**
 A typical Plymouth home with six to eight casement windows is usually finished in a single day by a two-person team, though larger properties or ones with tricky access can take longer.

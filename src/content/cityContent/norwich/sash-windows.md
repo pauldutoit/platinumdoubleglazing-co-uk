@@ -25,11 +25,11 @@ If you're dealing with draughty, hard-to-open sash windows in Norwich, you're no
 
 ## Pricing in Norwich
 
-Norwich sits at a 0.91x price factor relative to the national baseline, so expect a quote for a sash window replacement in the **£546–£1001** range — a free survey will confirm the exact number for your property.
+Norwich sits at a 0.91x price factor relative to the national baseline, so expect a quote for a sash window replacement in the **£546–£1001** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Norwich
 
-We cover Norwich and the surrounding area, including Great Yarmouth, King's Lynn, Thetford, Lowestoft and Dereham. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Norwich and the surrounding area, including Great Yarmouth, King's Lynn, Thetford, Lowestoft and Dereham. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

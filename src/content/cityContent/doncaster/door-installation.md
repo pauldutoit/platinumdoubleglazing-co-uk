@@ -24,7 +24,7 @@ Whether it's a tired front door or a leaking patio door, Doncaster homeowners us
 
 ## Pricing in Doncaster
 
-Yorkshire and the Humber carries a regional price factor of 0.85x the national average, so door installation in Doncaster typically runs from around £723 up to £1530 — get a free quote for an exact figure for your property.
+Yorkshire and the Humber carries a regional price factor of 0.85x the national average, so door installation in Doncaster typically runs from around £723 up to £1530 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Doncaster
 
@@ -32,7 +32,7 @@ We cover Doncaster itself plus the surrounding area, including Sheffield, Rother
 
 ## Frequently asked questions
 
-**Composite or uPVC — which is better for a front door in Doncaster?**
+**Composite or uPVC - which is better for a front door in Doncaster?**
 Composite doors cost more but hold their shape and colour better over time and generally feel more solid. uPVC is the cheaper option and still performs well if budget is the main concern.
 
 **How secure are modern replacement doors?**

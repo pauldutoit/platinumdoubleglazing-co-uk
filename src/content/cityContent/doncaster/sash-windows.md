@@ -36,7 +36,7 @@ As well as Doncaster, we take on jobs across nearby Sheffield, Rotherham, Barnsl
 Standard sash replacements usually don't need planning permission unless the property is listed. It's still worth confirming with the council if you're unsure about your property's status.
 
 **Do sash window replacements in Doncaster have to be timber?**
-No — uPVC and timber-composite sash options can replicate a Victorian glazing bar pattern at a lower price than solid timber, though timber is usually still preferred where a conservation officer is involved.
+No - uPVC and timber-composite sash options can replicate a Victorian glazing bar pattern at a lower price than solid timber, though timber is usually still preferred where a conservation officer is involved.
 
 **How many panes do original sash windows in Doncaster typically have?**
-It varies by period, but many Victorian sashes were built with a six-over-six or two-over-two pane arrangement — matching that pattern matters more to the overall look than people expect.
+It varies by period, but many Victorian sashes were built with a six-over-six or two-over-two pane arrangement - matching that pattern matters more to the overall look than people expect.

@@ -25,16 +25,16 @@ Whether it's a composite front door, a uPVC back door or bifolds onto the garden
 
 ## Pricing in Taunton
 
-Taunton carries a regional price factor of 0.9x the national average, a little below the UK norm, so door installation typically runs from around **£765** up to **£1620** depending on size, materials and how many openings need doing — get a free quote for an exact figure for your property.
+Taunton carries a regional price factor of 0.9x the national average, a little below the UK norm, so door installation typically runs from around **£765** up to **£1620** depending on size, materials and how many openings need doing - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Taunton
 
-We cover Taunton and the surrounding area, including Bishops Hull, Wellington, Norton Fitzwarren, Creech St Michael and Bridgwater. If you're just outside these, get in touch anyway — we quote a wider radius than this list on a case-by-case basis.
+We cover Taunton and the surrounding area, including Bishops Hull, Wellington, Norton Fitzwarren, Creech St Michael and Bridgwater. If you're just outside these, get in touch anyway - we quote a wider radius than this list on a case-by-case basis.
 
 ## Frequently asked questions
 
 **Is a composite door worth the extra cost over uPVC?**
-For a front door, most people find it is — the solid core gives better security and insulation and holds its colour and shape better over time than a standard uPVC panel door.
+For a front door, most people find it is - the solid core gives better security and insulation and holds its colour and shape better over time than a standard uPVC panel door.
 
 **Do I need building regulations sign-off for a new door in Taunton?**
 Most external door replacements are covered under FENSA or a similar competent-person scheme, which self-certifies the work to building regulations without a separate council application.

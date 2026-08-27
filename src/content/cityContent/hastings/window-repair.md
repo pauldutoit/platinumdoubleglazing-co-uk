@@ -36,7 +36,7 @@ As well as Hastings, we take on jobs across nearby Eastbourne, Bexhill, Rye, Bat
 Simple repairs like a failed seal, a stiff hinge or a broken handle are usually quicker to schedule than a full replacement, since there's no manufacturing lead time involved.
 
 **Is it worth repairing an old uPVC window rather than replacing it?**
-Often, yes — hardware like hinges, handles and locks can be replaced individually, and it's usually far cheaper than a full frame replacement if the frame itself is still sound.
+Often, yes - hardware like hinges, handles and locks can be replaced individually, and it's usually far cheaper than a full frame replacement if the frame itself is still sound.
 
 **What causes draughts around windows that are otherwise in good condition?**
-Usually worn weather seals or a hinge that's dropped slightly, letting the sash or casement close out of true — wear that tends to show up faster on the more exposed streets of Hastings.
+Usually worn weather seals or a hinge that's dropped slightly, letting the sash or casement close out of true - wear that tends to show up faster on the more exposed streets of Hastings.

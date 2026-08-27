@@ -18,23 +18,23 @@ Bay windows are one of the more involved jobs we do in Newcastle upon Tyne, and 
 ## Why locals choose us
 
 - Structural assessment of the bay roof and support before any glazing work starts
-- The city is known for distinctive Tyneside flats — upstairs-downstairs terraced conversions — alongside the grand Georgian streets of Grainger Town
+- The city is known for distinctive Tyneside flats - upstairs-downstairs terraced conversions - alongside the grand Georgian streets of Grainger Town
 - Square, splayed and curved bay configurations to match the original footprint
 - Grainger Town has strict conservation controls, and several other inner areas carry similar protections
 - Larger glazed areas designed to maximise natural light without extra heat loss
 
 ## Pricing in Newcastle upon Tyne
 
-Newcastle upon Tyne sits at a 0.85x price factor relative to the national baseline, so expect a quote for a bay window installation in the **£1020–£2720** range — a free survey will confirm the exact number for your property.
+Newcastle upon Tyne sits at a 0.85x price factor relative to the national baseline, so expect a quote for a bay window installation in the **£1020–£2720** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Newcastle upon Tyne
 
-We cover Newcastle upon Tyne and the surrounding area, including Sunderland, Gateshead, North Shields, South Shields and Durham. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Newcastle upon Tyne and the surrounding area, including Sunderland, Gateshead, North Shields, South Shields and Durham. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Newcastle upon Tyne?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Newcastle upon Tyne?**
 Usually not for a like-for-like replacement, but grainger Town has strict conservation controls, and several other inner areas carry similar protections, so it's worth checking if you're changing the shape or size of the existing bay.

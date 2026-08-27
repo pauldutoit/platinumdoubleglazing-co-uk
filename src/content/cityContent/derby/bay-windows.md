@@ -29,12 +29,12 @@ Applying Derby's 0.88x regional factor to our national range gives a typical cos
 
 ## Areas we cover around Derby
 
-We cover Derby and the surrounding area, including Nottingham, Burton upon Trent, Ilkeston, Heanor and Matlock. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Derby and the surrounding area, including Nottingham, Burton upon Trent, Ilkeston, Heanor and Matlock. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Derby?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Derby?**
 Usually not for a like-for-like replacement, but the Cathedral Quarter carries conservation status covering some of the city's older streets, so it's worth checking if you're changing the shape or size of the existing bay.

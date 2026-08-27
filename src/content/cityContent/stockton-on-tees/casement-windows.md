@@ -24,7 +24,7 @@ If you're comparing quotes for casement windows in Stockton-on-Tees, here's what
 
 ## Pricing in Stockton-on-Tees
 
-North East England carries a regional price factor of 0.82x the national average, so casement window installation in Stockton-on-Tees typically runs from around £287 up to £738 — get a free quote for an exact figure for your property.
+North East England carries a regional price factor of 0.82x the national average, so casement window installation in Stockton-on-Tees typically runs from around £287 up to £738 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Stockton-on-Tees
 
@@ -39,4 +39,4 @@ Most like-for-like replacements don't need planning permission. It's still worth
 A typical home with six to eight casement windows is usually finished within a day or two by a two-person team. Larger properties, or ones mixing in bay windows, will take longer.
 
 **Can I replace just one or two windows instead of the whole house?**
-Yes — plenty of jobs in Stockton-on-Tees are one or two windows rather than a full re-glaze, and pricing simply scales to however many you need.
+Yes - plenty of jobs in Stockton-on-Tees are one or two windows rather than a full re-glaze, and pricing simply scales to however many you need.

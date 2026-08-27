@@ -29,7 +29,7 @@ Applying Stoke-on-Trent's 0.86x regional factor to our national range gives a ty
 
 ## Areas we cover around Stoke-on-Trent
 
-We cover Stoke-on-Trent and the surrounding area, including Newcastle-under-Lyme, Stafford, Leek, Crewe and Stone. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Stoke-on-Trent and the surrounding area, including Newcastle-under-Lyme, Stafford, Leek, Crewe and Stone. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
@@ -40,4 +40,4 @@ Composite doors have a solid timber-effect core that's more resistant to warping
 Multi-point locking systems, reinforced frames and toughened glass panels are all standard on the doors we fit, which is a significant step up from older single-lock doors still found on a lot of older housing in Stoke-on-Trent.
 
 **Can I get a matching front and back door in Stoke-on-Trent?**
-Yes — most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.
+Yes - most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.

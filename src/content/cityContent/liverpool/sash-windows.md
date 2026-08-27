@@ -25,11 +25,11 @@ Sash windows are common across the older parts of Liverpool, and they need a dif
 
 ## Pricing in Liverpool
 
-Liverpool sits at a 0.88x price factor relative to the national baseline, so expect a quote for a sash window replacement in the **£528–£968** range — a free survey will confirm the exact number for your property.
+Liverpool sits at a 0.88x price factor relative to the national baseline, so expect a quote for a sash window replacement in the **£528–£968** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Liverpool
 
-We cover Liverpool and the surrounding area, including Birkenhead, St Helens, Southport, Bootle and Widnes. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Liverpool and the surrounding area, including Birkenhead, St Helens, Southport, Bootle and Widnes. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

@@ -29,12 +29,12 @@ With a local price factor of 0.91x, a bay window installation in Coventry genera
 
 ## Areas we cover around Coventry
 
-We cover Coventry and the surrounding area, including Kenilworth, Nuneaton, Rugby, Leamington Spa and Birmingham. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Coventry and the surrounding area, including Kenilworth, Nuneaton, Rugby, Leamington Spa and Birmingham. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Coventry?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Coventry?**
 Usually not for a like-for-like replacement, but conservation pressure is lighter here than in cities with more surviving pre-war stock, which usually makes like-for-like replacement more straightforward, so it's worth checking if you're changing the shape or size of the existing bay.

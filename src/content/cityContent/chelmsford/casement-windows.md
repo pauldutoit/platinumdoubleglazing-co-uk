@@ -29,12 +29,12 @@ With a local price factor of 1.05x, a casement window replacement in Chelmsford 
 
 ## Areas we cover around Chelmsford
 
-We cover Chelmsford and the surrounding area, including Colchester, Southend-on-Sea, Basildon, Braintree and Witham. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Chelmsford and the surrounding area, including Colchester, Southend-on-Sea, Basildon, Braintree and Witham. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Do casement windows need planning permission in Chelmsford?**
-Most like-for-like casement replacements do not need planning permission. The main exception is where some conservation coverage exists in the city centre, though most of Chelmsford's housing is comparatively modern — in that case it is worth a quick check with the council before ordering.
+Most like-for-like casement replacements do not need planning permission. The main exception is where some conservation coverage exists in the city centre, though most of Chelmsford's housing is comparatively modern - in that case it is worth a quick check with the council before ordering.
 
 **How long does a casement window installation take?**
 A typical Chelmsford home with six to eight casement windows is usually finished in a single day by a two-person team, though larger properties or ones with tricky access can take longer.

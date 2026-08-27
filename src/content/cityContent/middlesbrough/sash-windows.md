@@ -25,11 +25,11 @@ Original timber sashes are still common on Middlesbrough's older streets, and re
 
 ## Pricing in Middlesbrough
 
-Middlesbrough sits at a 0.82x price factor relative to the national baseline, so expect a quote for a sash window replacement in the **£492–£902** range — a free survey will confirm the exact number for your property.
+Middlesbrough sits at a 0.82x price factor relative to the national baseline, so expect a quote for a sash window replacement in the **£492–£902** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Middlesbrough
 
-We cover Middlesbrough and the surrounding area, including Stockton-on-Tees, Hartlepool, Darlington, Redcar and Thornaby. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Middlesbrough and the surrounding area, including Stockton-on-Tees, Hartlepool, Darlington, Redcar and Thornaby. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

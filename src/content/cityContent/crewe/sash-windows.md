@@ -13,7 +13,7 @@ generatedBy: "llm"
 
 ## Getting sash windows right in Crewe
 
-A sash window slides up and down inside its box frame — the classic look on period terraces — and modern double-glazed versions now match that look while cutting draughts and heat loss. In Crewe, that means working with grid-pattern Victorian railway terraces built for the Crewe Works, plus larger post-war housing further out. The railway terraces are laid out in very regular rows with near-identical original window openings, which makes accurate quoting from photos and measurements especially reliable here. We quote against the property in front of us rather than a generic price list, so Crewe jobs are measured and priced individually.
+A sash window slides up and down inside its box frame - the classic look on period terraces - and modern double-glazed versions now match that look while cutting draughts and heat loss. In Crewe, that means working with grid-pattern Victorian railway terraces built for the Crewe Works, plus larger post-war housing further out. The railway terraces are laid out in very regular rows with near-identical original window openings, which makes accurate quoting from photos and measurements especially reliable here. We quote against the property in front of us rather than a generic price list, so Crewe jobs are measured and priced individually.
 
 ## Why locals choose us
 
@@ -25,19 +25,19 @@ A sash window slides up and down inside its box frame — the classic look on pe
 
 ## Pricing in Crewe
 
-Crewe carries a regional price factor of 0.88x the national average, a little below the UK norm, so sash windows typically run from around **£528** up to **£968** depending on size, materials and how many openings need doing — get a free quote for an exact figure for your property.
+Crewe carries a regional price factor of 0.88x the national average, a little below the UK norm, so sash windows typically run from around **£528** up to **£968** depending on size, materials and how many openings need doing - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Crewe
 
-We cover Crewe and the surrounding area, including Nantwich, Wistaston, Shavington, Sandbach and Willaston. If you're just outside these, get in touch anyway — we quote a wider radius than this list on a case-by-case basis.
+We cover Crewe and the surrounding area, including Nantwich, Wistaston, Shavington, Sandbach and Willaston. If you're just outside these, get in touch anyway - we quote a wider radius than this list on a case-by-case basis.
 
 ## Frequently asked questions
 
 **Can sash windows be double glazed without losing the period look?**
-Yes — modern slimline double-glazed units are built into a sash profile that matches the original glazing bar spacing and sightlines, so from the street they look very close to the single-glazed original.
+Yes - modern slimline double-glazed units are built into a sash profile that matches the original glazing bar spacing and sightlines, so from the street they look very close to the single-glazed original.
 
 **Are sash windows more expensive to fit in Crewe than standard casements?**
-Generally yes — the box frame construction, balance mechanism and often-bespoke sizing on period properties push sash windows above standard casement pricing, even before any conservation-area requirements are factored in.
+Generally yes - the box frame construction, balance mechanism and often-bespoke sizing on period properties push sash windows above standard casement pricing, even before any conservation-area requirements are factored in.
 
 **Do I need planning permission for sash windows in Crewe?**
-Most like-for-like sash replacements on non-listed buildings don't need planning permission, but listed buildings and conservation areas often have extra restrictions on materials and glazing bar pattern — check with the local council first.
+Most like-for-like sash replacements on non-listed buildings don't need planning permission, but listed buildings and conservation areas often have extra restrictions on materials and glazing bar pattern - check with the local council first.

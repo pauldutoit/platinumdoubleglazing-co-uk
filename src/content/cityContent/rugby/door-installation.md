@@ -13,7 +13,7 @@ generatedBy: "llm"
 
 ## Door Installation in Rugby: what it costs and what to expect
 
-A new front or back door is as much about security and insulation as it is about looks — composite doors in particular have become the default for entrance doors on UK homes. In Rugby, that means working with Victorian terraces built up around the railway works and Rugby School, with 20th-century estates towards Bilton and Hillmorton. A lot of the Victorian terraces near the school and old railway works are two-up two-down properties with fairly modest window openings, which keeps material costs down. We quote against the property in front of us rather than a generic price list, so Rugby jobs are measured and priced individually.
+A new front or back door is as much about security and insulation as it is about looks - composite doors in particular have become the default for entrance doors on UK homes. In Rugby, that means working with Victorian terraces built up around the railway works and Rugby School, with 20th-century estates towards Bilton and Hillmorton. A lot of the Victorian terraces near the school and old railway works are two-up two-down properties with fairly modest window openings, which keeps material costs down. We quote against the property in front of us rather than a generic price list, so Rugby jobs are measured and priced individually.
 
 ## Why locals choose us
 
@@ -25,11 +25,11 @@ A new front or back door is as much about security and insulation as it is about
 
 ## Pricing in Rugby
 
-Rugby carries a regional price factor of 0.9x the national average, a little below the UK norm, so door installation typically runs from around **£765** up to **£1620** depending on size, materials and how many openings need doing — get a free quote for an exact figure for your property.
+Rugby carries a regional price factor of 0.9x the national average, a little below the UK norm, so door installation typically runs from around **£765** up to **£1620** depending on size, materials and how many openings need doing - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Rugby
 
-We cover Rugby and the surrounding area, including Bilton, Hillmorton, Newbold-on-Avon, Long Lawford and Brownsover. If you're just outside these, get in touch anyway — we quote a wider radius than this list on a case-by-case basis.
+We cover Rugby and the surrounding area, including Bilton, Hillmorton, Newbold-on-Avon, Long Lawford and Brownsover. If you're just outside these, get in touch anyway - we quote a wider radius than this list on a case-by-case basis.
 
 ## Frequently asked questions
 
@@ -37,7 +37,7 @@ We cover Rugby and the surrounding area, including Bilton, Hillmorton, Newbold-o
 A standard composite or uPVC door replacement is usually a half-day job, including removing the old frame and making good the surrounding brickwork or render.
 
 **Is a composite door worth the extra cost over uPVC?**
-For a front door, most people find it is — the solid core gives better security and insulation and holds its colour and shape better over time than a standard uPVC panel door.
+For a front door, most people find it is - the solid core gives better security and insulation and holds its colour and shape better over time than a standard uPVC panel door.
 
 **Do I need building regulations sign-off for a new door in Rugby?**
 Most external door replacements are covered under FENSA or a similar competent-person scheme, which self-certifies the work to building regulations without a separate council application.

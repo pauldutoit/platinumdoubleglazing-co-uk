@@ -25,16 +25,16 @@ Casement windows remain the default choice for most Swansea homes needing a wind
 
 ## Pricing in Swansea
 
-Swansea carries a regional price factor of 0.86x the national average, so a casement window replacement here typically runs from around **£301** up to **£774** — get a free quote for an exact figure for your property.
+Swansea carries a regional price factor of 0.86x the national average, so a casement window replacement here typically runs from around **£301** up to **£774** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Swansea
 
-We cover Swansea and the surrounding area, including Neath, Port Talbot, Llanelli, Bridgend and Merthyr Tydfil. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Swansea and the surrounding area, including Neath, Port Talbot, Llanelli, Bridgend and Merthyr Tydfil. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Do casement windows need planning permission in Swansea?**
-Most like-for-like casement replacements do not need planning permission. The main exception is where the Maritime Quarter and Mumbles carry conservation protections reflecting their historic and coastal character — in that case it is worth a quick check with the council before ordering.
+Most like-for-like casement replacements do not need planning permission. The main exception is where the Maritime Quarter and Mumbles carry conservation protections reflecting their historic and coastal character - in that case it is worth a quick check with the council before ordering.
 
 **How long does a casement window installation take?**
 A typical Swansea home with six to eight casement windows is usually finished in a single day by a two-person team, though larger properties or ones with tricky access can take longer.

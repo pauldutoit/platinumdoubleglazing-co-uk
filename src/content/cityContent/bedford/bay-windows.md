@@ -13,7 +13,7 @@ generatedBy: "llm"
 
 ## Bay Windows for Bedford homes
 
-A bay window projects outward from the wall in three or more angled panels, adding floor space and light — but it's a bigger structural job than a single flat window. In Bedford, that means working with Victorian and Edwardian terraces along the Great Ouse, with a very ethnically diverse mix of housing types across the town. A number of the riverside terraces near the Embankment are in conservation areas, so front-facing replacements there sometimes need to keep a traditional sash or vertical-proportioned look. We quote against the property in front of us rather than a generic price list, so Bedford jobs are measured and priced individually.
+A bay window projects outward from the wall in three or more angled panels, adding floor space and light - but it's a bigger structural job than a single flat window. In Bedford, that means working with Victorian and Edwardian terraces along the Great Ouse, with a very ethnically diverse mix of housing types across the town. A number of the riverside terraces near the Embankment are in conservation areas, so front-facing replacements there sometimes need to keep a traditional sash or vertical-proportioned look. We quote against the property in front of us rather than a generic price list, so Bedford jobs are measured and priced individually.
 
 ## Why locals choose us
 
@@ -25,11 +25,11 @@ A bay window projects outward from the wall in three or more angled panels, addi
 
 ## Pricing in Bedford
 
-Bedford carries a regional price factor of 0.94x the national average, a little below the UK norm, so bay windows typically run from around **£1128** up to **£3008** depending on size, materials and how many openings need doing — get a free quote for an exact figure for your property.
+Bedford carries a regional price factor of 0.94x the national average, a little below the UK norm, so bay windows typically run from around **£1128** up to **£3008** depending on size, materials and how many openings need doing - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Bedford
 
-We cover Bedford and the surrounding area, including Kempston, Goldington, Biddenham, Elstow and Great Barford. If you're just outside these, get in touch anyway — we quote a wider radius than this list on a case-by-case basis.
+We cover Bedford and the surrounding area, including Kempston, Goldington, Biddenham, Elstow and Great Barford. If you're just outside these, get in touch anyway - we quote a wider radius than this list on a case-by-case basis.
 
 ## Frequently asked questions
 
@@ -37,7 +37,7 @@ We cover Bedford and the surrounding area, including Kempston, Goldington, Bidde
 A bay is really three or more windows joined at angles, plus the roof or box structure above it, so both materials and labour scale up compared with a single flat casement or sash.
 
 **Does a leaking bay window roof need fixing before the windows are replaced?**
-Yes, generally — a bay roof or lead flashing that's letting water in will keep damaging the new frame underneath it, so most installers will want to check and, if needed, quote for that separately.
+Yes, generally - a bay roof or lead flashing that's letting water in will keep damaging the new frame underneath it, so most installers will want to check and, if needed, quote for that separately.
 
 **How long does a bay window installation take in Bedford?**
 A straightforward bay replacement usually takes a full day; if the roof structure above the bay also needs attention, allow one to two extra days.

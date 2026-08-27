@@ -24,7 +24,7 @@ Whether it's a tired front door or a leaking patio door, Shrewsbury homeowners u
 
 ## Pricing in Shrewsbury
 
-West Midlands carries a regional price factor of 0.87x the national average, so door installation in Shrewsbury typically runs from around £740 up to £1566 — get a free quote for an exact figure for your property.
+West Midlands carries a regional price factor of 0.87x the national average, so door installation in Shrewsbury typically runs from around £740 up to £1566 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Shrewsbury
 

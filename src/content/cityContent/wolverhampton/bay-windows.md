@@ -29,12 +29,12 @@ Applying Wolverhampton's 0.9x regional factor to our national range gives a typi
 
 ## Areas we cover around Wolverhampton
 
-We cover Wolverhampton and the surrounding area, including Birmingham, Walsall, Dudley, Telford and Cannock. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Wolverhampton and the surrounding area, including Birmingham, Walsall, Dudley, Telford and Cannock. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Wolverhampton?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Wolverhampton?**
 Usually not for a like-for-like replacement, but tettenhall and Compton have some conservation protection, though most of the city's housing falls outside formal restrictions, so it's worth checking if you're changing the shape or size of the existing bay.

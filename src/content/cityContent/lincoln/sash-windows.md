@@ -36,7 +36,7 @@ As well as Lincoln, we take on jobs across nearby Grantham, Gainsborough, Sleafo
 Standard sash replacements usually don't need planning permission unless the property is listed. Given how much of Lincoln sits within conservation areas, it's worth checking before ordering.
 
 **Can sash windows be draught-proofed without full replacement?**
-Often, yes — brush seals and a refurbished sash box can cut draughts significantly on original timber sashes that are otherwise in decent condition, which is worth considering before committing to full replacement.
+Often, yes - brush seals and a refurbished sash box can cut draughts significantly on original timber sashes that are otherwise in decent condition, which is worth considering before committing to full replacement.
 
 **Do sash window replacements in Lincoln have to be timber?**
-No — uPVC and timber-composite sash options can replicate a Victorian glazing bar pattern at a lower price than solid timber, though timber is usually still preferred where a conservation officer is involved.
+No - uPVC and timber-composite sash options can replicate a Victorian glazing bar pattern at a lower price than solid timber, though timber is usually still preferred where a conservation officer is involved.

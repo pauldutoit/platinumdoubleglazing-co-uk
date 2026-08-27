@@ -25,11 +25,11 @@ Sash windows are common across the older parts of Ipswich, and they need a diffe
 
 ## Pricing in Ipswich
 
-Ipswich carries a regional price factor of 0.92x the national average, so a sash window replacement here typically runs from around **£552** up to **£1012** — get a free quote for an exact figure for your property.
+Ipswich carries a regional price factor of 0.92x the national average, so a sash window replacement here typically runs from around **£552** up to **£1012** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Ipswich
 
-We cover Ipswich and the surrounding area, including Bury St Edmunds, Lowestoft, Felixstowe, Colchester and Stowmarket. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Ipswich and the surrounding area, including Bury St Edmunds, Lowestoft, Felixstowe, Colchester and Stowmarket. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

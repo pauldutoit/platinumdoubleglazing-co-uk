@@ -13,7 +13,7 @@ generatedBy: "llm"
 
 ## Casement Windows in Warwick: what it costs and what to expect
 
-Casement windows remain the default choice for most UK homes — simple, side- or top-hung frames that open outward and seal well against draughts. In Warwick, that means working with timber-framed and Georgian buildings in the historic centre near Warwick Castle, with Victorian and modern housing further out. Much of the town centre is a conservation area with listed buildings, so window replacements close to the castle and Market Place often need heritage-style joinery to satisfy planning. We quote against the property in front of us rather than a generic price list, so Warwick jobs are measured and priced individually.
+Casement windows remain the default choice for most UK homes - simple, side- or top-hung frames that open outward and seal well against draughts. In Warwick, that means working with timber-framed and Georgian buildings in the historic centre near Warwick Castle, with Victorian and modern housing further out. Much of the town centre is a conservation area with listed buildings, so window replacements close to the castle and Market Place often need heritage-style joinery to satisfy planning. We quote against the property in front of us rather than a generic price list, so Warwick jobs are measured and priced individually.
 
 ## Why locals choose us
 
@@ -25,16 +25,16 @@ Casement windows remain the default choice for most UK homes — simple, side- o
 
 ## Pricing in Warwick
 
-Warwick carries a regional price factor of 0.94x the national average, a little below the UK norm, so casement windows typically run from around **£329** up to **£846** depending on size, materials and how many openings need doing — get a free quote for an exact figure for your property.
+Warwick carries a regional price factor of 0.94x the national average, a little below the UK norm, so casement windows typically run from around **£329** up to **£846** depending on size, materials and how many openings need doing - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Warwick
 
-We cover Warwick and the surrounding area, including Leamington Spa, Kenilworth, Whitnash, Bishops Tachbrook and Hampton Magna. If you're just outside these, get in touch anyway — we quote a wider radius than this list on a case-by-case basis.
+We cover Warwick and the surrounding area, including Leamington Spa, Kenilworth, Whitnash, Bishops Tachbrook and Hampton Magna. If you're just outside these, get in touch anyway - we quote a wider radius than this list on a case-by-case basis.
 
 ## Frequently asked questions
 
 **Can I get uPVC casement windows in a conservation area near Warwick?**
-It depends on the specific conservation area rules — some allow uPVC if the profile and glazing bar pattern match the original, others require timber. Check with the local planning department before ordering.
+It depends on the specific conservation area rules - some allow uPVC if the profile and glazing bar pattern match the original, others require timber. Check with the local planning department before ordering.
 
 **What's the difference between top-hung and side-hung casement windows?**
 Side-hung casements open outward like a door and give the widest opening for ventilation; top-hung casements (often called awning windows) hinge at the top and can stay open a crack even in light rain.

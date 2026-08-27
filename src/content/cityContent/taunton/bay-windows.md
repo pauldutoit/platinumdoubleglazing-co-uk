@@ -13,7 +13,7 @@ generatedBy: "llm"
 
 ## Getting bay windows right in Taunton
 
-Because a bay window projects out from the building line, replacing one is more involved than a standard casement — the structural support and roofline above it both need assessing. In Taunton, that means working with Georgian county-town terraces in the centre with Victorian and modern housing spreading out towards the Somerset Levels. Properties on the lower-lying streets towards the Levels occasionally deal with damp ground conditions, which is worth mentioning to your installer when discussing sills and drainage. We quote against the property in front of us rather than a generic price list, so Taunton jobs are measured and priced individually.
+Because a bay window projects out from the building line, replacing one is more involved than a standard casement - the structural support and roofline above it both need assessing. In Taunton, that means working with Georgian county-town terraces in the centre with Victorian and modern housing spreading out towards the Somerset Levels. Properties on the lower-lying streets towards the Levels occasionally deal with damp ground conditions, which is worth mentioning to your installer when discussing sills and drainage. We quote against the property in front of us rather than a generic price list, so Taunton jobs are measured and priced individually.
 
 ## Why locals choose us
 
@@ -25,11 +25,11 @@ Because a bay window projects out from the building line, replacing one is more 
 
 ## Pricing in Taunton
 
-Taunton carries a regional price factor of 0.9x the national average, a little below the UK norm, so bay windows typically run from around **£1080** up to **£2880** depending on size, materials and how many openings need doing — get a free quote for an exact figure for your property.
+Taunton carries a regional price factor of 0.9x the national average, a little below the UK norm, so bay windows typically run from around **£1080** up to **£2880** depending on size, materials and how many openings need doing - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Taunton
 
-We cover Taunton and the surrounding area, including Bishops Hull, Wellington, Norton Fitzwarren, Creech St Michael and Bridgwater. If you're just outside these, get in touch anyway — we quote a wider radius than this list on a case-by-case basis.
+We cover Taunton and the surrounding area, including Bishops Hull, Wellington, Norton Fitzwarren, Creech St Michael and Bridgwater. If you're just outside these, get in touch anyway - we quote a wider radius than this list on a case-by-case basis.
 
 ## Frequently asked questions
 
@@ -40,4 +40,4 @@ A straightforward bay replacement usually takes a full day; if the roof structur
 A bay is really three or more windows joined at angles, plus the roof or box structure above it, so both materials and labour scale up compared with a single flat casement or sash.
 
 **Does a leaking bay window roof need fixing before the windows are replaced?**
-Yes, generally — a bay roof or lead flashing that's letting water in will keep damaging the new frame underneath it, so most installers will want to check and, if needed, quote for that separately.
+Yes, generally - a bay roof or lead flashing that's letting water in will keep damaging the new frame underneath it, so most installers will want to check and, if needed, quote for that separately.

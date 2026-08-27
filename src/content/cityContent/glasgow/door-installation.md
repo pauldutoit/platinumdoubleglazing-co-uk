@@ -25,11 +25,11 @@ Security and insulation are the two things that come up most when we quote door 
 
 ## Pricing in Glasgow
 
-Glasgow carries a regional price factor of 0.88x the national average, so a door installation here typically runs from around **£748** up to **£1584** — get a free quote for an exact figure for your property.
+Glasgow carries a regional price factor of 0.88x the national average, so a door installation here typically runs from around **£748** up to **£1584** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Glasgow
 
-We cover Glasgow and the surrounding area, including Paisley, Motherwell, Hamilton, East Kilbride and Dumbarton. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Glasgow and the surrounding area, including Paisley, Motherwell, Hamilton, East Kilbride and Dumbarton. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
@@ -40,4 +40,4 @@ Composite doors have a solid timber-effect core that's more resistant to warping
 Multi-point locking systems, reinforced frames and toughened glass panels are all standard on the doors we fit, which is a significant step up from older single-lock doors still found on older properties in Glasgow.
 
 **Can I get a matching front and back door in Glasgow?**
-Yes — most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.
+Yes - most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.

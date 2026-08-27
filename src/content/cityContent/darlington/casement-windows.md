@@ -24,7 +24,7 @@ If you're comparing quotes for casement windows in Darlington, here's what actua
 
 ## Pricing in Darlington
 
-North East England carries a regional price factor of 0.83x the national average, so casement window installation in Darlington typically runs from around £291 up to £747 — get a free quote for an exact figure for your property.
+North East England carries a regional price factor of 0.83x the national average, so casement window installation in Darlington typically runs from around £291 up to £747 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Darlington
 

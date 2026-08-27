@@ -25,16 +25,16 @@ Bay windows are one of the more involved jobs we do in London, and also one of t
 
 ## Pricing in London
 
-London sits at a 1.25x price factor relative to the national baseline, so expect a quote for a bay window installation in the **£1500–£4000** range — a free survey will confirm the exact number for your property.
+London sits at a 1.25x price factor relative to the national baseline, so expect a quote for a bay window installation in the **£1500–£4000** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around London
 
-We cover London and the surrounding area, including Croydon, Bromley, Enfield, Harrow and Richmond. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover London and the surrounding area, including Croydon, Bromley, Enfield, Harrow and Richmond. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in London?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in London?**
 Usually not for a like-for-like replacement, but many boroughs have conservation areas or Article 4 directions covering entire streets, so it's worth checking if you're changing the shape or size of the existing bay.

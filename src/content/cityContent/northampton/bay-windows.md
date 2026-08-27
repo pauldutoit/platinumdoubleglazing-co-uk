@@ -25,16 +25,16 @@ A lot of Northampton's older houses have bay-fronted living rooms, which changes
 
 ## Pricing in Northampton
 
-Northampton sits at a 0.92x price factor relative to the national baseline, so expect a quote for a bay window installation in the **£1104–£2944** range — a free survey will confirm the exact number for your property.
+Northampton sits at a 0.92x price factor relative to the national baseline, so expect a quote for a bay window installation in the **£1104–£2944** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Northampton
 
-We cover Northampton and the surrounding area, including Wellingborough, Kettering, Daventry, Rushden and Towcester. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Northampton and the surrounding area, including Wellingborough, Kettering, Daventry, Rushden and Towcester. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Northampton?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Northampton?**
 Usually not for a like-for-like replacement, but conservation areas around the town centre and Abington cover some of the older terraced streets, so it's worth checking if you're changing the shape or size of the existing bay.

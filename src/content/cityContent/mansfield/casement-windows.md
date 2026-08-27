@@ -24,7 +24,7 @@ If you're comparing quotes for casement windows in Mansfield, here's what actual
 
 ## Pricing in Mansfield
 
-East Midlands carries a regional price factor of 0.85x the national average, so casement window installation in Mansfield typically runs from around £298 up to £765 — get a free quote for an exact figure for your property.
+East Midlands carries a regional price factor of 0.85x the national average, so casement window installation in Mansfield typically runs from around £298 up to £765 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Mansfield
 
@@ -39,4 +39,4 @@ Most like-for-like replacements don't need planning permission. It's still worth
 uPVC costs less upfront and needs virtually no maintenance. Timber costs more and needs repainting every few years, but it's the closer match on Mansfield's Victorian and early 20th-century properties, where the original frames were timber.
 
 **Can I replace just one or two windows instead of the whole house?**
-Yes — plenty of jobs in Mansfield are one or two windows rather than a full re-glaze, and pricing simply scales to however many you need.
+Yes - plenty of jobs in Mansfield are one or two windows rather than a full re-glaze, and pricing simply scales to however many you need.

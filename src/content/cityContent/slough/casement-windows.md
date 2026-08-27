@@ -24,7 +24,7 @@ If you're comparing quotes for casement windows in Slough, here's what actually 
 
 ## Pricing in Slough
 
-South East England carries a regional price factor of 1.12x the national average, so casement window installation in Slough typically runs from around £392 up to £1008 — get a free quote for an exact figure for your property.
+South East England carries a regional price factor of 1.12x the national average, so casement window installation in Slough typically runs from around £392 up to £1008 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Slough
 

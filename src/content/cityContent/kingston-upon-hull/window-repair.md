@@ -29,15 +29,15 @@ Applying Kingston upon Hull's 0.84x regional factor to our national range gives 
 
 ## Areas we cover around Kingston upon Hull
 
-We cover Kingston upon Hull and the surrounding area, including Beverley, Cottingham, Bridlington, Goole and Brough. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Kingston upon Hull and the surrounding area, including Beverley, Cottingham, Bridlington, Goole and Brough. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why has my double glazing gone misty or cloudy?**
-That's almost always a failed seal letting moisture into the gap between the panes. It doesn't mean the whole window needs replacing — usually just the glazed unit itself, which is a much cheaper repair.
+That's almost always a failed seal letting moisture into the gap between the panes. It doesn't mean the whole window needs replacing - usually just the glazed unit itself, which is a much cheaper repair.
 
 **How quickly can you fix a broken or draughty window in Kingston upon Hull?**
 Straightforward repairs like a failed unit or a stiff hinge can usually be booked within a few days, and we treat security issues like a broken lock or smashed pane as more urgent than routine work.
 
 **Is it worth repairing an old window instead of replacing it in Kingston upon Hull?**
-Often yes, especially where the Old Town conservation area covers much of what survives of Hull's pre-war architecture or the frame itself is still structurally sound — a repair can add years of useful life for a fraction of the cost of full replacement.
+Often yes, especially where the Old Town conservation area covers much of what survives of Hull's pre-war architecture or the frame itself is still structurally sound - a repair can add years of useful life for a fraction of the cost of full replacement.

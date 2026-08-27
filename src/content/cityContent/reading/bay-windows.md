@@ -29,12 +29,12 @@ With a local price factor of 1.12x, a bay window installation in Reading general
 
 ## Areas we cover around Reading
 
-We cover Reading and the surrounding area, including Slough, Wokingham, Bracknell, Newbury and Basingstoke. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Reading and the surrounding area, including Slough, Wokingham, Bracknell, Newbury and Basingstoke. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Reading?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Reading?**
 Usually not for a like-for-like replacement, but the town centre and Redlands have some conservation coverage, though much of Reading's housing sits outside formal restrictions, so it's worth checking if you're changing the shape or size of the existing bay.

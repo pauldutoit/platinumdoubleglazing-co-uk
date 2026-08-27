@@ -24,7 +24,7 @@ If you're comparing quotes for casement windows in Brighton, here's what actuall
 
 ## Pricing in Brighton
 
-South East England carries a regional price factor of 1.1x the national average, so casement window installation in Brighton typically runs from around £385 up to £990 — get a free quote for an exact figure for your property.
+South East England carries a regional price factor of 1.1x the national average, so casement window installation in Brighton typically runs from around £385 up to £990 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Brighton
 

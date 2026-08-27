@@ -13,7 +13,7 @@ generatedBy: "llm"
 
 ## Replacing bay windows across Warrington
 
-Bay window installation in Warrington tends to cost more than people expect, mostly because of what's involved structurally. Sitting roughly halfway between Liverpool and Manchester, it's grown into a sizeable commuter and logistics town in its own right. Get a surveyor out before you settle on a price — bay jobs vary a lot more than standard windows.
+Bay window installation in Warrington tends to cost more than people expect, mostly because of what's involved structurally. Sitting roughly halfway between Liverpool and Manchester, it's grown into a sizeable commuter and logistics town in its own right. Get a surveyor out before you settle on a price - bay jobs vary a lot more than standard windows.
 
 ## Why locals choose us
 
@@ -36,7 +36,7 @@ Coverage extends beyond Warrington out to Widnes, Runcorn, Northwich, St Helens 
 A single bay window usually takes one to two days, mostly because of the extra structural checks and multiple panes involved compared with a standard window.
 
 **Can you replace just the glass in a bay window rather than the whole frame?**
-Sometimes, if the frame is in good structural condition — but on older 1970s-80s bays the frame and glass are often replaced together since they were built and sealed as one unit.
+Sometimes, if the frame is in good structural condition - but on older 1970s-80s bays the frame and glass are often replaced together since they were built and sealed as one unit.
 
 **Do bay windows cost more to replace than standard windows in Warrington?**
-Yes, generally — a bay involves multiple panes, angled joints and often some support work above it, which is why bay jobs are priced well above a single standard window.
+Yes, generally - a bay involves multiple panes, angled joints and often some support work above it, which is why bay jobs are priced well above a single standard window.

@@ -29,12 +29,12 @@ Applying Norwich's 0.91x regional factor to our national range gives a typical c
 
 ## Areas we cover around Norwich
 
-We cover Norwich and the surrounding area, including Great Yarmouth, King's Lynn, Thetford, Lowestoft and Dereham. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Norwich and the surrounding area, including Great Yarmouth, King's Lynn, Thetford, Lowestoft and Dereham. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Do casement windows need planning permission in Norwich?**
-Most like-for-like casement replacements do not need planning permission. The main exception is where a very large conservation area covers the historic centre, with correspondingly detailed rules on window replacement — in that case it is worth a quick check with the council before ordering.
+Most like-for-like casement replacements do not need planning permission. The main exception is where a very large conservation area covers the historic centre, with correspondingly detailed rules on window replacement - in that case it is worth a quick check with the council before ordering.
 
 **How long does a casement window installation take?**
 A typical Norwich home with six to eight casement windows is usually finished in a single day by a two-person team, though larger properties or ones with tricky access can take longer.

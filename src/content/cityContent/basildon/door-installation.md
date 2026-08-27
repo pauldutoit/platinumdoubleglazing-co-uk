@@ -24,7 +24,7 @@ Whether it's a tired front door or a leaking patio door, Basildon homeowners usu
 
 ## Pricing in Basildon
 
-East of England carries a regional price factor of 1.02x the national average, so door installation in Basildon typically runs from around £867 up to £1836 — get a free quote for an exact figure for your property.
+East of England carries a regional price factor of 1.02x the national average, so door installation in Basildon typically runs from around £867 up to £1836 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Basildon
 
@@ -32,7 +32,7 @@ We cover Basildon itself plus the surrounding area, including Southend-on-Sea, C
 
 ## Frequently asked questions
 
-**Composite or uPVC — which is better for a front door in Basildon?**
+**Composite or uPVC - which is better for a front door in Basildon?**
 Composite doors cost more but hold their shape and colour better over time and generally feel more solid. uPVC is the cheaper option and still performs well if budget is the main concern.
 
 **Can bifold doors be fitted to an existing opening in Basildon?**

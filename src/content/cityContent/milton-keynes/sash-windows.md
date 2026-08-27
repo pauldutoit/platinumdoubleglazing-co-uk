@@ -29,7 +29,7 @@ With a local price factor of 1.08x, a sash window replacement in Milton Keynes g
 
 ## Areas we cover around Milton Keynes
 
-We cover Milton Keynes and the surrounding area, including Bedford, Northampton, Luton, Aylesbury and Leighton Buzzard. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Milton Keynes and the surrounding area, including Bedford, Northampton, Luton, Aylesbury and Leighton Buzzard. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

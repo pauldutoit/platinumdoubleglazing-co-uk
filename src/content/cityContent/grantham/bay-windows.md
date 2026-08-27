@@ -13,7 +13,7 @@ generatedBy: "llm"
 
 ## Getting bay windows right in Grantham
 
-Because a bay window projects out from the building line, replacing one is more involved than a standard casement — the structural support and roofline above it both need assessing. In Grantham, that means working with a Georgian High Street core with Victorian terraces and post-war estates around it. The Georgian frontages on the High Street are listed, so shopfronts and flats above them occasionally need heritage sign-off, but the surrounding residential streets are mostly standard Victorian brick. We quote against the property in front of us rather than a generic price list, so Grantham jobs are measured and priced individually.
+Because a bay window projects out from the building line, replacing one is more involved than a standard casement - the structural support and roofline above it both need assessing. In Grantham, that means working with a Georgian High Street core with Victorian terraces and post-war estates around it. The Georgian frontages on the High Street are listed, so shopfronts and flats above them occasionally need heritage sign-off, but the surrounding residential streets are mostly standard Victorian brick. We quote against the property in front of us rather than a generic price list, so Grantham jobs are measured and priced individually.
 
 ## Why locals choose us
 
@@ -25,11 +25,11 @@ Because a bay window projects out from the building line, replacing one is more 
 
 ## Pricing in Grantham
 
-Grantham carries a regional price factor of 0.85x the national average, a little below the UK norm, so bay windows typically run from around **£1020** up to **£2720** depending on size, materials and how many openings need doing — get a free quote for an exact figure for your property.
+Grantham carries a regional price factor of 0.85x the national average, a little below the UK norm, so bay windows typically run from around **£1020** up to **£2720** depending on size, materials and how many openings need doing - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Grantham
 
-We cover Grantham and the surrounding area, including Harlaxton, Barrowby, Great Gonerby, Bottesford and Sleaford. If you're just outside these, get in touch anyway — we quote a wider radius than this list on a case-by-case basis.
+We cover Grantham and the surrounding area, including Harlaxton, Barrowby, Great Gonerby, Bottesford and Sleaford. If you're just outside these, get in touch anyway - we quote a wider radius than this list on a case-by-case basis.
 
 ## Frequently asked questions
 
@@ -40,4 +40,4 @@ A straightforward bay replacement usually takes a full day; if the roof structur
 A bay is really three or more windows joined at angles, plus the roof or box structure above it, so both materials and labour scale up compared with a single flat casement or sash.
 
 **Does a leaking bay window roof need fixing before the windows are replaced?**
-Yes, generally — a bay roof or lead flashing that's letting water in will keep damaging the new frame underneath it, so most installers will want to check and, if needed, quote for that separately.
+Yes, generally - a bay roof or lead flashing that's letting water in will keep damaging the new frame underneath it, so most installers will want to check and, if needed, quote for that separately.

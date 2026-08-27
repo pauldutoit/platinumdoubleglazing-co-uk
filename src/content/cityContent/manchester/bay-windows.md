@@ -29,12 +29,12 @@ With a local price factor of 0.9x, a bay window installation in Manchester gener
 
 ## Areas we cover around Manchester
 
-We cover Manchester and the surrounding area, including Salford, Stockport, Bolton, Oldham and Rochdale. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Manchester and the surrounding area, including Salford, Stockport, Bolton, Oldham and Rochdale. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Manchester?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Manchester?**
 Usually not for a like-for-like replacement, but inner suburbs like Chorlton and Didsbury have conservation area protections that can limit what is fitted on the street-facing side of a terrace, so it's worth checking if you're changing the shape or size of the existing bay.

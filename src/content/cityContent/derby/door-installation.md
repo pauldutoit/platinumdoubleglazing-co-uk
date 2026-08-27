@@ -25,11 +25,11 @@ Security and insulation are the two things that come up most when we quote door 
 
 ## Pricing in Derby
 
-Derby sits at a 0.88x price factor relative to the national baseline, so expect a quote for a door installation in the **£748–£1584** range — a free survey will confirm the exact number for your property.
+Derby sits at a 0.88x price factor relative to the national baseline, so expect a quote for a door installation in the **£748–£1584** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Derby
 
-We cover Derby and the surrounding area, including Nottingham, Burton upon Trent, Ilkeston, Heanor and Matlock. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Derby and the surrounding area, including Nottingham, Burton upon Trent, Ilkeston, Heanor and Matlock. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
@@ -40,4 +40,4 @@ Composite doors have a solid timber-effect core that's more resistant to warping
 Multi-point locking systems, reinforced frames and toughened glass panels are all standard on the doors we fit, which is a significant step up from older single-lock doors still found on a lot of older housing in Derby.
 
 **Can I get a matching front and back door in Derby?**
-Yes — most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.
+Yes - most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.

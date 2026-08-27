@@ -36,7 +36,7 @@ As well as Guildford, we take on jobs across nearby Woking, Farnham, Farnborough
 Standard sash replacements usually don't need planning permission unless the property is listed. Given how much of Guildford sits within conservation areas, it's worth checking before ordering.
 
 **Do sash window replacements in Guildford have to be timber?**
-No — uPVC and timber-composite sash options can replicate a Georgian and Victorian glazing bar pattern at a lower price than solid timber, though timber is usually still preferred where a conservation officer is involved.
+No - uPVC and timber-composite sash options can replicate a Georgian and Victorian glazing bar pattern at a lower price than solid timber, though timber is usually still preferred where a conservation officer is involved.
 
 **How many panes do original sash windows in Guildford typically have?**
-It varies by period, but many Georgian and Victorian sashes were built with a six-over-six or two-over-two pane arrangement — matching that pattern matters more to the overall look than people expect.
+It varies by period, but many Georgian and Victorian sashes were built with a six-over-six or two-over-two pane arrangement - matching that pattern matters more to the overall look than people expect.

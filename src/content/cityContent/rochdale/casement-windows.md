@@ -24,7 +24,7 @@ If you're comparing quotes for casement windows in Rochdale, here's what actuall
 
 ## Pricing in Rochdale
 
-North West England carries a regional price factor of 0.85x the national average, so casement window installation in Rochdale typically runs from around £298 up to £765 — get a free quote for an exact figure for your property.
+North West England carries a regional price factor of 0.85x the national average, so casement window installation in Rochdale typically runs from around £298 up to £765 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Rochdale
 

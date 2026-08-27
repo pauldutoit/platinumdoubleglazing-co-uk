@@ -25,11 +25,11 @@ If your front or back door is draughty, hard to lock, or just looking dated, Not
 
 ## Pricing in Nottingham
 
-Nottingham carries a regional price factor of 0.89x the national average, so a door installation here typically runs from around **£757** up to **£1602** — get a free quote for an exact figure for your property.
+Nottingham carries a regional price factor of 0.89x the national average, so a door installation here typically runs from around **£757** up to **£1602** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Nottingham
 
-We cover Nottingham and the surrounding area, including Derby, Mansfield, Beeston, Long Eaton and Hucknall. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Nottingham and the surrounding area, including Derby, Mansfield, Beeston, Long Eaton and Hucknall. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
@@ -40,4 +40,4 @@ Composite doors have a solid timber-effect core that's more resistant to warping
 Multi-point locking systems, reinforced frames and toughened glass panels are all standard on the doors we fit, which is a significant step up from older single-lock doors still found on a lot of older housing in Nottingham.
 
 **Can I get a matching front and back door in Nottingham?**
-Yes — most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.
+Yes - most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.

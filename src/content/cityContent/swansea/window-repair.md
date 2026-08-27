@@ -25,19 +25,19 @@ A single failed double-glazed unit doesn't mean the whole window needs replacing
 
 ## Pricing in Swansea
 
-Swansea carries a regional price factor of 0.86x the national average, so a window repair here typically runs from around **£77** up to **£215** — get a free quote for an exact figure for your property.
+Swansea carries a regional price factor of 0.86x the national average, so a window repair here typically runs from around **£77** up to **£215** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Swansea
 
-We cover Swansea and the surrounding area, including Neath, Port Talbot, Llanelli, Bridgend and Merthyr Tydfil. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Swansea and the surrounding area, including Neath, Port Talbot, Llanelli, Bridgend and Merthyr Tydfil. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why has my double glazing gone misty or cloudy?**
-That's almost always a failed seal letting moisture into the gap between the panes. It doesn't mean the whole window needs replacing — usually just the glazed unit itself, which is a much cheaper repair.
+That's almost always a failed seal letting moisture into the gap between the panes. It doesn't mean the whole window needs replacing - usually just the glazed unit itself, which is a much cheaper repair.
 
 **How quickly can you fix a broken or draughty window in Swansea?**
 Straightforward repairs like a failed unit or a stiff hinge can usually be booked within a few days, and we treat security issues like a broken lock or smashed pane as more urgent than routine work.
 
 **Is it worth repairing an old window instead of replacing it in Swansea?**
-Often yes, especially where the Maritime Quarter and Mumbles carry conservation protections reflecting their historic and coastal character or the frame itself is still structurally sound — a repair can add years of useful life for a fraction of the cost of full replacement.
+Often yes, especially where the Maritime Quarter and Mumbles carry conservation protections reflecting their historic and coastal character or the frame itself is still structurally sound - a repair can add years of useful life for a fraction of the cost of full replacement.

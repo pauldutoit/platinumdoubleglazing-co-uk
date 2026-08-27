@@ -24,7 +24,7 @@ Whether it's a tired front door or a leaking patio door, Slough homeowners usual
 
 ## Pricing in Slough
 
-South East England carries a regional price factor of 1.12x the national average, so door installation in Slough typically runs from around £952 up to £2016 — get a free quote for an exact figure for your property.
+South East England carries a regional price factor of 1.12x the national average, so door installation in Slough typically runs from around £952 up to £2016 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Slough
 
@@ -32,7 +32,7 @@ We cover Slough itself plus the surrounding area, including Windsor, Reading, Ma
 
 ## Frequently asked questions
 
-**Composite or uPVC — which is better for a front door in Slough?**
+**Composite or uPVC - which is better for a front door in Slough?**
 Composite doors cost more but hold their shape and colour better over time and generally feel more solid. uPVC is the cheaper option and still performs well if budget is the main concern.
 
 **How secure are modern replacement doors?**

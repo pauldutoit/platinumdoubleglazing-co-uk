@@ -29,15 +29,15 @@ With a local price factor of 0.89x, a window repair in Nottingham generally fall
 
 ## Areas we cover around Nottingham
 
-We cover Nottingham and the surrounding area, including Derby, Mansfield, Beeston, Long Eaton and Hucknall. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Nottingham and the surrounding area, including Derby, Mansfield, Beeston, Long Eaton and Hucknall. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why has my double glazing gone misty or cloudy?**
-That's almost always a failed seal letting moisture into the gap between the panes. It doesn't mean the whole window needs replacing — usually just the glazed unit itself, which is a much cheaper repair.
+That's almost always a failed seal letting moisture into the gap between the panes. It doesn't mean the whole window needs replacing - usually just the glazed unit itself, which is a much cheaper repair.
 
 **How quickly can you fix a broken or draughty window in Nottingham?**
 Straightforward repairs like a failed unit or a stiff hinge can usually be booked within a few days, and we treat security issues like a broken lock or smashed pane as more urgent than routine work.
 
 **Is it worth repairing an old window instead of replacing it in Nottingham?**
-Often yes, especially where the Lace Market and the Park Estate both carry conservation status, with the Park Estate in particular having unusually strict private covenants or the frame itself is still structurally sound — a repair can add years of useful life for a fraction of the cost of full replacement.
+Often yes, especially where the Lace Market and the Park Estate both carry conservation status, with the Park Estate in particular having unusually strict private covenants or the frame itself is still structurally sound - a repair can add years of useful life for a fraction of the cost of full replacement.

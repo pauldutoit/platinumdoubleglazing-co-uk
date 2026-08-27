@@ -29,7 +29,7 @@ With a local price factor of 0.91x, a door installation in Norwich generally fal
 
 ## Areas we cover around Norwich
 
-We cover Norwich and the surrounding area, including Great Yarmouth, King's Lynn, Thetford, Lowestoft and Dereham. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Norwich and the surrounding area, including Great Yarmouth, King's Lynn, Thetford, Lowestoft and Dereham. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
@@ -40,4 +40,4 @@ Composite doors have a solid timber-effect core that's more resistant to warping
 Multi-point locking systems, reinforced frames and toughened glass panels are all standard on the doors we fit, which is a significant step up from older single-lock doors still found on a lot of older housing in Norwich.
 
 **Can I get a matching front and back door in Norwich?**
-Yes — most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.
+Yes - most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.

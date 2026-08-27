@@ -29,7 +29,7 @@ Applying Manchester's 0.9x regional factor to our national range gives a typical
 
 ## Areas we cover around Manchester
 
-We cover Manchester and the surrounding area, including Salford, Stockport, Bolton, Oldham and Rochdale. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Manchester and the surrounding area, including Salford, Stockport, Bolton, Oldham and Rochdale. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
@@ -40,4 +40,4 @@ Composite doors have a solid timber-effect core that's more resistant to warping
 Multi-point locking systems, reinforced frames and toughened glass panels are all standard on the doors we fit, which is a significant step up from older single-lock doors still found on a lot of older housing in Manchester.
 
 **Can I get a matching front and back door in Manchester?**
-Yes — most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.
+Yes - most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.

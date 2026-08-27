@@ -29,7 +29,7 @@ Applying Plymouth's 0.9x regional factor to our national range gives a typical c
 
 ## Areas we cover around Plymouth
 
-We cover Plymouth and the surrounding area, including Torquay, Exeter, Paignton, Newton Abbot and Totnes. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Plymouth and the surrounding area, including Torquay, Exeter, Paignton, Newton Abbot and Totnes. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

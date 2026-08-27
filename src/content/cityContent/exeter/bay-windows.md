@@ -25,16 +25,16 @@ Bay window replacement in Exeter usually comes down to getting the structure rig
 
 ## Pricing in Exeter
 
-Exeter sits at a 0.93x price factor relative to the national baseline, so expect a quote for a bay window installation in the **£1116–£2976** range — a free survey will confirm the exact number for your property.
+Exeter sits at a 0.93x price factor relative to the national baseline, so expect a quote for a bay window installation in the **£1116–£2976** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Exeter
 
-We cover Exeter and the surrounding area, including Torquay, Taunton, Newton Abbot, Sidmouth and Crediton. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Exeter and the surrounding area, including Torquay, Taunton, Newton Abbot, Sidmouth and Crediton. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Exeter?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Exeter?**
 Usually not for a like-for-like replacement, but conservation controls around the cathedral close and city centre are relatively strict given the concentration of historic buildings, so it's worth checking if you're changing the shape or size of the existing bay.

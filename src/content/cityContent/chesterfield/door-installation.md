@@ -24,7 +24,7 @@ Whether it's a tired front door or a leaking patio door, Chesterfield homeowners
 
 ## Pricing in Chesterfield
 
-East Midlands carries a regional price factor of 0.86x the national average, so door installation in Chesterfield typically runs from around £731 up to £1548 — get a free quote for an exact figure for your property.
+East Midlands carries a regional price factor of 0.86x the national average, so door installation in Chesterfield typically runs from around £731 up to £1548 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Chesterfield
 
@@ -32,7 +32,7 @@ We cover Chesterfield itself plus the surrounding area, including Sheffield, Der
 
 ## Frequently asked questions
 
-**Composite or uPVC — which is better for a front door in Chesterfield?**
+**Composite or uPVC - which is better for a front door in Chesterfield?**
 Composite doors cost more but hold their shape and colour better over time and generally feel more solid. uPVC is the cheaper option and still performs well if budget is the main concern.
 
 **How secure are modern replacement doors?**

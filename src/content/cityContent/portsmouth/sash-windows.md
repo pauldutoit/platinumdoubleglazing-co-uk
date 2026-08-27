@@ -29,7 +29,7 @@ With a local price factor of 1.03x, a sash window replacement in Portsmouth gene
 
 ## Areas we cover around Portsmouth
 
-We cover Portsmouth and the surrounding area, including Southampton, Fareham, Gosport, Havant and Waterlooville. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Portsmouth and the surrounding area, including Southampton, Fareham, Gosport, Havant and Waterlooville. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

@@ -36,7 +36,7 @@ As well as Southend-on-Sea, we take on jobs across nearby Chelmsford, Basildon, 
 Standard sash replacements usually don't need planning permission unless the property is listed. It's still worth confirming with the council if you're unsure about your property's status.
 
 **Do sash window replacements in Southend-on-Sea have to be timber?**
-No — uPVC and timber-composite sash options can replicate a 1930s glazing bar pattern at a lower price than solid timber, though timber is usually still preferred where a conservation officer is involved.
+No - uPVC and timber-composite sash options can replicate a 1930s glazing bar pattern at a lower price than solid timber, though timber is usually still preferred where a conservation officer is involved.
 
 **How many panes do original sash windows in Southend-on-Sea typically have?**
-It varies by period, but many 1930s sashes were built with a six-over-six or two-over-two pane arrangement — matching that pattern matters more to the overall look than people expect.
+It varies by period, but many 1930s sashes were built with a six-over-six or two-over-two pane arrangement - matching that pattern matters more to the overall look than people expect.

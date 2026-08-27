@@ -25,19 +25,19 @@ Misting between the panes, a window that won't lock properly, or a hinge that's 
 
 ## Pricing in Scarborough
 
-Scarborough carries a regional price factor of 0.86x the national average, a little below the UK norm, so window repair typically runs from around **£77** up to **£215** depending on size, materials and how many openings need doing — get a free quote for an exact figure for your property.
+Scarborough carries a regional price factor of 0.86x the national average, a little below the UK norm, so window repair typically runs from around **£77** up to **£215** depending on size, materials and how many openings need doing - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Scarborough
 
-We cover Scarborough and the surrounding area, including North Bay, South Bay, Falsgrave, Scalby and Filey. If you're just outside these, get in touch anyway — we quote a wider radius than this list on a case-by-case basis.
+We cover Scarborough and the surrounding area, including North Bay, South Bay, Falsgrave, Scalby and Filey. If you're just outside these, get in touch anyway - we quote a wider radius than this list on a case-by-case basis.
 
 ## Frequently asked questions
 
 **Is it cheaper to repair a window or replace it?**
-Repair is almost always cheaper if the frame itself is sound — a failed seal, hinge or handle repair costs a fraction of a full replacement, which is only worth it if the frame is rotten, warped or beyond economical repair.
+Repair is almost always cheaper if the frame itself is sound - a failed seal, hinge or handle repair costs a fraction of a full replacement, which is only worth it if the frame is rotten, warped or beyond economical repair.
 
 **Why has my double glazing misted up between the panes?**
-That misting means the gas seal inside the sealed unit has failed and let moist air in — the glass itself is fine, but the unit needs replacing to stop the fogging, which a repair visit can usually do without replacing the whole frame.
+That misting means the gas seal inside the sealed unit has failed and let moist air in - the glass itself is fine, but the unit needs replacing to stop the fogging, which a repair visit can usually do without replacing the whole frame.
 
 **Can you repair a window the same day in Scarborough?**
 For urgent issues like a window that won't lock or close securely, we prioritise same or next-day callouts; less urgent jobs like a misted unit replacement are usually booked within a few days.

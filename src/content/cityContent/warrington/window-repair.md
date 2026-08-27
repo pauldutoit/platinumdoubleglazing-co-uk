@@ -32,7 +32,7 @@ As well as Warrington, we take on jobs across nearby Widnes, Runcorn, Northwich,
 
 ## Frequently asked questions
 
-**My double glazing has gone misty — does that mean I need a full replacement in Warrington?**
+**My double glazing has gone misty - does that mean I need a full replacement in Warrington?**
 Not necessarily. Misted glass is almost always a failed seal between the panes, which usually means replacing just the glazed unit rather than the whole frame.
 
 **How quickly can a window repair be booked in Warrington?**

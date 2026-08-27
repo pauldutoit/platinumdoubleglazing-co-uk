@@ -33,10 +33,10 @@ As well as Huddersfield, we take on jobs across nearby Leeds, Bradford, Halifax,
 ## Frequently asked questions
 
 **Can sash windows be draught-proofed without full replacement?**
-Often, yes — brush seals and a refurbished sash box can cut draughts significantly on original timber sashes that are otherwise in decent condition, which is worth considering before committing to full replacement.
+Often, yes - brush seals and a refurbished sash box can cut draughts significantly on original timber sashes that are otherwise in decent condition, which is worth considering before committing to full replacement.
 
 **Do sash window replacements in Huddersfield have to be timber?**
-No — uPVC and timber-composite sash options can replicate a Victorian stone-built glazing bar pattern at a lower price than solid timber, though timber is usually still preferred where a conservation officer is involved.
+No - uPVC and timber-composite sash options can replicate a Victorian stone-built glazing bar pattern at a lower price than solid timber, though timber is usually still preferred where a conservation officer is involved.
 
 **How many panes do original sash windows in Huddersfield typically have?**
-It varies by period, but many Victorian stone-built sashes were built with a six-over-six or two-over-two pane arrangement — matching that pattern matters more to the overall look than people expect.
+It varies by period, but many Victorian stone-built sashes were built with a six-over-six or two-over-two pane arrangement - matching that pattern matters more to the overall look than people expect.

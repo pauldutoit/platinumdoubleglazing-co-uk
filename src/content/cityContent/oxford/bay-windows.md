@@ -25,16 +25,16 @@ Bay windows are one of the more involved jobs we do in Oxford, and also one of t
 
 ## Pricing in Oxford
 
-Oxford carries a regional price factor of 1.15x the national average, so a bay window installation here typically runs from around **£1380** up to **£3680** — get a free quote for an exact figure for your property.
+Oxford carries a regional price factor of 1.15x the national average, so a bay window installation here typically runs from around **£1380** up to **£3680** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Oxford
 
-We cover Oxford and the surrounding area, including Abingdon, Witney, Bicester, Didcot and Banbury. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Oxford and the surrounding area, including Abingdon, Witney, Bicester, Didcot and Banbury. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Oxford?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Oxford?**
 Usually not for a like-for-like replacement, but conservation controls across central Oxford and around the colleges are some of the strictest in the country, so it's worth checking if you're changing the shape or size of the existing bay.

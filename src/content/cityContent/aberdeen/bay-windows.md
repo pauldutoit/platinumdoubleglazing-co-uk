@@ -29,12 +29,12 @@ With a local price factor of 0.9x, a bay window installation in Aberdeen general
 
 ## Areas we cover around Aberdeen
 
-We cover Aberdeen and the surrounding area, including Inverurie, Stonehaven, Ellon, Westhill and Peterhead. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Aberdeen and the surrounding area, including Inverurie, Stonehaven, Ellon, Westhill and Peterhead. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Aberdeen?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Aberdeen?**
 Usually not for a like-for-like replacement, but the West End and other granite-built conservation areas have particular expectations around window style and materials, so it's worth checking if you're changing the shape or size of the existing bay.

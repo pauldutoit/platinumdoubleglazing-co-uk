@@ -24,7 +24,7 @@ If you're comparing quotes for casement windows in Barnsley, here's what actuall
 
 ## Pricing in Barnsley
 
-Yorkshire and the Humber carries a regional price factor of 0.84x the national average, so casement window installation in Barnsley typically runs from around £294 up to £756 — get a free quote for an exact figure for your property.
+Yorkshire and the Humber carries a regional price factor of 0.84x the national average, so casement window installation in Barnsley typically runs from around £294 up to £756 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Barnsley
 

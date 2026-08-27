@@ -32,7 +32,7 @@ As well as Lincoln, we take on jobs across nearby Grantham, Gainsborough, Sleafo
 
 ## Frequently asked questions
 
-**My double glazing has gone misty — does that mean I need a full replacement in Lincoln?**
+**My double glazing has gone misty - does that mean I need a full replacement in Lincoln?**
 Not necessarily. Misted glass is almost always a failed seal between the panes, which usually means replacing just the glazed unit rather than the whole frame.
 
 **How quickly can a window repair be booked in Lincoln?**

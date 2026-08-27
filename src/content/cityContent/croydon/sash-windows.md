@@ -13,7 +13,7 @@ generatedBy: "llm"
 
 ## Getting sash windows right in Croydon
 
-A sash window slides up and down inside its box frame — the classic look on period terraces — and modern double-glazed versions now match that look while cutting draughts and heat loss. In Croydon, that means working with a mix of Victorian suburban terraces, inter-war semis and the high-rise regeneration around the tram network and town centre. Flats in the newer high-rise developments often have sealed or restricted-opening units, so it's worth checking your lease and freeholder rules before ordering replacements. We quote against the property in front of us rather than a generic price list, so Croydon jobs are measured and priced individually.
+A sash window slides up and down inside its box frame - the classic look on period terraces - and modern double-glazed versions now match that look while cutting draughts and heat loss. In Croydon, that means working with a mix of Victorian suburban terraces, inter-war semis and the high-rise regeneration around the tram network and town centre. Flats in the newer high-rise developments often have sealed or restricted-opening units, so it's worth checking your lease and freeholder rules before ordering replacements. We quote against the property in front of us rather than a generic price list, so Croydon jobs are measured and priced individually.
 
 ## Why locals choose us
 
@@ -25,19 +25,19 @@ A sash window slides up and down inside its box frame — the classic look on pe
 
 ## Pricing in Croydon
 
-Croydon carries a regional price factor of 1.2x the national average, reflecting higher local labour and living costs, so sash windows typically run from around **£720** up to **£1320** depending on size, materials and how many openings need doing — get a free quote for an exact figure for your property.
+Croydon carries a regional price factor of 1.2x the national average, reflecting higher local labour and living costs, so sash windows typically run from around **£720** up to **£1320** depending on size, materials and how many openings need doing - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Croydon
 
-We cover Croydon and the surrounding area, including Purley, Addiscombe, Norbury, Selsdon and Thornton Heath. If you're just outside these, get in touch anyway — we quote a wider radius than this list on a case-by-case basis.
+We cover Croydon and the surrounding area, including Purley, Addiscombe, Norbury, Selsdon and Thornton Heath. If you're just outside these, get in touch anyway - we quote a wider radius than this list on a case-by-case basis.
 
 ## Frequently asked questions
 
 **Can sash windows be double glazed without losing the period look?**
-Yes — modern slimline double-glazed units are built into a sash profile that matches the original glazing bar spacing and sightlines, so from the street they look very close to the single-glazed original.
+Yes - modern slimline double-glazed units are built into a sash profile that matches the original glazing bar spacing and sightlines, so from the street they look very close to the single-glazed original.
 
 **Are sash windows more expensive to fit in Croydon than standard casements?**
-Generally yes — the box frame construction, balance mechanism and often-bespoke sizing on period properties push sash windows above standard casement pricing, even before any conservation-area requirements are factored in.
+Generally yes - the box frame construction, balance mechanism and often-bespoke sizing on period properties push sash windows above standard casement pricing, even before any conservation-area requirements are factored in.
 
 **Do I need planning permission for sash windows in Croydon?**
-Most like-for-like sash replacements on non-listed buildings don't need planning permission, but listed buildings and conservation areas often have extra restrictions on materials and glazing bar pattern — check with the local council first.
+Most like-for-like sash replacements on non-listed buildings don't need planning permission, but listed buildings and conservation areas often have extra restrictions on materials and glazing bar pattern - check with the local council first.

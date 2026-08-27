@@ -25,16 +25,16 @@ Casement windows remain the default choice for most Colchester homes needing a w
 
 ## Pricing in Colchester
 
-Colchester carries a regional price factor of 0.99x the national average, so a casement window replacement here typically runs from around **£347** up to **£891** — get a free quote for an exact figure for your property.
+Colchester carries a regional price factor of 0.99x the national average, so a casement window replacement here typically runs from around **£347** up to **£891** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Colchester
 
-We cover Colchester and the surrounding area, including Ipswich, Chelmsford, Clacton-on-Sea, Braintree and Halstead. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Colchester and the surrounding area, including Ipswich, Chelmsford, Clacton-on-Sea, Braintree and Halstead. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Do casement windows need planning permission in Colchester?**
-Most like-for-like casement replacements do not need planning permission. The main exception is where the Roman walls and Dutch Quarter conservation areas cover much of the historic centre — in that case it is worth a quick check with the council before ordering.
+Most like-for-like casement replacements do not need planning permission. The main exception is where the Roman walls and Dutch Quarter conservation areas cover much of the historic centre - in that case it is worth a quick check with the council before ordering.
 
 **How long does a casement window installation take?**
 A typical Colchester home with six to eight casement windows is usually finished in a single day by a two-person team, though larger properties or ones with tricky access can take longer.

@@ -32,11 +32,11 @@ As well as Mansfield, we take on jobs across nearby Nottingham, Chesterfield, Wo
 
 ## Frequently asked questions
 
-**My double glazing has gone misty — does that mean I need a full replacement in Mansfield?**
+**My double glazing has gone misty - does that mean I need a full replacement in Mansfield?**
 Not necessarily. Misted glass is almost always a failed seal between the panes, which usually means replacing just the glazed unit rather than the whole frame.
 
 **Is it worth repairing an old uPVC window rather than replacing it?**
-Often, yes — hardware like hinges, handles and locks can be replaced individually, and it's usually far cheaper than a full frame replacement if the frame itself is still sound.
+Often, yes - hardware like hinges, handles and locks can be replaced individually, and it's usually far cheaper than a full frame replacement if the frame itself is still sound.
 
 **What causes draughts around windows that are otherwise in good condition?**
 Usually worn weather seals or a hinge that's dropped slightly, letting the sash or casement close out of true. It's a common issue on older frames regardless of location.

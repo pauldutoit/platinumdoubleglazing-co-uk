@@ -25,16 +25,16 @@ Bay windows bring in more natural light than almost any other window style, whic
 
 ## Pricing in Leicester
 
-Leicester carries a regional price factor of 0.89x the national average, so a bay window installation here typically runs from around **£1068** up to **£2848** — get a free quote for an exact figure for your property.
+Leicester carries a regional price factor of 0.89x the national average, so a bay window installation here typically runs from around **£1068** up to **£2848** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Leicester
 
-We cover Leicester and the surrounding area, including Loughborough, Hinckley, Coalville, Melton Mowbray and Market Harborough. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Leicester and the surrounding area, including Loughborough, Hinckley, Coalville, Melton Mowbray and Market Harborough. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Leicester?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Leicester?**
 Usually not for a like-for-like replacement, but conservation areas around Stoneygate and the New Walk cover some of the city's grander Victorian terraces, so it's worth checking if you're changing the shape or size of the existing bay.

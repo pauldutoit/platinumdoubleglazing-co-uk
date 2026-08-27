@@ -25,16 +25,16 @@ A lot of Plymouth's older houses have bay-fronted living rooms, which changes bo
 
 ## Pricing in Plymouth
 
-Plymouth sits at a 0.9x price factor relative to the national baseline, so expect a quote for a bay window installation in the **£1080–£2880** range — a free survey will confirm the exact number for your property.
+Plymouth sits at a 0.9x price factor relative to the national baseline, so expect a quote for a bay window installation in the **£1080–£2880** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Plymouth
 
-We cover Plymouth and the surrounding area, including Torquay, Exeter, Paignton, Newton Abbot and Totnes. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Plymouth and the surrounding area, including Torquay, Exeter, Paignton, Newton Abbot and Totnes. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Plymouth?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Plymouth?**
 Usually not for a like-for-like replacement, but the Barbican and areas around the Hoe have conservation status protecting their historic character, so it's worth checking if you're changing the shape or size of the existing bay.

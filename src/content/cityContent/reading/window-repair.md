@@ -25,19 +25,19 @@ Window repair is usually the faster and cheaper option for Reading homeowners de
 
 ## Pricing in Reading
 
-Reading sits at a 1.12x price factor relative to the national baseline, so expect a quote for a window repair in the **£100–£280** range — a free survey will confirm the exact number for your property.
+Reading sits at a 1.12x price factor relative to the national baseline, so expect a quote for a window repair in the **£100–£280** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Reading
 
-We cover Reading and the surrounding area, including Slough, Wokingham, Bracknell, Newbury and Basingstoke. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Reading and the surrounding area, including Slough, Wokingham, Bracknell, Newbury and Basingstoke. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why has my double glazing gone misty or cloudy?**
-That's almost always a failed seal letting moisture into the gap between the panes. It doesn't mean the whole window needs replacing — usually just the glazed unit itself, which is a much cheaper repair.
+That's almost always a failed seal letting moisture into the gap between the panes. It doesn't mean the whole window needs replacing - usually just the glazed unit itself, which is a much cheaper repair.
 
 **How quickly can you fix a broken or draughty window in Reading?**
 Straightforward repairs like a failed unit or a stiff hinge can usually be booked within a few days, and we treat security issues like a broken lock or smashed pane as more urgent than routine work.
 
 **Is it worth repairing an old window instead of replacing it in Reading?**
-Often yes, especially where the town centre and Redlands have some conservation coverage, though much of Reading's housing sits outside formal restrictions or the frame itself is still structurally sound — a repair can add years of useful life for a fraction of the cost of full replacement.
+Often yes, especially where the town centre and Redlands have some conservation coverage, though much of Reading's housing sits outside formal restrictions or the frame itself is still structurally sound - a repair can add years of useful life for a fraction of the cost of full replacement.

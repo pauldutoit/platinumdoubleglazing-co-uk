@@ -25,16 +25,16 @@ Most of the quotes we do in Sheffield are for straightforward casement replaceme
 
 ## Pricing in Sheffield
 
-Sheffield carries a regional price factor of 0.87x the national average, so a casement window replacement here typically runs from around **£305** up to **£783** — get a free quote for an exact figure for your property.
+Sheffield carries a regional price factor of 0.87x the national average, so a casement window replacement here typically runs from around **£305** up to **£783** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Sheffield
 
-We cover Sheffield and the surrounding area, including Rotherham, Barnsley, Doncaster, Chesterfield and Worksop. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Sheffield and the surrounding area, including Rotherham, Barnsley, Doncaster, Chesterfield and Worksop. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Do casement windows need planning permission in Sheffield?**
-Most like-for-like casement replacements do not need planning permission. The main exception is where conservation areas in Nether Edge and Broomhill cover a lot of the city's older terraced housing — in that case it is worth a quick check with the council before ordering.
+Most like-for-like casement replacements do not need planning permission. The main exception is where conservation areas in Nether Edge and Broomhill cover a lot of the city's older terraced housing - in that case it is worth a quick check with the council before ordering.
 
 **How long does a casement window installation take?**
 A typical Sheffield home with six to eight casement windows is usually finished in a single day by a two-person team, though larger properties or ones with tricky access can take longer.

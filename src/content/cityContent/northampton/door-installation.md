@@ -25,11 +25,11 @@ Door installation in Northampton covers everything from composite front doors to
 
 ## Pricing in Northampton
 
-Northampton carries a regional price factor of 0.92x the national average, so a door installation here typically runs from around **£782** up to **£1656** — get a free quote for an exact figure for your property.
+Northampton carries a regional price factor of 0.92x the national average, so a door installation here typically runs from around **£782** up to **£1656** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Northampton
 
-We cover Northampton and the surrounding area, including Wellingborough, Kettering, Daventry, Rushden and Towcester. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Northampton and the surrounding area, including Wellingborough, Kettering, Daventry, Rushden and Towcester. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
@@ -40,4 +40,4 @@ Composite doors have a solid timber-effect core that's more resistant to warping
 Multi-point locking systems, reinforced frames and toughened glass panels are all standard on the doors we fit, which is a significant step up from older single-lock doors still found on a lot of older housing in Northampton.
 
 **Can I get a matching front and back door in Northampton?**
-Yes — most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.
+Yes - most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.

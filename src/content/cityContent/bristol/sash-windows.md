@@ -25,11 +25,11 @@ A lot of period properties in Bristol still have their original box sash windows
 
 ## Pricing in Bristol
 
-Bristol carries a regional price factor of 0.98x the national average, so a sash window replacement here typically runs from around **£588** up to **£1078** — get a free quote for an exact figure for your property.
+Bristol carries a regional price factor of 0.98x the national average, so a sash window replacement here typically runs from around **£588** up to **£1078** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Bristol
 
-We cover Bristol and the surrounding area, including Bath, Clevedon, Nailsea, Keynsham and Portishead. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Bristol and the surrounding area, including Bath, Clevedon, Nailsea, Keynsham and Portishead. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

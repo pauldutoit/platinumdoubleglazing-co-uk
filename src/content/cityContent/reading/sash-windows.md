@@ -25,11 +25,11 @@ Original timber sashes are still common on Reading's older streets, and replacin
 
 ## Pricing in Reading
 
-Reading carries a regional price factor of 1.12x the national average, so a sash window replacement here typically runs from around **£672** up to **£1232** — get a free quote for an exact figure for your property.
+Reading carries a regional price factor of 1.12x the national average, so a sash window replacement here typically runs from around **£672** up to **£1232** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Reading
 
-We cover Reading and the surrounding area, including Slough, Wokingham, Bracknell, Newbury and Basingstoke. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Reading and the surrounding area, including Slough, Wokingham, Bracknell, Newbury and Basingstoke. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

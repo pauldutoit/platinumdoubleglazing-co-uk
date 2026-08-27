@@ -25,19 +25,19 @@ If a window in your Colchester home has gone cloudy, stopped closing properly, o
 
 ## Pricing in Colchester
 
-Colchester carries a regional price factor of 0.99x the national average, so a window repair here typically runs from around **£88** up to **£248** — get a free quote for an exact figure for your property.
+Colchester carries a regional price factor of 0.99x the national average, so a window repair here typically runs from around **£88** up to **£248** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Colchester
 
-We cover Colchester and the surrounding area, including Ipswich, Chelmsford, Clacton-on-Sea, Braintree and Halstead. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Colchester and the surrounding area, including Ipswich, Chelmsford, Clacton-on-Sea, Braintree and Halstead. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why has my double glazing gone misty or cloudy?**
-That's almost always a failed seal letting moisture into the gap between the panes. It doesn't mean the whole window needs replacing — usually just the glazed unit itself, which is a much cheaper repair.
+That's almost always a failed seal letting moisture into the gap between the panes. It doesn't mean the whole window needs replacing - usually just the glazed unit itself, which is a much cheaper repair.
 
 **How quickly can you fix a broken or draughty window in Colchester?**
 Straightforward repairs like a failed unit or a stiff hinge can usually be booked within a few days, and we treat security issues like a broken lock or smashed pane as more urgent than routine work.
 
 **Is it worth repairing an old window instead of replacing it in Colchester?**
-Often yes, especially where the Roman walls and Dutch Quarter conservation areas cover much of the historic centre or the frame itself is still structurally sound — a repair can add years of useful life for a fraction of the cost of full replacement.
+Often yes, especially where the Roman walls and Dutch Quarter conservation areas cover much of the historic centre or the frame itself is still structurally sound - a repair can add years of useful life for a fraction of the cost of full replacement.

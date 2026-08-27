@@ -25,19 +25,19 @@ If a window in your Derby home has gone cloudy, stopped closing properly, or dev
 
 ## Pricing in Derby
 
-Derby carries a regional price factor of 0.88x the national average, so a window repair here typically runs from around **£78** up to **£220** — get a free quote for an exact figure for your property.
+Derby carries a regional price factor of 0.88x the national average, so a window repair here typically runs from around **£78** up to **£220** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Derby
 
-We cover Derby and the surrounding area, including Nottingham, Burton upon Trent, Ilkeston, Heanor and Matlock. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Derby and the surrounding area, including Nottingham, Burton upon Trent, Ilkeston, Heanor and Matlock. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why has my double glazing gone misty or cloudy?**
-That's almost always a failed seal letting moisture into the gap between the panes. It doesn't mean the whole window needs replacing — usually just the glazed unit itself, which is a much cheaper repair.
+That's almost always a failed seal letting moisture into the gap between the panes. It doesn't mean the whole window needs replacing - usually just the glazed unit itself, which is a much cheaper repair.
 
 **How quickly can you fix a broken or draughty window in Derby?**
 Straightforward repairs like a failed unit or a stiff hinge can usually be booked within a few days, and we treat security issues like a broken lock or smashed pane as more urgent than routine work.
 
 **Is it worth repairing an old window instead of replacing it in Derby?**
-Often yes, especially where the Cathedral Quarter carries conservation status covering some of the city's older streets or the frame itself is still structurally sound — a repair can add years of useful life for a fraction of the cost of full replacement.
+Often yes, especially where the Cathedral Quarter carries conservation status covering some of the city's older streets or the frame itself is still structurally sound - a repair can add years of useful life for a fraction of the cost of full replacement.

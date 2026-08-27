@@ -24,7 +24,7 @@ If you're comparing quotes for casement windows in Blackpool, here's what actual
 
 ## Pricing in Blackpool
 
-North West England carries a regional price factor of 0.84x the national average, so casement window installation in Blackpool typically runs from around £294 up to £756 — get a free quote for an exact figure for your property.
+North West England carries a regional price factor of 0.84x the national average, so casement window installation in Blackpool typically runs from around £294 up to £756 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Blackpool
 

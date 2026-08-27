@@ -13,7 +13,7 @@ generatedBy: "llm"
 
 ## Sash window specialists for London's period properties
 
-Sash windows are common across the older parts of London, and they need a different approach to a standard casement job. Access is often the bigger challenge than weather here — scaffolding, parking suspensions and flat entry systems all affect a straightforward job, and old single-glazed sashes are usually where that shows up first as draughts and heat loss. Housing stock varies enormously street to street, from Georgian squares and Victorian terraces to 1960s low-rises and glass-fronted new builds, and a lot of those original sash boxes are now decades past their expected working life.
+Sash windows are common across the older parts of London, and they need a different approach to a standard casement job. Access is often the bigger challenge than weather here - scaffolding, parking suspensions and flat entry systems all affect a straightforward job, and old single-glazed sashes are usually where that shows up first as draughts and heat loss. Housing stock varies enormously street to street, from Georgian squares and Victorian terraces to 1960s low-rises and glass-fronted new builds, and a lot of those original sash boxes are now decades past their expected working life.
 
 ## Why locals choose us
 
@@ -29,7 +29,7 @@ Applying London's 1.25x regional factor to our national range gives a typical co
 
 ## Areas we cover around London
 
-We cover London and the surrounding area, including Croydon, Bromley, Enfield, Harrow and Richmond. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover London and the surrounding area, including Croydon, Bromley, Enfield, Harrow and Richmond. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

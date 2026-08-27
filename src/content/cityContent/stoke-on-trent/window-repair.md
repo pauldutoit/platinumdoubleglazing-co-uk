@@ -25,19 +25,19 @@ If a window in your Stoke-on-Trent home has gone cloudy, stopped closing properl
 
 ## Pricing in Stoke-on-Trent
 
-Stoke-on-Trent sits at a 0.86x price factor relative to the national baseline, so expect a quote for a window repair in the **£77–£215** range — a free survey will confirm the exact number for your property.
+Stoke-on-Trent sits at a 0.86x price factor relative to the national baseline, so expect a quote for a window repair in the **£77–£215** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Stoke-on-Trent
 
-We cover Stoke-on-Trent and the surrounding area, including Newcastle-under-Lyme, Stafford, Leek, Crewe and Stone. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Stoke-on-Trent and the surrounding area, including Newcastle-under-Lyme, Stafford, Leek, Crewe and Stone. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why has my double glazing gone misty or cloudy?**
-That's almost always a failed seal letting moisture into the gap between the panes. It doesn't mean the whole window needs replacing — usually just the glazed unit itself, which is a much cheaper repair.
+That's almost always a failed seal letting moisture into the gap between the panes. It doesn't mean the whole window needs replacing - usually just the glazed unit itself, which is a much cheaper repair.
 
 **How quickly can you fix a broken or draughty window in Stoke-on-Trent?**
 Straightforward repairs like a failed unit or a stiff hinge can usually be booked within a few days, and we treat security issues like a broken lock or smashed pane as more urgent than routine work.
 
 **Is it worth repairing an old window instead of replacing it in Stoke-on-Trent?**
-Often yes, especially where conservation interest tends to focus on surviving bottle kilns and pottery-era buildings rather than blanket residential controls or the frame itself is still structurally sound — a repair can add years of useful life for a fraction of the cost of full replacement.
+Often yes, especially where conservation interest tends to focus on surviving bottle kilns and pottery-era buildings rather than blanket residential controls or the frame itself is still structurally sound - a repair can add years of useful life for a fraction of the cost of full replacement.

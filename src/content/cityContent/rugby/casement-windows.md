@@ -13,7 +13,7 @@ generatedBy: "llm"
 
 ## Getting casement windows right in Rugby
 
-Casement windows remain the default choice for most UK homes — simple, side- or top-hung frames that open outward and seal well against draughts. In Rugby, that means working with Victorian terraces built up around the railway works and Rugby School, with 20th-century estates towards Bilton and Hillmorton. A lot of the Victorian terraces near the school and old railway works are two-up two-down properties with fairly modest window openings, which keeps material costs down. We quote against the property in front of us rather than a generic price list, so Rugby jobs are measured and priced individually.
+Casement windows remain the default choice for most UK homes - simple, side- or top-hung frames that open outward and seal well against draughts. In Rugby, that means working with Victorian terraces built up around the railway works and Rugby School, with 20th-century estates towards Bilton and Hillmorton. A lot of the Victorian terraces near the school and old railway works are two-up two-down properties with fairly modest window openings, which keeps material costs down. We quote against the property in front of us rather than a generic price list, so Rugby jobs are measured and priced individually.
 
 ## Why locals choose us
 
@@ -25,16 +25,16 @@ Casement windows remain the default choice for most UK homes — simple, side- o
 
 ## Pricing in Rugby
 
-Rugby carries a regional price factor of 0.9x the national average, a little below the UK norm, so casement windows typically run from around **£315** up to **£810** depending on size, materials and how many openings need doing — get a free quote for an exact figure for your property.
+Rugby carries a regional price factor of 0.9x the national average, a little below the UK norm, so casement windows typically run from around **£315** up to **£810** depending on size, materials and how many openings need doing - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Rugby
 
-We cover Rugby and the surrounding area, including Bilton, Hillmorton, Newbold-on-Avon, Long Lawford and Brownsover. If you're just outside these, get in touch anyway — we quote a wider radius than this list on a case-by-case basis.
+We cover Rugby and the surrounding area, including Bilton, Hillmorton, Newbold-on-Avon, Long Lawford and Brownsover. If you're just outside these, get in touch anyway - we quote a wider radius than this list on a case-by-case basis.
 
 ## Frequently asked questions
 
 **Can I get uPVC casement windows in a conservation area near Rugby?**
-It depends on the specific conservation area rules — some allow uPVC if the profile and glazing bar pattern match the original, others require timber. Check with the local planning department before ordering.
+It depends on the specific conservation area rules - some allow uPVC if the profile and glazing bar pattern match the original, others require timber. Check with the local planning department before ordering.
 
 **What's the difference between top-hung and side-hung casement windows?**
 Side-hung casements open outward like a door and give the widest opening for ventilation; top-hung casements (often called awning windows) hinge at the top and can stay open a crack even in light rain.

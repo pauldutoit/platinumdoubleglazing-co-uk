@@ -25,11 +25,11 @@ Sash window work in Dundee usually means balancing double glazing benefits again
 
 ## Pricing in Dundee
 
-Dundee sits at a 0.87x price factor relative to the national baseline, so expect a quote for a sash window replacement in the **£522–£957** range — a free survey will confirm the exact number for your property.
+Dundee sits at a 0.87x price factor relative to the national baseline, so expect a quote for a sash window replacement in the **£522–£957** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Dundee
 
-We cover Dundee and the surrounding area, including Perth, Arbroath, Montrose, Blairgowrie and Forfar. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Dundee and the surrounding area, including Perth, Arbroath, Montrose, Blairgowrie and Forfar. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

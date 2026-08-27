@@ -25,16 +25,16 @@ Most of the quotes we do in Luton are for straightforward casement replacements.
 
 ## Pricing in Luton
 
-Luton carries a regional price factor of 1.06x the national average, so a casement window replacement here typically runs from around **£371** up to **£954** — get a free quote for an exact figure for your property.
+Luton carries a regional price factor of 1.06x the national average, so a casement window replacement here typically runs from around **£371** up to **£954** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Luton
 
-We cover Luton and the surrounding area, including Bedford, Dunstable, Stevenage, Hertford and Watford. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Luton and the surrounding area, including Bedford, Dunstable, Stevenage, Hertford and Watford. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Do casement windows need planning permission in Luton?**
-Most like-for-like casement replacements do not need planning permission. The main exception is where conservation pressure is relatively light here, which generally makes like-for-like replacement more straightforward than in more heavily protected towns — in that case it is worth a quick check with the council before ordering.
+Most like-for-like casement replacements do not need planning permission. The main exception is where conservation pressure is relatively light here, which generally makes like-for-like replacement more straightforward than in more heavily protected towns - in that case it is worth a quick check with the council before ordering.
 
 **How long does a casement window installation take?**
 A typical Luton home with six to eight casement windows is usually finished in a single day by a two-person team, though larger properties or ones with tricky access can take longer.

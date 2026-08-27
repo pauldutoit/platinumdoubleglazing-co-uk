@@ -25,11 +25,11 @@ A new front door changes the look of a Leeds house more than almost any other si
 
 ## Pricing in Leeds
 
-Leeds sits at a 0.88x price factor relative to the national baseline, so expect a quote for a door installation in the **£748–£1584** range — a free survey will confirm the exact number for your property.
+Leeds sits at a 0.88x price factor relative to the national baseline, so expect a quote for a door installation in the **£748–£1584** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Leeds
 
-We cover Leeds and the surrounding area, including Bradford, Wakefield, Huddersfield, Harrogate and York. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Leeds and the surrounding area, including Bradford, Wakefield, Huddersfield, Harrogate and York. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
@@ -40,4 +40,4 @@ Composite doors have a solid timber-effect core that's more resistant to warping
 Multi-point locking systems, reinforced frames and toughened glass panels are all standard on the doors we fit, which is a significant step up from older single-lock doors still found on a lot of older housing in Leeds.
 
 **Can I get a matching front and back door in Leeds?**
-Yes — most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.
+Yes - most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.

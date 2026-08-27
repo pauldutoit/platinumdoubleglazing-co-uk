@@ -25,11 +25,11 @@ A tired front door is one of the quickest ways to lose heat and security in a Mi
 
 ## Pricing in Milton Keynes
 
-Milton Keynes sits at a 1.08x price factor relative to the national baseline, so expect a quote for a door installation in the **£918–£1944** range — a free survey will confirm the exact number for your property.
+Milton Keynes sits at a 1.08x price factor relative to the national baseline, so expect a quote for a door installation in the **£918–£1944** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Milton Keynes
 
-We cover Milton Keynes and the surrounding area, including Bedford, Northampton, Luton, Aylesbury and Leighton Buzzard. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Milton Keynes and the surrounding area, including Bedford, Northampton, Luton, Aylesbury and Leighton Buzzard. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
@@ -40,4 +40,4 @@ Composite doors have a solid timber-effect core that's more resistant to warping
 Multi-point locking systems, reinforced frames and toughened glass panels are all standard on the doors we fit, which is a significant step up from older single-lock doors still found on older properties in Milton Keynes.
 
 **Can I get a matching front and back door in Milton Keynes?**
-Yes — most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.
+Yes - most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.

@@ -29,12 +29,12 @@ With a local price factor of 0.9x, a bay window installation in Peterborough gen
 
 ## Areas we cover around Peterborough
 
-We cover Peterborough and the surrounding area, including Cambridge, Stamford, Spalding, March and Wisbech. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Peterborough and the surrounding area, including Cambridge, Stamford, Spalding, March and Wisbech. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Peterborough?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Peterborough?**
 Usually not for a like-for-like replacement, but conservation coverage focuses mainly on the cathedral precinct, with most residential areas outside any special restrictions, so it's worth checking if you're changing the shape or size of the existing bay.

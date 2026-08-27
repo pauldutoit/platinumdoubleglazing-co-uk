@@ -18,7 +18,7 @@ Original timber sashes are still common on Edinburgh's older streets, and replac
 ## Why locals choose us
 
 - Double-glazed sash units built to match traditional sightlines and horns
-- Experience working to conservation area guidelines where conservation controls here are some of the strictest in the UK — many properties are listed, and window styles are often tightly specified by the council
+- Experience working to conservation area guidelines where conservation controls here are some of the strictest in the UK - many properties are listed, and window styles are often tightly specified by the council
 - Draught-proofing and mechanism overhauls where full replacement isn't needed or allowed
 - The New Town's Georgian terraces and the Old Town's tall tenements make up one of the most architecturally protected city centres in Britain
 - Weight-and-cord or spring-balance mechanisms serviced or renewed as part of the job
@@ -29,12 +29,12 @@ Applying Edinburgh's 0.95x regional factor to our national range gives a typical
 
 ## Areas we cover around Edinburgh
 
-We cover Edinburgh and the surrounding area, including Livingston, Musselburgh, Bonnyrigg, Dalkeith and Penicuik. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Edinburgh and the surrounding area, including Livingston, Musselburgh, Bonnyrigg, Dalkeith and Penicuik. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Can I fit double-glazed sash windows on a listed or conservation-area property in Edinburgh?**
-Often yes, but conservation controls here are some of the strictest in the UK — many properties are listed, and window styles are often tightly specified by the council, so slimline double-glazed units that replicate the original glazing bars are usually the way through rather than a standard modern sash.
+Often yes, but conservation controls here are some of the strictest in the UK - many properties are listed, and window styles are often tightly specified by the council, so slimline double-glazed units that replicate the original glazing bars are usually the way through rather than a standard modern sash.
 
 **Is it better to repair or replace old sash windows?**
 If the timber frame itself is sound, draught-proofing and mechanism repairs are usually cheaper and can be enough. Full sash replacement makes more sense once the frame has rotted or the sash cords have failed repeatedly.

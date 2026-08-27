@@ -29,7 +29,7 @@ With a local price factor of 0.87x, a sash window replacement in Sheffield gener
 
 ## Areas we cover around Sheffield
 
-We cover Sheffield and the surrounding area, including Rotherham, Barnsley, Doncaster, Chesterfield and Worksop. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Sheffield and the surrounding area, including Rotherham, Barnsley, Doncaster, Chesterfield and Worksop. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

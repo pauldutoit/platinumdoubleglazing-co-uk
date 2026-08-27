@@ -24,7 +24,7 @@ Whether it's a tired front door or a leaking patio door, Stockton-on-Tees homeow
 
 ## Pricing in Stockton-on-Tees
 
-North East England carries a regional price factor of 0.82x the national average, so door installation in Stockton-on-Tees typically runs from around £697 up to £1476 — get a free quote for an exact figure for your property.
+North East England carries a regional price factor of 0.82x the national average, so door installation in Stockton-on-Tees typically runs from around £697 up to £1476 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Stockton-on-Tees
 
@@ -32,7 +32,7 @@ We cover Stockton-on-Tees itself plus the surrounding area, including Middlesbro
 
 ## Frequently asked questions
 
-**Composite or uPVC — which is better for a front door in Stockton-on-Tees?**
+**Composite or uPVC - which is better for a front door in Stockton-on-Tees?**
 Composite doors cost more but hold their shape and colour better over time and generally feel more solid. uPVC is the cheaper option and still performs well if budget is the main concern.
 
 **Can bifold doors be fitted to an existing opening in Stockton-on-Tees?**

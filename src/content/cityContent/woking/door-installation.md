@@ -24,7 +24,7 @@ Whether it's a tired front door or a leaking patio door, Woking homeowners usual
 
 ## Pricing in Woking
 
-South East England carries a regional price factor of 1.15x the national average, so door installation in Woking typically runs from around £977 up to £2070 — get a free quote for an exact figure for your property.
+South East England carries a regional price factor of 1.15x the national average, so door installation in Woking typically runs from around £977 up to £2070 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Woking
 

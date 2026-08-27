@@ -25,11 +25,11 @@ Original timber sashes are still common on Swindon's older streets, and replacin
 
 ## Pricing in Swindon
 
-Swindon carries a regional price factor of 0.97x the national average, so a sash window replacement here typically runs from around **£582** up to **£1067** — get a free quote for an exact figure for your property.
+Swindon carries a regional price factor of 0.97x the national average, so a sash window replacement here typically runs from around **£582** up to **£1067** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Swindon
 
-We cover Swindon and the surrounding area, including Bristol, Oxford, Chippenham, Bath and Devizes. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Swindon and the surrounding area, including Bristol, Oxford, Chippenham, Bath and Devizes. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

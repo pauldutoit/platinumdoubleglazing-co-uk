@@ -29,12 +29,12 @@ With a local price factor of 0.92x, a bay window installation in Ipswich general
 
 ## Areas we cover around Ipswich
 
-We cover Ipswich and the surrounding area, including Bury St Edmunds, Lowestoft, Felixstowe, Colchester and Stowmarket. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Ipswich and the surrounding area, including Bury St Edmunds, Lowestoft, Felixstowe, Colchester and Stowmarket. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Ipswich?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Ipswich?**
 Usually not for a like-for-like replacement, but the historic Lanes and waterfront conservation areas cover much of what survives of the old town, so it's worth checking if you're changing the shape or size of the existing bay.

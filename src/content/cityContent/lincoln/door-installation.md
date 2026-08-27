@@ -24,7 +24,7 @@ Whether it's a tired front door or a leaking patio door, Lincoln homeowners usua
 
 ## Pricing in Lincoln
 
-East Midlands carries a regional price factor of 0.86x the national average, so door installation in Lincoln typically runs from around £731 up to £1548 — get a free quote for an exact figure for your property.
+East Midlands carries a regional price factor of 0.86x the national average, so door installation in Lincoln typically runs from around £731 up to £1548 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Lincoln
 
@@ -32,7 +32,7 @@ We cover Lincoln itself plus the surrounding area, including Grantham, Gainsboro
 
 ## Frequently asked questions
 
-**Composite or uPVC — which is better for a front door in Lincoln?**
+**Composite or uPVC - which is better for a front door in Lincoln?**
 Composite doors cost more but hold their shape and colour better over time and generally feel more solid. uPVC is the cheaper option and still performs well if budget is the main concern.
 
 **Can bifold doors be fitted to an existing opening in Lincoln?**

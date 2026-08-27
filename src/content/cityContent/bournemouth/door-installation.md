@@ -24,7 +24,7 @@ Whether it's a tired front door or a leaking patio door, Bournemouth homeowners 
 
 ## Pricing in Bournemouth
 
-South West England carries a regional price factor of 0.99x the national average, so door installation in Bournemouth typically runs from around £842 up to £1782 — get a free quote for an exact figure for your property.
+South West England carries a regional price factor of 0.99x the national average, so door installation in Bournemouth typically runs from around £842 up to £1782 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Bournemouth
 
@@ -32,7 +32,7 @@ We cover Bournemouth itself plus the surrounding area, including Poole, Christch
 
 ## Frequently asked questions
 
-**Composite or uPVC — which is better for a front door in Bournemouth?**
+**Composite or uPVC - which is better for a front door in Bournemouth?**
 Composite doors cost more but hold their shape and colour better over time and generally feel more solid. uPVC is the cheaper option and still performs well if budget is the main concern.
 
 **Can bifold doors be fitted to an existing opening in Bournemouth?**

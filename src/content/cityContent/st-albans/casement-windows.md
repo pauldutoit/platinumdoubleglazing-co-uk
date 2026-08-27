@@ -24,7 +24,7 @@ If you're comparing quotes for casement windows in St Albans, here's what actual
 
 ## Pricing in St Albans
 
-East of England carries a regional price factor of 1.16x the national average, so casement window installation in St Albans typically runs from around £406 up to £1044 — get a free quote for an exact figure for your property.
+East of England carries a regional price factor of 1.16x the national average, so casement window installation in St Albans typically runs from around £406 up to £1044 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around St Albans
 
@@ -39,4 +39,4 @@ Most like-for-like replacements don't need planning permission. Parts of St Alba
 A typical home with six to eight casement windows is usually finished within a day or two by a two-person team. Larger properties, or ones mixing in bay windows, will take longer.
 
 **Can I replace just one or two windows instead of the whole house?**
-Yes — plenty of jobs in St Albans are one or two windows rather than a full re-glaze, and pricing simply scales to however many you need.
+Yes - plenty of jobs in St Albans are one or two windows rather than a full re-glaze, and pricing simply scales to however many you need.

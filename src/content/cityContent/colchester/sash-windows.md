@@ -29,7 +29,7 @@ With a local price factor of 0.99x, a sash window replacement in Colchester gene
 
 ## Areas we cover around Colchester
 
-We cover Colchester and the surrounding area, including Ipswich, Chelmsford, Clacton-on-Sea, Braintree and Halstead. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Colchester and the surrounding area, including Ipswich, Chelmsford, Clacton-on-Sea, Braintree and Halstead. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

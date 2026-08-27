@@ -29,12 +29,12 @@ Applying Bradford's 0.86x regional factor to our national range gives a typical 
 
 ## Areas we cover around Bradford
 
-We cover Bradford and the surrounding area, including Leeds, Keighley, Bingley, Shipley and Ilkley. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Bradford and the surrounding area, including Leeds, Keighley, Bingley, Shipley and Ilkley. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Bradford?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Bradford?**
 Usually not for a like-for-like replacement, but the nearby UNESCO village of Saltaire sets the tone for conservation expectations across several of Bradford's older residential areas, so it's worth checking if you're changing the shape or size of the existing bay.

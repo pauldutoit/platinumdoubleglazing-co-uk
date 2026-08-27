@@ -25,16 +25,16 @@ A lot of Birmingham's older houses have bay-fronted living rooms, which changes 
 
 ## Pricing in Birmingham
 
-Birmingham carries a regional price factor of 0.92x the national average, so a bay window installation here typically runs from around **£1104** up to **£2944** — get a free quote for an exact figure for your property.
+Birmingham carries a regional price factor of 0.92x the national average, so a bay window installation here typically runs from around **£1104** up to **£2944** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Birmingham
 
-We cover Birmingham and the surrounding area, including Wolverhampton, Coventry, Solihull, Walsall and Dudley. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Birmingham and the surrounding area, including Wolverhampton, Coventry, Solihull, Walsall and Dudley. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Birmingham?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Birmingham?**
 Usually not for a like-for-like replacement, but leafy suburbs such as Edgbaston and Moseley have conservation area status, which can affect what is allowed on a street-facing elevation, so it's worth checking if you're changing the shape or size of the existing bay.

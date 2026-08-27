@@ -29,7 +29,7 @@ With a local price factor of 0.88x, a sash window replacement in Leeds generally
 
 ## Areas we cover around Leeds
 
-We cover Leeds and the surrounding area, including Bradford, Wakefield, Huddersfield, Harrogate and York. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Leeds and the surrounding area, including Bradford, Wakefield, Huddersfield, Harrogate and York. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

@@ -24,7 +24,7 @@ Whether it's a tired front door or a leaking patio door, Warrington homeowners u
 
 ## Pricing in Warrington
 
-North West England carries a regional price factor of 0.91x the national average, so door installation in Warrington typically runs from around £774 up to £1638 — get a free quote for an exact figure for your property.
+North West England carries a regional price factor of 0.91x the national average, so door installation in Warrington typically runs from around £774 up to £1638 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Warrington
 
@@ -32,7 +32,7 @@ We cover Warrington itself plus the surrounding area, including Widnes, Runcorn,
 
 ## Frequently asked questions
 
-**Composite or uPVC — which is better for a front door in Warrington?**
+**Composite or uPVC - which is better for a front door in Warrington?**
 Composite doors cost more but hold their shape and colour better over time and generally feel more solid. uPVC is the cheaper option and still performs well if budget is the main concern.
 
 **Can bifold doors be fitted to an existing opening in Warrington?**

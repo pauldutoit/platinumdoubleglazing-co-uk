@@ -68,6 +68,7 @@ const localBusinessSchema = {
       <slot />
     </main>
     <footer class="site-footer">
+      {siteConfig.disclosureText && <p class="footer-disclosure">{siteConfig.disclosureText}</p>}
       <p>{siteConfig.legalName} &middot; {siteConfig.legalAddress}</p>
       <p><a href="/mentions-legales">Legal notice</a> &middot; <a href="/politique-de-confidentialite">Privacy policy</a></p>
     </footer>

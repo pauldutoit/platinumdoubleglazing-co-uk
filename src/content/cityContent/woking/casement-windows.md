@@ -24,7 +24,7 @@ If you're comparing quotes for casement windows in Woking, here's what actually 
 
 ## Pricing in Woking
 
-South East England carries a regional price factor of 1.15x the national average, so casement window installation in Woking typically runs from around £402 up to £1035 — get a free quote for an exact figure for your property.
+South East England carries a regional price factor of 1.15x the national average, so casement window installation in Woking typically runs from around £402 up to £1035 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Woking
 
@@ -39,4 +39,4 @@ Most like-for-like replacements don't need planning permission. It's still worth
 uPVC costs less upfront and needs virtually no maintenance. Timber costs more and needs repainting every few years, but it's the closer match on Woking's Victorian properties, where the original frames were timber.
 
 **Can I replace just one or two windows instead of the whole house?**
-Yes — plenty of jobs in Woking are one or two windows rather than a full re-glaze, and pricing simply scales to however many you need.
+Yes - plenty of jobs in Woking are one or two windows rather than a full re-glaze, and pricing simply scales to however many you need.

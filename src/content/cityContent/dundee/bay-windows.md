@@ -25,16 +25,16 @@ Bay window replacement in Dundee usually comes down to getting the structure rig
 
 ## Pricing in Dundee
 
-Dundee carries a regional price factor of 0.87x the national average, so a bay window installation here typically runs from around **£1044** up to **£2784** — get a free quote for an exact figure for your property.
+Dundee carries a regional price factor of 0.87x the national average, so a bay window installation here typically runs from around **£1044** up to **£2784** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Dundee
 
-We cover Dundee and the surrounding area, including Perth, Arbroath, Montrose, Blairgowrie and Forfar. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Dundee and the surrounding area, including Perth, Arbroath, Montrose, Blairgowrie and Forfar. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Dundee?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Dundee?**
 Usually not for a like-for-like replacement, but the West End and former mill conversion areas carry conservation interest reflecting the city's industrial architecture, so it's worth checking if you're changing the shape or size of the existing bay.

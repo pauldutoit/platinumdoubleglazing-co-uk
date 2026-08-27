@@ -29,12 +29,12 @@ With a local price factor of 0.88x, a casement window replacement in Glasgow gen
 
 ## Areas we cover around Glasgow
 
-We cover Glasgow and the surrounding area, including Paisley, Motherwell, Hamilton, East Kilbride and Dumbarton. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Glasgow and the surrounding area, including Paisley, Motherwell, Hamilton, East Kilbride and Dumbarton. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Do casement windows need planning permission in Glasgow?**
-Most like-for-like casement replacements do not need planning permission. The main exception is where tenement flats in conservation areas like the West End and Dennistoun often have shared or listed elements that affect what individual owners can change — in that case it is worth a quick check with the council before ordering.
+Most like-for-like casement replacements do not need planning permission. The main exception is where tenement flats in conservation areas like the West End and Dennistoun often have shared or listed elements that affect what individual owners can change - in that case it is worth a quick check with the council before ordering.
 
 **How long does a casement window installation take?**
 A typical Glasgow home with six to eight casement windows is usually finished in a single day by a two-person team, though larger properties or ones with tricky access can take longer.

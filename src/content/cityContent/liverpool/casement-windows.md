@@ -29,12 +29,12 @@ Applying Liverpool's 0.88x regional factor to our national range gives a typical
 
 ## Areas we cover around Liverpool
 
-We cover Liverpool and the surrounding area, including Birkenhead, St Helens, Southport, Bootle and Widnes. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Liverpool and the surrounding area, including Birkenhead, St Helens, Southport, Bootle and Widnes. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Do casement windows need planning permission in Liverpool?**
-Most like-for-like casement replacements do not need planning permission. The main exception is where the Georgian Quarter and areas around Sefton Park carry conservation status — in that case it is worth a quick check with the council before ordering.
+Most like-for-like casement replacements do not need planning permission. The main exception is where the Georgian Quarter and areas around Sefton Park carry conservation status - in that case it is worth a quick check with the council before ordering.
 
 **How long does a casement window installation take?**
 A typical Liverpool home with six to eight casement windows is usually finished in a single day by a two-person team, though larger properties or ones with tricky access can take longer.

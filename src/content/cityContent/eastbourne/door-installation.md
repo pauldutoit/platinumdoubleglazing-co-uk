@@ -24,7 +24,7 @@ Whether it's a tired front door or a leaking patio door, Eastbourne homeowners u
 
 ## Pricing in Eastbourne
 
-South East England carries a regional price factor of 1x the national average, so door installation in Eastbourne typically runs from around £850 up to £1800 — get a free quote for an exact figure for your property.
+South East England carries a regional price factor of 1x the national average, so door installation in Eastbourne typically runs from around £850 up to £1800 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Eastbourne
 

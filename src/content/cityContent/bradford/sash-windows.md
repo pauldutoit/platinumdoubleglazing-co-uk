@@ -29,7 +29,7 @@ With a local price factor of 0.86x, a sash window replacement in Bradford genera
 
 ## Areas we cover around Bradford
 
-We cover Bradford and the surrounding area, including Leeds, Keighley, Bingley, Shipley and Ilkley. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Bradford and the surrounding area, including Leeds, Keighley, Bingley, Shipley and Ilkley. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

@@ -25,11 +25,11 @@ Sash window work in Southampton usually means balancing double glazing benefits 
 
 ## Pricing in Southampton
 
-Southampton sits at a 1.05x price factor relative to the national baseline, so expect a quote for a sash window replacement in the **£630–£1155** range — a free survey will confirm the exact number for your property.
+Southampton sits at a 1.05x price factor relative to the national baseline, so expect a quote for a sash window replacement in the **£630–£1155** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Southampton
 
-We cover Southampton and the surrounding area, including Portsmouth, Eastleigh, Fareham, Totton and Chandlers Ford. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Southampton and the surrounding area, including Portsmouth, Eastleigh, Fareham, Totton and Chandlers Ford. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

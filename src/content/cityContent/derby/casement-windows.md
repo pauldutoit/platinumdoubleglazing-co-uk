@@ -25,16 +25,16 @@ Most of the quotes we do in Derby are for straightforward casement replacements.
 
 ## Pricing in Derby
 
-Derby carries a regional price factor of 0.88x the national average, so a casement window replacement here typically runs from around **£308** up to **£792** — get a free quote for an exact figure for your property.
+Derby carries a regional price factor of 0.88x the national average, so a casement window replacement here typically runs from around **£308** up to **£792** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Derby
 
-We cover Derby and the surrounding area, including Nottingham, Burton upon Trent, Ilkeston, Heanor and Matlock. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Derby and the surrounding area, including Nottingham, Burton upon Trent, Ilkeston, Heanor and Matlock. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Do casement windows need planning permission in Derby?**
-Most like-for-like casement replacements do not need planning permission. The main exception is where the Cathedral Quarter carries conservation status covering some of the city's older streets — in that case it is worth a quick check with the council before ordering.
+Most like-for-like casement replacements do not need planning permission. The main exception is where the Cathedral Quarter carries conservation status covering some of the city's older streets - in that case it is worth a quick check with the council before ordering.
 
 **How long does a casement window installation take?**
 A typical Derby home with six to eight casement windows is usually finished in a single day by a two-person team, though larger properties or ones with tricky access can take longer.

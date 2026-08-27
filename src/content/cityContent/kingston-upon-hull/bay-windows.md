@@ -25,16 +25,16 @@ If your Kingston upon Hull home has a Victorian or Edwardian bay frontage, repla
 
 ## Pricing in Kingston upon Hull
 
-Kingston upon Hull carries a regional price factor of 0.84x the national average, so a bay window installation here typically runs from around **£1008** up to **£2688** — get a free quote for an exact figure for your property.
+Kingston upon Hull carries a regional price factor of 0.84x the national average, so a bay window installation here typically runs from around **£1008** up to **£2688** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Kingston upon Hull
 
-We cover Kingston upon Hull and the surrounding area, including Beverley, Cottingham, Bridlington, Goole and Brough. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Kingston upon Hull and the surrounding area, including Beverley, Cottingham, Bridlington, Goole and Brough. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Kingston upon Hull?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Kingston upon Hull?**
 Usually not for a like-for-like replacement, but the Old Town conservation area covers much of what survives of Hull's pre-war architecture, so it's worth checking if you're changing the shape or size of the existing bay.

@@ -29,7 +29,7 @@ With a local price factor of 0.9x, a sash window replacement in Wolverhampton ge
 
 ## Areas we cover around Wolverhampton
 
-We cover Wolverhampton and the surrounding area, including Birmingham, Walsall, Dudley, Telford and Cannock. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Wolverhampton and the surrounding area, including Birmingham, Walsall, Dudley, Telford and Cannock. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

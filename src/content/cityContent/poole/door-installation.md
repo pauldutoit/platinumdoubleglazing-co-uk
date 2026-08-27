@@ -24,7 +24,7 @@ Whether it's a tired front door or a leaking patio door, Poole homeowners usuall
 
 ## Pricing in Poole
 
-South West England carries a regional price factor of 1x the national average, so door installation in Poole typically runs from around £850 up to £1800 — get a free quote for an exact figure for your property.
+South West England carries a regional price factor of 1x the national average, so door installation in Poole typically runs from around £850 up to £1800 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Poole
 
@@ -32,7 +32,7 @@ We cover Poole itself plus the surrounding area, including Bournemouth, Christch
 
 ## Frequently asked questions
 
-**Composite or uPVC — which is better for a front door in Poole?**
+**Composite or uPVC - which is better for a front door in Poole?**
 Composite doors cost more but hold their shape and colour better over time and generally feel more solid. uPVC is the cheaper option and still performs well if budget is the main concern.
 
 **Can bifold doors be fitted to an existing opening in Poole?**

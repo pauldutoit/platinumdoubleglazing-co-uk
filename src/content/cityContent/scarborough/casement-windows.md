@@ -13,7 +13,7 @@ generatedBy: "llm"
 
 ## Scarborough homeowners' guide to casement windows
 
-Casement windows remain the default choice for most UK homes — simple, side- or top-hung frames that open outward and seal well against draughts. In Scarborough, that means working with Victorian and Edwardian seafront terraces and guesthouses around North Bay and South Bay, with the castle headland between them. The seafront properties take a real battering from salt spray and onshore wind, so we usually recommend marine-grade hardware and good drainage on anything facing the sea. We quote against the property in front of us rather than a generic price list, so Scarborough jobs are measured and priced individually.
+Casement windows remain the default choice for most UK homes - simple, side- or top-hung frames that open outward and seal well against draughts. In Scarborough, that means working with Victorian and Edwardian seafront terraces and guesthouses around North Bay and South Bay, with the castle headland between them. The seafront properties take a real battering from salt spray and onshore wind, so we usually recommend marine-grade hardware and good drainage on anything facing the sea. We quote against the property in front of us rather than a generic price list, so Scarborough jobs are measured and priced individually.
 
 ## Why locals choose us
 
@@ -25,16 +25,16 @@ Casement windows remain the default choice for most UK homes — simple, side- o
 
 ## Pricing in Scarborough
 
-Scarborough carries a regional price factor of 0.86x the national average, a little below the UK norm, so casement windows typically run from around **£301** up to **£774** depending on size, materials and how many openings need doing — get a free quote for an exact figure for your property.
+Scarborough carries a regional price factor of 0.86x the national average, a little below the UK norm, so casement windows typically run from around **£301** up to **£774** depending on size, materials and how many openings need doing - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Scarborough
 
-We cover Scarborough and the surrounding area, including North Bay, South Bay, Falsgrave, Scalby and Filey. If you're just outside these, get in touch anyway — we quote a wider radius than this list on a case-by-case basis.
+We cover Scarborough and the surrounding area, including North Bay, South Bay, Falsgrave, Scalby and Filey. If you're just outside these, get in touch anyway - we quote a wider radius than this list on a case-by-case basis.
 
 ## Frequently asked questions
 
 **Can I get uPVC casement windows in a conservation area near Scarborough?**
-It depends on the specific conservation area rules — some allow uPVC if the profile and glazing bar pattern match the original, others require timber. Check with the local planning department before ordering.
+It depends on the specific conservation area rules - some allow uPVC if the profile and glazing bar pattern match the original, others require timber. Check with the local planning department before ordering.
 
 **What's the difference between top-hung and side-hung casement windows?**
 Side-hung casements open outward like a door and give the widest opening for ventilation; top-hung casements (often called awning windows) hinge at the top and can stay open a crack even in light rain.

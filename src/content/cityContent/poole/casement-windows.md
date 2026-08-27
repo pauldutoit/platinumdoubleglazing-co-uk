@@ -24,7 +24,7 @@ If you're comparing quotes for casement windows in Poole, here's what actually a
 
 ## Pricing in Poole
 
-South West England carries a regional price factor of 1x the national average, so casement window installation in Poole typically runs from around £350 up to £900 — get a free quote for an exact figure for your property.
+South West England carries a regional price factor of 1x the national average, so casement window installation in Poole typically runs from around £350 up to £900 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Poole
 
@@ -39,4 +39,4 @@ Most like-for-like replacements don't need planning permission. It's still worth
 A typical home with six to eight casement windows is usually finished within a day or two by a two-person team. Larger properties, or ones mixing in bay windows, will take longer.
 
 **Can I replace just one or two windows instead of the whole house?**
-Yes — plenty of jobs in Poole are one or two windows rather than a full re-glaze, and pricing simply scales to however many you need.
+Yes - plenty of jobs in Poole are one or two windows rather than a full re-glaze, and pricing simply scales to however many you need.

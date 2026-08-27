@@ -13,7 +13,7 @@ generatedBy: "llm"
 
 ## Casement Windows for Worthing homes
 
-Casement windows remain the default choice for most UK homes — simple, side- or top-hung frames that open outward and seal well against draughts. In Worthing, that means working with Regency and Victorian seafront terraces and villas, with a strong retirement-age population along the coast road. The seafront terraces get regular salt-laden wind off the Channel, so we usually flag drainage and hardware quality as worth the small extra spend on properties close to the promenade. We quote against the property in front of us rather than a generic price list, so Worthing jobs are measured and priced individually.
+Casement windows remain the default choice for most UK homes - simple, side- or top-hung frames that open outward and seal well against draughts. In Worthing, that means working with Regency and Victorian seafront terraces and villas, with a strong retirement-age population along the coast road. The seafront terraces get regular salt-laden wind off the Channel, so we usually flag drainage and hardware quality as worth the small extra spend on properties close to the promenade. We quote against the property in front of us rather than a generic price list, so Worthing jobs are measured and priced individually.
 
 ## Why locals choose us
 
@@ -25,16 +25,16 @@ Casement windows remain the default choice for most UK homes — simple, side- o
 
 ## Pricing in Worthing
 
-Worthing carries a regional price factor of 1.02x the national average, reflecting higher local labour and living costs, so casement windows typically run from around **£357** up to **£918** depending on size, materials and how many openings need doing — get a free quote for an exact figure for your property.
+Worthing carries a regional price factor of 1.02x the national average, reflecting higher local labour and living costs, so casement windows typically run from around **£357** up to **£918** depending on size, materials and how many openings need doing - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Worthing
 
-We cover Worthing and the surrounding area, including Broadwater, Tarring, Goring-by-Sea, Lancing and Findon Valley. If you're just outside these, get in touch anyway — we quote a wider radius than this list on a case-by-case basis.
+We cover Worthing and the surrounding area, including Broadwater, Tarring, Goring-by-Sea, Lancing and Findon Valley. If you're just outside these, get in touch anyway - we quote a wider radius than this list on a case-by-case basis.
 
 ## Frequently asked questions
 
 **Can I get uPVC casement windows in a conservation area near Worthing?**
-It depends on the specific conservation area rules — some allow uPVC if the profile and glazing bar pattern match the original, others require timber. Check with the local planning department before ordering.
+It depends on the specific conservation area rules - some allow uPVC if the profile and glazing bar pattern match the original, others require timber. Check with the local planning department before ordering.
 
 **What's the difference between top-hung and side-hung casement windows?**
 Side-hung casements open outward like a door and give the widest opening for ventilation; top-hung casements (often called awning windows) hinge at the top and can stay open a crack even in light rain.

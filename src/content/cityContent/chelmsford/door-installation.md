@@ -25,11 +25,11 @@ A tired front door is one of the quickest ways to lose heat and security in a Ch
 
 ## Pricing in Chelmsford
 
-Chelmsford carries a regional price factor of 1.05x the national average, so a door installation here typically runs from around **£893** up to **£1890** — get a free quote for an exact figure for your property.
+Chelmsford carries a regional price factor of 1.05x the national average, so a door installation here typically runs from around **£893** up to **£1890** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Chelmsford
 
-We cover Chelmsford and the surrounding area, including Colchester, Southend-on-Sea, Basildon, Braintree and Witham. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Chelmsford and the surrounding area, including Colchester, Southend-on-Sea, Basildon, Braintree and Witham. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
@@ -40,4 +40,4 @@ Composite doors have a solid timber-effect core that's more resistant to warping
 Multi-point locking systems, reinforced frames and toughened glass panels are all standard on the doors we fit, which is a significant step up from older single-lock doors still found on a lot of older housing in Chelmsford.
 
 **Can I get a matching front and back door in Chelmsford?**
-Yes — most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.
+Yes - most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.

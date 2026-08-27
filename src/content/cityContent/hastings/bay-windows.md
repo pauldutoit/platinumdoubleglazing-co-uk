@@ -13,7 +13,7 @@ generatedBy: "llm"
 
 ## Replacing bay windows across Hastings
 
-Bay window installation in Hastings tends to cost more than people expect, mostly because of what's involved structurally. The fishing heritage and cliffside setting give it a very different character from the more formal resorts along the coast like Eastbourne. Get a surveyor out before you settle on a price — bay jobs vary a lot more than standard windows.
+Bay window installation in Hastings tends to cost more than people expect, mostly because of what's involved structurally. The fishing heritage and cliffside setting give it a very different character from the more formal resorts along the coast like Eastbourne. Get a surveyor out before you settle on a price - bay jobs vary a lot more than standard windows.
 
 ## Why locals choose us
 
@@ -33,10 +33,10 @@ Coverage extends beyond Hastings out to Eastbourne, Bexhill, Rye, Battle and Tun
 ## Frequently asked questions
 
 **Does a bay window replacement in Hastings need planning permission?**
-Usually not for a like-for-like replacement, but altering the shape or size of the bay, or working on a listed building, can trigger the need for permission — worth checking with the council first.
+Usually not for a like-for-like replacement, but altering the shape or size of the bay, or working on a listed building, can trigger the need for permission - worth checking with the council first.
 
 **How long does bay window installation take?**
 A single bay window usually takes one to two days, mostly because of the extra structural checks and multiple panes involved compared with a standard window.
 
 **Do bay windows cost more to replace than standard windows in Hastings?**
-Yes, generally — a bay involves multiple panes, angled joints and often some support work above it, which is why bay jobs are priced well above a single standard window.
+Yes, generally - a bay involves multiple panes, angled joints and often some support work above it, which is why bay jobs are priced well above a single standard window.

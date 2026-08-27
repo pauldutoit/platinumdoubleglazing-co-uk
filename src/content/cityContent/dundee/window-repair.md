@@ -29,15 +29,15 @@ Applying Dundee's 0.87x regional factor to our national range gives a typical co
 
 ## Areas we cover around Dundee
 
-We cover Dundee and the surrounding area, including Perth, Arbroath, Montrose, Blairgowrie and Forfar. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Dundee and the surrounding area, including Perth, Arbroath, Montrose, Blairgowrie and Forfar. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why has my double glazing gone misty or cloudy?**
-That's almost always a failed seal letting moisture into the gap between the panes. It doesn't mean the whole window needs replacing — usually just the glazed unit itself, which is a much cheaper repair.
+That's almost always a failed seal letting moisture into the gap between the panes. It doesn't mean the whole window needs replacing - usually just the glazed unit itself, which is a much cheaper repair.
 
 **How quickly can you fix a broken or draughty window in Dundee?**
 Straightforward repairs like a failed unit or a stiff hinge can usually be booked within a few days, and we treat security issues like a broken lock or smashed pane as more urgent than routine work.
 
 **Is it worth repairing an old window instead of replacing it in Dundee?**
-Often yes, especially where the West End and former mill conversion areas carry conservation interest reflecting the city's industrial architecture or the frame itself is still structurally sound — a repair can add years of useful life for a fraction of the cost of full replacement.
+Often yes, especially where the West End and former mill conversion areas carry conservation interest reflecting the city's industrial architecture or the frame itself is still structurally sound - a repair can add years of useful life for a fraction of the cost of full replacement.

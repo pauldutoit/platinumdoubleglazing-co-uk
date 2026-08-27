@@ -24,7 +24,7 @@ Whether it's a tired front door or a leaking patio door, Burnley homeowners usua
 
 ## Pricing in Burnley
 
-North West England carries a regional price factor of 0.83x the national average, so door installation in Burnley typically runs from around £706 up to £1494 — get a free quote for an exact figure for your property.
+North West England carries a regional price factor of 0.83x the national average, so door installation in Burnley typically runs from around £706 up to £1494 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Burnley
 

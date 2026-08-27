@@ -25,16 +25,16 @@ Bay windows stick out from the house in a run of angled panels rather than sitti
 
 ## Pricing in Tamworth
 
-Tamworth carries a regional price factor of 0.9x the national average, a little below the UK norm, so bay windows typically run from around **£1080** up to **£2880** depending on size, materials and how many openings need doing — get a free quote for an exact figure for your property.
+Tamworth carries a regional price factor of 0.9x the national average, a little below the UK norm, so bay windows typically run from around **£1080** up to **£2880** depending on size, materials and how many openings need doing - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Tamworth
 
-We cover Tamworth and the surrounding area, including Amington, Belgrave, Glascote, Wilnecote and Fazeley. If you're just outside these, get in touch anyway — we quote a wider radius than this list on a case-by-case basis.
+We cover Tamworth and the surrounding area, including Amington, Belgrave, Glascote, Wilnecote and Fazeley. If you're just outside these, get in touch anyway - we quote a wider radius than this list on a case-by-case basis.
 
 ## Frequently asked questions
 
 **Does a leaking bay window roof need fixing before the windows are replaced?**
-Yes, generally — a bay roof or lead flashing that's letting water in will keep damaging the new frame underneath it, so most installers will want to check and, if needed, quote for that separately.
+Yes, generally - a bay roof or lead flashing that's letting water in will keep damaging the new frame underneath it, so most installers will want to check and, if needed, quote for that separately.
 
 **How long does a bay window installation take in Tamworth?**
 A straightforward bay replacement usually takes a full day; if the roof structure above the bay also needs attention, allow one to two extra days.

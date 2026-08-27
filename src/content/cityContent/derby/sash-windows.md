@@ -29,7 +29,7 @@ With a local price factor of 0.88x, a sash window replacement in Derby generally
 
 ## Areas we cover around Derby
 
-We cover Derby and the surrounding area, including Nottingham, Burton upon Trent, Ilkeston, Heanor and Matlock. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Derby and the surrounding area, including Nottingham, Burton upon Trent, Ilkeston, Heanor and Matlock. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

@@ -29,12 +29,12 @@ With a local price factor of 1.14x, a bay window installation in Cambridge gener
 
 ## Areas we cover around Cambridge
 
-We cover Cambridge and the surrounding area, including Ely, Huntingdon, St Ives, Newmarket and Royston. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Cambridge and the surrounding area, including Ely, Huntingdon, St Ives, Newmarket and Royston. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Cambridge?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Cambridge?**
 Usually not for a like-for-like replacement, but the historic centre and college precincts carry strict conservation controls affecting what can be fitted on street-facing elevations, so it's worth checking if you're changing the shape or size of the existing bay.

@@ -29,7 +29,7 @@ Applying Nottingham's 0.89x regional factor to our national range gives a typica
 
 ## Areas we cover around Nottingham
 
-We cover Nottingham and the surrounding area, including Derby, Mansfield, Beeston, Long Eaton and Hucknall. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Nottingham and the surrounding area, including Derby, Mansfield, Beeston, Long Eaton and Hucknall. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

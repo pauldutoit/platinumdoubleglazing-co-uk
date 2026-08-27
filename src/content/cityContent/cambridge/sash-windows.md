@@ -25,11 +25,11 @@ A lot of period properties in Cambridge still have their original box sash windo
 
 ## Pricing in Cambridge
 
-Cambridge carries a regional price factor of 1.14x the national average, so a sash window replacement here typically runs from around **£684** up to **£1254** — get a free quote for an exact figure for your property.
+Cambridge carries a regional price factor of 1.14x the national average, so a sash window replacement here typically runs from around **£684** up to **£1254** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Cambridge
 
-We cover Cambridge and the surrounding area, including Ely, Huntingdon, St Ives, Newmarket and Royston. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Cambridge and the surrounding area, including Ely, Huntingdon, St Ives, Newmarket and Royston. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

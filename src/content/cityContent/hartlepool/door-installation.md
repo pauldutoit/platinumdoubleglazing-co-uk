@@ -24,7 +24,7 @@ Whether it's a tired front door or a leaking patio door, Hartlepool homeowners u
 
 ## Pricing in Hartlepool
 
-North East England carries a regional price factor of 0.81x the national average, so door installation in Hartlepool typically runs from around £689 up to £1458 — get a free quote for an exact figure for your property.
+North East England carries a regional price factor of 0.81x the national average, so door installation in Hartlepool typically runs from around £689 up to £1458 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Hartlepool
 

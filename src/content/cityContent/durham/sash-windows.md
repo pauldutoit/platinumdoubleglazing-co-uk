@@ -36,7 +36,7 @@ As well as Durham, we take on jobs across nearby Sunderland, Middlesbrough, Darl
 Standard sash replacements usually don't need planning permission unless the property is listed. Given how much of Durham sits within conservation areas, it's worth checking before ordering.
 
 **Do sash window replacements in Durham have to be timber?**
-No — uPVC and timber-composite sash options can replicate a medieval and Georgian glazing bar pattern at a lower price than solid timber, though timber is usually still preferred where a conservation officer is involved.
+No - uPVC and timber-composite sash options can replicate a medieval and Georgian glazing bar pattern at a lower price than solid timber, though timber is usually still preferred where a conservation officer is involved.
 
 **How many panes do original sash windows in Durham typically have?**
-It varies by period, but many medieval and Georgian sashes were built with a six-over-six or two-over-two pane arrangement — matching that pattern matters more to the overall look than people expect.
+It varies by period, but many medieval and Georgian sashes were built with a six-over-six or two-over-two pane arrangement - matching that pattern matters more to the overall look than people expect.

@@ -24,7 +24,7 @@ If you're comparing quotes for casement windows in Salford, here's what actually
 
 ## Pricing in Salford
 
-North West England carries a regional price factor of 0.89x the national average, so casement window installation in Salford typically runs from around £312 up to £801 — get a free quote for an exact figure for your property.
+North West England carries a regional price factor of 0.89x the national average, so casement window installation in Salford typically runs from around £312 up to £801 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Salford
 
@@ -39,4 +39,4 @@ Most like-for-like replacements don't need planning permission. It's still worth
 uPVC costs less upfront and needs virtually no maintenance. Timber costs more and needs repainting every few years, but it's the closer match on Salford's Victorian properties, where the original frames were timber.
 
 **Can I replace just one or two windows instead of the whole house?**
-Yes — plenty of jobs in Salford are one or two windows rather than a full re-glaze, and pricing simply scales to however many you need.
+Yes - plenty of jobs in Salford are one or two windows rather than a full re-glaze, and pricing simply scales to however many you need.

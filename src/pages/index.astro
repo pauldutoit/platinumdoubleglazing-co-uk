@@ -22,15 +22,20 @@ const faqSchema = {
   <script slot="head" type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
 
   <section class="hero">
-    <div class="container">
-      <span class="eyebrow">{siteConfig.nicheLabel}</span>
-      <h1>{siteConfig.tagline}</h1>
-      <p class="lede">{siteConfig.subTagline}</p>
-      <div class="cta-row">
+    <div class="container hero-grid">
+      <div class="hero-content">
+        <span class="eyebrow">{siteConfig.nicheLabel}</span>
+        <h1>{siteConfig.tagline}</h1>
+        <p class="lede">{siteConfig.subTagline}</p>
         {siteConfig.phoneEnabled !== false && (
-          <a class="btn btn-accent" href={telHref}>Call {siteConfig.phone}</a>
+          <div class="cta-row">
+            <a class="btn btn-accent" href={telHref}>Call {siteConfig.phone}</a>
+          </div>
         )}
-        <a class={siteConfig.phoneEnabled !== false ? 'btn btn-outline' : 'btn btn-accent'} href="#quote">Get a free quote</a>
+      </div>
+      <div class="hero-form-card card">
+        <h2>Get a free quote</h2>
+        <ContactForm />
       </div>
     </div>
   </section>
@@ -129,14 +134,4 @@ const faqSchema = {
       </div>
     </section>
   )}
-
-  <section class="section" id="quote">
-    <div class="container">
-      <div class="section-title">
-        <h2>Get a free quote</h2>
-        <p>Tell us what you need, we'll get back to you fast.</p>
-      </div>
-      <ContactForm />
-    </div>
-  </section>
 </BaseLayout>

@@ -24,7 +24,7 @@ Whether it's a tired front door or a leaking patio door, Telford homeowners usua
 
 ## Pricing in Telford
 
-West Midlands carries a regional price factor of 0.88x the national average, so door installation in Telford typically runs from around £748 up to £1584 — get a free quote for an exact figure for your property.
+West Midlands carries a regional price factor of 0.88x the national average, so door installation in Telford typically runs from around £748 up to £1584 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Telford
 

@@ -29,12 +29,12 @@ With a local price factor of 0.98x, a bay window installation in Bristol general
 
 ## Areas we cover around Bristol
 
-We cover Bristol and the surrounding area, including Bath, Clevedon, Nailsea, Keynsham and Portishead. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Bristol and the surrounding area, including Bath, Clevedon, Nailsea, Keynsham and Portishead. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Bristol?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Bristol?**
 Usually not for a like-for-like replacement, but clifton and Redland have extensive conservation area coverage, meaning window replacements often need to match the original glazing pattern, so it's worth checking if you're changing the shape or size of the existing bay.

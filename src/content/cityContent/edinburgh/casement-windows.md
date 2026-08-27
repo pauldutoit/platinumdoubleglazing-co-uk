@@ -13,7 +13,7 @@ generatedBy: "llm"
 
 ## Casement windows for Edinburgh's Georgian New Town and Old Town tenements
 
-When homeowners in Edinburgh think about replacing old windows, casements are usually the starting point. As Scotland's capital and a UNESCO World Heritage city, Edinburgh has an unusually large share of listed and conservation-protected buildings for its size, which is part of why casement replacement is such a common job here. Given that conservation controls here are some of the strictest in the UK — many properties are listed, and window styles are often tightly specified by the council, most casement jobs still go through without complication as long as the style matches what's already there.
+When homeowners in Edinburgh think about replacing old windows, casements are usually the starting point. As Scotland's capital and a UNESCO World Heritage city, Edinburgh has an unusually large share of listed and conservation-protected buildings for its size, which is part of why casement replacement is such a common job here. Given that conservation controls here are some of the strictest in the UK - many properties are listed, and window styles are often tightly specified by the council, most casement jobs still go through without complication as long as the style matches what's already there.
 
 ## Why locals choose us
 
@@ -29,12 +29,12 @@ With a local price factor of 0.95x, a casement window replacement in Edinburgh g
 
 ## Areas we cover around Edinburgh
 
-We cover Edinburgh and the surrounding area, including Livingston, Musselburgh, Bonnyrigg, Dalkeith and Penicuik. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Edinburgh and the surrounding area, including Livingston, Musselburgh, Bonnyrigg, Dalkeith and Penicuik. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Do casement windows need planning permission in Edinburgh?**
-Most like-for-like casement replacements do not need planning permission. The main exception is where conservation controls here are some of the strictest in the UK — many properties are listed, and window styles are often tightly specified by the council — in that case it is worth a quick check with the council before ordering.
+Most like-for-like casement replacements do not need planning permission. The main exception is where conservation controls here are some of the strictest in the UK - many properties are listed, and window styles are often tightly specified by the council - in that case it is worth a quick check with the council before ordering.
 
 **How long does a casement window installation take?**
 A typical Edinburgh home with six to eight casement windows is usually finished in a single day by a two-person team, though larger properties or ones with tricky access can take longer.

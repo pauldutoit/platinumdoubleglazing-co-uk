@@ -25,16 +25,16 @@ Bay windows bring in more natural light than almost any other window style, whic
 
 ## Pricing in Norwich
 
-Norwich carries a regional price factor of 0.91x the national average, so a bay window installation here typically runs from around **£1092** up to **£2912** — get a free quote for an exact figure for your property.
+Norwich carries a regional price factor of 0.91x the national average, so a bay window installation here typically runs from around **£1092** up to **£2912** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Norwich
 
-We cover Norwich and the surrounding area, including Great Yarmouth, King's Lynn, Thetford, Lowestoft and Dereham. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Norwich and the surrounding area, including Great Yarmouth, King's Lynn, Thetford, Lowestoft and Dereham. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Norwich?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Norwich?**
 Usually not for a like-for-like replacement, but a very large conservation area covers the historic centre, with correspondingly detailed rules on window replacement, so it's worth checking if you're changing the shape or size of the existing bay.

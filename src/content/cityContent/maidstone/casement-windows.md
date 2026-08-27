@@ -24,7 +24,7 @@ If you're comparing quotes for casement windows in Maidstone, here's what actual
 
 ## Pricing in Maidstone
 
-South East England carries a regional price factor of 1.04x the national average, so casement window installation in Maidstone typically runs from around £364 up to £936 — get a free quote for an exact figure for your property.
+South East England carries a regional price factor of 1.04x the national average, so casement window installation in Maidstone typically runs from around £364 up to £936 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Maidstone
 

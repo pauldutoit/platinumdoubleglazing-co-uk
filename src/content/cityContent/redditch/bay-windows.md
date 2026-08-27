@@ -13,7 +13,7 @@ generatedBy: "llm"
 
 ## Getting bay windows right in Redditch
 
-Because a bay window projects out from the building line, replacing one is more involved than a standard casement — the structural support and roofline above it both need assessing. In Redditch, that means working with a mix of 1960s-70s New Town housing built when Redditch was designated to take overspill from Birmingham, plus an older core around the needle-making heritage. A lot of the New Town housing uses standardised timber or steel-frame openings from the 60s and 70s, which is actually one of the easier retrofits once the original size is confirmed. We quote against the property in front of us rather than a generic price list, so Redditch jobs are measured and priced individually.
+Because a bay window projects out from the building line, replacing one is more involved than a standard casement - the structural support and roofline above it both need assessing. In Redditch, that means working with a mix of 1960s-70s New Town housing built when Redditch was designated to take overspill from Birmingham, plus an older core around the needle-making heritage. A lot of the New Town housing uses standardised timber or steel-frame openings from the 60s and 70s, which is actually one of the easier retrofits once the original size is confirmed. We quote against the property in front of us rather than a generic price list, so Redditch jobs are measured and priced individually.
 
 ## Why locals choose us
 
@@ -25,11 +25,11 @@ Because a bay window projects out from the building line, replacing one is more 
 
 ## Pricing in Redditch
 
-Redditch carries a regional price factor of 0.89x the national average, a little below the UK norm, so bay windows typically run from around **£1068** up to **£2848** depending on size, materials and how many openings need doing — get a free quote for an exact figure for your property.
+Redditch carries a regional price factor of 0.89x the national average, a little below the UK norm, so bay windows typically run from around **£1068** up to **£2848** depending on size, materials and how many openings need doing - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Redditch
 
-We cover Redditch and the surrounding area, including Batchley, Church Hill, Woodrow, Matchborough and Astwood Bank. If you're just outside these, get in touch anyway — we quote a wider radius than this list on a case-by-case basis.
+We cover Redditch and the surrounding area, including Batchley, Church Hill, Woodrow, Matchborough and Astwood Bank. If you're just outside these, get in touch anyway - we quote a wider radius than this list on a case-by-case basis.
 
 ## Frequently asked questions
 
@@ -40,4 +40,4 @@ A straightforward bay replacement usually takes a full day; if the roof structur
 A bay is really three or more windows joined at angles, plus the roof or box structure above it, so both materials and labour scale up compared with a single flat casement or sash.
 
 **Does a leaking bay window roof need fixing before the windows are replaced?**
-Yes, generally — a bay roof or lead flashing that's letting water in will keep damaging the new frame underneath it, so most installers will want to check and, if needed, quote for that separately.
+Yes, generally - a bay roof or lead flashing that's letting water in will keep damaging the new frame underneath it, so most installers will want to check and, if needed, quote for that separately.

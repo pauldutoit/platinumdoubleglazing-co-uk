@@ -29,7 +29,7 @@ Applying Northampton's 0.92x regional factor to our national range gives a typic
 
 ## Areas we cover around Northampton
 
-We cover Northampton and the surrounding area, including Wellingborough, Kettering, Daventry, Rushden and Towcester. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Northampton and the surrounding area, including Wellingborough, Kettering, Daventry, Rushden and Towcester. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

@@ -25,11 +25,11 @@ If you're dealing with draughty, hard-to-open sash windows in Leicester, you're 
 
 ## Pricing in Leicester
 
-Leicester sits at a 0.89x price factor relative to the national baseline, so expect a quote for a sash window replacement in the **£534–£979** range — a free survey will confirm the exact number for your property.
+Leicester sits at a 0.89x price factor relative to the national baseline, so expect a quote for a sash window replacement in the **£534–£979** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Leicester
 
-We cover Leicester and the surrounding area, including Loughborough, Hinckley, Coalville, Melton Mowbray and Market Harborough. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Leicester and the surrounding area, including Loughborough, Hinckley, Coalville, Melton Mowbray and Market Harborough. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

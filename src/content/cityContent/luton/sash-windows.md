@@ -29,7 +29,7 @@ With a local price factor of 1.06x, a sash window replacement in Luton generally
 
 ## Areas we cover around Luton
 
-We cover Luton and the surrounding area, including Bedford, Dunstable, Stevenage, Hertford and Watford. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Luton and the surrounding area, including Bedford, Dunstable, Stevenage, Hertford and Watford. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

@@ -13,7 +13,7 @@ generatedBy: "llm"
 
 ## Replacing bay windows across Brighton
 
-Bay window installation in Brighton tends to cost more than people expect, mostly because of what's involved structurally. Brighton's building stock spans Regency squares near the seafront through to Victorian terraces climbing the hills behind, with large swathes falling inside conservation areas. Get a surveyor out before you settle on a price — bay jobs vary a lot more than standard windows.
+Bay window installation in Brighton tends to cost more than people expect, mostly because of what's involved structurally. Brighton's building stock spans Regency squares near the seafront through to Victorian terraces climbing the hills behind, with large swathes falling inside conservation areas. Get a surveyor out before you settle on a price - bay jobs vary a lot more than standard windows.
 
 ## Why locals choose us
 
@@ -33,10 +33,10 @@ Coverage extends beyond Brighton out to Hove, Worthing, Eastbourne, Lewes and Sh
 ## Frequently asked questions
 
 **Does a bay window replacement in Brighton need planning permission?**
-Usually not for a like-for-like replacement, but altering the shape or size of the bay, or working on a listed building, can trigger the need for permission — worth checking with the council first.
+Usually not for a like-for-like replacement, but altering the shape or size of the bay, or working on a listed building, can trigger the need for permission - worth checking with the council first.
 
 **Can you replace just the glass in a bay window rather than the whole frame?**
-Sometimes, if the frame is in good structural condition — but on older Regency and Victorian bays the frame and glass are often replaced together since they were built and sealed as one unit.
+Sometimes, if the frame is in good structural condition - but on older Regency and Victorian bays the frame and glass are often replaced together since they were built and sealed as one unit.
 
 **Do bay windows cost more to replace than standard windows in Brighton?**
-Yes, generally — a bay involves multiple panes, angled joints and often some support work above it, which is why bay jobs are priced well above a single standard window.
+Yes, generally - a bay involves multiple panes, angled joints and often some support work above it, which is why bay jobs are priced well above a single standard window.

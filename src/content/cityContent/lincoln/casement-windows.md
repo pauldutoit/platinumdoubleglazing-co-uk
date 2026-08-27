@@ -24,7 +24,7 @@ If you're comparing quotes for casement windows in Lincoln, here's what actually
 
 ## Pricing in Lincoln
 
-East Midlands carries a regional price factor of 0.86x the national average, so casement window installation in Lincoln typically runs from around £301 up to £774 — get a free quote for an exact figure for your property.
+East Midlands carries a regional price factor of 0.86x the national average, so casement window installation in Lincoln typically runs from around £301 up to £774 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Lincoln
 
@@ -39,4 +39,4 @@ Most like-for-like replacements don't need planning permission. Parts of Lincoln
 A typical home with six to eight casement windows is usually finished within a day or two by a two-person team. Larger properties, or ones mixing in bay windows, will take longer.
 
 **Can I replace just one or two windows instead of the whole house?**
-Yes — plenty of jobs in Lincoln are one or two windows rather than a full re-glaze, and pricing simply scales to however many you need.
+Yes - plenty of jobs in Lincoln are one or two windows rather than a full re-glaze, and pricing simply scales to however many you need.

@@ -25,16 +25,16 @@ When homeowners in Cambridge think about replacing old windows, casements are us
 
 ## Pricing in Cambridge
 
-Cambridge sits at a 1.14x price factor relative to the national baseline, so expect a quote for a casement window replacement in the **£399–£1026** range — a free survey will confirm the exact number for your property.
+Cambridge sits at a 1.14x price factor relative to the national baseline, so expect a quote for a casement window replacement in the **£399–£1026** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Cambridge
 
-We cover Cambridge and the surrounding area, including Ely, Huntingdon, St Ives, Newmarket and Royston. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Cambridge and the surrounding area, including Ely, Huntingdon, St Ives, Newmarket and Royston. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Do casement windows need planning permission in Cambridge?**
-Most like-for-like casement replacements do not need planning permission. The main exception is where the historic centre and college precincts carry strict conservation controls affecting what can be fitted on street-facing elevations — in that case it is worth a quick check with the council before ordering.
+Most like-for-like casement replacements do not need planning permission. The main exception is where the historic centre and college precincts carry strict conservation controls affecting what can be fitted on street-facing elevations - in that case it is worth a quick check with the council before ordering.
 
 **How long does a casement window installation take?**
 A typical Cambridge home with six to eight casement windows is usually finished in a single day by a two-person team, though larger properties or ones with tricky access can take longer.

@@ -13,14 +13,14 @@ generatedBy: "llm"
 
 ## Sash window specialists for Newcastle upon Tyne's period properties
 
-Sash windows are common across the older parts of Newcastle upon Tyne, and they need a different approach to a standard casement job. Exposed to the North Sea and the Tyne, Newcastle gets cold winters and strong winds that put real pressure on older single-glazed frames, and old single-glazed sashes are usually where that shows up first as draughts and heat loss. The city is known for distinctive Tyneside flats — upstairs-downstairs terraced conversions — alongside the grand Georgian streets of Grainger Town, and a lot of those original sash boxes are now decades past their expected working life.
+Sash windows are common across the older parts of Newcastle upon Tyne, and they need a different approach to a standard casement job. Exposed to the North Sea and the Tyne, Newcastle gets cold winters and strong winds that put real pressure on older single-glazed frames, and old single-glazed sashes are usually where that shows up first as draughts and heat loss. The city is known for distinctive Tyneside flats - upstairs-downstairs terraced conversions - alongside the grand Georgian streets of Grainger Town, and a lot of those original sash boxes are now decades past their expected working life.
 
 ## Why locals choose us
 
 - Double-glazed sash units built to match traditional sightlines and horns
 - Experience working to conservation area guidelines where grainger Town has strict conservation controls, and several other inner areas carry similar protections
 - Draught-proofing and mechanism overhauls where full replacement isn't needed or allowed
-- The city is known for distinctive Tyneside flats — upstairs-downstairs terraced conversions — alongside the grand Georgian streets of Grainger Town
+- The city is known for distinctive Tyneside flats - upstairs-downstairs terraced conversions - alongside the grand Georgian streets of Grainger Town
 - Weight-and-cord or spring-balance mechanisms serviced or renewed as part of the job
 
 ## Pricing in Newcastle upon Tyne
@@ -29,7 +29,7 @@ Applying Newcastle upon Tyne's 0.85x regional factor to our national range gives
 
 ## Areas we cover around Newcastle upon Tyne
 
-We cover Newcastle upon Tyne and the surrounding area, including Sunderland, Gateshead, North Shields, South Shields and Durham. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Newcastle upon Tyne and the surrounding area, including Sunderland, Gateshead, North Shields, South Shields and Durham. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

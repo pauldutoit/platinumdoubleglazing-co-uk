@@ -29,7 +29,7 @@ Applying York's 0.92x regional factor to our national range gives a typical cost
 
 ## Areas we cover around York
 
-We cover York and the surrounding area, including Leeds, Harrogate, Selby, Scarborough and Malton. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover York and the surrounding area, including Leeds, Harrogate, Selby, Scarborough and Malton. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

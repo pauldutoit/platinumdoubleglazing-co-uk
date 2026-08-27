@@ -25,16 +25,16 @@ A casement upgrade is often the simplest way for Coventry homeowners to cut drau
 
 ## Pricing in Coventry
 
-Coventry sits at a 0.91x price factor relative to the national baseline, so expect a quote for a casement window replacement in the **£319–£819** range — a free survey will confirm the exact number for your property.
+Coventry sits at a 0.91x price factor relative to the national baseline, so expect a quote for a casement window replacement in the **£319–£819** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Coventry
 
-We cover Coventry and the surrounding area, including Kenilworth, Nuneaton, Rugby, Leamington Spa and Birmingham. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Coventry and the surrounding area, including Kenilworth, Nuneaton, Rugby, Leamington Spa and Birmingham. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Do casement windows need planning permission in Coventry?**
-Most like-for-like casement replacements do not need planning permission. The main exception is where conservation pressure is lighter here than in cities with more surviving pre-war stock, which usually makes like-for-like replacement more straightforward — in that case it is worth a quick check with the council before ordering.
+Most like-for-like casement replacements do not need planning permission. The main exception is where conservation pressure is lighter here than in cities with more surviving pre-war stock, which usually makes like-for-like replacement more straightforward - in that case it is worth a quick check with the council before ordering.
 
 **How long does a casement window installation take?**
 A typical Coventry home with six to eight casement windows is usually finished in a single day by a two-person team, though larger properties or ones with tricky access can take longer.

@@ -24,7 +24,7 @@ If you're comparing quotes for casement windows in Hastings, here's what actuall
 
 ## Pricing in Hastings
 
-South East England carries a regional price factor of 0.95x the national average, so casement window installation in Hastings typically runs from around £333 up to £855 — get a free quote for an exact figure for your property.
+South East England carries a regional price factor of 0.95x the national average, so casement window installation in Hastings typically runs from around £333 up to £855 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Hastings
 
@@ -39,4 +39,4 @@ A typical home with six to eight casement windows is usually finished within a d
 uPVC costs less upfront and needs virtually no maintenance. Timber costs more and needs repainting every few years, but it's the closer match on Hastings's Georgian and Victorian properties, where the original frames were timber.
 
 **Can I replace just one or two windows instead of the whole house?**
-Yes — plenty of jobs in Hastings are one or two windows rather than a full re-glaze, and pricing simply scales to however many you need.
+Yes - plenty of jobs in Hastings are one or two windows rather than a full re-glaze, and pricing simply scales to however many you need.

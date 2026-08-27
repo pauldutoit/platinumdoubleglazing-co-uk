@@ -24,7 +24,7 @@ Whether it's a tired front door or a leaking patio door, Wakefield homeowners us
 
 ## Pricing in Wakefield
 
-Yorkshire and the Humber carries a regional price factor of 0.86x the national average, so door installation in Wakefield typically runs from around £731 up to £1548 — get a free quote for an exact figure for your property.
+Yorkshire and the Humber carries a regional price factor of 0.86x the national average, so door installation in Wakefield typically runs from around £731 up to £1548 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Wakefield
 

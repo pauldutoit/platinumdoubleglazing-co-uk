@@ -25,16 +25,16 @@ When homeowners in Swindon think about replacing old windows, casements are usua
 
 ## Pricing in Swindon
 
-Swindon sits at a 0.97x price factor relative to the national baseline, so expect a quote for a casement window replacement in the **£340–£873** range — a free survey will confirm the exact number for your property.
+Swindon sits at a 0.97x price factor relative to the national baseline, so expect a quote for a casement window replacement in the **£340–£873** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Swindon
 
-We cover Swindon and the surrounding area, including Bristol, Oxford, Chippenham, Bath and Devizes. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Swindon and the surrounding area, including Bristol, Oxford, Chippenham, Bath and Devizes. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Do casement windows need planning permission in Swindon?**
-Most like-for-like casement replacements do not need planning permission. The main exception is where the Railway Village has conservation protection, while the bulk of the town's newer housing sits outside any special restrictions — in that case it is worth a quick check with the council before ordering.
+Most like-for-like casement replacements do not need planning permission. The main exception is where the Railway Village has conservation protection, while the bulk of the town's newer housing sits outside any special restrictions - in that case it is worth a quick check with the council before ordering.
 
 **How long does a casement window installation take?**
 A typical Swindon home with six to eight casement windows is usually finished in a single day by a two-person team, though larger properties or ones with tricky access can take longer.

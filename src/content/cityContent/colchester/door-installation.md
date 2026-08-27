@@ -25,11 +25,11 @@ Security and insulation are the two things that come up most when we quote door 
 
 ## Pricing in Colchester
 
-Colchester sits at a 0.99x price factor relative to the national baseline, so expect a quote for a door installation in the **£842–£1782** range — a free survey will confirm the exact number for your property.
+Colchester sits at a 0.99x price factor relative to the national baseline, so expect a quote for a door installation in the **£842–£1782** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Colchester
 
-We cover Colchester and the surrounding area, including Ipswich, Chelmsford, Clacton-on-Sea, Braintree and Halstead. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Colchester and the surrounding area, including Ipswich, Chelmsford, Clacton-on-Sea, Braintree and Halstead. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
@@ -40,4 +40,4 @@ Composite doors have a solid timber-effect core that's more resistant to warping
 Multi-point locking systems, reinforced frames and toughened glass panels are all standard on the doors we fit, which is a significant step up from older single-lock doors still found on a lot of older housing in Colchester.
 
 **Can I get a matching front and back door in Colchester?**
-Yes — most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.
+Yes - most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.

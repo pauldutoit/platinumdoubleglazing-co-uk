@@ -25,16 +25,16 @@ Casement windows are the most common upgrade we fit across Ipswich. Given that t
 
 ## Pricing in Ipswich
 
-Ipswich sits at a 0.92x price factor relative to the national baseline, so expect a quote for a casement window replacement in the **£322–£828** range — a free survey will confirm the exact number for your property.
+Ipswich sits at a 0.92x price factor relative to the national baseline, so expect a quote for a casement window replacement in the **£322–£828** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Ipswich
 
-We cover Ipswich and the surrounding area, including Bury St Edmunds, Lowestoft, Felixstowe, Colchester and Stowmarket. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Ipswich and the surrounding area, including Bury St Edmunds, Lowestoft, Felixstowe, Colchester and Stowmarket. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Do casement windows need planning permission in Ipswich?**
-Most like-for-like casement replacements do not need planning permission. The main exception is where the historic Lanes and waterfront conservation areas cover much of what survives of the old town — in that case it is worth a quick check with the council before ordering.
+Most like-for-like casement replacements do not need planning permission. The main exception is where the historic Lanes and waterfront conservation areas cover much of what survives of the old town - in that case it is worth a quick check with the council before ordering.
 
 **How long does a casement window installation take?**
 A typical Ipswich home with six to eight casement windows is usually finished in a single day by a two-person team, though larger properties or ones with tricky access can take longer.

@@ -24,7 +24,7 @@ Whether it's a tired front door or a leaking patio door, Blackpool homeowners us
 
 ## Pricing in Blackpool
 
-North West England carries a regional price factor of 0.84x the national average, so door installation in Blackpool typically runs from around £714 up to £1512 — get a free quote for an exact figure for your property.
+North West England carries a regional price factor of 0.84x the national average, so door installation in Blackpool typically runs from around £714 up to £1512 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Blackpool
 
@@ -32,7 +32,7 @@ We cover Blackpool itself plus the surrounding area, including Lytham St Annes, 
 
 ## Frequently asked questions
 
-**Composite or uPVC — which is better for a front door in Blackpool?**
+**Composite or uPVC - which is better for a front door in Blackpool?**
 Composite doors cost more but hold their shape and colour better over time and generally feel more solid. uPVC is the cheaper option and still performs well if budget is the main concern.
 
 **How secure are modern replacement doors?**

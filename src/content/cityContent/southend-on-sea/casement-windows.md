@@ -24,7 +24,7 @@ If you're comparing quotes for casement windows in Southend-on-Sea, here's what 
 
 ## Pricing in Southend-on-Sea
 
-East of England carries a regional price factor of 0.98x the national average, so casement window installation in Southend-on-Sea typically runs from around £343 up to £882 — get a free quote for an exact figure for your property.
+East of England carries a regional price factor of 0.98x the national average, so casement window installation in Southend-on-Sea typically runs from around £343 up to £882 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Southend-on-Sea
 
@@ -39,4 +39,4 @@ A typical home with six to eight casement windows is usually finished within a d
 uPVC costs less upfront and needs virtually no maintenance. Timber costs more and needs repainting every few years, but it's the closer match on Southend-on-Sea's 1930s properties, where the original frames were timber.
 
 **Can I replace just one or two windows instead of the whole house?**
-Yes — plenty of jobs in Southend-on-Sea are one or two windows rather than a full re-glaze, and pricing simply scales to however many you need.
+Yes - plenty of jobs in Southend-on-Sea are one or two windows rather than a full re-glaze, and pricing simply scales to however many you need.

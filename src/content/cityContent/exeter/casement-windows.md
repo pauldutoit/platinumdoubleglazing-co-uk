@@ -29,12 +29,12 @@ With a local price factor of 0.93x, a casement window replacement in Exeter gene
 
 ## Areas we cover around Exeter
 
-We cover Exeter and the surrounding area, including Torquay, Taunton, Newton Abbot, Sidmouth and Crediton. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Exeter and the surrounding area, including Torquay, Taunton, Newton Abbot, Sidmouth and Crediton. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Do casement windows need planning permission in Exeter?**
-Most like-for-like casement replacements do not need planning permission. The main exception is where conservation controls around the cathedral close and city centre are relatively strict given the concentration of historic buildings — in that case it is worth a quick check with the council before ordering.
+Most like-for-like casement replacements do not need planning permission. The main exception is where conservation controls around the cathedral close and city centre are relatively strict given the concentration of historic buildings - in that case it is worth a quick check with the council before ordering.
 
 **How long does a casement window installation take?**
 A typical Exeter home with six to eight casement windows is usually finished in a single day by a two-person team, though larger properties or ones with tricky access can take longer.

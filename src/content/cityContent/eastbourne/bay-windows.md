@@ -13,7 +13,7 @@ generatedBy: "llm"
 
 ## Bay windows in Eastbourne: getting the structure right
 
-Bay window installation in Eastbourne tends to cost more than people expect, mostly because of what's involved structurally. Eastbourne was largely built up in the Victorian and Edwardian era as a genteel seaside resort, so its housing stock leans towards bay-fronted terraces and seafront mansion blocks. Get a surveyor out before you settle on a price — bay jobs vary a lot more than standard windows.
+Bay window installation in Eastbourne tends to cost more than people expect, mostly because of what's involved structurally. Eastbourne was largely built up in the Victorian and Edwardian era as a genteel seaside resort, so its housing stock leans towards bay-fronted terraces and seafront mansion blocks. Get a surveyor out before you settle on a price - bay jobs vary a lot more than standard windows.
 
 ## Why locals choose us
 
@@ -33,10 +33,10 @@ Coverage extends beyond Eastbourne out to Brighton, Hastings, Lewes, Hailsham an
 ## Frequently asked questions
 
 **Does a bay window replacement in Eastbourne need planning permission?**
-Usually not for a like-for-like replacement, but altering the shape or size of the bay, or working on a listed building, can trigger the need for permission — worth checking with the council first.
+Usually not for a like-for-like replacement, but altering the shape or size of the bay, or working on a listed building, can trigger the need for permission - worth checking with the council first.
 
 **How long does bay window installation take?**
 A single bay window usually takes one to two days, mostly because of the extra structural checks and multiple panes involved compared with a standard window.
 
 **Can you replace just the glass in a bay window rather than the whole frame?**
-Sometimes, if the frame is in good structural condition — but on older Victorian and Edwardian bays the frame and glass are often replaced together since they were built and sealed as one unit.
+Sometimes, if the frame is in good structural condition - but on older Victorian and Edwardian bays the frame and glass are often replaced together since they were built and sealed as one unit.

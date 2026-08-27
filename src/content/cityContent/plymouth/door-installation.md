@@ -25,11 +25,11 @@ Door installation in Plymouth covers everything from composite front doors to bi
 
 ## Pricing in Plymouth
 
-Plymouth carries a regional price factor of 0.9x the national average, so a door installation here typically runs from around **£765** up to **£1620** — get a free quote for an exact figure for your property.
+Plymouth carries a regional price factor of 0.9x the national average, so a door installation here typically runs from around **£765** up to **£1620** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Plymouth
 
-We cover Plymouth and the surrounding area, including Torquay, Exeter, Paignton, Newton Abbot and Totnes. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Plymouth and the surrounding area, including Torquay, Exeter, Paignton, Newton Abbot and Totnes. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
@@ -40,4 +40,4 @@ Composite doors have a solid timber-effect core that's more resistant to warping
 Multi-point locking systems, reinforced frames and toughened glass panels are all standard on the doors we fit, which is a significant step up from older single-lock doors still found on a lot of older housing in Plymouth.
 
 **Can I get a matching front and back door in Plymouth?**
-Yes — most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.
+Yes - most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.

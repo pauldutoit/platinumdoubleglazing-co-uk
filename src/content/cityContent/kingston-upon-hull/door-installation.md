@@ -29,7 +29,7 @@ With a local price factor of 0.84x, a door installation in Kingston upon Hull ge
 
 ## Areas we cover around Kingston upon Hull
 
-We cover Kingston upon Hull and the surrounding area, including Beverley, Cottingham, Bridlington, Goole and Brough. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Kingston upon Hull and the surrounding area, including Beverley, Cottingham, Bridlington, Goole and Brough. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
@@ -40,4 +40,4 @@ Composite doors have a solid timber-effect core that's more resistant to warping
 Multi-point locking systems, reinforced frames and toughened glass panels are all standard on the doors we fit, which is a significant step up from older single-lock doors still found on a lot of older housing in Kingston upon Hull.
 
 **Can I get a matching front and back door in Kingston upon Hull?**
-Yes — most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.
+Yes - most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.

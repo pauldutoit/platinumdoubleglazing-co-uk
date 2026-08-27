@@ -25,16 +25,16 @@ A lot of Sunderland's older houses have bay-fronted living rooms, which changes 
 
 ## Pricing in Sunderland
 
-Sunderland carries a regional price factor of 0.83x the national average, so a bay window installation here typically runs from around **£996** up to **£2656** — get a free quote for an exact figure for your property.
+Sunderland carries a regional price factor of 0.83x the national average, so a bay window installation here typically runs from around **£996** up to **£2656** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Sunderland
 
-We cover Sunderland and the surrounding area, including Newcastle upon Tyne, Durham, Houghton-le-Spring, Washington and Peterlee. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Sunderland and the surrounding area, including Newcastle upon Tyne, Durham, Houghton-le-Spring, Washington and Peterlee. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Sunderland?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Sunderland?**
 Usually not for a like-for-like replacement, but old Sunderland has some conservation coverage, though controls here are generally lighter than in nearby Newcastle, so it's worth checking if you're changing the shape or size of the existing bay.

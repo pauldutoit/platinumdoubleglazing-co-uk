@@ -24,7 +24,7 @@ If you're comparing quotes for casement windows in Bath, here's what actually af
 
 ## Pricing in Bath
 
-South West England carries a regional price factor of 1.05x the national average, so casement window installation in Bath typically runs from around £368 up to £945 — get a free quote for an exact figure for your property.
+South West England carries a regional price factor of 1.05x the national average, so casement window installation in Bath typically runs from around £368 up to £945 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Bath
 

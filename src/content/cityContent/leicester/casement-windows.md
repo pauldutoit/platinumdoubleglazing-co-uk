@@ -29,12 +29,12 @@ Applying Leicester's 0.89x regional factor to our national range gives a typical
 
 ## Areas we cover around Leicester
 
-We cover Leicester and the surrounding area, including Loughborough, Hinckley, Coalville, Melton Mowbray and Market Harborough. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Leicester and the surrounding area, including Loughborough, Hinckley, Coalville, Melton Mowbray and Market Harborough. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Do casement windows need planning permission in Leicester?**
-Most like-for-like casement replacements do not need planning permission. The main exception is where conservation areas around Stoneygate and the New Walk cover some of the city's grander Victorian terraces — in that case it is worth a quick check with the council before ordering.
+Most like-for-like casement replacements do not need planning permission. The main exception is where conservation areas around Stoneygate and the New Walk cover some of the city's grander Victorian terraces - in that case it is worth a quick check with the council before ordering.
 
 **How long does a casement window installation take?**
 A typical Leicester home with six to eight casement windows is usually finished in a single day by a two-person team, though larger properties or ones with tricky access can take longer.

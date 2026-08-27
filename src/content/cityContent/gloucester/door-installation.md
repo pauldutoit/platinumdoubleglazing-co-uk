@@ -24,7 +24,7 @@ Whether it's a tired front door or a leaking patio door, Gloucester homeowners u
 
 ## Pricing in Gloucester
 
-South West England carries a regional price factor of 0.92x the national average, so door installation in Gloucester typically runs from around £782 up to £1656 — get a free quote for an exact figure for your property.
+South West England carries a regional price factor of 0.92x the national average, so door installation in Gloucester typically runs from around £782 up to £1656 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Gloucester
 

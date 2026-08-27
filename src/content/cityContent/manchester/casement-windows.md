@@ -25,16 +25,16 @@ When homeowners in Manchester think about replacing old windows, casements are u
 
 ## Pricing in Manchester
 
-Manchester sits at a 0.9x price factor relative to the national baseline, so expect a quote for a casement window replacement in the **£315–£810** range — a free survey will confirm the exact number for your property.
+Manchester sits at a 0.9x price factor relative to the national baseline, so expect a quote for a casement window replacement in the **£315–£810** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Manchester
 
-We cover Manchester and the surrounding area, including Salford, Stockport, Bolton, Oldham and Rochdale. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Manchester and the surrounding area, including Salford, Stockport, Bolton, Oldham and Rochdale. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Do casement windows need planning permission in Manchester?**
-Most like-for-like casement replacements do not need planning permission. The main exception is where inner suburbs like Chorlton and Didsbury have conservation area protections that can limit what is fitted on the street-facing side of a terrace — in that case it is worth a quick check with the council before ordering.
+Most like-for-like casement replacements do not need planning permission. The main exception is where inner suburbs like Chorlton and Didsbury have conservation area protections that can limit what is fitted on the street-facing side of a terrace - in that case it is worth a quick check with the council before ordering.
 
 **How long does a casement window installation take?**
 A typical Manchester home with six to eight casement windows is usually finished in a single day by a two-person team, though larger properties or ones with tricky access can take longer.

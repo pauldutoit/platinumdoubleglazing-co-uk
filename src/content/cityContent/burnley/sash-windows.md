@@ -36,7 +36,7 @@ As well as Burnley, we take on jobs across nearby Blackburn, Nelson, Colne, Accr
 Standard sash replacements usually don't need planning permission unless the property is listed. It's still worth confirming with the council if you're unsure about your property's status.
 
 **Can sash windows be draught-proofed without full replacement?**
-Often, yes — brush seals and a refurbished sash box can cut draughts significantly on original timber sashes that are otherwise in decent condition, which is worth considering before committing to full replacement.
+Often, yes - brush seals and a refurbished sash box can cut draughts significantly on original timber sashes that are otherwise in decent condition, which is worth considering before committing to full replacement.
 
 **How many panes do original sash windows in Burnley typically have?**
-It varies by period, but many Victorian sashes were built with a six-over-six or two-over-two pane arrangement — matching that pattern matters more to the overall look than people expect.
+It varies by period, but many Victorian sashes were built with a six-over-six or two-over-two pane arrangement - matching that pattern matters more to the overall look than people expect.

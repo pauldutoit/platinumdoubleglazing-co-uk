@@ -24,7 +24,7 @@ Whether it's a tired front door or a leaking patio door, Bath homeowners usually
 
 ## Pricing in Bath
 
-South West England carries a regional price factor of 1.05x the national average, so door installation in Bath typically runs from around £893 up to £1890 — get a free quote for an exact figure for your property.
+South West England carries a regional price factor of 1.05x the national average, so door installation in Bath typically runs from around £893 up to £1890 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Bath
 
@@ -32,7 +32,7 @@ We cover Bath itself plus the surrounding area, including Bristol, Frome, Trowbr
 
 ## Frequently asked questions
 
-**Composite or uPVC — which is better for a front door in Bath?**
+**Composite or uPVC - which is better for a front door in Bath?**
 Composite doors cost more but hold their shape and colour better over time and generally feel more solid. uPVC is the cheaper option and still performs well if budget is the main concern.
 
 **How secure are modern replacement doors?**

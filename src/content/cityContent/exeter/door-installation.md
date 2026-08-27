@@ -25,11 +25,11 @@ If your front or back door is draughty, hard to lock, or just looking dated, Exe
 
 ## Pricing in Exeter
 
-Exeter carries a regional price factor of 0.93x the national average, so a door installation here typically runs from around **£791** up to **£1674** — get a free quote for an exact figure for your property.
+Exeter carries a regional price factor of 0.93x the national average, so a door installation here typically runs from around **£791** up to **£1674** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Exeter
 
-We cover Exeter and the surrounding area, including Torquay, Taunton, Newton Abbot, Sidmouth and Crediton. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Exeter and the surrounding area, including Torquay, Taunton, Newton Abbot, Sidmouth and Crediton. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
@@ -40,4 +40,4 @@ Composite doors have a solid timber-effect core that's more resistant to warping
 Multi-point locking systems, reinforced frames and toughened glass panels are all standard on the doors we fit, which is a significant step up from older single-lock doors still found on a lot of older housing in Exeter.
 
 **Can I get a matching front and back door in Exeter?**
-Yes — most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.
+Yes - most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.

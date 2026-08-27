@@ -13,7 +13,7 @@ generatedBy: "llm"
 
 ## Getting door installation right in Grantham
 
-A new front or back door is as much about security and insulation as it is about looks — composite doors in particular have become the default for entrance doors on UK homes. In Grantham, that means working with a Georgian High Street core with Victorian terraces and post-war estates around it. The Georgian frontages on the High Street are listed, so shopfronts and flats above them occasionally need heritage sign-off, but the surrounding residential streets are mostly standard Victorian brick. We quote against the property in front of us rather than a generic price list, so Grantham jobs are measured and priced individually.
+A new front or back door is as much about security and insulation as it is about looks - composite doors in particular have become the default for entrance doors on UK homes. In Grantham, that means working with a Georgian High Street core with Victorian terraces and post-war estates around it. The Georgian frontages on the High Street are listed, so shopfronts and flats above them occasionally need heritage sign-off, but the surrounding residential streets are mostly standard Victorian brick. We quote against the property in front of us rather than a generic price list, so Grantham jobs are measured and priced individually.
 
 ## Why locals choose us
 
@@ -25,11 +25,11 @@ A new front or back door is as much about security and insulation as it is about
 
 ## Pricing in Grantham
 
-Grantham carries a regional price factor of 0.85x the national average, a little below the UK norm, so door installation typically runs from around **£723** up to **£1530** depending on size, materials and how many openings need doing — get a free quote for an exact figure for your property.
+Grantham carries a regional price factor of 0.85x the national average, a little below the UK norm, so door installation typically runs from around **£723** up to **£1530** depending on size, materials and how many openings need doing - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Grantham
 
-We cover Grantham and the surrounding area, including Harlaxton, Barrowby, Great Gonerby, Bottesford and Sleaford. If you're just outside these, get in touch anyway — we quote a wider radius than this list on a case-by-case basis.
+We cover Grantham and the surrounding area, including Harlaxton, Barrowby, Great Gonerby, Bottesford and Sleaford. If you're just outside these, get in touch anyway - we quote a wider radius than this list on a case-by-case basis.
 
 ## Frequently asked questions
 
@@ -37,7 +37,7 @@ We cover Grantham and the surrounding area, including Harlaxton, Barrowby, Great
 A standard composite or uPVC door replacement is usually a half-day job, including removing the old frame and making good the surrounding brickwork or render.
 
 **Is a composite door worth the extra cost over uPVC?**
-For a front door, most people find it is — the solid core gives better security and insulation and holds its colour and shape better over time than a standard uPVC panel door.
+For a front door, most people find it is - the solid core gives better security and insulation and holds its colour and shape better over time than a standard uPVC panel door.
 
 **Do I need building regulations sign-off for a new door in Grantham?**
 Most external door replacements are covered under FENSA or a similar competent-person scheme, which self-certifies the work to building regulations without a separate council application.

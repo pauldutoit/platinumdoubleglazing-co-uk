@@ -25,16 +25,16 @@ Casement windows remain the default choice for most Wolverhampton homes needing 
 
 ## Pricing in Wolverhampton
 
-Wolverhampton carries a regional price factor of 0.9x the national average, so a casement window replacement here typically runs from around **£315** up to **£810** — get a free quote for an exact figure for your property.
+Wolverhampton carries a regional price factor of 0.9x the national average, so a casement window replacement here typically runs from around **£315** up to **£810** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Wolverhampton
 
-We cover Wolverhampton and the surrounding area, including Birmingham, Walsall, Dudley, Telford and Cannock. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Wolverhampton and the surrounding area, including Birmingham, Walsall, Dudley, Telford and Cannock. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Do casement windows need planning permission in Wolverhampton?**
-Most like-for-like casement replacements do not need planning permission. The main exception is where tettenhall and Compton have some conservation protection, though most of the city's housing falls outside formal restrictions — in that case it is worth a quick check with the council before ordering.
+Most like-for-like casement replacements do not need planning permission. The main exception is where tettenhall and Compton have some conservation protection, though most of the city's housing falls outside formal restrictions - in that case it is worth a quick check with the council before ordering.
 
 **How long does a casement window installation take?**
 A typical Wolverhampton home with six to eight casement windows is usually finished in a single day by a two-person team, though larger properties or ones with tricky access can take longer.

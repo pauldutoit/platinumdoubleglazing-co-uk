@@ -29,7 +29,7 @@ Applying Chelmsford's 1.05x regional factor to our national range gives a typica
 
 ## Areas we cover around Chelmsford
 
-We cover Chelmsford and the surrounding area, including Colchester, Southend-on-Sea, Basildon, Braintree and Witham. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Chelmsford and the surrounding area, including Colchester, Southend-on-Sea, Basildon, Braintree and Witham. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

@@ -13,7 +13,7 @@ generatedBy: "llm"
 
 ## Casement Windows in Crewe: what it costs and what to expect
 
-Casement windows remain the default choice for most UK homes — simple, side- or top-hung frames that open outward and seal well against draughts. In Crewe, that means working with grid-pattern Victorian railway terraces built for the Crewe Works, plus larger post-war housing further out. The railway terraces are laid out in very regular rows with near-identical original window openings, which makes accurate quoting from photos and measurements especially reliable here. We quote against the property in front of us rather than a generic price list, so Crewe jobs are measured and priced individually.
+Casement windows remain the default choice for most UK homes - simple, side- or top-hung frames that open outward and seal well against draughts. In Crewe, that means working with grid-pattern Victorian railway terraces built for the Crewe Works, plus larger post-war housing further out. The railway terraces are laid out in very regular rows with near-identical original window openings, which makes accurate quoting from photos and measurements especially reliable here. We quote against the property in front of us rather than a generic price list, so Crewe jobs are measured and priced individually.
 
 ## Why locals choose us
 
@@ -25,16 +25,16 @@ Casement windows remain the default choice for most UK homes — simple, side- o
 
 ## Pricing in Crewe
 
-Crewe carries a regional price factor of 0.88x the national average, a little below the UK norm, so casement windows typically run from around **£308** up to **£792** depending on size, materials and how many openings need doing — get a free quote for an exact figure for your property.
+Crewe carries a regional price factor of 0.88x the national average, a little below the UK norm, so casement windows typically run from around **£308** up to **£792** depending on size, materials and how many openings need doing - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Crewe
 
-We cover Crewe and the surrounding area, including Nantwich, Wistaston, Shavington, Sandbach and Willaston. If you're just outside these, get in touch anyway — we quote a wider radius than this list on a case-by-case basis.
+We cover Crewe and the surrounding area, including Nantwich, Wistaston, Shavington, Sandbach and Willaston. If you're just outside these, get in touch anyway - we quote a wider radius than this list on a case-by-case basis.
 
 ## Frequently asked questions
 
 **Can I get uPVC casement windows in a conservation area near Crewe?**
-It depends on the specific conservation area rules — some allow uPVC if the profile and glazing bar pattern match the original, others require timber. Check with the local planning department before ordering.
+It depends on the specific conservation area rules - some allow uPVC if the profile and glazing bar pattern match the original, others require timber. Check with the local planning department before ordering.
 
 **What's the difference between top-hung and side-hung casement windows?**
 Side-hung casements open outward like a door and give the widest opening for ventilation; top-hung casements (often called awning windows) hinge at the top and can stay open a crack even in light rain.

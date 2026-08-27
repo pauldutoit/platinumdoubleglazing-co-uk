@@ -25,16 +25,16 @@ For most Milton Keynes properties, casement windows offer the best balance of co
 
 ## Pricing in Milton Keynes
 
-Milton Keynes carries a regional price factor of 1.08x the national average, so a casement window replacement here typically runs from around **£378** up to **£972** — get a free quote for an exact figure for your property.
+Milton Keynes carries a regional price factor of 1.08x the national average, so a casement window replacement here typically runs from around **£378** up to **£972** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Milton Keynes
 
-We cover Milton Keynes and the surrounding area, including Bedford, Northampton, Luton, Aylesbury and Leighton Buzzard. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Milton Keynes and the surrounding area, including Bedford, Northampton, Luton, Aylesbury and Leighton Buzzard. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Do casement windows need planning permission in Milton Keynes?**
-Most like-for-like casement replacements do not need planning permission. The main exception is where conservation pressure is minimal given how recent the housing stock is — in that case it is worth a quick check with the council before ordering.
+Most like-for-like casement replacements do not need planning permission. The main exception is where conservation pressure is minimal given how recent the housing stock is - in that case it is worth a quick check with the council before ordering.
 
 **How long does a casement window installation take?**
 A typical Milton Keynes home with six to eight casement windows is usually finished in a single day by a two-person team, though larger properties or ones with tricky access can take longer.

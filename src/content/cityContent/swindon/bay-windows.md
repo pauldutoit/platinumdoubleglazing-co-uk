@@ -29,12 +29,12 @@ With a local price factor of 0.97x, a bay window installation in Swindon general
 
 ## Areas we cover around Swindon
 
-We cover Swindon and the surrounding area, including Bristol, Oxford, Chippenham, Bath and Devizes. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Swindon and the surrounding area, including Bristol, Oxford, Chippenham, Bath and Devizes. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Swindon?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Swindon?**
 Usually not for a like-for-like replacement, but the Railway Village has conservation protection, while the bulk of the town's newer housing sits outside any special restrictions, so it's worth checking if you're changing the shape or size of the existing bay.

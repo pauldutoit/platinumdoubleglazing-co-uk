@@ -13,7 +13,7 @@ generatedBy: "llm"
 
 ## Stevenage Bay Windows: pricing and what fits purpose-built New Town housing from the late 1940s onward around a pedestrianised centre
 
-Because a bay window projects out from the building line, replacing one is more involved than a standard casement — the structural support and roofline above it both need assessing. In Stevenage, that means working with purpose-built New Town housing from the late 1940s onward around a pedestrianised centre, plus the older Stevenage Old Town nearby. The original New Town houses were built to fairly standardised specifications, which usually makes measuring and quoting for replacements more predictable than in older, irregular housing stock. We quote against the property in front of us rather than a generic price list, so Stevenage jobs are measured and priced individually.
+Because a bay window projects out from the building line, replacing one is more involved than a standard casement - the structural support and roofline above it both need assessing. In Stevenage, that means working with purpose-built New Town housing from the late 1940s onward around a pedestrianised centre, plus the older Stevenage Old Town nearby. The original New Town houses were built to fairly standardised specifications, which usually makes measuring and quoting for replacements more predictable than in older, irregular housing stock. We quote against the property in front of us rather than a generic price list, so Stevenage jobs are measured and priced individually.
 
 ## Why locals choose us
 
@@ -25,11 +25,11 @@ Because a bay window projects out from the building line, replacing one is more 
 
 ## Pricing in Stevenage
 
-Stevenage carries a regional price factor of 1.06x the national average, reflecting higher local labour and living costs, so bay windows typically run from around **£1272** up to **£3392** depending on size, materials and how many openings need doing — get a free quote for an exact figure for your property.
+Stevenage carries a regional price factor of 1.06x the national average, reflecting higher local labour and living costs, so bay windows typically run from around **£1272** up to **£3392** depending on size, materials and how many openings need doing - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Stevenage
 
-We cover Stevenage and the surrounding area, including Old Town, Bedwell, Broadwater, Chells and Hitchin. If you're just outside these, get in touch anyway — we quote a wider radius than this list on a case-by-case basis.
+We cover Stevenage and the surrounding area, including Old Town, Bedwell, Broadwater, Chells and Hitchin. If you're just outside these, get in touch anyway - we quote a wider radius than this list on a case-by-case basis.
 
 ## Frequently asked questions
 
@@ -40,4 +40,4 @@ A straightforward bay replacement usually takes a full day; if the roof structur
 A bay is really three or more windows joined at angles, plus the roof or box structure above it, so both materials and labour scale up compared with a single flat casement or sash.
 
 **Does a leaking bay window roof need fixing before the windows are replaced?**
-Yes, generally — a bay roof or lead flashing that's letting water in will keep damaging the new frame underneath it, so most installers will want to check and, if needed, quote for that separately.
+Yes, generally - a bay roof or lead flashing that's letting water in will keep damaging the new frame underneath it, so most installers will want to check and, if needed, quote for that separately.

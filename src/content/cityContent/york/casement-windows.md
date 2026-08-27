@@ -29,12 +29,12 @@ With a local price factor of 0.92x, a casement window replacement in York genera
 
 ## Areas we cover around York
 
-We cover York and the surrounding area, including Leeds, Harrogate, Selby, Scarborough and Malton. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover York and the surrounding area, including Leeds, Harrogate, Selby, Scarborough and Malton. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Do casement windows need planning permission in York?**
-Most like-for-like casement replacements do not need planning permission. The main exception is where most of the city centre falls within conservation area or listed building controls, among the strictest in the country outside London — in that case it is worth a quick check with the council before ordering.
+Most like-for-like casement replacements do not need planning permission. The main exception is where most of the city centre falls within conservation area or listed building controls, among the strictest in the country outside London - in that case it is worth a quick check with the council before ordering.
 
 **How long does a casement window installation take?**
 A typical York home with six to eight casement windows is usually finished in a single day by a two-person team, though larger properties or ones with tricky access can take longer.

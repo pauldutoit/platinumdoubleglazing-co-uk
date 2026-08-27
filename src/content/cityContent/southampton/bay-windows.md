@@ -25,16 +25,16 @@ Bay window replacement in Southampton usually comes down to getting the structur
 
 ## Pricing in Southampton
 
-Southampton carries a regional price factor of 1.05x the national average, so a bay window installation here typically runs from around **£1260** up to **£3360** — get a free quote for an exact figure for your property.
+Southampton carries a regional price factor of 1.05x the national average, so a bay window installation here typically runs from around **£1260** up to **£3360** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Southampton
 
-We cover Southampton and the surrounding area, including Portsmouth, Eastleigh, Fareham, Totton and Chandlers Ford. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Southampton and the surrounding area, including Portsmouth, Eastleigh, Fareham, Totton and Chandlers Ford. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Southampton?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Southampton?**
 Usually not for a like-for-like replacement, but conservation coverage is more limited here than in cities with more surviving pre-war housing, given the scale of post-war rebuilding, so it's worth checking if you're changing the shape or size of the existing bay.

@@ -13,7 +13,7 @@ generatedBy: "llm"
 
 ## Casement Windows for Tunbridge Wells homes
 
-Casement windows remain the default choice for most UK homes — simple, side- or top-hung frames that open outward and seal well against draughts. In Tunbridge Wells, that means working with elegant Georgian and Regency terraces around the Pantiles and Calverley Park, with Victorian villas further out. Large parts of the town, especially around the Pantiles and Calverley conservation areas, expect sympathetic sash-proportioned replacements rather than off-the-shelf uPVC on front elevations. We quote against the property in front of us rather than a generic price list, so Tunbridge Wells jobs are measured and priced individually.
+Casement windows remain the default choice for most UK homes - simple, side- or top-hung frames that open outward and seal well against draughts. In Tunbridge Wells, that means working with elegant Georgian and Regency terraces around the Pantiles and Calverley Park, with Victorian villas further out. Large parts of the town, especially around the Pantiles and Calverley conservation areas, expect sympathetic sash-proportioned replacements rather than off-the-shelf uPVC on front elevations. We quote against the property in front of us rather than a generic price list, so Tunbridge Wells jobs are measured and priced individually.
 
 ## Why locals choose us
 
@@ -25,16 +25,16 @@ Casement windows remain the default choice for most UK homes — simple, side- o
 
 ## Pricing in Tunbridge Wells
 
-Tunbridge Wells carries a regional price factor of 1.08x the national average, reflecting higher local labour and living costs, so casement windows typically run from around **£378** up to **£972** depending on size, materials and how many openings need doing — get a free quote for an exact figure for your property.
+Tunbridge Wells carries a regional price factor of 1.08x the national average, reflecting higher local labour and living costs, so casement windows typically run from around **£378** up to **£972** depending on size, materials and how many openings need doing - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Tunbridge Wells
 
-We cover Tunbridge Wells and the surrounding area, including Southborough, Rusthall, Pembury, Frant and Tonbridge. If you're just outside these, get in touch anyway — we quote a wider radius than this list on a case-by-case basis.
+We cover Tunbridge Wells and the surrounding area, including Southborough, Rusthall, Pembury, Frant and Tonbridge. If you're just outside these, get in touch anyway - we quote a wider radius than this list on a case-by-case basis.
 
 ## Frequently asked questions
 
 **Can I get uPVC casement windows in a conservation area near Tunbridge Wells?**
-It depends on the specific conservation area rules — some allow uPVC if the profile and glazing bar pattern match the original, others require timber. Check with the local planning department before ordering.
+It depends on the specific conservation area rules - some allow uPVC if the profile and glazing bar pattern match the original, others require timber. Check with the local planning department before ordering.
 
 **What's the difference between top-hung and side-hung casement windows?**
 Side-hung casements open outward like a door and give the widest opening for ventilation; top-hung casements (often called awning windows) hinge at the top and can stay open a crack even in light rain.

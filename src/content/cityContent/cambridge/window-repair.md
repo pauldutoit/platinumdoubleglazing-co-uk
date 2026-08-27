@@ -25,19 +25,19 @@ Misted glass, stiff hinges and failed seals are the most common repair call-outs
 
 ## Pricing in Cambridge
 
-Cambridge sits at a 1.14x price factor relative to the national baseline, so expect a quote for a window repair in the **£101–£285** range — a free survey will confirm the exact number for your property.
+Cambridge sits at a 1.14x price factor relative to the national baseline, so expect a quote for a window repair in the **£101–£285** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Cambridge
 
-We cover Cambridge and the surrounding area, including Ely, Huntingdon, St Ives, Newmarket and Royston. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Cambridge and the surrounding area, including Ely, Huntingdon, St Ives, Newmarket and Royston. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why has my double glazing gone misty or cloudy?**
-That's almost always a failed seal letting moisture into the gap between the panes. It doesn't mean the whole window needs replacing — usually just the glazed unit itself, which is a much cheaper repair.
+That's almost always a failed seal letting moisture into the gap between the panes. It doesn't mean the whole window needs replacing - usually just the glazed unit itself, which is a much cheaper repair.
 
 **How quickly can you fix a broken or draughty window in Cambridge?**
 Straightforward repairs like a failed unit or a stiff hinge can usually be booked within a few days, and we treat security issues like a broken lock or smashed pane as more urgent than routine work.
 
 **Is it worth repairing an old window instead of replacing it in Cambridge?**
-Often yes, especially where the historic centre and college precincts carry strict conservation controls affecting what can be fitted on street-facing elevations or the frame itself is still structurally sound — a repair can add years of useful life for a fraction of the cost of full replacement.
+Often yes, especially where the historic centre and college precincts carry strict conservation controls affecting what can be fitted on street-facing elevations or the frame itself is still structurally sound - a repair can add years of useful life for a fraction of the cost of full replacement.

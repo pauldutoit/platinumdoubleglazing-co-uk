@@ -25,11 +25,11 @@ Doors take more daily wear than any window in the house, so hardware quality and
 
 ## Pricing in Keighley
 
-Keighley carries a regional price factor of 0.84x the national average, a little below the UK norm, so door installation typically runs from around **£714** up to **£1512** depending on size, materials and how many openings need doing — get a free quote for an exact figure for your property.
+Keighley carries a regional price factor of 0.84x the national average, a little below the UK norm, so door installation typically runs from around **£714** up to **£1512** depending on size, materials and how many openings need doing - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Keighley
 
-We cover Keighley and the surrounding area, including Haworth, Riddlesden, Ingrow, Steeton and Silsden. If you're just outside these, get in touch anyway — we quote a wider radius than this list on a case-by-case basis.
+We cover Keighley and the surrounding area, including Haworth, Riddlesden, Ingrow, Steeton and Silsden. If you're just outside these, get in touch anyway - we quote a wider radius than this list on a case-by-case basis.
 
 ## Frequently asked questions
 
@@ -40,4 +40,4 @@ Most external door replacements are covered under FENSA or a similar competent-p
 A standard composite or uPVC door replacement is usually a half-day job, including removing the old frame and making good the surrounding brickwork or render.
 
 **Is a composite door worth the extra cost over uPVC?**
-For a front door, most people find it is — the solid core gives better security and insulation and holds its colour and shape better over time than a standard uPVC panel door.
+For a front door, most people find it is - the solid core gives better security and insulation and holds its colour and shape better over time than a standard uPVC panel door.

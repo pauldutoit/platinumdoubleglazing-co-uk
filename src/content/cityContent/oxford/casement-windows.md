@@ -29,12 +29,12 @@ Applying Oxford's 1.15x regional factor to our national range gives a typical co
 
 ## Areas we cover around Oxford
 
-We cover Oxford and the surrounding area, including Abingdon, Witney, Bicester, Didcot and Banbury. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Oxford and the surrounding area, including Abingdon, Witney, Bicester, Didcot and Banbury. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Do casement windows need planning permission in Oxford?**
-Most like-for-like casement replacements do not need planning permission. The main exception is where conservation controls across central Oxford and around the colleges are some of the strictest in the country — in that case it is worth a quick check with the council before ordering.
+Most like-for-like casement replacements do not need planning permission. The main exception is where conservation controls across central Oxford and around the colleges are some of the strictest in the country - in that case it is worth a quick check with the council before ordering.
 
 **How long does a casement window installation take?**
 A typical Oxford home with six to eight casement windows is usually finished in a single day by a two-person team, though larger properties or ones with tricky access can take longer.

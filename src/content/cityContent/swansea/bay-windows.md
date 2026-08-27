@@ -29,12 +29,12 @@ Applying Swansea's 0.86x regional factor to our national range gives a typical c
 
 ## Areas we cover around Swansea
 
-We cover Swansea and the surrounding area, including Neath, Port Talbot, Llanelli, Bridgend and Merthyr Tydfil. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Swansea and the surrounding area, including Neath, Port Talbot, Llanelli, Bridgend and Merthyr Tydfil. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Swansea?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Swansea?**
 Usually not for a like-for-like replacement, but the Maritime Quarter and Mumbles carry conservation protections reflecting their historic and coastal character, so it's worth checking if you're changing the shape or size of the existing bay.

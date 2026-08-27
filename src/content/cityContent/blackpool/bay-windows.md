@@ -13,7 +13,7 @@ generatedBy: "llm"
 
 ## Bay windows in Blackpool: getting the structure right
 
-Bay window installation in Blackpool tends to cost more than people expect, mostly because of what's involved structurally. Blackpool's housing is dominated by Victorian terraces built for the boom years of the seaside holiday trade, plus a lot of converted guesthouses along the front. Get a surveyor out before you settle on a price — bay jobs vary a lot more than standard windows.
+Bay window installation in Blackpool tends to cost more than people expect, mostly because of what's involved structurally. Blackpool's housing is dominated by Victorian terraces built for the boom years of the seaside holiday trade, plus a lot of converted guesthouses along the front. Get a surveyor out before you settle on a price - bay jobs vary a lot more than standard windows.
 
 ## Why locals choose us
 
@@ -33,10 +33,10 @@ Coverage extends beyond Blackpool out to Lytham St Annes, Fleetwood, Garstang, B
 ## Frequently asked questions
 
 **Does a bay window replacement in Blackpool need planning permission?**
-Usually not for a like-for-like replacement, but altering the shape or size of the bay, or working on a listed building, can trigger the need for permission — worth checking with the council first.
+Usually not for a like-for-like replacement, but altering the shape or size of the bay, or working on a listed building, can trigger the need for permission - worth checking with the council first.
 
 **Can you replace just the glass in a bay window rather than the whole frame?**
-Sometimes, if the frame is in good structural condition — but on older Victorian bays the frame and glass are often replaced together since they were built and sealed as one unit.
+Sometimes, if the frame is in good structural condition - but on older Victorian bays the frame and glass are often replaced together since they were built and sealed as one unit.
 
 **Do bay windows cost more to replace than standard windows in Blackpool?**
-Yes, generally — a bay involves multiple panes, angled joints and often some support work above it, which is why bay jobs are priced well above a single standard window.
+Yes, generally - a bay involves multiple panes, angled joints and often some support work above it, which is why bay jobs are priced well above a single standard window.

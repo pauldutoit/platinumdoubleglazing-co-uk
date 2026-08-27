@@ -24,7 +24,7 @@ Whether it's a tired front door or a leaking patio door, Maidstone homeowners us
 
 ## Pricing in Maidstone
 
-South East England carries a regional price factor of 1.04x the national average, so door installation in Maidstone typically runs from around £884 up to £1872 — get a free quote for an exact figure for your property.
+South East England carries a regional price factor of 1.04x the national average, so door installation in Maidstone typically runs from around £884 up to £1872 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Maidstone
 
@@ -32,7 +32,7 @@ We cover Maidstone itself plus the surrounding area, including Rochester, Sittin
 
 ## Frequently asked questions
 
-**Composite or uPVC — which is better for a front door in Maidstone?**
+**Composite or uPVC - which is better for a front door in Maidstone?**
 Composite doors cost more but hold their shape and colour better over time and generally feel more solid. uPVC is the cheaper option and still performs well if budget is the main concern.
 
 **How secure are modern replacement doors?**

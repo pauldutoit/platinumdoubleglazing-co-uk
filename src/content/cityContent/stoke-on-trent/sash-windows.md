@@ -25,11 +25,11 @@ If you're dealing with draughty, hard-to-open sash windows in Stoke-on-Trent, yo
 
 ## Pricing in Stoke-on-Trent
 
-Stoke-on-Trent carries a regional price factor of 0.86x the national average, so a sash window replacement here typically runs from around **£516** up to **£946** — get a free quote for an exact figure for your property.
+Stoke-on-Trent carries a regional price factor of 0.86x the national average, so a sash window replacement here typically runs from around **£516** up to **£946** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Stoke-on-Trent
 
-We cover Stoke-on-Trent and the surrounding area, including Newcastle-under-Lyme, Stafford, Leek, Crewe and Stone. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Stoke-on-Trent and the surrounding area, including Newcastle-under-Lyme, Stafford, Leek, Crewe and Stone. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

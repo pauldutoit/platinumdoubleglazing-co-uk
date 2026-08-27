@@ -25,11 +25,11 @@ Sash window work in Manchester usually means balancing double glazing benefits a
 
 ## Pricing in Manchester
 
-Manchester carries a regional price factor of 0.9x the national average, so a sash window replacement here typically runs from around **£540** up to **£990** — get a free quote for an exact figure for your property.
+Manchester carries a regional price factor of 0.9x the national average, so a sash window replacement here typically runs from around **£540** up to **£990** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Manchester
 
-We cover Manchester and the surrounding area, including Salford, Stockport, Bolton, Oldham and Rochdale. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Manchester and the surrounding area, including Salford, Stockport, Bolton, Oldham and Rochdale. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

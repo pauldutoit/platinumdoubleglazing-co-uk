@@ -25,11 +25,11 @@ A new front door changes the look of a Cardiff house more than almost any other 
 
 ## Pricing in Cardiff
 
-Cardiff carries a regional price factor of 0.88x the national average, so a door installation here typically runs from around **£748** up to **£1584** — get a free quote for an exact figure for your property.
+Cardiff carries a regional price factor of 0.88x the national average, so a door installation here typically runs from around **£748** up to **£1584** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Cardiff
 
-We cover Cardiff and the surrounding area, including Barry, Penarth, Caerphilly, Pontypridd and Bridgend. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Cardiff and the surrounding area, including Barry, Penarth, Caerphilly, Pontypridd and Bridgend. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
@@ -40,4 +40,4 @@ Composite doors have a solid timber-effect core that's more resistant to warping
 Multi-point locking systems, reinforced frames and toughened glass panels are all standard on the doors we fit, which is a significant step up from older single-lock doors still found on a lot of older housing in Cardiff.
 
 **Can I get a matching front and back door in Cardiff?**
-Yes — most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.
+Yes - most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.

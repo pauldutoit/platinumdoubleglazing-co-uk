@@ -25,19 +25,19 @@ Sash windows are built to slide vertically within a box frame, and getting the g
 
 ## Pricing in Folkestone
 
-Folkestone carries a regional price factor of 0.95x the national average, a little below the UK norm, so sash windows typically run from around **£570** up to **£1045** depending on size, materials and how many openings need doing — get a free quote for an exact figure for your property.
+Folkestone carries a regional price factor of 0.95x the national average, a little below the UK norm, so sash windows typically run from around **£570** up to **£1045** depending on size, materials and how many openings need doing - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Folkestone
 
-We cover Folkestone and the surrounding area, including Sandgate, Cheriton, Hythe, Capel-le-Ferne and Hawkinge. If you're just outside these, get in touch anyway — we quote a wider radius than this list on a case-by-case basis.
+We cover Folkestone and the surrounding area, including Sandgate, Cheriton, Hythe, Capel-le-Ferne and Hawkinge. If you're just outside these, get in touch anyway - we quote a wider radius than this list on a case-by-case basis.
 
 ## Frequently asked questions
 
 **Are sash windows more expensive to fit in Folkestone than standard casements?**
-Generally yes — the box frame construction, balance mechanism and often-bespoke sizing on period properties push sash windows above standard casement pricing, even before any conservation-area requirements are factored in.
+Generally yes - the box frame construction, balance mechanism and often-bespoke sizing on period properties push sash windows above standard casement pricing, even before any conservation-area requirements are factored in.
 
 **Do I need planning permission for sash windows in Folkestone?**
-Most like-for-like sash replacements on non-listed buildings don't need planning permission, but listed buildings and conservation areas often have extra restrictions on materials and glazing bar pattern — check with the local council first.
+Most like-for-like sash replacements on non-listed buildings don't need planning permission, but listed buildings and conservation areas often have extra restrictions on materials and glazing bar pattern - check with the local council first.
 
 **Can sash windows be double glazed without losing the period look?**
-Yes — modern slimline double-glazed units are built into a sash profile that matches the original glazing bar spacing and sightlines, so from the street they look very close to the single-glazed original.
+Yes - modern slimline double-glazed units are built into a sash profile that matches the original glazing bar spacing and sightlines, so from the street they look very close to the single-glazed original.

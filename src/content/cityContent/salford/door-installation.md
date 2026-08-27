@@ -24,7 +24,7 @@ Whether it's a tired front door or a leaking patio door, Salford homeowners usua
 
 ## Pricing in Salford
 
-North West England carries a regional price factor of 0.89x the national average, so door installation in Salford typically runs from around £757 up to £1602 — get a free quote for an exact figure for your property.
+North West England carries a regional price factor of 0.89x the national average, so door installation in Salford typically runs from around £757 up to £1602 - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Salford
 

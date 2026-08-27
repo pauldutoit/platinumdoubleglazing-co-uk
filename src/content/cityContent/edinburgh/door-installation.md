@@ -13,7 +13,7 @@ generatedBy: "llm"
 
 ## Composite and uPVC door installation in Edinburgh
 
-A new front door changes the look of a Edinburgh house more than almost any other single job. The New Town's Georgian terraces and the Old Town's tall tenements make up one of the most architecturally protected city centres in Britain, and a lot of the original doors on that stock are well past the point where draught-proofing alone will fix them. Conservation controls here are some of the strictest in the UK — many properties are listed, and window styles are often tightly specified by the council, and front doors are usually one of the more flexible elements even where wider window restrictions apply.
+A new front door changes the look of a Edinburgh house more than almost any other single job. The New Town's Georgian terraces and the Old Town's tall tenements make up one of the most architecturally protected city centres in Britain, and a lot of the original doors on that stock are well past the point where draught-proofing alone will fix them. Conservation controls here are some of the strictest in the UK - many properties are listed, and window styles are often tightly specified by the council, and front doors are usually one of the more flexible elements even where wider window restrictions apply.
 
 ## Why locals choose us
 
@@ -25,11 +25,11 @@ A new front door changes the look of a Edinburgh house more than almost any othe
 
 ## Pricing in Edinburgh
 
-Edinburgh carries a regional price factor of 0.95x the national average, so a door installation here typically runs from around **£808** up to **£1710** — get a free quote for an exact figure for your property.
+Edinburgh carries a regional price factor of 0.95x the national average, so a door installation here typically runs from around **£808** up to **£1710** - get a free quote for an exact figure for your property.
 
 ## Areas we cover around Edinburgh
 
-We cover Edinburgh and the surrounding area, including Livingston, Musselburgh, Bonnyrigg, Dalkeith and Penicuik. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Edinburgh and the surrounding area, including Livingston, Musselburgh, Bonnyrigg, Dalkeith and Penicuik. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
@@ -40,4 +40,4 @@ Composite doors have a solid timber-effect core that's more resistant to warping
 Multi-point locking systems, reinforced frames and toughened glass panels are all standard on the doors we fit, which is a significant step up from older single-lock doors still found on older properties in Edinburgh.
 
 **Can I get a matching front and back door in Edinburgh?**
-Yes — most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.
+Yes - most ranges let you match colour and hardware finish across front, back and side doors so they look consistent from both inside and outside the property.

@@ -36,7 +36,7 @@ As well as Wakefield, we take on jobs across nearby Leeds, Barnsley, Pontefract,
 Standard sash replacements usually don't need planning permission unless the property is listed. Given how much of Wakefield sits within conservation areas, it's worth checking before ordering.
 
 **Can sash windows be draught-proofed without full replacement?**
-Often, yes — brush seals and a refurbished sash box can cut draughts significantly on original timber sashes that are otherwise in decent condition, which is worth considering before committing to full replacement.
+Often, yes - brush seals and a refurbished sash box can cut draughts significantly on original timber sashes that are otherwise in decent condition, which is worth considering before committing to full replacement.
 
 **How many panes do original sash windows in Wakefield typically have?**
-It varies by period, but many Victorian sashes were built with a six-over-six or two-over-two pane arrangement — matching that pattern matters more to the overall look than people expect.
+It varies by period, but many Victorian sashes were built with a six-over-six or two-over-two pane arrangement - matching that pattern matters more to the overall look than people expect.

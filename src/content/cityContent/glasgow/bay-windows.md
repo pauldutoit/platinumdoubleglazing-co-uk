@@ -25,16 +25,16 @@ Bay windows bring in more natural light than almost any other window style, whic
 
 ## Pricing in Glasgow
 
-Glasgow sits at a 0.88x price factor relative to the national baseline, so expect a quote for a bay window installation in the **£1056–£2816** range — a free survey will confirm the exact number for your property.
+Glasgow sits at a 0.88x price factor relative to the national baseline, so expect a quote for a bay window installation in the **£1056–£2816** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Glasgow
 
-We cover Glasgow and the surrounding area, including Paisley, Motherwell, Hamilton, East Kilbride and Dumbarton. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Glasgow and the surrounding area, including Paisley, Motherwell, Hamilton, East Kilbride and Dumbarton. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
 **Why do bay windows cost more than a standard window in Glasgow?**
-A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below — all of which adds labour and materials compared with a single flat window.
+A bay involves three or more frames plus a roof or canopy over the top, and often some structural work to the wall below - all of which adds labour and materials compared with a single flat window.
 
 **Do I need planning permission for a new bay window in Glasgow?**
 Usually not for a like-for-like replacement, but tenement flats in conservation areas like the West End and Dennistoun often have shared or listed elements that affect what individual owners can change, so it's worth checking if you're changing the shape or size of the existing bay.

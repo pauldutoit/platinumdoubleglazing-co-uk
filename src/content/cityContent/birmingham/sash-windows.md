@@ -25,11 +25,11 @@ A lot of period properties in Birmingham still have their original box sash wind
 
 ## Pricing in Birmingham
 
-Birmingham sits at a 0.92x price factor relative to the national baseline, so expect a quote for a sash window replacement in the **£552–£1012** range — a free survey will confirm the exact number for your property.
+Birmingham sits at a 0.92x price factor relative to the national baseline, so expect a quote for a sash window replacement in the **£552–£1012** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Birmingham
 
-We cover Birmingham and the surrounding area, including Wolverhampton, Coventry, Solihull, Walsall and Dudley. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Birmingham and the surrounding area, including Wolverhampton, Coventry, Solihull, Walsall and Dudley. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 

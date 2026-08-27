@@ -25,11 +25,11 @@ A lot of period properties in Sunderland still have their original box sash wind
 
 ## Pricing in Sunderland
 
-Sunderland sits at a 0.83x price factor relative to the national baseline, so expect a quote for a sash window replacement in the **£498–£913** range — a free survey will confirm the exact number for your property.
+Sunderland sits at a 0.83x price factor relative to the national baseline, so expect a quote for a sash window replacement in the **£498–£913** range - a free survey will confirm the exact number for your property.
 
 ## Areas we cover around Sunderland
 
-We cover Sunderland and the surrounding area, including Newcastle upon Tyne, Durham, Houghton-le-Spring, Washington and Peterlee. If you're just outside these areas, get in touch anyway — we can usually still help.
+We cover Sunderland and the surrounding area, including Newcastle upon Tyne, Durham, Houghton-le-Spring, Washington and Peterlee. If you're just outside these areas, get in touch anyway - we can usually still help.
 
 ## Frequently asked questions
 
