@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import siteConfig from '../data/site.config.json';
+import { getInitials } from '../pages/favicon.svg';
 
 interface Props {
   title: string;
@@ -12,6 +13,7 @@ interface Props {
 const { title, description, indexable = true, canonicalPath = Astro.url.pathname } = Astro.props;
 const canonicalUrl = new URL(canonicalPath, `https://${siteConfig.domain}`).toString();
 const telHref = `tel:${siteConfig.phone.replace(/\s+/g, '')}`;
+const initials = getInitials(siteConfig.siteName);
 
 const localBusinessSchema = {
   '@context': 'https://schema.org',
@@ -47,7 +49,10 @@ const localBusinessSchema = {
   </head>
   <body>
     <header class="site-header">
-      <a class="logo" href="/">{siteConfig.siteName}</a>
+      <a class="logo" href="/">
+        <span class="logo-badge" aria-hidden="true">{initials}</span>
+        {siteConfig.siteName}
+      </a>
       <div class="header-actions">
         {siteConfig.phoneEnabled !== false ? (
           <Fragment>

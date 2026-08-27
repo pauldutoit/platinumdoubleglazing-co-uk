@@ -1,7 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import ContactForm from '../components/ContactForm.astro';
 import siteConfig from '../data/site.config.json';
 import cities from '../data/cities.json';
 import intents from '../data/intents.json';
@@ -88,11 +87,6 @@ const breadcrumbSchema = {
           <li><a class="pill" href={`/${intentSlug}-${c.slug}/`}>{intent} in {c.name}</a></li>
         ))}
       </ul>
-    </section>
-
-    <section class="section" id="quote" style="padding-top: 0;">
-      <div class="section-title"><h2>Get a free quote</h2></div>
-      <ContactForm city={city} intent={intent} />
     </section>
   </div>
 </BaseLayout>
