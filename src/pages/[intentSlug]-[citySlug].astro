@@ -68,7 +68,7 @@ const breadcrumbSchema = {
       {siteConfig.phoneEnabled !== false ? (
         <a class="btn btn-accent" href={telHref}>Call {siteConfig.phone}</a>
       ) : (
-        <a class="btn btn-accent" href="/#quote">Get a free quote</a>
+        <a class="btn btn-accent" href={`/quote?city=${citySlug}&intent=${intentSlug}`}>Get a free quote</a>
       )}
     </div>
 

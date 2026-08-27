@@ -1,0 +1,76 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ContactForm from '../components/ContactForm.astro';
+import siteConfig from '../data/site.config.json';
+import cities from '../data/cities.json';
+import intents from '../data/intents.json';
+
+const testimonial = siteConfig.testimonials?.[0];
+
+// Personalization from ?city=&intent= happens client-side below: this is a fully static
+// page (output: 'static'), rendered once at build time with no per-request context, so
+// the query string can only be read in the browser after the page has loaded.
+const cityLookup = cities.map((c) => ({ slug: c.slug, name: c.name }));
+const intentLookup = intents.map((i) => ({ slug: i.slug, label: i.label }));
+---
+
+<BaseLayout
+  title={`Get a Free Quote | ${siteConfig.siteName}`}
+  description="Request a free, no-obligation quote in under a minute."
+  indexable={false}
+>
+  <div class="container quote-page">
+    <div class="quote-page-intro">
+      <h1 id="quote-headline">Get your free, no-obligation quote</h1>
+      {siteConfig.aggregateRating && (
+        <p class="quote-trust">&#9733; {siteConfig.aggregateRating.value}/5 from {siteConfig.aggregateRating.count} reviews</p>
+      )}
+      {testimonial && (
+        <blockquote class="quote-testimonial">
+          <p>"{testimonial.quote}"</p>
+          <cite>{testimonial.name}, {testimonial.location}</cite>
+        </blockquote>
+      )}
+    </div>
+    <ContactForm />
+  </div>
+</BaseLayout>
+
+<script type="application/json" id="quote-lookup-data" set:html={JSON.stringify({ cities: cityLookup, intents: intentLookup })} />
+<script>
+  const data = JSON.parse(document.getElementById('quote-lookup-data')!.textContent!);
+  const params = new URLSearchParams(window.location.search);
+  const citySlug = params.get('city') ?? '';
+  const intentSlug = params.get('intent') ?? '';
+
+  const city = data.cities.find((c: { slug: string }) => c.slug === citySlug);
+  const intent = data.intents.find((i: { slug: string }) => i.slug === intentSlug);
+
+  if (city || intent) {
+    const headline = document.getElementById('quote-headline');
+    if (headline) {
+      headline.textContent = city && intent
+        ? `Get your free ${intent.label} quote for ${city.name}`
+        : city
+          ? `Get your free quote for ${city.name}`
+          : `Get your free ${intent.label} quote`;
+    }
+    const form = document.getElementById('lead-form') as HTMLFormElement | null;
+    if (form) {
+      if (city) form.dataset.city = city.name;
+      if (intent) form.dataset.intent = intent.label;
+    }
+  }
+</script>
+
+<style>
+  .quote-page { display: grid; gap: 2.5rem; padding: 2.5rem 1.5rem 4rem; max-width: 720px; }
+  .quote-page-intro h1 { margin-bottom: 0.75rem; }
+  .quote-trust { font-weight: 700; color: var(--color-primary-dark); }
+  .quote-testimonial {
+    margin: 1.25rem 0 0; padding: 1rem 1.25rem; border-left: 3px solid var(--color-primary);
+    background: var(--color-surface-alt); border-radius: var(--radius-sm);
+  }
+  .quote-testimonial p { margin: 0 0 0.4rem; font-style: italic; color: var(--color-body); }
+  .quote-testimonial cite { font-style: normal; font-weight: 700; font-size: 0.85rem; }
+</style>
