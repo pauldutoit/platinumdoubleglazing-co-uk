@@ -1,0 +1,64 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ContactForm from '../components/ContactForm.astro';
+import siteConfig from '../data/site.config.json';
+import cities from '../data/cities.json';
+import intents from '../data/intents.json';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('cityContent');
+  return entries.map((entry) => ({
+    params: { intentSlug: entry.data.intentSlug, citySlug: entry.data.citySlug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const { city, citySlug, intent, intentSlug, indexable, metaTitle, metaDescription } = entry.data;
+
+// Internal links: other services in the same city, and this same service in nearby cities.
+// These stay as plain links regardless of indexable status, so PageRank still flows to
+// gated (noindex) pages through crawlable internal links - see the indexation-gate note below.
+const otherIntentsSameCity = intents.filter((i) => i.slug !== intentSlug);
+const sameIntentOtherCities = cities.filter((c) => c.slug !== citySlug);
+const telHref = `tel:${siteConfig.phone.replace(/\s+/g, '')}`;
+---
+
+<BaseLayout title={metaTitle} description={metaDescription} indexable={indexable}>
+  <div class="container" style="padding-top: 1.5rem;">
+    <nav class="breadcrumb" aria-label="breadcrumb"><a href="/">Home</a> / {intent} / {city}</nav>
+    <h1>{intent} in {city}</h1>
+
+    <Content />
+
+    <div class="cta-banner">
+      <h2>Need {intent.toLowerCase()} in {city} today?</h2>
+      <a class="btn btn-accent" href={telHref}>Call {siteConfig.phone}</a>
+    </div>
+
+    <section class="section" style="padding-top: 0;">
+      <div class="section-title"><h2>Other services in {city}</h2></div>
+      <ul class="pill-list">
+        {otherIntentsSameCity.map((i) => (
+          <li><a class="pill" href={`/${i.slug}-${citySlug}/`}>{i.label} in {city}</a></li>
+        ))}
+      </ul>
+    </section>
+
+    <section class="section" style="padding-top: 0;">
+      <div class="section-title"><h2>{intent} in nearby areas</h2></div>
+      <ul class="pill-list">
+        {sameIntentOtherCities.map((c) => (
+          <li><a class="pill" href={`/${intentSlug}-${c.slug}/`}>{intent} in {c.name}</a></li>
+        ))}
+      </ul>
+    </section>
+
+    <section class="section" style="padding-top: 0;">
+      <div class="section-title"><h2>Request a callback</h2></div>
+      <ContactForm city={city} intent={intent} />
+    </section>
+  </div>
+</BaseLayout>

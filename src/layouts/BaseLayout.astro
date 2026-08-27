@@ -1,0 +1,45 @@
+---
+import '../styles/global.css';
+import siteConfig from '../data/site.config.json';
+
+interface Props {
+  title: string;
+  description: string;
+  indexable?: boolean;
+  canonicalPath?: string;
+}
+
+const { title, description, indexable = true, canonicalPath = Astro.url.pathname } = Astro.props;
+const canonicalUrl = new URL(canonicalPath, `https://${siteConfig.domain}`).toString();
+const telHref = `tel:${siteConfig.phone.replace(/\s+/g, '')}`;
+---
+
+<!doctype html>
+<html lang="en" style={`--color-primary: ${siteConfig.themeColor}; --color-accent: ${siteConfig.accentColor}`}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
+    <meta name="robots" content={indexable ? 'index,follow' : 'noindex,follow'} />
+    <meta name="theme-color" content={siteConfig.themeColor} />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="logo" href="/">{siteConfig.siteName}</a>
+      <div class="header-actions">
+        <a class="phone-link" href={telHref}>{siteConfig.phone}</a>
+        <a class="btn btn-accent" href={telHref}>Call now</a>
+      </div>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <p>{siteConfig.legalName} &middot; {siteConfig.legalAddress}</p>
+      <p><a href="/mentions-legales">Legal notice</a> &middot; <a href="/politique-de-confidentialite">Privacy policy</a></p>
+    </footer>
+  </body>
+</html>

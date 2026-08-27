@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "london",
+    "name": "London",
+    "region": "Greater London",
+    "indexable": true,
+    "note": "Proven page: keep indexable true only once it has real traffic/engagement history."
+  },
+  {
+    "slug": "manchester",
+    "name": "Manchester",
+    "region": "North West England",
+    "indexable": false
+  },
+  {
+    "slug": "birmingham",
+    "name": "Birmingham",
+    "region": "West Midlands",
+    "indexable": false
+  },
+  {
+    "slug": "leeds",
+    "name": "Leeds",
+    "region": "West Yorkshire",
+    "indexable": false
+  }
+]

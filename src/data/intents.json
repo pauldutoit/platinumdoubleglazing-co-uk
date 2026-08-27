@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "emergency-repair",
+    "label": "Emergency Repair",
+    "shortLabel": "Emergency Repair",
+    "searchIntent": "someone needs urgent same-day help"
+  },
+  {
+    "slug": "installation",
+    "label": "New Installation",
+    "shortLabel": "Installation",
+    "searchIntent": "someone is planning a new installation and comparing quotes"
+  },
+  {
+    "slug": "maintenance",
+    "label": "Maintenance & Servicing",
+    "shortLabel": "Maintenance",
+    "searchIntent": "someone wants a recurring or one-off maintenance visit"
+  }
+]

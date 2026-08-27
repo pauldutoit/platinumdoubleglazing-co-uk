@@ -1,0 +1,16 @@
+{
+  "siteName": "Example Local Services",
+  "domain": "example.com",
+  "niche": "example service",
+  "nicheLabel": "Example Service",
+  "phone": "+44 0000 000000",
+  "email": "contact@example.com",
+  "fromEmail": "leads@example.com",
+  "tagline": "Fast, reliable example service near you",
+  "subTagline": "Same-day callouts, upfront pricing, fully insured local engineers.",
+  "themeColor": "#1a5f3f",
+  "accentColor": "#e8590c",
+  "locale": "en-GB",
+  "legalName": "Example Local Services Ltd",
+  "legalAddress": "1 Example Street, London, UK"
+}

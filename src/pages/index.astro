@@ -1,0 +1,68 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ContactForm from '../components/ContactForm.astro';
+import siteConfig from '../data/site.config.json';
+import intents from '../data/intents.json';
+import cities from '../data/cities.json';
+
+const telHref = `tel:${siteConfig.phone.replace(/\s+/g, '')}`;
+const icons = ['\u{1F527}', '\u{1F528}', '\u{1F6E0}\u{FE0F}'];
+---
+
+<BaseLayout title={`${siteConfig.siteName} | ${siteConfig.tagline}`} description={siteConfig.tagline}>
+  <section class="hero">
+    <div class="container">
+      <span class="eyebrow">{siteConfig.nicheLabel}</span>
+      <h1>{siteConfig.tagline}</h1>
+      <p class="lede">{siteConfig.subTagline}</p>
+      <div class="cta-row">
+        <a class="btn btn-accent" href={telHref}>Call {siteConfig.phone}</a>
+        <a class="btn btn-outline" href="#quote">Get a free quote</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-title">
+        <h2>Our services</h2>
+        <p>Pick what you need, we'll take it from there.</p>
+      </div>
+      <div class="grid grid-3">
+        {intents.map((i, idx) => (
+          <div class="card">
+            <a href={`/${i.slug}-${cities[0].slug}/`}>
+              <span class="icon">{icons[idx % icons.length]}</span>
+              <h3>{i.label}</h3>
+              <p>{i.searchIntent}</p>
+            </a>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-alt">
+    <div class="container">
+      <div class="section-title">
+        <h2>Areas we cover</h2>
+        <p>Don't see your town? Call us, we likely still cover it.</p>
+      </div>
+      <ul class="pill-list">
+        {cities.map((c) => (
+          <li><a class="pill" href={`/${intents[0].slug}-${c.slug}/`}>{c.name}</a></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <section class="section" id="quote">
+    <div class="container">
+      <div class="section-title">
+        <h2>Get a free quote</h2>
+        <p>Tell us what you need, we'll get back to you fast.</p>
+      </div>
+      <ContactForm />
+    </div>
+  </section>
+</BaseLayout>
