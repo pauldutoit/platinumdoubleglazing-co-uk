@@ -57,10 +57,15 @@ async function main() {
 }
 
 async function generateContent({ siteConfig, city, intent }) {
+  const priceLine = (city.pf && intent.basePriceRange)
+    ? `Realistic price range for this city (national base price x this city's regional factor of ${city.pf}): £${Math.round(intent.basePriceRange[0] * city.pf)}-£${Math.round(intent.basePriceRange[1] * city.pf)}. Use this range instead of inventing prices.`
+    : '';
+
   const prompt = `You are writing website copy for a local service business.
 
 Business: ${siteConfig.siteName} (${siteConfig.nicheLabel}), operating in the UK.
 Page topic: "${intent.label}" (${intent.searchIntent}) specifically for the city of ${city.name}, ${city.region}.
+${priceLine}
 
 Write genuinely unique, specific, non-generic copy for this exact city and service combination.
 Reference real, verifiable local detail where sensible (well-known areas, typical local conditions),

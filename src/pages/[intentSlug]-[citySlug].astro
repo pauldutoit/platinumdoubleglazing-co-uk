@@ -65,7 +65,11 @@ const breadcrumbSchema = {
 
     <div class="cta-banner">
       <h2>Need {intent.toLowerCase()} in {city} today?</h2>
-      <a class="btn btn-accent" href={telHref}>Call {siteConfig.phone}</a>
+      {siteConfig.phoneEnabled !== false ? (
+        <a class="btn btn-accent" href={telHref}>Call {siteConfig.phone}</a>
+      ) : (
+        <a class="btn btn-accent" href="/#quote">Get a free quote</a>
+      )}
     </div>
 
     <section class="section" style="padding-top: 0;">
@@ -86,8 +90,8 @@ const breadcrumbSchema = {
       </ul>
     </section>
 
-    <section class="section" style="padding-top: 0;">
-      <div class="section-title"><h2>Request a callback</h2></div>
+    <section class="section" id="quote" style="padding-top: 0;">
+      <div class="section-title"><h2>Get a free quote</h2></div>
       <ContactForm city={city} intent={intent} />
     </section>
   </div>

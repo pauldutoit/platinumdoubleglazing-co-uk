@@ -199,7 +199,7 @@ ul { padding-left: 1.25rem; }
 .price-from { font-weight: 700; color: var(--color-primary-dark); margin-top: 0.5rem !important; }
 
 /* How it works */
-.step-card { position: relative; padding-top: 2.5rem; }
+.step-card { position: relative; padding-top: 3.75rem; }
 .step-number {
   position: absolute; top: 1.25rem; left: 1.5rem;
   width: 2rem; height: 2rem; border-radius: 50%;

@@ -17,7 +17,7 @@ const localBusinessSchema = {
   '@context': 'https://schema.org',
   '@type': 'LocalBusiness',
   name: siteConfig.siteName,
-  telephone: siteConfig.phone,
+  ...(siteConfig.phoneEnabled !== false && { telephone: siteConfig.phone }),
   email: siteConfig.email,
   address: { '@type': 'PostalAddress', streetAddress: siteConfig.legalAddress },
   url: `https://${siteConfig.domain}`,
@@ -49,8 +49,14 @@ const localBusinessSchema = {
     <header class="site-header">
       <a class="logo" href="/">{siteConfig.siteName}</a>
       <div class="header-actions">
-        <a class="phone-link" href={telHref}>{siteConfig.phone}</a>
-        <a class="btn btn-accent" href={telHref}>Call now</a>
+        {siteConfig.phoneEnabled !== false ? (
+          <Fragment>
+            <a class="phone-link" href={telHref}>{siteConfig.phone}</a>
+            <a class="btn btn-accent" href={telHref}>Call now</a>
+          </Fragment>
+        ) : (
+          <a class="btn btn-accent" href="/#quote">Get a free quote</a>
+        )}
       </div>
     </header>
     <main>

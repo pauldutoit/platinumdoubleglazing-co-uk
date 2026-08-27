@@ -1,11 +1,30 @@
 [
   {
-    "slug": "window-installation",
-    "label": "Window Installation",
-    "shortLabel": "Window Installation",
-    "searchIntent": "someone is planning new double glazed windows and comparing quotes",
-    "priceFrom": "From £450 per window",
-    "icon": "\ud83e\udea9"
+    "slug": "casement-windows",
+    "label": "Casement Windows",
+    "shortLabel": "Casement Windows",
+    "searchIntent": "someone wants new or replacement casement windows and is comparing quotes",
+    "priceFrom": "From £350",
+    "basePriceRange": [350, 900],
+    "icon": "\ud83e\udd9f"
+  },
+  {
+    "slug": "sash-windows",
+    "label": "Sash Windows",
+    "shortLabel": "Sash Windows",
+    "searchIntent": "someone wants period-style sash windows replaced or upgraded to double glazing",
+    "priceFrom": "From £600",
+    "basePriceRange": [600, 1100],
+    "icon": "\ud83e\udd9f"
+  },
+  {
+    "slug": "bay-windows",
+    "label": "Bay Windows",
+    "shortLabel": "Bay Windows",
+    "searchIntent": "someone wants a bay window installed or replaced and is comparing quotes",
+    "priceFrom": "From £1,200",
+    "basePriceRange": [1200, 3200],
+    "icon": "\ud83c\udfe0"
   },
   {
     "slug": "door-installation",
@@ -13,30 +32,16 @@
     "shortLabel": "Door Installation",
     "searchIntent": "someone wants a new composite, uPVC or bifold door fitted",
     "priceFrom": "From £850",
+    "basePriceRange": [850, 1800],
     "icon": "\ud83d\udeaa"
   },
   {
     "slug": "window-repair",
     "label": "Window Repair",
     "shortLabel": "Window Repair",
-    "searchIntent": "someone has a broken seal, misted glass or faulty hinge and wants a repair",
+    "searchIntent": "someone has a broken seal, misted glass or faulty hinge and wants a repair, possibly urgent",
     "priceFrom": "From £89",
+    "basePriceRange": [89, 250],
     "icon": "\ud83d\udd27"
-  },
-  {
-    "slug": "conservatory-installation",
-    "label": "Conservatory Installation",
-    "shortLabel": "Conservatories",
-    "searchIntent": "someone is planning a new conservatory or orangery",
-    "priceFrom": "From £6,500",
-    "icon": "\ud83c\udfe1"
-  },
-  {
-    "slug": "emergency-glass-repair",
-    "label": "Emergency Glass Repair",
-    "shortLabel": "Emergency Repair",
-    "searchIntent": "someone has a smashed or cracked window and needs urgent same-day help",
-    "priceFrom": "From £120",
-    "icon": "\ud83d\udea8"
   }
 ]

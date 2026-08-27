@@ -2,7 +2,9 @@
   {
     "slug": "london",
     "name": "London",
+    "county": "Greater London",
     "region": "London",
+    "pf": 1.25,
     "indexable": false,
     "nearby": [
       "croydon",
@@ -15,7 +17,9 @@
   {
     "slug": "birmingham",
     "name": "Birmingham",
+    "county": "West Midlands",
     "region": "West Midlands",
+    "pf": 0.92,
     "indexable": false,
     "nearby": [
       "wolverhampton",
@@ -28,7 +32,9 @@
   {
     "slug": "manchester",
     "name": "Manchester",
+    "county": "Greater Manchester",
     "region": "North West England",
+    "pf": 0.9,
     "indexable": false,
     "nearby": [
       "salford",
@@ -41,7 +47,9 @@
   {
     "slug": "leeds",
     "name": "Leeds",
+    "county": "West Yorkshire",
     "region": "Yorkshire and the Humber",
+    "pf": 0.88,
     "indexable": false,
     "nearby": [
       "bradford",
@@ -54,7 +62,9 @@
   {
     "slug": "glasgow",
     "name": "Glasgow",
+    "county": "Glasgow City",
     "region": "Scotland",
+    "pf": 0.88,
     "indexable": false,
     "nearby": [
       "paisley",
@@ -67,7 +77,9 @@
   {
     "slug": "liverpool",
     "name": "Liverpool",
+    "county": "Merseyside",
     "region": "North West England",
+    "pf": 0.88,
     "indexable": false,
     "nearby": [
       "birkenhead",
@@ -80,7 +92,9 @@
   {
     "slug": "bristol",
     "name": "Bristol",
+    "county": "Bristol",
     "region": "South West England",
+    "pf": 0.98,
     "indexable": false,
     "nearby": [
       "bath",
@@ -93,7 +107,9 @@
   {
     "slug": "sheffield",
     "name": "Sheffield",
+    "county": "South Yorkshire",
     "region": "Yorkshire and the Humber",
+    "pf": 0.87,
     "indexable": false,
     "nearby": [
       "rotherham",
@@ -106,7 +122,9 @@
   {
     "slug": "edinburgh",
     "name": "Edinburgh",
+    "county": "City of Edinburgh",
     "region": "Scotland",
+    "pf": 0.95,
     "indexable": false,
     "nearby": [
       "livingston",
@@ -119,7 +137,9 @@
   {
     "slug": "leicester",
     "name": "Leicester",
+    "county": "Leicestershire",
     "region": "East Midlands",
+    "pf": 0.89,
     "indexable": false,
     "nearby": [
       "loughborough",
@@ -132,7 +152,9 @@
   {
     "slug": "coventry",
     "name": "Coventry",
+    "county": "West Midlands",
     "region": "West Midlands",
+    "pf": 0.91,
     "indexable": false,
     "nearby": [
       "birmingham",
@@ -145,7 +167,9 @@
   {
     "slug": "bradford",
     "name": "Bradford",
+    "county": "West Yorkshire",
     "region": "Yorkshire and the Humber",
+    "pf": 0.86,
     "indexable": false,
     "nearby": [
       "leeds",
@@ -158,7 +182,9 @@
   {
     "slug": "nottingham",
     "name": "Nottingham",
+    "county": "Nottinghamshire",
     "region": "East Midlands",
+    "pf": 0.89,
     "indexable": false,
     "nearby": [
       "derby",
@@ -171,7 +197,9 @@
   {
     "slug": "kingston-upon-hull",
     "name": "Kingston upon Hull",
+    "county": "East Riding of Yorkshire",
     "region": "Yorkshire and the Humber",
+    "pf": 0.84,
     "indexable": false,
     "nearby": [
       "beverley",
@@ -184,7 +212,9 @@
   {
     "slug": "stoke-on-trent",
     "name": "Stoke-on-Trent",
+    "county": "Staffordshire",
     "region": "West Midlands",
+    "pf": 0.86,
     "indexable": false,
     "nearby": [
       "newcastle-under-lyme",
@@ -197,7 +227,9 @@
   {
     "slug": "wolverhampton",
     "name": "Wolverhampton",
+    "county": "West Midlands",
     "region": "West Midlands",
+    "pf": 0.9,
     "indexable": false,
     "nearby": [
       "birmingham",
@@ -210,7 +242,9 @@
   {
     "slug": "plymouth",
     "name": "Plymouth",
+    "county": "Devon",
     "region": "South West England",
+    "pf": 0.9,
     "indexable": false,
     "nearby": [
       "torquay",
@@ -223,7 +257,9 @@
   {
     "slug": "southampton",
     "name": "Southampton",
+    "county": "Hampshire",
     "region": "South East England",
+    "pf": 1.05,
     "indexable": false,
     "nearby": [
       "portsmouth",
@@ -236,7 +272,9 @@
   {
     "slug": "reading",
     "name": "Reading",
+    "county": "Berkshire",
     "region": "South East England",
+    "pf": 1.12,
     "indexable": false,
     "nearby": [
       "slough",
@@ -249,7 +287,9 @@
   {
     "slug": "derby",
     "name": "Derby",
+    "county": "Derbyshire",
     "region": "East Midlands",
+    "pf": 0.88,
     "indexable": false,
     "nearby": [
       "nottingham",
@@ -262,7 +302,9 @@
   {
     "slug": "newcastle-upon-tyne",
     "name": "Newcastle upon Tyne",
+    "county": "Tyne and Wear",
     "region": "North East England",
+    "pf": 0.85,
     "indexable": false,
     "nearby": [
       "sunderland",
@@ -275,7 +317,9 @@
   {
     "slug": "sunderland",
     "name": "Sunderland",
+    "county": "Tyne and Wear",
     "region": "North East England",
+    "pf": 0.83,
     "indexable": false,
     "nearby": [
       "newcastle-upon-tyne",
@@ -288,7 +332,9 @@
   {
     "slug": "aberdeen",
     "name": "Aberdeen",
+    "county": "Aberdeen City",
     "region": "Scotland",
+    "pf": 0.9,
     "indexable": false,
     "nearby": [
       "inverurie",
@@ -301,7 +347,9 @@
   {
     "slug": "portsmouth",
     "name": "Portsmouth",
+    "county": "Hampshire",
     "region": "South East England",
+    "pf": 1.03,
     "indexable": false,
     "nearby": [
       "southampton",
@@ -314,7 +362,9 @@
   {
     "slug": "york",
     "name": "York",
+    "county": "North Yorkshire",
     "region": "Yorkshire and the Humber",
+    "pf": 0.92,
     "indexable": false,
     "nearby": [
       "leeds",
@@ -327,7 +377,9 @@
   {
     "slug": "oxford",
     "name": "Oxford",
+    "county": "Oxfordshire",
     "region": "South East England",
+    "pf": 1.15,
     "indexable": false,
     "nearby": [
       "abingdon",
@@ -340,7 +392,9 @@
   {
     "slug": "cambridge",
     "name": "Cambridge",
+    "county": "Cambridgeshire",
     "region": "East of England",
+    "pf": 1.14,
     "indexable": false,
     "nearby": [
       "ely",
@@ -353,7 +407,9 @@
   {
     "slug": "swansea",
     "name": "Swansea",
+    "county": "City and County of Swansea",
     "region": "Wales",
+    "pf": 0.86,
     "indexable": false,
     "nearby": [
       "neath",
@@ -366,7 +422,9 @@
   {
     "slug": "cardiff",
     "name": "Cardiff",
+    "county": "Cardiff",
     "region": "Wales",
+    "pf": 0.88,
     "indexable": false,
     "nearby": [
       "barry",
@@ -379,7 +437,9 @@
   {
     "slug": "norwich",
     "name": "Norwich",
+    "county": "Norfolk",
     "region": "East of England",
+    "pf": 0.91,
     "indexable": false,
     "nearby": [
       "great-yarmouth",
@@ -392,7 +452,9 @@
   {
     "slug": "ipswich",
     "name": "Ipswich",
+    "county": "Suffolk",
     "region": "East of England",
+    "pf": 0.92,
     "indexable": false,
     "nearby": [
       "bury-st-edmunds",
@@ -405,7 +467,9 @@
   {
     "slug": "luton",
     "name": "Luton",
+    "county": "Bedfordshire",
     "region": "East of England",
+    "pf": 1.06,
     "indexable": false,
     "nearby": [
       "bedford",
@@ -418,7 +482,9 @@
   {
     "slug": "exeter",
     "name": "Exeter",
+    "county": "Devon",
     "region": "South West England",
+    "pf": 0.93,
     "indexable": false,
     "nearby": [
       "torquay",
@@ -431,7 +497,9 @@
   {
     "slug": "middlesbrough",
     "name": "Middlesbrough",
+    "county": "North Yorkshire",
     "region": "North East England",
+    "pf": 0.82,
     "indexable": false,
     "nearby": [
       "stockton-on-tees",
@@ -444,7 +512,9 @@
   {
     "slug": "peterborough",
     "name": "Peterborough",
+    "county": "Cambridgeshire",
     "region": "East of England",
+    "pf": 0.9,
     "indexable": false,
     "nearby": [
       "cambridge",
@@ -457,7 +527,9 @@
   {
     "slug": "milton-keynes",
     "name": "Milton Keynes",
+    "county": "Buckinghamshire",
     "region": "South East England",
+    "pf": 1.08,
     "indexable": false,
     "nearby": [
       "bedford",
@@ -470,7 +542,9 @@
   {
     "slug": "northampton",
     "name": "Northampton",
+    "county": "Northamptonshire",
     "region": "East Midlands",
+    "pf": 0.92,
     "indexable": false,
     "nearby": [
       "wellingborough",
@@ -483,7 +557,9 @@
   {
     "slug": "dundee",
     "name": "Dundee",
+    "county": "Dundee City",
     "region": "Scotland",
+    "pf": 0.87,
     "indexable": false,
     "nearby": [
       "perth",
@@ -496,7 +572,9 @@
   {
     "slug": "swindon",
     "name": "Swindon",
+    "county": "Wiltshire",
     "region": "South West England",
+    "pf": 0.97,
     "indexable": false,
     "nearby": [
       "bristol",
@@ -509,7 +587,9 @@
   {
     "slug": "colchester",
     "name": "Colchester",
+    "county": "Essex",
     "region": "East of England",
+    "pf": 0.99,
     "indexable": false,
     "nearby": [
       "ipswich",
@@ -522,7 +602,9 @@
   {
     "slug": "chelmsford",
     "name": "Chelmsford",
+    "county": "Essex",
     "region": "East of England",
+    "pf": 1.05,
     "indexable": false,
     "nearby": [
       "colchester",
@@ -535,7 +617,9 @@
   {
     "slug": "southend-on-sea",
     "name": "Southend-on-Sea",
+    "county": "Essex",
     "region": "East of England",
+    "pf": 0.98,
     "indexable": false,
     "nearby": [
       "chelmsford",
@@ -548,7 +632,9 @@
   {
     "slug": "brighton",
     "name": "Brighton",
+    "county": "East Sussex",
     "region": "South East England",
+    "pf": 1.1,
     "indexable": false,
     "nearby": [
       "hove",
@@ -561,7 +647,9 @@
   {
     "slug": "bournemouth",
     "name": "Bournemouth",
+    "county": "Dorset",
     "region": "South West England",
+    "pf": 0.99,
     "indexable": false,
     "nearby": [
       "poole",
@@ -574,7 +662,9 @@
   {
     "slug": "gloucester",
     "name": "Gloucester",
+    "county": "Gloucestershire",
     "region": "South West England",
+    "pf": 0.92,
     "indexable": false,
     "nearby": [
       "cheltenham",
@@ -587,7 +677,9 @@
   {
     "slug": "cheltenham",
     "name": "Cheltenham",
+    "county": "Gloucestershire",
     "region": "South West England",
+    "pf": 0.96,
     "indexable": false,
     "nearby": [
       "gloucester",
@@ -600,7 +692,9 @@
   {
     "slug": "blackpool",
     "name": "Blackpool",
+    "county": "Lancashire",
     "region": "North West England",
+    "pf": 0.84,
     "indexable": false,
     "nearby": [
       "lytham-st-annes",
@@ -613,7 +707,9 @@
   {
     "slug": "warrington",
     "name": "Warrington",
+    "county": "Cheshire",
     "region": "North West England",
+    "pf": 0.91,
     "indexable": false,
     "nearby": [
       "widnes",
@@ -626,7 +722,9 @@
   {
     "slug": "telford",
     "name": "Telford",
+    "county": "Shropshire",
     "region": "West Midlands",
+    "pf": 0.88,
     "indexable": false,
     "nearby": [
       "wolverhampton",
@@ -639,7 +737,9 @@
   {
     "slug": "worcester",
     "name": "Worcester",
+    "county": "Worcestershire",
     "region": "West Midlands",
+    "pf": 0.91,
     "indexable": false,
     "nearby": [
       "birmingham",
@@ -652,7 +752,9 @@
   {
     "slug": "bath",
     "name": "Bath",
+    "county": "Somerset",
     "region": "South West England",
+    "pf": 1.05,
     "indexable": false,
     "nearby": [
       "bristol",
@@ -665,7 +767,9 @@
   {
     "slug": "lincoln",
     "name": "Lincoln",
+    "county": "Lincolnshire",
     "region": "East Midlands",
+    "pf": 0.86,
     "indexable": false,
     "nearby": [
       "grantham",
@@ -678,7 +782,9 @@
   {
     "slug": "hartlepool",
     "name": "Hartlepool",
+    "county": "County Durham",
     "region": "North East England",
+    "pf": 0.81,
     "indexable": false,
     "nearby": [
       "middlesbrough",
@@ -691,7 +797,9 @@
   {
     "slug": "blackburn",
     "name": "Blackburn",
+    "county": "Lancashire",
     "region": "North West England",
+    "pf": 0.85,
     "indexable": false,
     "nearby": [
       "burnley",
@@ -704,7 +812,9 @@
   {
     "slug": "huddersfield",
     "name": "Huddersfield",
+    "county": "West Yorkshire",
     "region": "Yorkshire and the Humber",
+    "pf": 0.87,
     "indexable": false,
     "nearby": [
       "leeds",
@@ -717,7 +827,9 @@
   {
     "slug": "poole",
     "name": "Poole",
+    "county": "Dorset",
     "region": "South West England",
+    "pf": 1,
     "indexable": false,
     "nearby": [
       "bournemouth",
@@ -730,7 +842,9 @@
   {
     "slug": "eastbourne",
     "name": "Eastbourne",
+    "county": "East Sussex",
     "region": "South East England",
+    "pf": 1,
     "indexable": false,
     "nearby": [
       "brighton",
@@ -743,7 +857,9 @@
   {
     "slug": "hastings",
     "name": "Hastings",
+    "county": "East Sussex",
     "region": "South East England",
+    "pf": 0.95,
     "indexable": false,
     "nearby": [
       "eastbourne",
@@ -756,7 +872,9 @@
   {
     "slug": "maidstone",
     "name": "Maidstone",
+    "county": "Kent",
     "region": "South East England",
+    "pf": 1.04,
     "indexable": false,
     "nearby": [
       "rochester",
@@ -769,7 +887,9 @@
   {
     "slug": "basildon",
     "name": "Basildon",
+    "county": "Essex",
     "region": "East of England",
+    "pf": 1.02,
     "indexable": false,
     "nearby": [
       "southend-on-sea",
@@ -782,7 +902,9 @@
   {
     "slug": "shrewsbury",
     "name": "Shrewsbury",
+    "county": "Shropshire",
     "region": "West Midlands",
+    "pf": 0.87,
     "indexable": false,
     "nearby": [
       "telford",
@@ -795,7 +917,9 @@
   {
     "slug": "guildford",
     "name": "Guildford",
+    "county": "Surrey",
     "region": "South East England",
+    "pf": 1.18,
     "indexable": false,
     "nearby": [
       "woking",
@@ -808,7 +932,9 @@
   {
     "slug": "slough",
     "name": "Slough",
+    "county": "Berkshire",
     "region": "South East England",
+    "pf": 1.12,
     "indexable": false,
     "nearby": [
       "windsor",
@@ -821,7 +947,9 @@
   {
     "slug": "st-albans",
     "name": "St Albans",
+    "county": "Hertfordshire",
     "region": "East of England",
+    "pf": 1.16,
     "indexable": false,
     "nearby": [
       "luton",
@@ -834,7 +962,9 @@
   {
     "slug": "woking",
     "name": "Woking",
+    "county": "Surrey",
     "region": "South East England",
+    "pf": 1.15,
     "indexable": false,
     "nearby": [
       "guildford",
@@ -847,7 +977,9 @@
   {
     "slug": "wigan",
     "name": "Wigan",
+    "county": "Greater Manchester",
     "region": "North West England",
+    "pf": 0.86,
     "indexable": false,
     "nearby": [
       "bolton",
@@ -860,7 +992,9 @@
   {
     "slug": "bolton",
     "name": "Bolton",
+    "county": "Greater Manchester",
     "region": "North West England",
+    "pf": 0.86,
     "indexable": false,
     "nearby": [
       "manchester",
@@ -873,7 +1007,9 @@
   {
     "slug": "bury",
     "name": "Bury",
+    "county": "Greater Manchester",
     "region": "North West England",
+    "pf": 0.87,
     "indexable": false,
     "nearby": [
       "manchester",
@@ -886,7 +1022,9 @@
   {
     "slug": "salford",
     "name": "Salford",
+    "county": "Greater Manchester",
     "region": "North West England",
+    "pf": 0.89,
     "indexable": false,
     "nearby": [
       "manchester",
@@ -899,7 +1037,9 @@
   {
     "slug": "stockport",
     "name": "Stockport",
+    "county": "Greater Manchester",
     "region": "North West England",
+    "pf": 0.91,
     "indexable": false,
     "nearby": [
       "manchester",
@@ -912,7 +1052,9 @@
   {
     "slug": "rochdale",
     "name": "Rochdale",
+    "county": "Greater Manchester",
     "region": "North West England",
+    "pf": 0.85,
     "indexable": false,
     "nearby": [
       "manchester",
@@ -925,7 +1067,9 @@
   {
     "slug": "oldham",
     "name": "Oldham",
+    "county": "Greater Manchester",
     "region": "North West England",
+    "pf": 0.85,
     "indexable": false,
     "nearby": [
       "manchester",
@@ -938,7 +1082,9 @@
   {
     "slug": "burnley",
     "name": "Burnley",
+    "county": "Lancashire",
     "region": "North West England",
+    "pf": 0.83,
     "indexable": false,
     "nearby": [
       "blackburn",
@@ -951,7 +1097,9 @@
   {
     "slug": "durham",
     "name": "Durham",
+    "county": "County Durham",
     "region": "North East England",
+    "pf": 0.84,
     "indexable": false,
     "nearby": [
       "sunderland",
@@ -964,7 +1112,9 @@
   {
     "slug": "darlington",
     "name": "Darlington",
+    "county": "County Durham",
     "region": "North East England",
+    "pf": 0.83,
     "indexable": false,
     "nearby": [
       "middlesbrough",
@@ -977,7 +1127,9 @@
   {
     "slug": "stockton-on-tees",
     "name": "Stockton-on-Tees",
+    "county": "County Durham",
     "region": "North East England",
+    "pf": 0.82,
     "indexable": false,
     "nearby": [
       "middlesbrough",
@@ -990,7 +1142,9 @@
   {
     "slug": "wakefield",
     "name": "Wakefield",
+    "county": "West Yorkshire",
     "region": "Yorkshire and the Humber",
+    "pf": 0.86,
     "indexable": false,
     "nearby": [
       "leeds",
@@ -1003,7 +1157,9 @@
   {
     "slug": "doncaster",
     "name": "Doncaster",
+    "county": "South Yorkshire",
     "region": "Yorkshire and the Humber",
+    "pf": 0.85,
     "indexable": false,
     "nearby": [
       "sheffield",
@@ -1016,7 +1172,9 @@
   {
     "slug": "barnsley",
     "name": "Barnsley",
+    "county": "South Yorkshire",
     "region": "Yorkshire and the Humber",
+    "pf": 0.84,
     "indexable": false,
     "nearby": [
       "sheffield",
@@ -1029,7 +1187,9 @@
   {
     "slug": "rotherham",
     "name": "Rotherham",
+    "county": "South Yorkshire",
     "region": "Yorkshire and the Humber",
+    "pf": 0.84,
     "indexable": false,
     "nearby": [
       "sheffield",
@@ -1042,7 +1202,9 @@
   {
     "slug": "mansfield",
     "name": "Mansfield",
+    "county": "Nottinghamshire",
     "region": "East Midlands",
+    "pf": 0.85,
     "indexable": false,
     "nearby": [
       "nottingham",
@@ -1055,7 +1217,9 @@
   {
     "slug": "chesterfield",
     "name": "Chesterfield",
+    "county": "Derbyshire",
     "region": "East Midlands",
+    "pf": 0.86,
     "indexable": false,
     "nearby": [
       "sheffield",
@@ -1068,7 +1232,9 @@
   {
     "slug": "burton-upon-trent",
     "name": "Burton upon Trent",
+    "county": "Staffordshire",
     "region": "West Midlands",
+    "pf": 0.88,
     "indexable": false,
     "nearby": [
       "derby",
@@ -1081,7 +1247,9 @@
   {
     "slug": "kidderminster",
     "name": "Kidderminster",
+    "county": "Worcestershire",
     "region": "West Midlands",
+    "pf": 0.88,
     "indexable": false,
     "nearby": [
       "worcester",
@@ -1094,7 +1262,9 @@
   {
     "slug": "redditch",
     "name": "Redditch",
+    "county": "Worcestershire",
     "region": "West Midlands",
+    "pf": 0.89,
     "indexable": false,
     "nearby": [
       "birmingham",
@@ -1107,7 +1277,9 @@
   {
     "slug": "nuneaton",
     "name": "Nuneaton",
+    "county": "Warwickshire",
     "region": "West Midlands",
+    "pf": 0.89,
     "indexable": false,
     "nearby": [
       "coventry",
@@ -1120,7 +1292,9 @@
   {
     "slug": "walsall",
     "name": "Walsall",
+    "county": "West Midlands",
     "region": "West Midlands",
+    "pf": 0.89,
     "indexable": false,
     "nearby": [
       "birmingham",
@@ -1133,7 +1307,9 @@
   {
     "slug": "dudley",
     "name": "Dudley",
+    "county": "West Midlands",
     "region": "West Midlands",
+    "pf": 0.89,
     "indexable": false,
     "nearby": [
       "birmingham",
@@ -1146,7 +1322,9 @@
   {
     "slug": "lichfield",
     "name": "Lichfield",
+    "county": "Staffordshire",
     "region": "West Midlands",
+    "pf": 0.92,
     "indexable": false,
     "nearby": [
       "birmingham",
@@ -1159,7 +1337,9 @@
   {
     "slug": "tamworth",
     "name": "Tamworth",
+    "county": "Staffordshire",
     "region": "West Midlands",
+    "pf": 0.9,
     "indexable": false,
     "nearby": [
       "birmingham",
@@ -1172,7 +1352,9 @@
   {
     "slug": "stafford",
     "name": "Stafford",
+    "county": "Staffordshire",
     "region": "West Midlands",
+    "pf": 0.88,
     "indexable": false,
     "nearby": [
       "stoke-on-trent",
@@ -1185,7 +1367,9 @@
   {
     "slug": "leamington-spa",
     "name": "Leamington Spa",
+    "county": "Warwickshire",
     "region": "West Midlands",
+    "pf": 0.95,
     "indexable": false,
     "nearby": [
       "coventry",
@@ -1198,7 +1382,9 @@
   {
     "slug": "warwick",
     "name": "Warwick",
+    "county": "Warwickshire",
     "region": "West Midlands",
+    "pf": 0.94,
     "indexable": false,
     "nearby": [
       "leamington-spa",
@@ -1211,7 +1397,9 @@
   {
     "slug": "rugby",
     "name": "Rugby",
+    "county": "Warwickshire",
     "region": "West Midlands",
+    "pf": 0.9,
     "indexable": false,
     "nearby": [
       "coventry",
@@ -1224,7 +1412,9 @@
   {
     "slug": "hereford",
     "name": "Hereford",
+    "county": "Herefordshire",
     "region": "West Midlands",
+    "pf": 0.87,
     "indexable": false,
     "nearby": [
       "worcester",
@@ -1237,7 +1427,9 @@
   {
     "slug": "newport",
     "name": "Newport",
+    "county": "Newport",
     "region": "Wales",
+    "pf": 0.86,
     "indexable": false,
     "nearby": [
       "cardiff",
@@ -1250,7 +1442,9 @@
   {
     "slug": "wrexham",
     "name": "Wrexham",
+    "county": "Wrexham",
     "region": "Wales",
+    "pf": 0.85,
     "indexable": false,
     "nearby": [
       "chester",
@@ -1263,7 +1457,9 @@
   {
     "slug": "chester",
     "name": "Chester",
+    "county": "Cheshire",
     "region": "North West England",
+    "pf": 0.94,
     "indexable": false,
     "nearby": [
       "wrexham",
@@ -1276,7 +1472,9 @@
   {
     "slug": "crewe",
     "name": "Crewe",
+    "county": "Cheshire",
     "region": "North West England",
+    "pf": 0.88,
     "indexable": false,
     "nearby": [
       "chester",
@@ -1289,7 +1487,9 @@
   {
     "slug": "loughborough",
     "name": "Loughborough",
+    "county": "Leicestershire",
     "region": "East Midlands",
+    "pf": 0.89,
     "indexable": false,
     "nearby": [
       "leicester",
@@ -1302,7 +1502,9 @@
   {
     "slug": "bedford",
     "name": "Bedford",
+    "county": "Bedfordshire",
     "region": "East of England",
+    "pf": 0.94,
     "indexable": false,
     "nearby": [
       "luton",
@@ -1315,7 +1517,9 @@
   {
     "slug": "grantham",
     "name": "Grantham",
+    "county": "Lincolnshire",
     "region": "East Midlands",
+    "pf": 0.85,
     "indexable": false,
     "nearby": [
       "nottingham",
@@ -1328,7 +1532,9 @@
   {
     "slug": "gainsborough",
     "name": "Gainsborough",
+    "county": "Lincolnshire",
     "region": "East Midlands",
+    "pf": 0.82,
     "indexable": false,
     "nearby": [
       "lincoln",
@@ -1341,7 +1547,9 @@
   {
     "slug": "scunthorpe",
     "name": "Scunthorpe",
+    "county": "Lincolnshire",
     "region": "Yorkshire and the Humber",
+    "pf": 0.82,
     "indexable": false,
     "nearby": [
       "doncaster",
@@ -1354,7 +1562,9 @@
   {
     "slug": "grimsby",
     "name": "Grimsby",
+    "county": "Lincolnshire",
     "region": "Yorkshire and the Humber",
+    "pf": 0.82,
     "indexable": false,
     "nearby": [
       "scunthorpe",
@@ -1367,7 +1577,9 @@
   {
     "slug": "scarborough",
     "name": "Scarborough",
+    "county": "North Yorkshire",
     "region": "Yorkshire and the Humber",
+    "pf": 0.86,
     "indexable": false,
     "nearby": [
       "york",
@@ -1380,7 +1592,9 @@
   {
     "slug": "harrogate",
     "name": "Harrogate",
+    "county": "North Yorkshire",
     "region": "Yorkshire and the Humber",
+    "pf": 0.95,
     "indexable": false,
     "nearby": [
       "leeds",
@@ -1393,7 +1607,9 @@
   {
     "slug": "keighley",
     "name": "Keighley",
+    "county": "West Yorkshire",
     "region": "Yorkshire and the Humber",
+    "pf": 0.84,
     "indexable": false,
     "nearby": [
       "bradford",
@@ -1406,7 +1622,9 @@
   {
     "slug": "salisbury",
     "name": "Salisbury",
+    "county": "Wiltshire",
     "region": "South West England",
+    "pf": 0.96,
     "indexable": false,
     "nearby": [
       "southampton",
@@ -1419,7 +1637,9 @@
   {
     "slug": "truro",
     "name": "Truro",
+    "county": "Cornwall",
     "region": "South West England",
+    "pf": 0.88,
     "indexable": false,
     "nearby": [
       "falmouth",
@@ -1432,7 +1652,9 @@
   {
     "slug": "torquay",
     "name": "Torquay",
+    "county": "Devon",
     "region": "South West England",
+    "pf": 0.91,
     "indexable": false,
     "nearby": [
       "exeter",
@@ -1445,7 +1667,9 @@
   {
     "slug": "taunton",
     "name": "Taunton",
+    "county": "Somerset",
     "region": "South West England",
+    "pf": 0.9,
     "indexable": false,
     "nearby": [
       "exeter",
@@ -1458,7 +1682,9 @@
   {
     "slug": "yeovil",
     "name": "Yeovil",
+    "county": "Somerset",
     "region": "South West England",
+    "pf": 0.88,
     "indexable": false,
     "nearby": [
       "taunton",
@@ -1471,7 +1697,9 @@
   {
     "slug": "tunbridge-wells",
     "name": "Tunbridge Wells",
+    "county": "Kent",
     "region": "South East England",
+    "pf": 1.08,
     "indexable": false,
     "nearby": [
       "maidstone",
@@ -1484,7 +1712,9 @@
   {
     "slug": "ashford",
     "name": "Ashford",
+    "county": "Kent",
     "region": "South East England",
+    "pf": 1,
     "indexable": false,
     "nearby": [
       "maidstone",
@@ -1497,7 +1727,9 @@
   {
     "slug": "folkestone",
     "name": "Folkestone",
+    "county": "Kent",
     "region": "South East England",
+    "pf": 0.95,
     "indexable": false,
     "nearby": [
       "dover",
@@ -1510,7 +1742,9 @@
   {
     "slug": "dover",
     "name": "Dover",
+    "county": "Kent",
     "region": "South East England",
+    "pf": 0.92,
     "indexable": false,
     "nearby": [
       "folkestone",
@@ -1523,7 +1757,9 @@
   {
     "slug": "Canterbury",
     "name": "Canterbury",
+    "county": "Kent",
     "region": "South East England",
+    "pf": 1.02,
     "indexable": false,
     "nearby": [
       "margate",
@@ -1536,7 +1772,9 @@
   {
     "slug": "high-wycombe",
     "name": "High Wycombe",
+    "county": "Buckinghamshire",
     "region": "South East England",
+    "pf": 1.12,
     "indexable": false,
     "nearby": [
       "slough",
@@ -1549,7 +1787,9 @@
   {
     "slug": "stevenage",
     "name": "Stevenage",
+    "county": "Hertfordshire",
     "region": "East of England",
+    "pf": 1.06,
     "indexable": false,
     "nearby": [
       "luton",
@@ -1562,7 +1802,9 @@
   {
     "slug": "crawley",
     "name": "Crawley",
+    "county": "West Sussex",
     "region": "South East England",
+    "pf": 1.07,
     "indexable": false,
     "nearby": [
       "brighton",
@@ -1575,7 +1817,9 @@
   {
     "slug": "worthing",
     "name": "Worthing",
+    "county": "West Sussex",
     "region": "South East England",
+    "pf": 1.02,
     "indexable": false,
     "nearby": [
       "brighton",
@@ -1588,7 +1832,9 @@
   {
     "slug": "croydon",
     "name": "Croydon",
+    "county": "Greater London",
     "region": "London",
+    "pf": 1.2,
     "indexable": false,
     "nearby": [
       "london",
