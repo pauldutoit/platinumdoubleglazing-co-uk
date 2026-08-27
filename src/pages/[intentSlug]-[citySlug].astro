@@ -18,18 +18,48 @@ const { entry } = Astro.props;
 const { Content } = await render(entry);
 const { city, citySlug, intent, intentSlug, indexable, metaTitle, metaDescription } = entry.data;
 
-// Internal links: other services in the same city, and this same service in nearby cities.
-// These stay as plain links regardless of indexable status, so PageRank still flows to
-// gated (noindex) pages through crawlable internal links - see the indexation-gate note below.
-const otherIntentsSameCity = intents.filter((i) => i.slug !== intentSlug);
-const sameIntentOtherCities = cities.filter((c) => c.slug !== citySlug);
+const cityRecord = cities.find((c) => c.slug === citySlug);
 const telHref = `tel:${siteConfig.phone.replace(/\s+/g, '')}`;
+const intentRecord = intents.find((i) => i.slug === intentSlug);
+
+// Internal links: other services in the same city, and this same service in
+// nearby cities. Nearby uses the real `nearby` list on the city record when
+// present (genuine local relevance); falls back to every other city for small
+// demo datasets. These stay as plain links regardless of indexable status, so
+// PageRank still flows to gated (noindex) pages through crawlable internal
+// links - see the indexation-gate note in the README.
+const otherIntentsSameCity = intents.filter((i) => i.slug !== intentSlug);
+const nearbySlugs = cityRecord?.nearby?.length ? cityRecord.nearby : cities.filter((c) => c.slug !== citySlug).map((c) => c.slug);
+const sameIntentOtherCities = nearbySlugs.map((slug) => cities.find((c) => c.slug === slug)).filter(Boolean);
+
+const pageUrl = `https://${siteConfig.domain}/${intentSlug}-${citySlug}/`;
+const serviceSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Service',
+  serviceType: intent,
+  areaServed: { '@type': 'City', name: city },
+  provider: { '@type': 'LocalBusiness', name: siteConfig.siteName, telephone: siteConfig.phone },
+  url: pageUrl,
+};
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: `https://${siteConfig.domain}/` },
+    { '@type': 'ListItem', position: 2, name: intent, item: pageUrl },
+    { '@type': 'ListItem', position: 3, name: city, item: pageUrl },
+  ],
+};
 ---
 
 <BaseLayout title={metaTitle} description={metaDescription} indexable={indexable}>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(serviceSchema)} />
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+
   <div class="container" style="padding-top: 1.5rem;">
     <nav class="breadcrumb" aria-label="breadcrumb"><a href="/">Home</a> / {intent} / {city}</nav>
     <h1>{intent} in {city}</h1>
+    {intentRecord?.priceFrom && <p class="price-from">{intentRecord.priceFrom}</p>}
 
     <Content />
 

@@ -1,16 +1,38 @@
 {
-  "siteName": "Example Local Services",
+  "siteName": "Platinum Double Glazing",
   "domain": "platinumdoubleglazing.co.uk",
-  "niche": "example service",
-  "nicheLabel": "Example Service",
+  "niche": "double glazing",
+  "nicheLabel": "Double Glazing Specialists",
   "phone": "+44 0000 000000",
-  "email": "contact@example.com",
-  "fromEmail": "leads@example.com",
-  "tagline": "Fast, reliable example service near you",
-  "subTagline": "Same-day callouts, upfront pricing, fully insured local engineers.",
-  "themeColor": "#1a5f3f",
+  "email": "contact@platinumdoubleglazing.co.uk",
+  "fromEmail": "leads@platinumdoubleglazing.co.uk",
+  "tagline": "Double glazing installation and repair across the UK",
+  "subTagline": "A-rated windows and doors, free no-obligation quotes, FENSA-registered installers.",
+  "themeColor": "#0b5fa5",
   "accentColor": "#e8590c",
   "locale": "en-GB",
-  "legalName": "Example Local Services Ltd",
-  "legalAddress": "1 Example Street, London, UK"
+  "legalName": "Platinum Double Glazing Ltd",
+  "legalAddress": "REPLACE WITH REAL REGISTERED ADDRESS, UK",
+  "aggregateRating": { "value": 4.8, "count": 132 },
+  "stats": [
+    { "value": "3,000+", "label": "Windows fitted" },
+    { "value": "4.8/5", "label": "Average rating" },
+    { "value": "FENSA", "label": "Registered installer" },
+    { "value": "10yr", "label": "Guarantee" }
+  ],
+  "howItWorks": [
+    { "title": "Tell us about your project", "description": "Share a few details about your windows, doors or conservatory." },
+    { "title": "Get a free quote", "description": "We get back to you the same day with clear, no-obligation pricing." },
+    { "title": "Professional installation", "description": "FENSA-registered installers fit your windows or doors to a high standard." }
+  ],
+  "testimonials": [
+    { "name": "PLACEHOLDER - replace with a real review", "location": "London", "quote": "Replace this with a genuine customer quote before going live - never invent reviews.", "rating": 5 },
+    { "name": "PLACEHOLDER - replace with a real review", "location": "Manchester", "quote": "Replace this with a genuine customer quote before going live - never invent reviews.", "rating": 5 },
+    { "name": "PLACEHOLDER - replace with a real review", "location": "Birmingham", "quote": "Replace this with a genuine customer quote before going live - never invent reviews.", "rating": 5 }
+  ],
+  "faq": [
+    { "question": "How much does double glazing cost?", "answer": "REPLACE: give a real, honest price range for this business." },
+    { "question": "Are you FENSA registered?", "answer": "REPLACE: confirm real certification status - never claim a certification the business doesn't hold." },
+    { "question": "Do you offer a guarantee?", "answer": "REPLACE: state the real guarantee terms offered." }
+  ]
 }

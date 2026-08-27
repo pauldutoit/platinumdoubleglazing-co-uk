@@ -12,6 +12,23 @@ interface Props {
 const { title, description, indexable = true, canonicalPath = Astro.url.pathname } = Astro.props;
 const canonicalUrl = new URL(canonicalPath, `https://${siteConfig.domain}`).toString();
 const telHref = `tel:${siteConfig.phone.replace(/\s+/g, '')}`;
+
+const localBusinessSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'LocalBusiness',
+  name: siteConfig.siteName,
+  telephone: siteConfig.phone,
+  email: siteConfig.email,
+  address: { '@type': 'PostalAddress', streetAddress: siteConfig.legalAddress },
+  url: `https://${siteConfig.domain}`,
+  ...(siteConfig.aggregateRating && {
+    aggregateRating: {
+      '@type': 'AggregateRating',
+      ratingValue: siteConfig.aggregateRating.value,
+      reviewCount: siteConfig.aggregateRating.count,
+    },
+  }),
+};
 ---
 
 <!doctype html>
@@ -25,6 +42,8 @@ const telHref = `tel:${siteConfig.phone.replace(/\s+/g, '')}`;
     <link rel="canonical" href={canonicalUrl} />
     <meta name="robots" content={indexable ? 'index,follow' : 'noindex,follow'} />
     <meta name="theme-color" content={siteConfig.themeColor} />
+    <script type="application/ld+json" set:html={JSON.stringify(localBusinessSchema)} />
+    <slot name="head" />
   </head>
   <body>
     <header class="site-header">

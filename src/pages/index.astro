@@ -6,10 +6,21 @@ import intents from '../data/intents.json';
 import cities from '../data/cities.json';
 
 const telHref = `tel:${siteConfig.phone.replace(/\s+/g, '')}`;
-const icons = ['\u{1F527}', '\u{1F528}', '\u{1F6E0}\u{FE0F}'];
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: (siteConfig.faq ?? []).map((f) => ({
+    '@type': 'Question',
+    name: f.question,
+    acceptedAnswer: { '@type': 'Answer', text: f.answer },
+  })),
+};
 ---
 
 <BaseLayout title={`${siteConfig.siteName} | ${siteConfig.tagline}`} description={siteConfig.tagline}>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+
   <section class="hero">
     <div class="container">
       <span class="eyebrow">{siteConfig.nicheLabel}</span>
@@ -22,6 +33,16 @@ const icons = ['\u{1F527}', '\u{1F528}', '\u{1F6E0}\u{FE0F}'];
     </div>
   </section>
 
+  {siteConfig.stats && (
+    <section class="stats-bar">
+      <div class="container stats-grid">
+        {siteConfig.stats.map((s) => (
+          <div class="stat"><strong>{s.value}</strong><span>{s.label}</span></div>
+        ))}
+      </div>
+    </section>
+  )}
+
   <section class="section">
     <div class="container">
       <div class="section-title">
@@ -29,12 +50,13 @@ const icons = ['\u{1F527}', '\u{1F528}', '\u{1F6E0}\u{FE0F}'];
         <p>Pick what you need, we'll take it from there.</p>
       </div>
       <div class="grid grid-3">
-        {intents.map((i, idx) => (
+        {intents.map((i) => (
           <div class="card">
             <a href={`/${i.slug}-${cities[0].slug}/`}>
-              <span class="icon">{icons[idx % icons.length]}</span>
+              {i.icon && <span class="icon">{i.icon}</span>}
               <h3>{i.label}</h3>
               <p>{i.searchIntent}</p>
+              {i.priceFrom && <p class="price-from">{i.priceFrom}</p>}
             </a>
           </div>
         ))}
@@ -42,7 +64,24 @@ const icons = ['\u{1F527}', '\u{1F528}', '\u{1F6E0}\u{FE0F}'];
     </div>
   </section>
 
-  <section class="section section-alt">
+  {siteConfig.howItWorks && (
+    <section class="section section-alt">
+      <div class="container">
+        <div class="section-title"><h2>How it works</h2></div>
+        <div class="grid grid-3">
+          {siteConfig.howItWorks.map((step, idx) => (
+            <div class="card step-card">
+              <span class="step-number">{idx + 1}</span>
+              <h3>{step.title}</h3>
+              <p>{step.description}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <section class="section">
     <div class="container">
       <div class="section-title">
         <h2>Areas we cover</h2>
@@ -55,6 +94,39 @@ const icons = ['\u{1F527}', '\u{1F528}', '\u{1F6E0}\u{FE0F}'];
       </ul>
     </div>
   </section>
+
+  {siteConfig.testimonials && (
+    <section class="section section-alt">
+      <div class="container">
+        <div class="section-title"><h2>What customers say</h2></div>
+        <div class="grid grid-3">
+          {siteConfig.testimonials.map((t) => (
+            <div class="card testimonial-card">
+              <div class="stars" aria-label={`${t.rating} out of 5 stars`}>{'\u2605'.repeat(t.rating)}</div>
+              <p>"{t.quote}"</p>
+              <p class="testimonial-author">{t.name} &middot; {t.location}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  {siteConfig.faq && (
+    <section class="section">
+      <div class="container">
+        <div class="section-title"><h2>Frequently asked questions</h2></div>
+        <div class="faq-list">
+          {siteConfig.faq.map((f) => (
+            <details class="faq-item">
+              <summary>{f.question}</summary>
+              <p>{f.answer}</p>
+            </details>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
 
   <section class="section" id="quote">
     <div class="container">
