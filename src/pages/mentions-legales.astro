@@ -5,6 +5,6 @@ import siteConfig from '../data/site.config.json';
 <BaseLayout title={`Legal notice | ${siteConfig.siteName}`} description="Legal notice">
   <h1>Legal notice</h1>
   <p>{siteConfig.legalName}</p>
-  <p>{siteConfig.legalAddress}</p>
+  {siteConfig.legalAddress && <p>{siteConfig.legalAddress}</p>}
   <p>Contact: <a href={`mailto:${siteConfig.email}`}>{siteConfig.email}</a> - {siteConfig.phone}</p>
 </BaseLayout>

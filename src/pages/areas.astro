@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import siteConfig from '../data/site.config.json';
+import cities from '../data/cities.json';
+import intents from '../data/intents.json';
+
+const regions = [...new Set(cities.map((c) => c.region))].sort();
+---
+
+<BaseLayout
+  title={`All areas we cover | ${siteConfig.siteName}`}
+  description={`Every city and service ${siteConfig.siteName} covers, grouped by region.`}
+  indexable={false}
+>
+  <div class="container" style="padding-top: 1.5rem;">
+    <nav class="breadcrumb" aria-label="breadcrumb"><a href="/">Home</a> / All areas</nav>
+    <h1>All areas we cover</h1>
+    <p class="lede">Every city and service in one place. Pick a city below to see all services available there.</p>
+
+    {regions.map((region) => (
+      <section class="section" style="padding-top: 1.5rem;">
+        <h2>{region}</h2>
+        <div class="areas-grid">
+          {cities.filter((c) => c.region === region).map((c) => (
+            <div class="areas-city">
+              <h3>{c.name}</h3>
+              <ul class="pill-list">
+                {intents.map((i) => (
+                  <li><a class="pill" href={`/${i.slug}-${c.slug}/`}>{i.shortLabel ?? i.label}</a></li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+      </section>
+    ))}
+  </div>
+</BaseLayout>
+
+<style>
+  .areas-grid { display: grid; gap: 1.5rem; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); }
+  .areas-city h3 { font-size: 1rem; margin-bottom: 0.5rem; }
+</style>

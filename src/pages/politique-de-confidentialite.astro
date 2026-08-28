@@ -3,6 +3,18 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import siteConfig from '../data/site.config.json';
 ---
 <BaseLayout title={`Privacy policy | ${siteConfig.siteName}`} description="Privacy policy">
-  <h1>Privacy policy</h1>
-  <p>Placeholder privacy policy for {siteConfig.siteName}. Replace with real content covering the contact form data collected via /api/lead and any analytics used.</p>
+  <div class="container" style="padding-top: 1.5rem; max-width: 720px;">
+    <h1>Privacy policy</h1>
+    <p>This policy covers the personal data collected through the contact/quote forms on this website.</p>
+    <h2>What we collect</h2>
+    <p>When you submit a form, we collect the name, phone number, email address and message you provide, along with the page (city and service) you submitted it from.</p>
+    <h2>How it's used</h2>
+    <p>This information is used solely to respond to your enquiry and provide a quote. It is sent by email to our team and is not sold or shared with third parties beyond what is needed to deliver that email.</p>
+    <h2>Spam protection</h2>
+    <p>Form submissions are checked with Cloudflare Turnstile, a privacy-friendly bot-detection service, before being processed.</p>
+    <h2>Cookies and analytics</h2>
+    <p>This site does not currently use tracking cookies or third-party analytics.</p>
+    <h2>Contact</h2>
+    <p>To ask about the data we hold or request its deletion, contact us at <a href={`mailto:${siteConfig.email}`}>{siteConfig.email}</a>.</p>
+  </div>
 </BaseLayout>

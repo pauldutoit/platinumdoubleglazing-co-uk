@@ -22,7 +22,7 @@ const localBusinessSchema = {
   name: siteConfig.siteName,
   ...(siteConfig.phoneEnabled !== false && { telephone: siteConfig.phone }),
   email: siteConfig.email,
-  address: { '@type': 'PostalAddress', streetAddress: siteConfig.legalAddress },
+  ...(siteConfig.legalAddress && { address: { '@type': 'PostalAddress', streetAddress: siteConfig.legalAddress } }),
   url: `https://${siteConfig.domain}`,
   ...(siteConfig.aggregateRating && {
     aggregateRating: {
@@ -74,8 +74,8 @@ const localBusinessSchema = {
     </main>
     <footer class="site-footer">
       {siteConfig.disclosureText && <p class="footer-disclosure">{siteConfig.disclosureText}</p>}
-      <p>{siteConfig.legalName} &middot; {siteConfig.legalAddress}</p>
-      <p><a href="/mentions-legales">Legal notice</a> &middot; <a href="/politique-de-confidentialite">Privacy policy</a></p>
+      <p>{siteConfig.legalName}{siteConfig.legalAddress && <Fragment> &middot; {siteConfig.legalAddress}</Fragment>}</p>
+      <p><a href="/areas">All areas &amp; services</a> &middot; <a href="/mentions-legales">Legal notice</a> &middot; <a href="/politique-de-confidentialite">Privacy policy</a></p>
     </footer>
   </body>
 </html>

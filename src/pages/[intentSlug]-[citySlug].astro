@@ -60,6 +60,24 @@ const breadcrumbSchema = {
     <h1>{intent} in {city}</h1>
     {intentRecord?.priceFrom && <p class="price-from">{intentRecord.priceFrom}</p>}
 
+    <table class="price-table">
+      <thead><tr><th>Service</th><th>Typical price in {city}</th></tr></thead>
+      <tbody>
+        {intents.map((i) => {
+          const pf = cityRecord?.pf ?? 1;
+          const price = i.basePriceRange
+            ? `£${Math.round(i.basePriceRange[0] * pf).toLocaleString()} - £${Math.round(i.basePriceRange[1] * pf).toLocaleString()}`
+            : i.priceFrom;
+          return (
+            <tr class:list={{ 'is-current': i.slug === intentSlug }}>
+              <td><a href={`/${i.slug}-${citySlug}/`}>{i.label}</a></td>
+              <td>{price}</td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
+
     <Content />
 
     <div class="cta-banner">
