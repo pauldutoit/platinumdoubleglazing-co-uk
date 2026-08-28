@@ -49,9 +49,9 @@ export async function onRequestPost({ request, env }) {
 
   const {
     name, phone, email, message, company, city, intent, turnstileToken,
-    // Funnel-specific fields (present when submitted from /quote, absent from
-    // the compact hero/city-sidebar form which stays a simple 3-field capture).
-    service_type, unit_count, property_type, ownership, postcode, timeframe, consent,
+    // Funnel-specific fields.
+    service_type, unit_count, property_type, ownership,
+    address_line1, postcode, timeframe, consent,
   } = body;
 
   // 3. Honeypot: real users never fill this field.
@@ -89,12 +89,16 @@ export async function onRequestPost({ request, env }) {
   const safeTimeframe = ALLOWED_TIMEFRAME.has(String(timeframe ?? '')) ? String(timeframe) : '';
   const rawPostcode = sanitizeText(postcode ?? '', 10);
   const safePostcode = rawPostcode && UK_POSTCODE_RE.test(rawPostcode) ? rawPostcode.toUpperCase() : '';
+  const safeAddress = sanitizeText(address_line1 ?? '', 160);
 
-  // If the funnel was used (service_type present), require postcode + consent
-  // - these are the two hard qualifiers we won't ship a lead without.
+  // If the funnel was used (service_type present), require postcode, address,
+  // message and consent - these are the hard qualifiers we won't ship a lead
+  // without.
   const isFunnelLead = !!service_type;
   if (isFunnelLead) {
     if (!safePostcode) return jsonResponse({ ok: false, error: 'invalid_postcode' }, 400);
+    if (!safeAddress) return jsonResponse({ ok: false, error: 'address_required' }, 400);
+    if (!cleanMessage || cleanMessage.length < 15) return jsonResponse({ ok: false, error: 'message_required' }, 400);
     if (!consent) return jsonResponse({ ok: false, error: 'consent_required' }, 400);
   }
 
@@ -125,8 +129,9 @@ export async function onRequestPost({ request, env }) {
     `Name: ${cleanName}`,
     `Phone: ${cleanPhone}`,
     `Email: ${cleanEmail}`,
-    `City: ${safeCity || 'n/a'}`,
+    isFunnelLead ? `Address: ${safeAddress || 'n/a'}` : null,
     `Postcode: ${safePostcode || 'n/a'}`,
+    `City: ${safeCity || 'n/a'}`,
     `Intent: ${safeIntent || 'n/a'}`,
     isFunnelLead ? `Service picked: ${safeServiceType || 'n/a'}` : null,
     isFunnelLead ? `Units: ${safeUnitCount || 'n/a'}` : null,
@@ -136,7 +141,7 @@ export async function onRequestPost({ request, env }) {
     isFunnelLead ? `Consent: ${consent ? 'yes' : 'no'}` : null,
     `IP: ${ip}`,
     '',
-    'Message:',
+    'Project brief:',
     cleanMessage || '(no message)',
   ].filter((l) => l !== null).join('\n');
 

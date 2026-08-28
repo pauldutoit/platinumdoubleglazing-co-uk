@@ -109,6 +109,10 @@ const formId = `quote-funnel${idSuffix ? `-${idSuffix}` : ''}`;
     <fieldset class="form-step" data-step="3">
       <legend><h2>Where is the property?</h2></legend>
       <div class="form-group">
+        <label for={`address-${formId}`}>Address (house number &amp; street)</label>
+        <input type="text" id={`address-${formId}`} name="address_line1" placeholder="e.g. 14 High Street" required />
+      </div>
+      <div class="form-group">
         <label for={`postcode-${formId}`}>Postcode</label>
         <input type="text" id={`postcode-${formId}`} name="postcode" placeholder="e.g. SW1A 1AA" maxlength="8" required />
         <span class="field-hint">We match you with installers who cover your postcode.</span>
@@ -146,6 +150,11 @@ const formId = `quote-funnel${idSuffix ? `-${idSuffix}` : ''}`;
           <label for={`phone-${formId}`}>Phone number</label>
           <input type="tel" id={`phone-${formId}`} name="phone" placeholder="07700 000000" required />
         </div>
+      </div>
+      <div class="form-group">
+        <label for={`message-${formId}`}>Tell us about your project</label>
+        <textarea id={`message-${formId}`} name="message" rows="3" required placeholder="e.g. Replace 5 sash windows in a Victorian terrace, prefer white finish" minlength="15" maxlength="800"></textarea>
+        <span class="field-hint">A short brief helps installers give you a sharper quote.</span>
       </div>
       <div class="form-group">
         <label class="checkbox-label">
@@ -250,6 +259,7 @@ const formId = `quote-funnel${idSuffix ? `-${idSuffix}` : ''}`;
         name: fd.get('name'),
         phone: fd.get('phone'),
         email: fd.get('email'),
+        message: fd.get('message'),
         company: fd.get('company'),
         city: fd.get('city'),
         intent: fd.get('preselect_intent'),
@@ -257,6 +267,7 @@ const formId = `quote-funnel${idSuffix ? `-${idSuffix}` : ''}`;
         unit_count: fd.get('unit_count'),
         property_type: fd.get('property_type'),
         ownership: fd.get('ownership'),
+        address_line1: fd.get('address_line1'),
         postcode: fd.get('postcode'),
         timeframe: fd.get('timeframe'),
         consent: fd.get('consent') === '1',
@@ -315,13 +326,14 @@ const formId = `quote-funnel${idSuffix ? `-${idSuffix}` : ''}`;
   @media (max-width: 560px) { .form-row { grid-template-columns: 1fr; } }
   .form-group { display: grid; gap: 0.3rem; margin-bottom: 0.85rem; }
   .form-group label { font-weight: 700; font-size: 0.85rem; color: var(--color-ink); }
-  .form-group input, .form-group select {
+  .form-group input, .form-group select, .form-group textarea {
     padding: 0.6rem 0.75rem;
     border: 1px solid var(--color-border);
     border-radius: var(--radius-sm);
     font: inherit; color: var(--color-ink); background: var(--color-surface);
   }
-  .form-group input:focus, .form-group select:focus {
+  .form-group textarea { resize: vertical; min-height: 5.5rem; font-family: inherit; }
+  .form-group input:focus, .form-group select:focus, .form-group textarea:focus {
     outline: none; border-color: var(--color-primary);
     box-shadow: 0 0 0 3px var(--color-primary-tint);
   }
