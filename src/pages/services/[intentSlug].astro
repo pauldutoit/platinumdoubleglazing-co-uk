@@ -4,6 +4,7 @@ import ContactForm from '../../components/ContactForm.astro';
 import siteConfig from '../../data/site.config.json';
 import intents from '../../data/intents.json';
 import cities from '../../data/cities.json';
+import intentEnrichment from '../../data/intentEnrichment.json';
 
 export async function getStaticPaths() {
   return intents.map((intent) => ({
@@ -13,6 +14,8 @@ export async function getStaticPaths() {
 }
 
 const { intent } = Astro.props;
+type IntentEnrichment = { hubIntro?: string; hubBody?: string[]; hubTips?: string[]; commonSpecs?: string };
+const enrichment: IntentEnrichment = (intentEnrichment as Record<string, IntentEnrichment>)[intent.slug] ?? {};
 
 // Group cities by region so the hub reads as a UK-wide index rather than a
 // flat wall of 123 pill links.
@@ -82,9 +85,28 @@ const metaDescription = `${intent.label} across the UK from ${priceRange}. Free,
 
         <div class="service-hub-intro">
           <h2>{intent.label} - what to expect</h2>
-          <p>{intent.label} is one of the most requested services in our network. Prices depend on the number of units, glazing spec (A-rated is now standard) and your postcode - which is why every homeowner gets a bespoke quote rather than a generic price list.</p>
+          {enrichment.hubIntro
+            ? <p>{enrichment.hubIntro}</p>
+            : <p>{intent.label} is one of the most requested services in our network. Prices depend on the number of units, glazing spec and your postcode.</p>}
+          {(enrichment.hubBody ?? []).map((para) => <p>{para}</p>)}
           <p><strong>Typical UK price range for {intent.label.toLowerCase()}:</strong> {priceRange} installed. Actual figures for your city sit on the city page below.</p>
         </div>
+
+        {enrichment.commonSpecs && (
+          <div class="hub-specs">
+            <h3>Popular specs for {intent.label.toLowerCase()}</h3>
+            <p>{enrichment.commonSpecs}</p>
+          </div>
+        )}
+
+        {enrichment.hubTips?.length ? (
+          <div class="hub-tips">
+            <h3>Before you commit - four things to check</h3>
+            <ul>
+              {enrichment.hubTips.map((tip) => <li>{tip}</li>)}
+            </ul>
+          </div>
+        ) : null}
 
         <section class="section" style="padding-top: 1rem;">
           <div class="section-title">
@@ -136,4 +158,11 @@ const metaDescription = `${intent.label} across the UK from ${priceRange}. Free,
   .service-hub-intro p:last-child { margin-bottom: 0; }
   .hub-region { margin-bottom: 1.5rem; }
   .hub-region h3 { font-size: 0.95rem; margin-bottom: 0.5rem; color: var(--color-muted); text-transform: uppercase; letter-spacing: 0.04em; }
+  .hub-specs { margin: 1.5rem 0; padding: 1.1rem 1.35rem; background: var(--color-surface); border: 1px solid var(--color-border); border-radius: var(--radius-sm); }
+  .hub-specs h3 { font-size: 1rem; margin: 0 0 0.5rem; }
+  .hub-specs p { margin: 0; font-size: 0.95rem; }
+  .hub-tips { margin: 1.5rem 0; padding: 1.1rem 1.35rem; background: var(--color-surface-alt); border-left: 3px solid var(--color-accent); border-radius: var(--radius-sm); }
+  .hub-tips h3 { font-size: 1rem; margin: 0 0 0.5rem; }
+  .hub-tips ul { margin: 0; padding-left: 1.25rem; }
+  .hub-tips li { margin-bottom: 0.4rem; }
 </style>

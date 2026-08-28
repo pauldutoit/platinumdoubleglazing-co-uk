@@ -1,0 +1,73 @@
+{
+  "_note": "Per-service enrichment used on /services/{intent}/ hubs. Each service should read genuinely different from the others - no template phrases.",
+  "casement-windows": {
+    "hubIntro": "Casement windows are the UK's default replacement choice - hinged on the side, opening outward, and available in uPVC, aluminium or timber. If your existing frames are pre-2005 or single-glazed, replacing them with A-rated casements typically pays back in energy savings within 8-12 years.",
+    "hubBody": [
+      "The single biggest price driver is glass area, not frame material - a 1200x1200mm casement costs roughly the same in uPVC or basic aluminium, but doubles for triple-glazed or thermally-broken aluminium. Standard installs use argon-filled double glazing with a warm-edge spacer; upgrading to triple glazing adds around 15% for a marginal thermal gain in most UK climates.",
+      "Installation is usually a 1-2 day job for a whole house (6-10 windows), done by a two-person FENSA-registered team. FENSA registration matters because it self-certifies compliance with Building Regulations Part L (thermal performance) - without it you'd need Building Control sign-off separately, which adds cost and delay."
+    ],
+    "hubTips": [
+      "Ask for the whole-window U-value, not just the glass - a good frame under 1.4 W/m²K matters as much as the pane.",
+      "Get quotes on the same brief: same units, same glazing spec, same finish. Otherwise you're comparing apples and pears.",
+      "Check the guarantee covers frames and glass separately, and clarify what happens if the installer folds.",
+      "If your property is in a conservation area, ask the installer to confirm compatibility before ordering - retrofit removal is expensive."
+    ],
+    "commonSpecs": "Argon-filled A-rated double glazing, 28mm sealed unit, warm-edge spacer, low-E soft coat, multi-point locking, internally beaded, trickle vents (mandatory since June 2022)."
+  },
+  "sash-windows": {
+    "hubIntro": "Sash windows suit period properties - Georgian, Victorian and Edwardian houses in particular - where a casement would look wrong. Modern double-glazed sashes replicate the classic vertical-sliding design while cutting heat loss by 60-70% versus single-glazed originals.",
+    "hubBody": [
+      "You have two real choices: a full replacement in uPVC or timber, or a sympathetic refurbishment where the original box and sashes are kept but slim-profile double glazing is fitted into the existing frames. Refurbishment is often the only route in listed buildings or strict conservation areas, and typically costs 30-50% more than a like-for-like uPVC replacement.",
+      "Slim double glazing (10-14mm units) exists specifically for sash windows and looks close enough to single glazing that most councils accept it in conservation areas - but it performs worse than standard 28mm units, so weigh visual authenticity against U-value carefully. Timber sashes with slim glazing sit around 1.6 W/m²K; uPVC sashes with a standard 28mm unit hit 1.2 W/m²K or better."
+    ],
+    "hubTips": [
+      "In a conservation area, get written pre-approval from your council before ordering - not after the frames arrive.",
+      "Insist on spiral balances or genuine cord-and-weight mechanisms rather than fixed panes disguised as sashes.",
+      "Ask what happens to the original sash boxes on a full replacement - some installers reuse them, some rip them out.",
+      "Timber sashes need repainting every 5-7 years to keep the guarantee valid - factor that into total cost of ownership."
+    ],
+    "commonSpecs": "Vertical sliding, spiral balance or traditional cords-and-weights, slim-profile 14mm or standard 28mm sealed unit, run-through horns for authenticity, factory-finished timber or foiled uPVC in Chartwell Green, Anthracite Grey or white woodgrain."
+  },
+  "bay-windows": {
+    "hubIntro": "Bay windows are typically the largest and most complex glazing job in a UK home - three, four or five interconnected units bridging a bay projection, often on a load-bearing wall. Getting them wrong is expensive; getting them right transforms a room and adds resale value.",
+    "hubBody": [
+      "The price range on bay windows is wider than any other window type because the variables stack: 3-sided vs 5-sided, angle (usually 25° or 45°), whether the bay is squared, canted or bow-shaped, and crucially whether a structural steel is needed above. If your original bay dates from the 1930s or earlier, a steel lintel or reinforced beam is almost always required to meet current Building Regs - budget £600-£1,200 extra for structural work.",
+      "The best bay installations use a matched trio: two identical side casements plus a wider central pane (fixed or opening). Cheaper quotes sometimes hide non-matching frame widths or a plain rectangular unit dressed up as a bay - inspect drawings carefully before signing off."
+    ],
+    "hubTips": [
+      "Ask to see a scaled elevation drawing before ordering - bay proportions are what make or break the look.",
+      "Confirm whether the quote includes structural work above the bay - it's a common exclusion.",
+      "Check whether the roof or apron above the bay needs re-flashing or re-tiling as part of the job.",
+      "If the bay is on a bedroom, insist on at least one opening pane large enough to meet fire escape rules (450mm min clear opening)."
+    ],
+    "commonSpecs": "3 or 5-sided canted bay, 25° or 45° corner posts, matched frame widths, structural steel or reinforced cill where required, external lead flashing, internal decorative arch or plain reveal, argon-filled A-rated glazing."
+  },
+  "door-installation": {
+    "hubIntro": "Front and back door replacement is a fast-turnaround job - most installers fit in a single day - but it's also the point of entry where security, thermal performance and appearance have to work together. Composite doors dominate the UK market, with uPVC still popular for back doors and aluminium bifolds for rear extensions.",
+    "hubBody": [
+      "Composite doors are made of a solid timber or foam core wrapped in a glass-reinforced plastic skin, and they cost roughly double a plain uPVC door but last 30+ years without warping. The three names to look for are Rockdoor, Solidor and Endurance - each offers different colour ranges, glass options and locking specs. Multi-point locking (5-point at minimum, PAS 24 certified) is now standard on any decent front door.",
+      "Bifold and sliding patio doors are a different job entirely - larger units, often needing a steel lintel and a level threshold, and the aluminium frame quality varies wildly. Look for thermally-broken profiles under 1.6 W/m²K and marine-grade powder coat finishes if you're within 10 miles of the coast."
+    ],
+    "hubTips": [
+      "Check the door is PAS 24 certified and Secured by Design registered - insurers increasingly ask for both.",
+      "For a front door, get a physical sample of the colour before ordering - screen photos rarely match the real finish.",
+      "On bifolds, insist on stainless steel roller tracks - alloy tracks wear out within a decade of daily use.",
+      "Ask about the escutcheon and letterbox specs - cheap ones let heat bleed straight through an otherwise well-insulated door."
+    ],
+    "commonSpecs": "Composite front door with GRP skin and solid timber core, 5-point multi-point locking, PAS 24 rated, anti-snap Euro cylinder, factory-glazed obscure or clear panels, letterbox with brush and flap seal, hinge bolts and spy hole standard."
+  },
+  "window-repair": {
+    "hubIntro": "Window repair rather than full replacement makes sense when the frame is sound but a specific fault has appeared - a blown seal, a broken hinge, a misted double-glazed unit, or a mechanism that no longer closes flush. Most repairs are under £250 and done in a single visit; replacement only makes sense once repair costs approach 50% of a new window.",
+    "hubBody": [
+      "The commonest fault by far is a blown seal - the sealed unit has failed and moisture has got in, showing as permanent misting between the panes. This is a glass-unit replacement, not a frame job: the existing frame stays in place, the failed unit comes out, and a new sealed unit goes in. Around £120-£180 per average unit, done in under an hour once the glass has been made to size.",
+      "The next commonest calls are for friction stays (the hinges holding a casement open), gearbox mechanisms, and cill or beading damage from historic water ingress. All are repairable in-situ for well under £200 in most cases. Anything involving a rotting timber cill or a cracked frame usually pushes past the repair-vs-replace threshold."
+    ],
+    "hubTips": [
+      "Get a written diagnosis before authorising work - some 'blown seal' calls turn out to be internal condensation, which is a ventilation issue, not a glass one.",
+      "Ask how long the replacement sealed unit is guaranteed for - a decent installer will match the original 10 year seal warranty.",
+      "For urgent work (broken glass, window that won't lock), most installers charge a call-out fee of £45-£85 on top of the repair.",
+      "If more than a third of your windows have blown seals, replacement usually beats piecemeal repair - not always, but often."
+    ],
+    "commonSpecs": "Sealed unit replacement (24mm or 28mm to match), replacement friction stays, gearbox and multi-point mechanism swap, cill capping, beading replacement, hinge bolt fitting, lock cylinder upgrade."
+  }
+}

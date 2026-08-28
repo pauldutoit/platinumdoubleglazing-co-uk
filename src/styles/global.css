@@ -306,6 +306,29 @@ ul { padding-left: 1.25rem; }
 .local-trust-bar strong { color: var(--color-ink); font-size: 1.05rem; font-weight: 800; }
 .local-trust-bar span { font-size: 0.75rem; color: var(--color-muted); line-height: 1.3; }
 
+/* Local context block on city pages */
+.local-context {
+  margin: 2rem 0;
+  padding: 1.35rem 1.5rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+}
+.local-context h2 { font-size: 1.15rem; margin: 0 0 0.75rem; }
+.local-context p { margin: 0 0 0.75rem; }
+.local-context p:last-child { margin-bottom: 0; }
+.local-context-note { padding: 0.75rem 1rem; background: var(--color-surface-alt); border-radius: var(--radius-sm); font-size: 0.92rem; }
+.local-context-areas { margin-top: 1rem; }
+.local-context-areas ul { list-style: none; padding: 0; margin: 0.5rem 0 0; display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.local-context-areas li {
+  padding: 0.25rem 0.75rem;
+  background: var(--color-primary-tint);
+  color: var(--color-primary-dark);
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
 /* Postcodes box */
 .postcodes-box {
   margin: 2rem 0;

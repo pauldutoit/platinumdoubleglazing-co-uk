@@ -5,7 +5,7 @@ import ContactForm from '../components/ContactForm.astro';
 import siteConfig from '../data/site.config.json';
 import cities from '../data/cities.json';
 import intents from '../data/intents.json';
-import postcodesData from '../data/postcodes.json';
+import cityEnrichment from '../data/cityEnrichment.json';
 
 export async function getStaticPaths() {
   const entries = await getCollection('cityContent');
@@ -44,7 +44,9 @@ function extractFaqs(markdown: string): { question: string; answer: string }[] {
 const faqs = extractFaqs(entry.body ?? '');
 
 const cityRecord = cities.find((c) => c.slug === citySlug);
-const postcodes: string[] = (postcodesData as Record<string, unknown>)[citySlug] as string[] ?? [];
+type CityEnrichment = { postcodes?: string[]; houseTypes?: string; notableAreas?: string[]; conservationNote?: string; dominantEra?: string };
+const enrichment: CityEnrichment = (cityEnrichment as Record<string, CityEnrichment>)[citySlug] ?? {};
+const postcodes: string[] = enrichment.postcodes ?? [];
 const telHref = `tel:${siteConfig.phone.replace(/\s+/g, '')}`;
 const intentRecord = intents.find((i) => i.slug === intentSlug);
 
@@ -143,6 +145,27 @@ const faqSchema = faqs.length
         </table>
 
         <Content />
+
+        {(enrichment.houseTypes || enrichment.notableAreas?.length || enrichment.conservationNote || enrichment.dominantEra) && (
+          <section class="local-context">
+            <h2>Windows and doors in {city} - local context</h2>
+            {enrichment.houseTypes && <p>{enrichment.houseTypes}</p>}
+            {enrichment.dominantEra && (
+              <p><strong>Dominant era of housing stock:</strong> {enrichment.dominantEra}</p>
+            )}
+            {enrichment.conservationNote && (
+              <p class="local-context-note"><strong>Heritage note:</strong> {enrichment.conservationNote}</p>
+            )}
+            {enrichment.notableAreas?.length ? (
+              <div class="local-context-areas">
+                <strong>Neighbourhoods and nearby areas we cover:</strong>
+                <ul>
+                  {enrichment.notableAreas.map((a) => <li>{a}</li>)}
+                </ul>
+              </div>
+            ) : null}
+          </section>
+        )}
 
         {postcodes.length > 0 && (
           <section class="postcodes-box">
