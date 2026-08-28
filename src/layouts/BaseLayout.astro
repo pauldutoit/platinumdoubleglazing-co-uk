@@ -1,6 +1,8 @@
 ---
 import '../styles/global.css';
 import siteConfig from '../data/site.config.json';
+import cities from '../data/cities.json';
+import intents from '../data/intents.json';
 import { ICONS, getInitials } from '../lib/logoIcon';
 
 interface Props {
@@ -8,10 +10,15 @@ interface Props {
   description: string;
   indexable?: boolean;
   canonicalPath?: string;
+  ogImage?: string;
 }
 
-const { title, description, indexable = true, canonicalPath = Astro.url.pathname } = Astro.props;
-const canonicalUrl = new URL(canonicalPath, `https://${siteConfig.domain}`).toString();
+const { title, description, indexable = true, canonicalPath = Astro.url.pathname, ogImage } = Astro.props;
+const siteOrigin = `https://${siteConfig.domain}`;
+const canonicalUrl = new URL(canonicalPath, siteOrigin).toString();
+const socialImage = ogImage
+  ? new URL(ogImage, siteOrigin).toString()
+  : `${siteOrigin}/og-default.png`;
 const telHref = `tel:${siteConfig.phone.replace(/\s+/g, '')}`;
 const initials = getInitials(siteConfig.siteName);
 const iconPaths = (siteConfig as any).logoIcon && ICONS[(siteConfig as any).logoIcon];
@@ -23,7 +30,7 @@ const localBusinessSchema = {
   ...(siteConfig.phoneEnabled !== false && { telephone: siteConfig.phone }),
   email: siteConfig.email,
   ...(siteConfig.legalAddress && { address: { '@type': 'PostalAddress', streetAddress: siteConfig.legalAddress } }),
-  url: `https://${siteConfig.domain}`,
+  url: siteOrigin,
   ...(siteConfig.aggregateRating && {
     aggregateRating: {
       '@type': 'AggregateRating',
@@ -32,6 +39,26 @@ const localBusinessSchema = {
     },
   }),
 };
+
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: siteConfig.siteName,
+  url: siteOrigin,
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: `${siteOrigin}/areas?q={search_term_string}`,
+    'query-input': 'required name=search_term_string',
+  },
+};
+
+const clarityId = (siteConfig as any).clarityId ?? '';
+
+const popularCitySlugs = ['london', 'manchester', 'birmingham', 'leeds', 'bristol', 'glasgow'];
+const popularCities = popularCitySlugs
+  .map((slug) => cities.find((c) => c.slug === slug))
+  .filter(Boolean);
+const primaryIntentSlug = intents[0]?.slug ?? 'casement-windows';
 ---
 
 <!doctype html>
@@ -42,10 +69,30 @@ const localBusinessSchema = {
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <title>{title}</title>
     <meta name="description" content={description} />
-    <link rel="canonical" href={canonicalUrl} />
+    {indexable && <link rel="canonical" href={canonicalUrl} />}
     <meta name="robots" content={indexable ? 'index,follow' : 'noindex,follow'} />
     <meta name="theme-color" content={siteConfig.themeColor} />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={siteConfig.siteName} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:image" content={socialImage} />
+    <meta property="og:locale" content={siteConfig.locale?.replace('-', '_') ?? 'en_GB'} />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={socialImage} />
+
     <script type="application/ld+json" set:html={JSON.stringify(localBusinessSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
+
+    {clarityId && (
+      <script is:inline set:html={`(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "${clarityId}");`} />
+    )}
+
     <slot name="head" />
   </head>
   <body>
@@ -58,6 +105,20 @@ const localBusinessSchema = {
         </span>
         {siteConfig.siteName}
       </a>
+
+      <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="primary-nav">
+        <span></span><span></span><span></span>
+      </button>
+
+      <nav id="primary-nav" class="primary-nav" aria-label="Primary">
+        <ul>
+          {intents.map((i) => (
+            <li><a href={`/services/${i.slug}/`}>{i.shortLabel ?? i.label}</a></li>
+          ))}
+          <li><a href="/areas">Areas</a></li>
+        </ul>
+      </nav>
+
       <div class="header-actions">
         {siteConfig.phoneEnabled !== false ? (
           <Fragment>
@@ -69,13 +130,56 @@ const localBusinessSchema = {
         )}
       </div>
     </header>
+
+    <script is:inline>
+      (function () {
+        var btn = document.querySelector('.nav-toggle');
+        var nav = document.getElementById('primary-nav');
+        if (!btn || !nav) return;
+        btn.addEventListener('click', function () {
+          var open = nav.classList.toggle('is-open');
+          btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+          btn.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+        });
+      })();
+    </script>
     <main>
       <slot />
     </main>
     <footer class="site-footer">
-      {siteConfig.disclosureText && <p class="footer-disclosure">{siteConfig.disclosureText}</p>}
-      <p>{siteConfig.legalName}{siteConfig.legalAddress && <Fragment> &middot; {siteConfig.legalAddress}</Fragment>}</p>
-      <p><a href="/areas">All areas &amp; services</a> &middot; <a href="/mentions-legales">Legal notice</a> &middot; <a href="/politique-de-confidentialite">Privacy policy</a></p>
+      <div class="footer-grid">
+        <div class="footer-col">
+          <h4>{siteConfig.siteName}</h4>
+          {siteConfig.disclosureText && <p class="footer-disclosure">{siteConfig.disclosureText}</p>}
+        </div>
+        <div class="footer-col">
+          <h4>Popular locations</h4>
+          <ul class="footer-links">
+            {popularCities.map((c: any) => (
+              <li><a href={`/${primaryIntentSlug}-${c.slug}/`}>{c.name}</a></li>
+            ))}
+            <li><a href="/areas">View all areas</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Services</h4>
+          <ul class="footer-links">
+            {intents.map((i) => (
+              <li><a href={`/services/${i.slug}/`}>{i.shortLabel ?? i.label}</a></li>
+            ))}
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Company</h4>
+          <ul class="footer-links">
+            <li><a href="/areas">All areas &amp; services</a></li>
+            <li><a href="/quote">Get a quote</a></li>
+            <li><a href="/mentions-legales">Legal notice</a></li>
+            <li><a href="/politique-de-confidentialite">Privacy policy</a></li>
+          </ul>
+        </div>
+      </div>
+      <p class="footer-legal">{siteConfig.legalName}{siteConfig.legalAddress && <Fragment> &middot; {siteConfig.legalAddress}</Fragment>}</p>
     </footer>
   </body>
 </html>

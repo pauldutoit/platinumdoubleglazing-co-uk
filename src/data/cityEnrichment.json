@@ -1,0 +1,3678 @@
+{
+  "_note": "Per-city enrichment surfaced as a 'Local context' block on /{intent}-{city}/ pages. Data is factual (postcodes, neighbourhoods, dominant housing era). Missing city = block silently skipped.",
+  "london": {
+    "postcodes": [
+      "E1",
+      "EC1",
+      "N1",
+      "NW1",
+      "SE1",
+      "SW1",
+      "W1",
+      "WC1",
+      "W2",
+      "N7",
+      "SE15",
+      "SW9",
+      "E14",
+      "E17"
+    ],
+    "houseTypes": "Victorian and Edwardian terraces dominate inner boroughs, alongside interwar semis in outer London, 1960s-70s tower blocks, and modern glass-fronted apartments in redevelopment zones like Nine Elms and King's Cross.",
+    "notableAreas": [
+      "Islington",
+      "Hackney",
+      "Camden",
+      "Wandsworth",
+      "Greenwich",
+      "Ealing",
+      "Croydon"
+    ],
+    "conservationNote": "London has over 1,000 conservation areas across 33 boroughs - always check with the local council planning portal before ordering.",
+    "dominantEra": "Victorian to Edwardian across inner London, interwar in outer boroughs."
+  },
+  "birmingham": {
+    "postcodes": [
+      "B1",
+      "B2",
+      "B3",
+      "B4",
+      "B5",
+      "B15",
+      "B16",
+      "B17",
+      "B29"
+    ],
+    "houseTypes": "Red-brick Victorian back-to-backs and terraces in inner wards, extensive 1930s semis in outer suburbs, and Brutalist 1960s tower blocks across the city centre.",
+    "notableAreas": [
+      "Edgbaston",
+      "Moseley",
+      "Harborne",
+      "Sutton Coldfield",
+      "Bournville",
+      "Digbeth"
+    ],
+    "conservationNote": "Around 30 conservation areas across the city, including Bournville and Edgbaston - listed building consent is common in central and inner suburbs.",
+    "dominantEra": "Late Victorian to interwar, with heavy postwar rebuild in the centre."
+  },
+  "manchester": {
+    "postcodes": [
+      "M1",
+      "M2",
+      "M3",
+      "M4",
+      "M14",
+      "M15",
+      "M20",
+      "M21",
+      "M22"
+    ],
+    "houseTypes": "Two-up-two-down terraces in inner districts (Hulme, Rusholme, Chorlton), Victorian merchants' villas in Didsbury and Whalley Range, and a wave of modern city-centre apartments post-2000.",
+    "notableAreas": [
+      "Didsbury",
+      "Chorlton",
+      "Withington",
+      "Levenshulme",
+      "Ancoats",
+      "Northern Quarter"
+    ],
+    "conservationNote": "Around 39 conservation areas including Didsbury Village and Victoria Park - sash restoration is common in listed streets.",
+    "dominantEra": "Late Victorian terraces predominate; substantial city-centre new-build since 2000."
+  },
+  "leeds": {
+    "postcodes": [
+      "LS1",
+      "LS2",
+      "LS3",
+      "LS6",
+      "LS8",
+      "LS11",
+      "LS17"
+    ],
+    "houseTypes": "Distinctive back-to-back terraces (unique to Leeds and Bradford) in Harehills and Beeston, gritstone Victorian villas in Headingley and Roundhay, plus interwar semis in outer suburbs.",
+    "notableAreas": [
+      "Headingley",
+      "Roundhay",
+      "Chapel Allerton",
+      "Kirkstall",
+      "Meanwood",
+      "Horsforth"
+    ],
+    "conservationNote": "48 conservation areas, with strong protection around Headingley, Roundhay Park and the city centre.",
+    "dominantEra": "Victorian and Edwardian, with unique back-to-back stock still lived in."
+  },
+  "glasgow": {
+    "postcodes": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G12",
+      "G13",
+      "G20",
+      "G41"
+    ],
+    "houseTypes": "Sandstone tenement flats define the West End and Southside (three or four storeys, high ceilings), interwar semis in Cardonald and Bearsden, and postwar tower blocks across Easterhouse and Drumchapel.",
+    "notableAreas": [
+      "West End",
+      "Southside",
+      "Dennistoun",
+      "Partick",
+      "Shawlands",
+      "Merchant City"
+    ],
+    "conservationNote": "23 conservation areas including Glasgow West and Pollokshields - many tenement blocks are B-listed, restricting frame changes.",
+    "dominantEra": "Late Victorian sandstone tenement stock dominates central and west Glasgow."
+  },
+  "liverpool": {
+    "postcodes": [
+      "L1",
+      "L2",
+      "L3",
+      "L8",
+      "L15",
+      "L17",
+      "L18"
+    ],
+    "houseTypes": "Georgian townhouses around the cathedral and Rodney Street, Victorian terraces across Anfield and Toxteth, and extensive Wavertree/Aigburth interwar semis.",
+    "notableAreas": [
+      "Woolton",
+      "Allerton",
+      "Aigburth",
+      "Crosby",
+      "Waterloo",
+      "Wavertree"
+    ],
+    "conservationNote": "35 conservation areas including Canning, Rodney Street and Woolton village - Georgian glazing bars often need to be replicated.",
+    "dominantEra": "Georgian core surrounded by Victorian and Edwardian suburbs."
+  },
+  "bristol": {
+    "postcodes": [
+      "BS1",
+      "BS2",
+      "BS3",
+      "BS4",
+      "BS6",
+      "BS7",
+      "BS8",
+      "BS9"
+    ],
+    "houseTypes": "Georgian Clifton townhouses and terraces, Victorian bay-fronts across Bedminster and Southville, plus extensive 1930s semis in Henleaze and Westbury.",
+    "notableAreas": [
+      "Clifton",
+      "Redland",
+      "Bishopston",
+      "Southville",
+      "Bedminster",
+      "Fishponds"
+    ],
+    "conservationNote": "34 conservation areas - Clifton, Kingsdown and Cliftonwood are especially strict on street-facing frames.",
+    "dominantEra": "Georgian Clifton, Victorian across most other neighbourhoods."
+  },
+  "sheffield": {
+    "postcodes": [
+      "S1",
+      "S2",
+      "S3",
+      "S6",
+      "S7",
+      "S10",
+      "S11"
+    ],
+    "houseTypes": "Stone-built Victorian terraces across Walkley and Nether Edge, red-brick 1930s semis in Dore and Totley, plus 1960s modernist blocks like Park Hill.",
+    "notableAreas": [
+      "Sharrow",
+      "Nether Edge",
+      "Ecclesall",
+      "Broomhill",
+      "Crookes",
+      "Dore"
+    ],
+    "conservationNote": "38 conservation areas, mostly around south-west suburbs and the Porter Valley.",
+    "dominantEra": "Victorian and Edwardian stone terraces, interwar semis further out."
+  },
+  "edinburgh": {
+    "postcodes": [
+      "EH1",
+      "EH2",
+      "EH3",
+      "EH8",
+      "EH9",
+      "EH10",
+      "EH12"
+    ],
+    "houseTypes": "Georgian New Town townhouses (heavily A-listed), Victorian tenement flats across Marchmont and Bruntsfield, plus 1930s bungalows in Corstorphine.",
+    "notableAreas": [
+      "New Town",
+      "Old Town",
+      "Morningside",
+      "Stockbridge",
+      "Marchmont",
+      "Leith"
+    ],
+    "conservationNote": "The New Town and Old Town are a UNESCO World Heritage Site - any street-facing window change usually requires Listed Building Consent.",
+    "dominantEra": "Georgian New Town, Victorian tenements everywhere else."
+  },
+  "leicester": {
+    "postcodes": [
+      "LE1",
+      "LE2",
+      "LE3",
+      "LE4",
+      "LE5"
+    ],
+    "houseTypes": "Victorian terraces around Highfields and Clarendon Park, interwar semis in Knighton and Oadby, plus modern estates on the outer ring.",
+    "notableAreas": [
+      "Clarendon Park",
+      "Knighton",
+      "Stoneygate",
+      "Oadby",
+      "Highfields"
+    ],
+    "conservationNote": "23 conservation areas including Clarendon Park and Stoneygate.",
+    "dominantEra": "Late Victorian to interwar."
+  },
+  "coventry": {
+    "postcodes": [
+      "CV1",
+      "CV2",
+      "CV3",
+      "CV4",
+      "CV5",
+      "CV6"
+    ],
+    "houseTypes": "The city centre was largely rebuilt in the 1950s after WWII bombing, giving Coventry an unusual mix of postwar modernist blocks alongside surviving Victorian terraces in Earlsdon and interwar semis in Chapelfields.",
+    "notableAreas": [
+      "Earlsdon",
+      "Chapelfields",
+      "Stivichall",
+      "Radford",
+      "Cheylesmore"
+    ],
+    "conservationNote": "Around 20 conservation areas, mostly around surviving prewar suburbs.",
+    "dominantEra": "Postwar rebuild in the centre, interwar and Victorian in the suburbs."
+  },
+  "bradford": {
+    "postcodes": [
+      "BD1",
+      "BD2",
+      "BD3",
+      "BD5",
+      "BD7",
+      "BD9"
+    ],
+    "houseTypes": "Yorkshire stone back-to-back terraces (shared with Leeds), Victorian mill-owner villas around Manningham, and interwar semis across Wibsey and Idle.",
+    "notableAreas": [
+      "Saltaire",
+      "Manningham",
+      "Heaton",
+      "Idle",
+      "Wibsey",
+      "Clayton"
+    ],
+    "conservationNote": "Saltaire is a UNESCO World Heritage Site - the whole village is a conservation area with strict frame rules.",
+    "dominantEra": "Victorian stone terraces, plus interwar suburban growth."
+  },
+  "nottingham": {
+    "postcodes": [
+      "NG1",
+      "NG2",
+      "NG3",
+      "NG7",
+      "NG8"
+    ],
+    "houseTypes": "The Park Estate is a rare private Victorian villa enclave, surrounded by red-brick terraces in Sneinton and Radford, and interwar semis in West Bridgford and Wollaton.",
+    "notableAreas": [
+      "The Park",
+      "West Bridgford",
+      "Wollaton",
+      "Beeston",
+      "Mapperley",
+      "Sherwood"
+    ],
+    "conservationNote": "27 conservation areas including The Park and Lace Market.",
+    "dominantEra": "Victorian to Edwardian, with strong interwar suburban belts."
+  },
+  "kingston-upon-hull": {
+    "postcodes": [
+      "HU1",
+      "HU2",
+      "HU3",
+      "HU5",
+      "HU7",
+      "HU8"
+    ],
+    "houseTypes": "Terraced streets off the Avenues in west Hull, interwar Bilton Grange semis, and postwar estates in Bransholme.",
+    "notableAreas": [
+      "The Avenues",
+      "Newland",
+      "Cottingham",
+      "Hessle",
+      "Anlaby"
+    ],
+    "conservationNote": "27 conservation areas including the Avenues and the Old Town.",
+    "dominantEra": "Victorian and Edwardian, with substantial postwar rebuild after WWII bombing."
+  },
+  "stoke-on-trent": {
+    "postcodes": [
+      "ST1",
+      "ST2",
+      "ST3",
+      "ST4",
+      "ST6"
+    ],
+    "houseTypes": "Federated from six former Potteries towns, so the housing stock is fragmented: pottery workers' terraces in Burslem and Longton, Edwardian villas in Penkhull, and interwar estates in Trentham.",
+    "notableAreas": [
+      "Hanley",
+      "Burslem",
+      "Stoke",
+      "Longton",
+      "Trentham",
+      "Penkhull"
+    ],
+    "conservationNote": "Around 15 conservation areas, mostly protecting surviving pottery-era terraces.",
+    "dominantEra": "Late Victorian potters' cottages and terraces."
+  },
+  "wolverhampton": {
+    "postcodes": [
+      "WV1",
+      "WV2",
+      "WV3",
+      "WV4",
+      "WV6"
+    ],
+    "houseTypes": "Red-brick Victorian terraces around Whitmore Reans and Blakenhall, interwar semis in Tettenhall and Merry Hill, plus a strong interwar municipal housing stock.",
+    "notableAreas": [
+      "Tettenhall",
+      "Compton",
+      "Penn",
+      "Wednesfield",
+      "Bilston"
+    ],
+    "conservationNote": "Around 20 conservation areas including Tettenhall Wood and Chapel Ash.",
+    "dominantEra": "Victorian and interwar."
+  },
+  "plymouth": {
+    "postcodes": [
+      "PL1",
+      "PL2",
+      "PL3",
+      "PL4",
+      "PL5",
+      "PL6"
+    ],
+    "houseTypes": "Devonport and Stonehouse retain Georgian and Victorian stock, but much of central Plymouth was rebuilt after WWII bombing, giving a distinctive Beaux-Arts postwar plan by Patrick Abercrombie.",
+    "notableAreas": [
+      "Plymstock",
+      "Peverell",
+      "Mannamead",
+      "Devonport",
+      "Stoke",
+      "Mutley"
+    ],
+    "conservationNote": "23 conservation areas including the Barbican and Stonehouse.",
+    "dominantEra": "Postwar centre, Victorian around the Barbican and Devonport."
+  },
+  "southampton": {
+    "postcodes": [
+      "SO14",
+      "SO15",
+      "SO16",
+      "SO17",
+      "SO18"
+    ],
+    "houseTypes": "Victorian terraces in Portswood and Bevois Valley, interwar semis in Highfield and Bassett, plus dockside modern developments post-2005.",
+    "notableAreas": [
+      "Bassett",
+      "Highfield",
+      "Portswood",
+      "Bitterne",
+      "Shirley"
+    ],
+    "conservationNote": "Around 15 conservation areas including Old Town and Bassett Green.",
+    "dominantEra": "Victorian to interwar, plus WWII-era rebuild near the docks."
+  },
+  "reading": {
+    "postcodes": [
+      "RG1",
+      "RG2",
+      "RG4",
+      "RG6",
+      "RG30"
+    ],
+    "houseTypes": "Victorian terraces around Newtown and Katesgrove, interwar semis in Caversham and Tilehurst, plus 1990s-2000s apartments along the Thames and Kennet.",
+    "notableAreas": [
+      "Caversham",
+      "Tilehurst",
+      "Earley",
+      "Woodley",
+      "Whitley"
+    ],
+    "conservationNote": "13 conservation areas including Caversham and central Reading.",
+    "dominantEra": "Victorian and interwar, with recent riverside new-build."
+  },
+  "derby": {
+    "postcodes": [
+      "DE1",
+      "DE21",
+      "DE22",
+      "DE23",
+      "DE24"
+    ],
+    "houseTypes": "Terraced streets around Normanton and Pear Tree, interwar semis in Allestree and Chaddesden, plus a growing city-centre apartment stock.",
+    "notableAreas": [
+      "Allestree",
+      "Littleover",
+      "Mickleover",
+      "Chaddesden",
+      "Normanton"
+    ],
+    "conservationNote": "Around 20 conservation areas, mainly in the historic centre and Little Chester.",
+    "dominantEra": "Victorian and interwar."
+  },
+  "newcastle-upon-tyne": {
+    "postcodes": [
+      "NE1",
+      "NE2",
+      "NE3",
+      "NE4",
+      "NE6",
+      "NE7"
+    ],
+    "houseTypes": "Tyneside flats (paired ground and first-floor entrances) in Heaton and Byker, Georgian terraces around Grainger Town, plus 1930s Gosforth semis.",
+    "notableAreas": [
+      "Jesmond",
+      "Gosforth",
+      "Heaton",
+      "Fenham",
+      "Byker"
+    ],
+    "conservationNote": "18 conservation areas including Grainger Town and Jesmond, both with tight frame rules.",
+    "dominantEra": "Victorian Tyneside flats and Georgian core."
+  },
+  "sunderland": {
+    "postcodes": [
+      "SR1",
+      "SR2",
+      "SR3",
+      "SR4",
+      "SR5"
+    ],
+    "houseTypes": "Coastal Victorian terraces around Roker and Hendon, Tyneside flats in the western wards, plus 1950s Farringdon and Silksworth estates.",
+    "notableAreas": [
+      "Roker",
+      "Ashbrooke",
+      "Fulwell",
+      "Barnes",
+      "East Herrington"
+    ],
+    "conservationNote": "18 conservation areas including Ashbrooke and Roker.",
+    "dominantEra": "Victorian coastal terraces and postwar municipal housing."
+  },
+  "aberdeen": {
+    "postcodes": [
+      "AB10",
+      "AB11",
+      "AB15",
+      "AB16",
+      "AB24",
+      "AB25"
+    ],
+    "houseTypes": "Distinctive silver granite Victorian tenements and terraces (Rubislaw quarry stone) - Aberdeen is often called the Granite City for a reason. Interwar bungalows in Cults and Milltimber.",
+    "notableAreas": [
+      "West End",
+      "Rosemount",
+      "Ferryhill",
+      "Cults",
+      "Bieldside"
+    ],
+    "conservationNote": "12 conservation areas including West End and Old Aberdeen - granite frontages carry strict alteration rules.",
+    "dominantEra": "Victorian granite tenements dominate."
+  },
+  "portsmouth": {
+    "postcodes": [
+      "PO1",
+      "PO2",
+      "PO4",
+      "PO5",
+      "PO6"
+    ],
+    "houseTypes": "Terraced streets across Southsea and Fratton, Victorian villas in Old Portsmouth, plus postwar rebuild in the docks area after heavy WWII bombing.",
+    "notableAreas": [
+      "Southsea",
+      "Old Portsmouth",
+      "Cosham",
+      "Drayton",
+      "Milton"
+    ],
+    "conservationNote": "23 conservation areas including Old Portsmouth and Southsea.",
+    "dominantEra": "Victorian to Edwardian, plus significant postwar reconstruction."
+  },
+  "york": {
+    "postcodes": [
+      "YO1",
+      "YO10",
+      "YO23",
+      "YO24",
+      "YO26",
+      "YO30",
+      "YO31"
+    ],
+    "houseTypes": "Georgian and early Victorian townhouses within the walls, Victorian brick terraces across Bishophill and The Groves, plus interwar semis in Acomb and Fulford.",
+    "notableAreas": [
+      "Bishophill",
+      "Clifton",
+      "Fulford",
+      "Heworth",
+      "Fishergate"
+    ],
+    "conservationNote": "The historic core is a UNESCO-nominated conservation area - almost any change to street-visible glazing needs Listed Building Consent or approval from City of York Council.",
+    "dominantEra": "Georgian and Victorian in the walled city."
+  },
+  "oxford": {
+    "postcodes": [
+      "OX1",
+      "OX2",
+      "OX3",
+      "OX4"
+    ],
+    "houseTypes": "Golden Cotswold-stone Georgian and Victorian townhouses around Jericho and North Oxford, plus Victorian terraces in East Oxford and Cowley.",
+    "notableAreas": [
+      "Jericho",
+      "North Oxford",
+      "Summertown",
+      "Cowley",
+      "Headington"
+    ],
+    "conservationNote": "17 conservation areas covering nearly all of central and North Oxford - single-glazed slim units are often the only permitted upgrade in college-owned streets.",
+    "dominantEra": "Georgian and high Victorian, plus interwar in Cowley and Headington."
+  },
+  "cambridge": {
+    "postcodes": [
+      "CB1",
+      "CB2",
+      "CB3",
+      "CB4",
+      "CB5"
+    ],
+    "houseTypes": "Georgian and Victorian townhouses around the colleges, terraces in Romsey and Petersfield, plus interwar semis in Chesterton and Cherry Hinton.",
+    "notableAreas": [
+      "Newnham",
+      "Chesterton",
+      "Romsey",
+      "Cherry Hinton",
+      "Trumpington"
+    ],
+    "conservationNote": "The Central Conservation Area covers most of the college estate - slim double glazing is usually the ceiling for approvals.",
+    "dominantEra": "Georgian core, Victorian and Edwardian belts, interwar suburban growth."
+  },
+  "swansea": {
+    "postcodes": [
+      "SA1",
+      "SA2",
+      "SA3",
+      "SA4",
+      "SA5"
+    ],
+    "houseTypes": "Terraced streets across Sandfields and Uplands, interwar semis in Sketty and Killay, plus coastal 1960s-70s stock along the Mumbles road.",
+    "notableAreas": [
+      "Uplands",
+      "Sketty",
+      "Mumbles",
+      "Killay",
+      "Morriston"
+    ],
+    "conservationNote": "Around 30 conservation areas across Swansea Bay including Uplands and Mumbles.",
+    "dominantEra": "Victorian terraces and interwar suburban expansion."
+  },
+  "cardiff": {
+    "postcodes": [
+      "CF10",
+      "CF11",
+      "CF14",
+      "CF23",
+      "CF24"
+    ],
+    "houseTypes": "Cardiff's signature bay-fronted Victorian terraces dominate Cathays, Roath and Grangetown, with detached Edwardian villas in Cyncoed and Lisvane, and modern apartments in the Bay redevelopment.",
+    "notableAreas": [
+      "Cathays",
+      "Roath",
+      "Pontcanna",
+      "Penylan",
+      "Cyncoed"
+    ],
+    "conservationNote": "Around 27 conservation areas including Pontcanna, Roath Park and Cathays Park.",
+    "dominantEra": "Victorian and Edwardian bay-fronted terraces."
+  },
+  "norwich": {
+    "postcodes": [
+      "NR1",
+      "NR2",
+      "NR3",
+      "NR4",
+      "NR6"
+    ],
+    "houseTypes": "Medieval and Georgian houses in the walled centre, Victorian terraces across Golden Triangle and Lakenham, plus interwar Eaton Park semis.",
+    "notableAreas": [
+      "Golden Triangle",
+      "Thorpe St Andrew",
+      "Eaton",
+      "Heigham",
+      "Trowse"
+    ],
+    "conservationNote": "The city centre is a large conservation area - listed building density is one of the highest in England outside London.",
+    "dominantEra": "Medieval to Victorian in the walled area, interwar in suburbs."
+  },
+  "ipswich": {
+    "postcodes": [
+      "IP1",
+      "IP2",
+      "IP3",
+      "IP4",
+      "IP5"
+    ],
+    "houseTypes": "Timber-framed medieval houses around the Ancient House area, Victorian terraces in Wellington Street, plus extensive interwar and postwar suburban housing.",
+    "notableAreas": [
+      "Christchurch",
+      "Westerfield",
+      "Rushmere",
+      "Kesgrave",
+      "Ravenswood"
+    ],
+    "conservationNote": "Around 12 conservation areas mostly in the historic centre.",
+    "dominantEra": "Victorian to interwar, with a medieval historic core."
+  },
+  "luton": {
+    "postcodes": [
+      "LU1",
+      "LU2",
+      "LU3",
+      "LU4"
+    ],
+    "houseTypes": "Victorian and Edwardian terraces around the town centre, interwar semis in Stopsley and Round Green, plus postwar Vauxhall factory workers' estates.",
+    "notableAreas": [
+      "Stopsley",
+      "Round Green",
+      "Wardown",
+      "Farley Hill",
+      "Lewsey"
+    ],
+    "conservationNote": "Around 7 conservation areas including Wardown Park.",
+    "dominantEra": "Edwardian to interwar."
+  },
+  "exeter": {
+    "postcodes": [
+      "EX1",
+      "EX2",
+      "EX3",
+      "EX4"
+    ],
+    "houseTypes": "Georgian townhouses around Southernhay, Regency and Victorian villas in St Leonards, plus interwar semis in Pinhoe and Heavitree.",
+    "notableAreas": [
+      "St Leonards",
+      "Pennsylvania",
+      "Heavitree",
+      "Alphington",
+      "Topsham"
+    ],
+    "conservationNote": "Around 20 conservation areas, tight rules around the Cathedral quarter and Southernhay.",
+    "dominantEra": "Georgian to Victorian in the centre, interwar in suburbs."
+  },
+  "middlesbrough": {
+    "postcodes": [
+      "TS1",
+      "TS3",
+      "TS4",
+      "TS5",
+      "TS7"
+    ],
+    "houseTypes": "Terraced streets across central and North Ormesby, interwar semis in Linthorpe and Acklam, plus postwar Whinney Banks and Berwick Hills estates.",
+    "notableAreas": [
+      "Linthorpe",
+      "Acklam",
+      "Marton",
+      "Nunthorpe",
+      "Ormesby"
+    ],
+    "conservationNote": "Around 12 conservation areas including Linthorpe and Marton West.",
+    "dominantEra": "Late Victorian terraces plus heavy interwar and postwar suburban growth."
+  },
+  "peterborough": {
+    "postcodes": [
+      "PE1",
+      "PE2",
+      "PE3",
+      "PE4",
+      "PE7"
+    ],
+    "houseTypes": "Victorian terraces around Millfield and Fletton, plus New Town-era estates in Bretton, Orton and Werrington built as designated growth areas from the 1970s.",
+    "notableAreas": [
+      "Bretton",
+      "Orton",
+      "Werrington",
+      "Longthorpe",
+      "Fletton"
+    ],
+    "conservationNote": "Around 20 conservation areas including the Cathedral Precincts and Longthorpe.",
+    "dominantEra": "Victorian core with major postwar and 1970s New Town growth."
+  },
+  "milton-keynes": {
+    "postcodes": [
+      "MK1",
+      "MK2",
+      "MK3",
+      "MK4",
+      "MK9"
+    ],
+    "houseTypes": "Founded as a New Town in 1967, MK is almost entirely postwar - Californian-style grid estates, cul-de-sacs and 1980s brick semis. Few conservation-era streets.",
+    "notableAreas": [
+      "Central Milton Keynes",
+      "Bletchley",
+      "Wolverton",
+      "Stony Stratford",
+      "Woburn Sands"
+    ],
+    "conservationNote": "9 conservation areas focused on the pre-New Town villages of Stony Stratford, Newport Pagnell and Woburn Sands.",
+    "dominantEra": "Postwar New Town, 1970s and 1980s dominant."
+  },
+  "northampton": {
+    "postcodes": [
+      "NN1",
+      "NN2",
+      "NN3",
+      "NN4",
+      "NN5"
+    ],
+    "houseTypes": "Victorian shoe-worker terraces in Semilong and St James, Edwardian villas in Abington and Kingsley, plus large postwar estates on the edges.",
+    "notableAreas": [
+      "Abington",
+      "Kingsley",
+      "Weston Favell",
+      "Duston",
+      "Far Cotton"
+    ],
+    "conservationNote": "Around 22 conservation areas including Boot and Shoe Quarter and Abington.",
+    "dominantEra": "Victorian and Edwardian, plus significant postwar overspill housing."
+  },
+  "dundee": {
+    "postcodes": [
+      "DD1",
+      "DD2",
+      "DD3",
+      "DD4",
+      "DD5"
+    ],
+    "houseTypes": "Distinctive sandstone tenement flats in Broughty Ferry and West End, jute-worker terraces in Lochee and Hilltown, plus 1960s multi-storey blocks in Menzieshill.",
+    "notableAreas": [
+      "Broughty Ferry",
+      "West End",
+      "Ferry Road",
+      "Barnhill",
+      "Downfield"
+    ],
+    "conservationNote": "Around 20 conservation areas including Broughty Ferry and the West End.",
+    "dominantEra": "Victorian sandstone tenements and jute-era terraces."
+  },
+  "swindon": {
+    "postcodes": [
+      "SN1",
+      "SN2",
+      "SN3",
+      "SN5",
+      "SN25"
+    ],
+    "houseTypes": "The GWR-built New Town cottages in Railway Village (a preserved 1840s workers' estate), Victorian and Edwardian streets in Old Town, plus vast postwar and 1990s estates like West Swindon and Priory Vale.",
+    "notableAreas": [
+      "Old Town",
+      "Railway Village",
+      "Wroughton",
+      "West Swindon",
+      "Highworth"
+    ],
+    "conservationNote": "22 conservation areas including the Railway Village, all listed Grade II.",
+    "dominantEra": "Victorian railway-era plus dominant postwar expansion."
+  },
+  "colchester": {
+    "postcodes": [
+      "CO1",
+      "CO2",
+      "CO3",
+      "CO4",
+      "CO7"
+    ],
+    "houseTypes": "Georgian townhouses around the Dutch Quarter, Victorian terraces in the New Town, plus interwar and postwar garrison-town semis.",
+    "notableAreas": [
+      "Lexden",
+      "Mile End",
+      "Prettygate",
+      "Wivenhoe",
+      "West Mersea"
+    ],
+    "conservationNote": "26 conservation areas including the Dutch Quarter and Roman Wall.",
+    "dominantEra": "Georgian to Victorian core, interwar suburban belts."
+  },
+  "chelmsford": {
+    "postcodes": [
+      "CM1",
+      "CM2",
+      "CM3",
+      "CM4"
+    ],
+    "houseTypes": "Victorian and Edwardian terraces around Moulsham, interwar Marconi-era semis, plus large postwar and 2000s new-builds in Beaulieu Park and Chancellor Park.",
+    "notableAreas": [
+      "Moulsham",
+      "Great Baddow",
+      "Springfield",
+      "Writtle",
+      "Broomfield"
+    ],
+    "conservationNote": "Around 15 conservation areas including Chelmsford Cathedral and Moulsham Street.",
+    "dominantEra": "Edwardian and interwar, with recent new-build growth."
+  },
+  "southend-on-sea": {
+    "postcodes": [
+      "SS1",
+      "SS2",
+      "SS3",
+      "SS9"
+    ],
+    "houseTypes": "Seaside Victorian and Edwardian villas along the seafront and Prittlewell, interwar semis in Westcliff and Leigh, plus 1930s-40s bungalow estates common on the Essex coast.",
+    "notableAreas": [
+      "Leigh-on-Sea",
+      "Westcliff",
+      "Thorpe Bay",
+      "Chalkwell",
+      "Shoeburyness"
+    ],
+    "conservationNote": "Around 18 conservation areas including Old Leigh and Clifftown.",
+    "dominantEra": "Late Victorian to interwar seaside."
+  },
+  "brighton": {
+    "postcodes": [
+      "BN1",
+      "BN2",
+      "BN3"
+    ],
+    "houseTypes": "Regency squares and townhouses around Kemptown, Brunswick and Montpelier - some of the finest Regency architecture in England - plus Victorian terraces in Hanover and Preston.",
+    "notableAreas": [
+      "Kemptown",
+      "Brunswick",
+      "Hove",
+      "Hanover",
+      "North Laine",
+      "Rottingdean"
+    ],
+    "conservationNote": "34 conservation areas covering most of Brighton and Hove - Regency frontages carry very strict listed building consent.",
+    "dominantEra": "Regency (1810s-1830s) core with Victorian expansion."
+  },
+  "bournemouth": {
+    "postcodes": [
+      "BH1",
+      "BH2",
+      "BH4",
+      "BH5",
+      "BH8"
+    ],
+    "houseTypes": "Victorian villas around Westbourne and the West Cliff, Edwardian bay-fronts in Winton and Boscombe, plus a distinctive interwar bungalow belt along the seafront.",
+    "notableAreas": [
+      "Westbourne",
+      "Boscombe",
+      "Southbourne",
+      "Winton",
+      "Poole"
+    ],
+    "conservationNote": "Around 18 conservation areas including West Cliff and East Overcliff.",
+    "dominantEra": "Late Victorian to interwar coastal resort."
+  },
+  "gloucester": {
+    "postcodes": [
+      "GL1",
+      "GL2",
+      "GL3",
+      "GL4"
+    ],
+    "houseTypes": "Georgian and Victorian townhouses around the cathedral and dock, terraced streets in Barton and Tredworth, plus interwar semis in Longlevens and Hucclecote.",
+    "notableAreas": [
+      "Longlevens",
+      "Hucclecote",
+      "Kingsholm",
+      "Barton",
+      "Quedgeley"
+    ],
+    "conservationNote": "Around 20 conservation areas across the historic centre and dock quarter.",
+    "dominantEra": "Georgian to Victorian centre, interwar suburbs."
+  },
+  "cheltenham": {
+    "postcodes": [
+      "GL50",
+      "GL51",
+      "GL52",
+      "GL53"
+    ],
+    "houseTypes": "Regency stucco-fronted terraces around Montpellier and Pittville, Victorian villas in Tivoli and The Park, plus interwar semis in Prestbury and Charlton Kings.",
+    "notableAreas": [
+      "Montpellier",
+      "Pittville",
+      "The Park",
+      "Tivoli",
+      "Charlton Kings"
+    ],
+    "conservationNote": "The whole central area is a conservation area, with strict rules on stucco frontages and Regency proportions.",
+    "dominantEra": "Regency spa town, Victorian and Edwardian growth."
+  },
+  "blackpool": {
+    "postcodes": [
+      "FY1",
+      "FY2",
+      "FY3",
+      "FY4"
+    ],
+    "houseTypes": "Terraced streets across central Blackpool, distinctive small B&B and hotel stock, plus interwar semis in Bispham and Stanley Park.",
+    "notableAreas": [
+      "Bispham",
+      "Marton",
+      "Layton",
+      "Squires Gate",
+      "North Shore"
+    ],
+    "conservationNote": "Around 12 conservation areas, several protecting Victorian promenade features.",
+    "dominantEra": "Late Victorian seaside resort, interwar suburban growth."
+  },
+  "warrington": {
+    "postcodes": [
+      "WA1",
+      "WA2",
+      "WA3",
+      "WA4",
+      "WA5"
+    ],
+    "houseTypes": "Victorian terraces around Bewsey and Latchford, interwar semis in Grappenhall and Stockton Heath, plus the New Town-era Padgate and Birchwood estates.",
+    "notableAreas": [
+      "Stockton Heath",
+      "Grappenhall",
+      "Appleton",
+      "Lymm",
+      "Culcheth"
+    ],
+    "conservationNote": "Around 25 conservation areas including Stockton Heath and Lymm village.",
+    "dominantEra": "Victorian and interwar, plus New Town expansion."
+  },
+  "telford": {
+    "postcodes": [
+      "TF1",
+      "TF2",
+      "TF3",
+      "TF4",
+      "TF7"
+    ],
+    "houseTypes": "Designated a New Town in 1968 amalgamating existing settlements, so mostly 1970s-1980s brick estates around Dawley, Madeley and Wellington, with historic Ironbridge nearby.",
+    "notableAreas": [
+      "Wellington",
+      "Madeley",
+      "Dawley",
+      "Oakengates",
+      "Ironbridge"
+    ],
+    "conservationNote": "Around 10 conservation areas mostly in the pre-New Town village cores.",
+    "dominantEra": "Late Victorian villages plus 1970s New Town."
+  },
+  "worcester": {
+    "postcodes": [
+      "WR1",
+      "WR2",
+      "WR3",
+      "WR4",
+      "WR5"
+    ],
+    "houseTypes": "Timber-framed medieval houses on Friar Street, Georgian and Regency terraces around the cathedral, plus interwar semis in Warndon and St Peter's.",
+    "notableAreas": [
+      "St John's",
+      "Barbourne",
+      "Warndon",
+      "St Peter's",
+      "Battenhall"
+    ],
+    "conservationNote": "Around 20 conservation areas including Cathedral Close and Friar Street.",
+    "dominantEra": "Medieval to Georgian in the centre, Victorian and interwar around it."
+  },
+  "bath": {
+    "postcodes": [
+      "BA1",
+      "BA2"
+    ],
+    "houseTypes": "Bath is essentially a Georgian city - Bath stone crescents, terraces and townhouses dominate the centre (Royal Crescent, The Circus, Great Pulteney Street), with Victorian villas in Bathwick and Widcombe.",
+    "notableAreas": [
+      "Bathwick",
+      "Widcombe",
+      "Weston",
+      "Larkhall",
+      "Combe Down"
+    ],
+    "conservationNote": "The centre is a UNESCO World Heritage Site - any street-facing window change on a Georgian frontage almost certainly requires Listed Building Consent.",
+    "dominantEra": "Georgian (18th century) dominant."
+  },
+  "lincoln": {
+    "postcodes": [
+      "LN1",
+      "LN2",
+      "LN5",
+      "LN6"
+    ],
+    "houseTypes": "Steeply terraced Victorian streets rising up to the cathedral (Steep Hill and around), plus interwar semis on the flatter west and north edges.",
+    "notableAreas": [
+      "Uphill",
+      "Bailgate",
+      "Newport",
+      "Boultham",
+      "Birchwood"
+    ],
+    "conservationNote": "17 conservation areas including the Cathedral Quarter and Historic Uphill.",
+    "dominantEra": "Victorian, with a medieval core around the cathedral."
+  },
+  "hartlepool": {
+    "postcodes": [
+      "TS24",
+      "TS25",
+      "TS26",
+      "TS27"
+    ],
+    "houseTypes": "Coastal Victorian terraces around the Headland, interwar semis in Elwick and Grange, plus 1930s and postwar municipal housing in West and Rift House.",
+    "notableAreas": [
+      "The Headland",
+      "Seaton Carew",
+      "Elwick",
+      "Rift House",
+      "Grange"
+    ],
+    "conservationNote": "Around 8 conservation areas including the Headland and Seaton Carew.",
+    "dominantEra": "Victorian coastal, interwar municipal growth."
+  },
+  "blackburn": {
+    "postcodes": [
+      "BB1",
+      "BB2",
+      "BB3"
+    ],
+    "houseTypes": "Cotton-mill terraces across most inner wards, some Victorian villas around Corporation Park, plus 1930s and postwar semis on the outer belt.",
+    "notableAreas": [
+      "Wilpshire",
+      "Ewood",
+      "Livesey",
+      "Mill Hill",
+      "Little Harwood"
+    ],
+    "conservationNote": "Around 10 conservation areas including Corporation Park and Preston New Road.",
+    "dominantEra": "Victorian mill-era terraces predominate."
+  },
+  "huddersfield": {
+    "postcodes": [
+      "HD1",
+      "HD2",
+      "HD3",
+      "HD5"
+    ],
+    "houseTypes": "Yorkshire stone terraces across Marsh and Longwood, Victorian mill-owner villas around Edgerton, plus interwar semis in Almondbury.",
+    "notableAreas": [
+      "Edgerton",
+      "Marsh",
+      "Lindley",
+      "Almondbury",
+      "Golcar"
+    ],
+    "conservationNote": "42 conservation areas across Kirklees, many in Huddersfield's mill-era neighbourhoods.",
+    "dominantEra": "Victorian stone mill-era, plus interwar."
+  },
+  "poole": {
+    "postcodes": [
+      "BH12",
+      "BH13",
+      "BH14",
+      "BH15",
+      "BH17"
+    ],
+    "houseTypes": "Georgian and early Victorian houses in the Old Town, Victorian villas in Parkstone, plus extensive interwar Sandbanks-adjacent stock and 1960s tower blocks around the harbour.",
+    "notableAreas": [
+      "Sandbanks",
+      "Parkstone",
+      "Canford Cliffs",
+      "Broadstone",
+      "Hamworthy"
+    ],
+    "conservationNote": "Around 15 conservation areas including Old Town Poole and Canford Cliffs.",
+    "dominantEra": "Victorian to interwar coastal."
+  },
+  "eastbourne": {
+    "postcodes": [
+      "BN20",
+      "BN21",
+      "BN22",
+      "BN23"
+    ],
+    "houseTypes": "Elegant Victorian and Edwardian seafront terraces (Devonshire Park, Meads), plus interwar Willingdon and Hampden Park estates.",
+    "notableAreas": [
+      "Meads",
+      "Old Town",
+      "Sovereign Harbour",
+      "Willingdon",
+      "Hampden Park"
+    ],
+    "conservationNote": "Around 12 conservation areas including Devonshire Place and Meads.",
+    "dominantEra": "Late Victorian and Edwardian seaside."
+  },
+  "hastings": {
+    "postcodes": [
+      "TN34",
+      "TN35",
+      "TN37",
+      "TN38"
+    ],
+    "houseTypes": "Fisherman's Old Town cottages, Victorian and Edwardian terraces up the West Hill, plus 1960s tower blocks on the seafront.",
+    "notableAreas": [
+      "Old Town",
+      "St Leonards",
+      "West Hill",
+      "Ore",
+      "Bexhill"
+    ],
+    "conservationNote": "Around 15 conservation areas including Old Town and Burton St Leonards.",
+    "dominantEra": "Georgian Old Town and Regency St Leonards, with Victorian expansion."
+  },
+  "maidstone": {
+    "postcodes": [
+      "ME14",
+      "ME15",
+      "ME16",
+      "ME17"
+    ],
+    "houseTypes": "Kent ragstone Georgian and Victorian townhouses around the town centre, plus interwar semis in Loose and Barming.",
+    "notableAreas": [
+      "Loose",
+      "Bearsted",
+      "Boughton Monchelsea",
+      "Coxheath",
+      "Barming"
+    ],
+    "conservationNote": "Around 30 conservation areas across the borough including Loose village and central Maidstone.",
+    "dominantEra": "Georgian and Victorian core."
+  },
+  "basildon": {
+    "postcodes": [
+      "SS13",
+      "SS14",
+      "SS15",
+      "SS16"
+    ],
+    "houseTypes": "Designated a New Town in 1949 and largely built between 1955 and 1975 - 1960s brick semis, low-rise flat blocks and pedestrianised estates dominate. Little pre-war stock.",
+    "notableAreas": [
+      "Pitsea",
+      "Laindon",
+      "Vange",
+      "Wickford",
+      "Billericay"
+    ],
+    "conservationNote": "Around 5 conservation areas mostly in pre-New Town villages like Vange and Laindon.",
+    "dominantEra": "Postwar New Town."
+  },
+  "shrewsbury": {
+    "postcodes": [
+      "SY1",
+      "SY2",
+      "SY3"
+    ],
+    "houseTypes": "Timber-framed Tudor and Georgian townhouses within the medieval loop of the River Severn, Victorian villas in Belle Vue, plus interwar and modern estates around Radbrook and Bicton Heath.",
+    "notableAreas": [
+      "Belle Vue",
+      "Frankwell",
+      "Ditherington",
+      "Copthorne",
+      "Bayston Hill"
+    ],
+    "conservationNote": "Around 8 conservation areas including the medieval town centre - many buildings are Grade I or II listed.",
+    "dominantEra": "Medieval to Georgian core."
+  },
+  "guildford": {
+    "postcodes": [
+      "GU1",
+      "GU2",
+      "GU3",
+      "GU4"
+    ],
+    "houseTypes": "Cobbled Georgian and Victorian High Street houses, Edwardian villas along Epsom Road and London Road, plus interwar and 1990s semis in Merrow and Burpham.",
+    "notableAreas": [
+      "Merrow",
+      "Onslow Village",
+      "Stoughton",
+      "Burpham",
+      "Shalford"
+    ],
+    "conservationNote": "Around 25 conservation areas including the town centre.",
+    "dominantEra": "Georgian to Edwardian core, interwar suburbs."
+  },
+  "slough": {
+    "postcodes": [
+      "SL1",
+      "SL2",
+      "SL3"
+    ],
+    "houseTypes": "Terraced streets around Chalvey and Cippenham, extensive 1930s Britwell and Manor Park semis, plus postwar tower blocks and modern town-centre apartments.",
+    "notableAreas": [
+      "Cippenham",
+      "Langley",
+      "Britwell",
+      "Manor Park",
+      "Wexham"
+    ],
+    "conservationNote": "Around 6 conservation areas mostly around older pre-industrial pockets.",
+    "dominantEra": "Interwar and postwar suburban expansion."
+  },
+  "st-albans": {
+    "postcodes": [
+      "AL1",
+      "AL2",
+      "AL3",
+      "AL4"
+    ],
+    "houseTypes": "Medieval and Georgian houses around the cathedral and Fishpool Street, Victorian and Edwardian villas in Marshalswick and Marlborough Road, plus interwar semis in Bricket Wood.",
+    "notableAreas": [
+      "Marshalswick",
+      "Fleetville",
+      "London Colney",
+      "Wheathampstead",
+      "Harpenden"
+    ],
+    "conservationNote": "Around 20 conservation areas including the Cathedral Quarter and Verulamium.",
+    "dominantEra": "Georgian and Victorian core."
+  },
+  "woking": {
+    "postcodes": [
+      "GU21",
+      "GU22",
+      "GU23",
+      "GU24"
+    ],
+    "houseTypes": "Late Victorian and Edwardian villas around the town centre, interwar Sheerwater and Byfleet semis, plus postwar and modern estates in Goldsworth Park and Kingfield.",
+    "notableAreas": [
+      "Horsell",
+      "Byfleet",
+      "Pyrford",
+      "Knaphill",
+      "Old Woking"
+    ],
+    "conservationNote": "Around 15 conservation areas including Horsell and Old Woking.",
+    "dominantEra": "Late Victorian to interwar suburban town."
+  },
+  "wigan": {
+    "postcodes": [
+      "WN1",
+      "WN2",
+      "WN3",
+      "WN5"
+    ],
+    "houseTypes": "Cotton and coal-era Victorian terraces across Whelley and Springfield, interwar semis in Standish and Orrell, plus postwar municipal estates in Marsh Green.",
+    "notableAreas": [
+      "Standish",
+      "Orrell",
+      "Whelley",
+      "Ashton-in-Makerfield",
+      "Aspull"
+    ],
+    "conservationNote": "Around 12 conservation areas including Standish and Wigan Pier.",
+    "dominantEra": "Victorian mining and mill-era stock."
+  },
+  "bolton": {
+    "postcodes": [
+      "BL1",
+      "BL2",
+      "BL3",
+      "BL4"
+    ],
+    "houseTypes": "Cotton-mill Victorian terraces across Halliwell and Great Lever, Victorian villas around Chorley New Road, plus interwar semis in Astley Bridge and Breightmet.",
+    "notableAreas": [
+      "Chorley New Road",
+      "Astley Bridge",
+      "Bradshaw",
+      "Horwich",
+      "Farnworth"
+    ],
+    "conservationNote": "24 conservation areas including Chorley New Road and Bradshaw.",
+    "dominantEra": "Victorian cotton-era terraces predominate."
+  },
+  "bury": {
+    "postcodes": [
+      "BL8",
+      "BL9",
+      "M25",
+      "M26"
+    ],
+    "houseTypes": "Victorian mill-worker terraces around the town centre, interwar semis in Whitefield and Prestwich, plus 1970s and 1980s estates in Radcliffe.",
+    "notableAreas": [
+      "Whitefield",
+      "Prestwich",
+      "Ramsbottom",
+      "Tottington",
+      "Radcliffe"
+    ],
+    "conservationNote": "Around 15 conservation areas including Ramsbottom and Prestwich village.",
+    "dominantEra": "Victorian and interwar."
+  },
+  "salford": {
+    "postcodes": [
+      "M3",
+      "M5",
+      "M6",
+      "M7",
+      "M27"
+    ],
+    "houseTypes": "Terraces of Coronation Street style predominate in Weaste and Ordsall (many now demolished), plus Victorian villas in Broughton and modern MediaCity apartments.",
+    "notableAreas": [
+      "Swinton",
+      "Eccles",
+      "Worsley",
+      "Walkden",
+      "MediaCity"
+    ],
+    "conservationNote": "Around 20 conservation areas including Worsley and Broughton.",
+    "dominantEra": "Late Victorian terraces plus major modern regeneration."
+  },
+  "stockport": {
+    "postcodes": [
+      "SK1",
+      "SK2",
+      "SK3",
+      "SK4",
+      "SK7"
+    ],
+    "houseTypes": "Victorian mill terraces near the viaduct, Edwardian bay-fronted villas in Heaton Moor and Davenport, plus interwar semis in Bramhall and Cheadle.",
+    "notableAreas": [
+      "Bramhall",
+      "Cheadle Hulme",
+      "Heaton Moor",
+      "Marple",
+      "Romiley"
+    ],
+    "conservationNote": "Around 30 conservation areas including Marple and Heaton Moor.",
+    "dominantEra": "Victorian and Edwardian, interwar suburban belt."
+  },
+  "rochdale": {
+    "postcodes": [
+      "OL11",
+      "OL12",
+      "OL16"
+    ],
+    "houseTypes": "Cotton-mill Victorian terraces (Rochdale is a birthplace of the co-operative movement), Victorian villas in Norden and Bamford, plus interwar and postwar semis further out.",
+    "notableAreas": [
+      "Norden",
+      "Bamford",
+      "Littleborough",
+      "Milnrow",
+      "Heywood"
+    ],
+    "conservationNote": "Around 15 conservation areas including Rochdale town centre and Littleborough.",
+    "dominantEra": "Victorian mill terraces."
+  },
+  "oldham": {
+    "postcodes": [
+      "OL1",
+      "OL2",
+      "OL4",
+      "OL8"
+    ],
+    "houseTypes": "Cotton-mill Victorian terraces across central Oldham, Victorian villas in Werneth and Waterhead, plus 1930s semis in Chadderton and Royton.",
+    "notableAreas": [
+      "Chadderton",
+      "Royton",
+      "Failsworth",
+      "Saddleworth",
+      "Uppermill"
+    ],
+    "conservationNote": "Around 20 conservation areas including Saddleworth villages (Uppermill, Delph, Dobcross).",
+    "dominantEra": "Victorian mill-era terraces."
+  },
+  "burnley": {
+    "postcodes": [
+      "BB10",
+      "BB11",
+      "BB12"
+    ],
+    "houseTypes": "Distinctive stone-built Victorian terraces (mostly two-up-two-downs), some Victorian villas in Padiham Road, plus interwar semis in Reedley and Rose Grove.",
+    "notableAreas": [
+      "Padiham",
+      "Rose Grove",
+      "Reedley",
+      "Cliviger",
+      "Worsthorne"
+    ],
+    "conservationNote": "Around 8 conservation areas including Burnley Wood and Padiham.",
+    "dominantEra": "Victorian mill-era stone terraces."
+  },
+  "durham": {
+    "postcodes": [
+      "DH1",
+      "DH6",
+      "DH7"
+    ],
+    "houseTypes": "Georgian and early Victorian townhouses on the peninsula around the cathedral, Victorian pit-village terraces in the outer areas, plus interwar suburban semis.",
+    "notableAreas": [
+      "Bailey",
+      "Neville's Cross",
+      "Gilesgate",
+      "Framwellgate Moor",
+      "Belmont"
+    ],
+    "conservationNote": "The Cathedral peninsula is a UNESCO World Heritage Site; around 20 conservation areas in total.",
+    "dominantEra": "Georgian and Victorian."
+  },
+  "darlington": {
+    "postcodes": [
+      "DL1",
+      "DL2",
+      "DL3"
+    ],
+    "houseTypes": "Railway-era Victorian and Edwardian streets around Northgate, terraces off Yarm Road, plus interwar semis in West Auckland Road and Blackwell.",
+    "notableAreas": [
+      "Cockerton",
+      "Blackwell",
+      "Hurworth",
+      "Middleton St George",
+      "Neasham"
+    ],
+    "conservationNote": "Around 15 conservation areas including Blackwell and Cockerton.",
+    "dominantEra": "Victorian railway-era to interwar."
+  },
+  "stockton-on-tees": {
+    "postcodes": [
+      "TS16",
+      "TS17",
+      "TS18",
+      "TS19"
+    ],
+    "houseTypes": "Georgian High Street and Riverside terraces, Victorian streets around Norton, plus large interwar and postwar suburban housing across Ingleby Barwick and Fairfield.",
+    "notableAreas": [
+      "Norton",
+      "Yarm",
+      "Ingleby Barwick",
+      "Hartburn",
+      "Fairfield"
+    ],
+    "conservationNote": "Around 12 conservation areas including Yarm and Norton.",
+    "dominantEra": "Georgian and Victorian core plus interwar suburban growth."
+  },
+  "wakefield": {
+    "postcodes": [
+      "WF1",
+      "WF2",
+      "WF4"
+    ],
+    "houseTypes": "Victorian terraces around the city centre, Edwardian villas in St John's, plus interwar semis in Sandal and Lupset.",
+    "notableAreas": [
+      "Sandal",
+      "Ossett",
+      "Horbury",
+      "Pontefract",
+      "Featherstone"
+    ],
+    "conservationNote": "40+ conservation areas across the district including central Wakefield and Sandal.",
+    "dominantEra": "Victorian and Edwardian core, plus interwar."
+  },
+  "doncaster": {
+    "postcodes": [
+      "DN1",
+      "DN2",
+      "DN4",
+      "DN5"
+    ],
+    "houseTypes": "Victorian and Edwardian streets around Balby and Wheatley, coal-village terraces in Bentley and Edlington, plus extensive interwar semis in Cantley.",
+    "notableAreas": [
+      "Balby",
+      "Bessacarr",
+      "Cantley",
+      "Bentley",
+      "Wheatley"
+    ],
+    "conservationNote": "Around 30 conservation areas including Doncaster Town Centre and Bawtry.",
+    "dominantEra": "Victorian to Edwardian, interwar suburban."
+  },
+  "barnsley": {
+    "postcodes": [
+      "S70",
+      "S71",
+      "S75"
+    ],
+    "houseTypes": "Coal-mining Victorian terraces across the town centre and pit villages (Grimethorpe, Cudworth), interwar Kendray semis, plus postwar municipal housing.",
+    "notableAreas": [
+      "Penistone",
+      "Wombwell",
+      "Hoyland",
+      "Athersley",
+      "Kendray"
+    ],
+    "conservationNote": "Around 20 conservation areas including central Barnsley and Cawthorne.",
+    "dominantEra": "Victorian mining-era, interwar municipal."
+  },
+  "rotherham": {
+    "postcodes": [
+      "S60",
+      "S61",
+      "S65"
+    ],
+    "houseTypes": "Steel and mining-era Victorian terraces around the town centre and Kimberworth, plus interwar semis in Broom and Sitwell.",
+    "notableAreas": [
+      "Wickersley",
+      "Bramley",
+      "Wath",
+      "Whiston",
+      "Maltby"
+    ],
+    "conservationNote": "Around 20 conservation areas including Wentworth village and central Rotherham.",
+    "dominantEra": "Victorian industrial, interwar suburban."
+  },
+  "mansfield": {
+    "postcodes": [
+      "NG18",
+      "NG19",
+      "NG21"
+    ],
+    "houseTypes": "Mining-era Victorian terraces, interwar semis in Forest Town and Warsop, plus postwar estates on the outer edges.",
+    "notableAreas": [
+      "Mansfield Woodhouse",
+      "Forest Town",
+      "Warsop",
+      "Kirkby-in-Ashfield",
+      "Sutton-in-Ashfield"
+    ],
+    "conservationNote": "Around 8 conservation areas including central Mansfield.",
+    "dominantEra": "Victorian mining-era, interwar."
+  },
+  "chesterfield": {
+    "postcodes": [
+      "S40",
+      "S41",
+      "S42",
+      "S43"
+    ],
+    "houseTypes": "Victorian terraces around the town centre (famous for the crooked spire), Edwardian villas in Brampton, plus interwar semis in Boythorpe and Newbold.",
+    "notableAreas": [
+      "Brampton",
+      "Whittington Moor",
+      "Hasland",
+      "Walton",
+      "Ashgate"
+    ],
+    "conservationNote": "Around 12 conservation areas including the town centre with St Mary's spire.",
+    "dominantEra": "Victorian and Edwardian, plus interwar."
+  },
+  "burton-upon-trent": {
+    "postcodes": [
+      "DE13",
+      "DE14",
+      "DE15"
+    ],
+    "houseTypes": "Brewing-era Victorian terraces around Shobnall and Anglesey, Edwardian villas along Ashby Road, plus interwar semis in Winshill and Stapenhill.",
+    "notableAreas": [
+      "Stretton",
+      "Rolleston",
+      "Barton",
+      "Winshill",
+      "Stapenhill"
+    ],
+    "conservationNote": "Around 10 conservation areas including Burton Central and Rolleston.",
+    "dominantEra": "Victorian to Edwardian brewing-era."
+  },
+  "kidderminster": {
+    "postcodes": [
+      "DY10",
+      "DY11",
+      "DY14"
+    ],
+    "houseTypes": "Carpet-industry Victorian terraces around the town centre, Edwardian villas in Hoo Road, plus interwar semis in Blakebrook and Broadwaters.",
+    "notableAreas": [
+      "Wolverley",
+      "Cookley",
+      "Bewdley",
+      "Stourport-on-Severn",
+      "Chaddesley Corbett"
+    ],
+    "conservationNote": "Around 12 conservation areas including central Kidderminster and Bewdley.",
+    "dominantEra": "Victorian carpet-industry stock."
+  },
+  "redditch": {
+    "postcodes": [
+      "B97",
+      "B98"
+    ],
+    "houseTypes": "Designated a New Town in 1964, so mostly 1970s brick semis, terraces and estates around Church Hill, Winyates and Woodrow. Some pre-New Town Victorian and needle-industry stock in Old Redditch.",
+    "notableAreas": [
+      "Astwood Bank",
+      "Feckenham",
+      "Ipsley",
+      "Batchley",
+      "Alvechurch"
+    ],
+    "conservationNote": "Around 12 conservation areas mostly in pre-New Town villages.",
+    "dominantEra": "1970s-1980s New Town."
+  },
+  "nuneaton": {
+    "postcodes": [
+      "CV10",
+      "CV11",
+      "CV13"
+    ],
+    "houseTypes": "Victorian mining-era terraces in Attleborough and Stockingford, interwar semis in Chapel End, plus large postwar and 1990s estates on the north edge.",
+    "notableAreas": [
+      "Attleborough",
+      "Stockingford",
+      "Bulkington",
+      "Weddington",
+      "Hartshill"
+    ],
+    "conservationNote": "Around 8 conservation areas including central Nuneaton.",
+    "dominantEra": "Late Victorian to interwar."
+  },
+  "walsall": {
+    "postcodes": [
+      "WS1",
+      "WS2",
+      "WS3",
+      "WS5"
+    ],
+    "houseTypes": "Victorian terraces around Palfrey and Chuckery, interwar semis in Streetly and Bloxwich, plus postwar municipal estates on the outer belt.",
+    "notableAreas": [
+      "Streetly",
+      "Aldridge",
+      "Brownhills",
+      "Willenhall",
+      "Bloxwich"
+    ],
+    "conservationNote": "Around 15 conservation areas including Aldridge and Rushall.",
+    "dominantEra": "Late Victorian and interwar."
+  },
+  "dudley": {
+    "postcodes": [
+      "DY1",
+      "DY2",
+      "DY3",
+      "DY4"
+    ],
+    "houseTypes": "Victorian ironworker terraces across Dudley and Netherton, interwar semis in Sedgley and Wollaston, plus postwar estates around Russells Hall.",
+    "notableAreas": [
+      "Sedgley",
+      "Halesowen",
+      "Stourbridge",
+      "Kingswinford",
+      "Coseley"
+    ],
+    "conservationNote": "Around 15 conservation areas including Sedgley and Stourbridge.",
+    "dominantEra": "Victorian iron-industry stock plus interwar."
+  },
+  "lichfield": {
+    "postcodes": [
+      "WS13",
+      "WS14"
+    ],
+    "houseTypes": "Medieval and Georgian townhouses around the Cathedral Close, Victorian and Edwardian villas along Beacon Street, plus modern estates in Streethay.",
+    "notableAreas": [
+      "Boley Park",
+      "Streethay",
+      "Whittington",
+      "Fradley",
+      "Burntwood"
+    ],
+    "conservationNote": "The Cathedral Close and much of the historic centre is a conservation area with tight rules.",
+    "dominantEra": "Medieval to Georgian core."
+  },
+  "tamworth": {
+    "postcodes": [
+      "B77",
+      "B78",
+      "B79"
+    ],
+    "houseTypes": "Historic core around the Castle and Church Street, but the majority of housing stock is postwar overspill from Birmingham (1960s-70s estates in Wilnecote and Amington).",
+    "notableAreas": [
+      "Wilnecote",
+      "Amington",
+      "Fazeley",
+      "Glascote",
+      "Hopwas"
+    ],
+    "conservationNote": "Around 10 conservation areas including the Castle and Church Street.",
+    "dominantEra": "Postwar Birmingham overspill."
+  },
+  "stafford": {
+    "postcodes": [
+      "ST16",
+      "ST17",
+      "ST18",
+      "ST19"
+    ],
+    "houseTypes": "Georgian townhouses around the market square, Victorian and Edwardian villas along Newport Road, plus interwar and postwar semis in Baswich and Rising Brook.",
+    "notableAreas": [
+      "Baswich",
+      "Weeping Cross",
+      "Rising Brook",
+      "Wildwood",
+      "Milford"
+    ],
+    "conservationNote": "Around 20 conservation areas including central Stafford and Milford.",
+    "dominantEra": "Georgian to Victorian core, plus interwar."
+  },
+  "leamington-spa": {
+    "postcodes": [
+      "CV31",
+      "CV32",
+      "CV33"
+    ],
+    "houseTypes": "Regency stucco terraces around the Parade and Clarendon Square (one of the best-preserved Regency spa towns), Victorian villas in Lillington, plus interwar semis in Sydenham.",
+    "notableAreas": [
+      "Old Town",
+      "Regency Quarter",
+      "Lillington",
+      "Sydenham",
+      "Cubbington"
+    ],
+    "conservationNote": "The Regency core is a conservation area with the strictest rules in Warwickshire - stucco frontages need Listed Building Consent.",
+    "dominantEra": "Regency spa town."
+  },
+  "warwick": {
+    "postcodes": [
+      "CV34",
+      "CV35"
+    ],
+    "houseTypes": "Medieval Warwick Castle and Tudor timber-framed houses on Mill Street, Georgian rebuild after the 1694 town fire, plus Victorian villas in West Rock and interwar semis in Woodloes Park.",
+    "notableAreas": [
+      "West Rock",
+      "Emscote",
+      "Woodloes",
+      "Percy Estate",
+      "Myton"
+    ],
+    "conservationNote": "The medieval town centre is a conservation area covering most streets within the old walls.",
+    "dominantEra": "Medieval, Georgian and Victorian layers."
+  },
+  "rugby": {
+    "postcodes": [
+      "CV21",
+      "CV22",
+      "CV23"
+    ],
+    "houseTypes": "Rail and cement-era Victorian streets around the town centre, Edwardian villas near Rugby School, plus interwar semis in Bilton and Hillmorton.",
+    "notableAreas": [
+      "Bilton",
+      "Hillmorton",
+      "New Bilton",
+      "Long Lawford",
+      "Dunchurch"
+    ],
+    "conservationNote": "Around 10 conservation areas including central Rugby and Rugby School environs.",
+    "dominantEra": "Victorian to Edwardian, interwar."
+  },
+  "hereford": {
+    "postcodes": [
+      "HR1",
+      "HR2",
+      "HR4"
+    ],
+    "houseTypes": "Medieval and Georgian townhouses around the Cathedral and Old House, Victorian villas along Aylestone Hill, plus interwar semis in Belmont and Tupsley.",
+    "notableAreas": [
+      "Tupsley",
+      "Belmont",
+      "Whitecross",
+      "Bobblestock",
+      "Holmer"
+    ],
+    "conservationNote": "Around 15 conservation areas including the Cathedral Close and King Street.",
+    "dominantEra": "Medieval to Georgian core, Victorian and interwar around."
+  },
+  "newport": {
+    "postcodes": [
+      "NP10",
+      "NP18",
+      "NP19",
+      "NP20"
+    ],
+    "houseTypes": "Coal and steel-era Victorian terraces around Pill and Maindee, Edwardian villas along Christchurch Road, plus interwar semis in Malpas and Bettws.",
+    "notableAreas": [
+      "Caerleon",
+      "Malpas",
+      "Rogerstone",
+      "Bettws",
+      "Ringland"
+    ],
+    "conservationNote": "Around 25 conservation areas across the borough including Caerleon (Roman origin) and central Newport.",
+    "dominantEra": "Late Victorian industrial, interwar."
+  },
+  "wrexham": {
+    "postcodes": [
+      "LL11",
+      "LL12",
+      "LL13",
+      "LL14"
+    ],
+    "houseTypes": "Coal-mining Victorian terraces around Rhosddu and Rhosllannerchrugog, plus interwar semis in Acton and Coedpoeth.",
+    "notableAreas": [
+      "Rhosllannerchrugog",
+      "Ruabon",
+      "Marchwiel",
+      "Acton",
+      "Gwersyllt"
+    ],
+    "conservationNote": "Around 15 conservation areas including central Wrexham and Erddig.",
+    "dominantEra": "Victorian mining-era terraces."
+  },
+  "chester": {
+    "postcodes": [
+      "CH1",
+      "CH2",
+      "CH3",
+      "CH4"
+    ],
+    "houseTypes": "Timber-framed medieval Rows in the walled centre (one of the best-preserved in England), Georgian townhouses around Bridge Street, plus Victorian and Edwardian villas in Hoole and Handbridge.",
+    "notableAreas": [
+      "Hoole",
+      "Handbridge",
+      "Vicars Cross",
+      "Upton",
+      "Boughton"
+    ],
+    "conservationNote": "The whole walled city is a conservation area with UNESCO nomination - listed building consent is routine.",
+    "dominantEra": "Medieval to Georgian core."
+  },
+  "crewe": {
+    "postcodes": [
+      "CW1",
+      "CW2"
+    ],
+    "houseTypes": "Railway-industry Victorian terraces around the station (Crewe was created by the LNWR), Edwardian villas around Nantwich Road, plus interwar semis in Wistaston and Willaston.",
+    "notableAreas": [
+      "Wistaston",
+      "Nantwich",
+      "Willaston",
+      "Haslington",
+      "Sandbach"
+    ],
+    "conservationNote": "Around 8 conservation areas including central Crewe and Nantwich.",
+    "dominantEra": "Victorian railway-era stock."
+  },
+  "loughborough": {
+    "postcodes": [
+      "LE11",
+      "LE12"
+    ],
+    "houseTypes": "Hosiery-era Victorian terraces around the town centre and Shepshed Road, Edwardian villas around Nanpantan Road, plus interwar semis in Hathern Road and Thorpe Acre.",
+    "notableAreas": [
+      "Shepshed",
+      "Quorn",
+      "Hathern",
+      "Barrow-upon-Soar",
+      "Thorpe Acre"
+    ],
+    "conservationNote": "Around 12 conservation areas including central Loughborough and Quorn.",
+    "dominantEra": "Victorian hosiery-era."
+  },
+  "bedford": {
+    "postcodes": [
+      "MK40",
+      "MK41",
+      "MK42",
+      "MK43"
+    ],
+    "houseTypes": "Georgian townhouses around the Embankment and High Street, Victorian and Edwardian villas in Kimbolton Road, plus interwar semis in Elstow and Kempston.",
+    "notableAreas": [
+      "Kempston",
+      "Elstow",
+      "Biddenham",
+      "Great Barford",
+      "Sharnbrook"
+    ],
+    "conservationNote": "Around 20 conservation areas including central Bedford and Elstow.",
+    "dominantEra": "Georgian to Victorian core, plus interwar."
+  },
+  "grantham": {
+    "postcodes": [
+      "NG31",
+      "NG32"
+    ],
+    "houseTypes": "Georgian High Street townhouses, Victorian terraces around Belton Lane, plus interwar semis in Barrowby Gate and Great Gonerby.",
+    "notableAreas": [
+      "Barrowby",
+      "Great Gonerby",
+      "Long Bennington",
+      "Woolsthorpe",
+      "Belton"
+    ],
+    "conservationNote": "Around 10 conservation areas including central Grantham.",
+    "dominantEra": "Georgian to Victorian."
+  },
+  "gainsborough": {
+    "postcodes": [
+      "DN21"
+    ],
+    "houseTypes": "Georgian and Victorian townhouses around the Old Hall, Victorian terraces near the town centre, plus interwar and postwar suburban semis.",
+    "notableAreas": [
+      "Morton",
+      "Lea",
+      "Corringham",
+      "Marton",
+      "Blyton"
+    ],
+    "conservationNote": "Around 5 conservation areas including the Old Hall and central Gainsborough.",
+    "dominantEra": "Georgian to Victorian."
+  },
+  "scunthorpe": {
+    "postcodes": [
+      "DN15",
+      "DN16",
+      "DN17"
+    ],
+    "houseTypes": "Steel-industry Victorian and Edwardian terraces, extensive interwar Crosby and Old Brumby semis (built for steelworkers), plus postwar estates.",
+    "notableAreas": [
+      "Crosby",
+      "Ashby",
+      "Bottesford",
+      "Brumby",
+      "Scawby"
+    ],
+    "conservationNote": "Around 6 conservation areas including central Scunthorpe.",
+    "dominantEra": "Edwardian to interwar steelworks-era."
+  },
+  "grimsby": {
+    "postcodes": [
+      "DN31",
+      "DN32",
+      "DN33",
+      "DN34"
+    ],
+    "houseTypes": "Fishing-industry Victorian terraces around the East and West Marsh, Edwardian villas along Bargate, plus interwar semis in Nunsthorpe and Grange.",
+    "notableAreas": [
+      "Cleethorpes",
+      "Waltham",
+      "Humberston",
+      "Immingham",
+      "Laceby"
+    ],
+    "conservationNote": "Around 8 conservation areas including central Grimsby and Cleethorpes.",
+    "dominantEra": "Victorian fishing-era terraces."
+  },
+  "scarborough": {
+    "postcodes": [
+      "YO11",
+      "YO12",
+      "YO13"
+    ],
+    "houseTypes": "Seaside Victorian and Edwardian villas along the North and South Bays (Regency Crescent, Belvoir Terrace), terraced streets around Falsgrave, plus interwar semis in Newby and Scalby.",
+    "notableAreas": [
+      "Newby",
+      "Scalby",
+      "Falsgrave",
+      "Filey",
+      "Whitby"
+    ],
+    "conservationNote": "Around 20 conservation areas including central Scarborough seafront.",
+    "dominantEra": "Late Victorian to Edwardian coastal resort."
+  },
+  "harrogate": {
+    "postcodes": [
+      "HG1",
+      "HG2",
+      "HG3"
+    ],
+    "houseTypes": "Elegant Victorian and Edwardian spa-era villas around the Stray, Regency terraces off Montpellier, plus interwar semis in Starbeck and Bilton.",
+    "notableAreas": [
+      "The Stray",
+      "Starbeck",
+      "Bilton",
+      "Knaresborough",
+      "Ripon"
+    ],
+    "conservationNote": "Around 20 conservation areas including the Stray and Montpellier - tight rules on stucco and stone frontages.",
+    "dominantEra": "Regency and Victorian spa era."
+  },
+  "keighley": {
+    "postcodes": [
+      "BD20",
+      "BD21",
+      "BD22"
+    ],
+    "houseTypes": "Yorkshire stone mill terraces around the town centre and Braithwaite, Victorian villas in Utley and Fell Lane, plus interwar semis in Riddlesden and Long Lee.",
+    "notableAreas": [
+      "Haworth",
+      "Ilkley",
+      "Silsden",
+      "Bingley",
+      "Cross Roads"
+    ],
+    "conservationNote": "Around 15 conservation areas across Bradford district including Haworth (Bronte country).",
+    "dominantEra": "Victorian stone mill-era."
+  },
+  "salisbury": {
+    "postcodes": [
+      "SP1",
+      "SP2",
+      "SP4"
+    ],
+    "houseTypes": "Medieval and Georgian houses in the Cathedral Close (Sir Christopher Wren, Constable painting), Victorian terraces around Fisherton Street, plus interwar semis in Bemerton and Harnham.",
+    "notableAreas": [
+      "The Close",
+      "Fisherton",
+      "Harnham",
+      "Bemerton",
+      "Wilton"
+    ],
+    "conservationNote": "The Cathedral Close is one of the most important conservation areas in southern England - Listed Building Consent is routine.",
+    "dominantEra": "Medieval to Georgian core, Victorian and interwar around."
+  },
+  "truro": {
+    "postcodes": [
+      "TR1",
+      "TR2",
+      "TR3",
+      "TR4"
+    ],
+    "houseTypes": "Georgian townhouses around Lemon Street and Walsingham Place, Victorian terraces up Kenwyn Hill, plus modern estates on the north edge.",
+    "notableAreas": [
+      "Kenwyn",
+      "Threemilestone",
+      "Malpas",
+      "St Clement",
+      "Highertown"
+    ],
+    "conservationNote": "Around 15 conservation areas across the district including central Truro and Falmouth.",
+    "dominantEra": "Georgian and Victorian."
+  },
+  "torquay": {
+    "postcodes": [
+      "TQ1",
+      "TQ2",
+      "TQ3"
+    ],
+    "houseTypes": "Regency and Victorian villas around the seafront (Torquay grew as a Regency resort), terraced streets in Ellacombe and Chelston, plus interwar bungalows in Cockington and St Marychurch.",
+    "notableAreas": [
+      "Cockington",
+      "St Marychurch",
+      "Chelston",
+      "Wellswood",
+      "Paignton"
+    ],
+    "conservationNote": "Around 12 conservation areas including central Torquay and Cockington village.",
+    "dominantEra": "Regency to Victorian coastal resort."
+  },
+  "taunton": {
+    "postcodes": [
+      "TA1",
+      "TA2",
+      "TA3"
+    ],
+    "houseTypes": "Georgian townhouses around the Crescent and Vivary Park, Victorian villas along Staplegrove Road, plus interwar and postwar semis in Rowbarton and Trull.",
+    "notableAreas": [
+      "Wilton",
+      "Bishop's Hull",
+      "Trull",
+      "Norton Fitzwarren",
+      "North Curry"
+    ],
+    "conservationNote": "Around 12 conservation areas including central Taunton.",
+    "dominantEra": "Georgian to Victorian core."
+  },
+  "yeovil": {
+    "postcodes": [
+      "BA20",
+      "BA21",
+      "BA22"
+    ],
+    "houseTypes": "Glove-industry Victorian terraces around Kingston, Edwardian villas in Preston Road, plus interwar semis in Larkhill and Milford.",
+    "notableAreas": [
+      "Larkhill",
+      "Milford",
+      "Preston",
+      "Sherborne",
+      "Wincanton"
+    ],
+    "conservationNote": "Around 8 conservation areas including central Yeovil.",
+    "dominantEra": "Victorian glove-industry stock."
+  },
+  "tunbridge-wells": {
+    "postcodes": [
+      "TN1",
+      "TN2",
+      "TN4"
+    ],
+    "houseTypes": "Regency and Victorian villas around the Common and Mount Ephraim, Georgian Pantiles-adjacent terraces, plus interwar and postwar detached houses in Southborough and Rusthall.",
+    "notableAreas": [
+      "Southborough",
+      "Rusthall",
+      "Langton Green",
+      "Speldhurst",
+      "Hawkenbury"
+    ],
+    "conservationNote": "Around 25 conservation areas including the Pantiles and Calverley Park.",
+    "dominantEra": "Georgian to Victorian spa town."
+  },
+  "ashford": {
+    "postcodes": [
+      "TN23",
+      "TN24",
+      "TN25"
+    ],
+    "houseTypes": "Victorian railway-era terraces around New Town, plus large postwar and 2000s estates in Kingsnorth and Repton Park.",
+    "notableAreas": [
+      "Willesborough",
+      "Kennington",
+      "Kingsnorth",
+      "Wye",
+      "Charing"
+    ],
+    "conservationNote": "Around 25 conservation areas across the borough including central Ashford and Wye.",
+    "dominantEra": "Victorian railway-era plus recent new-build."
+  },
+  "folkestone": {
+    "postcodes": [
+      "CT19",
+      "CT20"
+    ],
+    "houseTypes": "Regency and Victorian seafront villas around the Leas (a mile-long clifftop promenade), plus terraces in Central Folkestone and interwar semis in Cheriton.",
+    "notableAreas": [
+      "Cheriton",
+      "Sandgate",
+      "Hythe",
+      "Elham",
+      "Densole"
+    ],
+    "conservationNote": "Around 15 conservation areas including the Leas and Bayle.",
+    "dominantEra": "Regency to Victorian coastal resort."
+  },
+  "dover": {
+    "postcodes": [
+      "CT16",
+      "CT17"
+    ],
+    "houseTypes": "Georgian and Victorian townhouses around the seafront and Castle Hill, terraced streets in the Old Town, plus interwar and postwar semis in Buckland and River.",
+    "notableAreas": [
+      "St Margaret's",
+      "Kearsney",
+      "Whitfield",
+      "Buckland",
+      "Aylesham"
+    ],
+    "conservationNote": "Around 15 conservation areas including central Dover and St Margaret's.",
+    "dominantEra": "Georgian and Victorian."
+  },
+  "Canterbury": {
+    "postcodes": [
+      "CT1",
+      "CT2",
+      "CT4"
+    ],
+    "houseTypes": "Medieval and Tudor timber-framed houses in the walled centre (World Heritage Cathedral precinct), Georgian townhouses along the High Street, plus Victorian villas in St Dunstan's and modern estates in Thanington.",
+    "notableAreas": [
+      "St Dunstan's",
+      "Whitstable",
+      "Herne Bay",
+      "Sturry",
+      "Chartham"
+    ],
+    "conservationNote": "The Cathedral precinct is a UNESCO World Heritage Site - Listed Building Consent is routine within the walls.",
+    "dominantEra": "Medieval to Georgian core."
+  },
+  "high-wycombe": {
+    "postcodes": [
+      "HP11",
+      "HP12",
+      "HP13"
+    ],
+    "houseTypes": "Furniture-industry Victorian terraces around the town centre, Edwardian villas in Amersham Hill, plus interwar semis in Booker and Downley and postwar estates in Micklefield.",
+    "notableAreas": [
+      "Marlow",
+      "Beaconsfield",
+      "Amersham",
+      "Booker",
+      "Downley"
+    ],
+    "conservationNote": "Around 30 conservation areas across Buckinghamshire including High Wycombe centre.",
+    "dominantEra": "Victorian to interwar furniture-industry."
+  },
+  "stevenage": {
+    "postcodes": [
+      "SG1",
+      "SG2"
+    ],
+    "houseTypes": "Designated the first postwar New Town in 1946, so almost entirely postwar - 1950s Bedwell and Broadwater estates, 1960s-70s tower blocks, plus more recent Symonds Green.",
+    "notableAreas": [
+      "Old Town",
+      "Bedwell",
+      "Broadwater",
+      "Chells",
+      "Pin Green"
+    ],
+    "conservationNote": "Around 5 conservation areas including Stevenage Old Town.",
+    "dominantEra": "Postwar New Town."
+  },
+  "crawley": {
+    "postcodes": [
+      "RH10",
+      "RH11"
+    ],
+    "houseTypes": "Designated a New Town in 1947, largely 1950s-60s brick semis and low-rise estates in 13 planned neighbourhoods (Northgate, West Green, Ifield). Little pre-war stock.",
+    "notableAreas": [
+      "Ifield",
+      "Three Bridges",
+      "Pound Hill",
+      "Southgate",
+      "Broadfield"
+    ],
+    "conservationNote": "Around 6 conservation areas including Crawley High Street and Ifield.",
+    "dominantEra": "Postwar New Town."
+  },
+  "worthing": {
+    "postcodes": [
+      "BN11",
+      "BN12",
+      "BN13",
+      "BN14"
+    ],
+    "houseTypes": "Regency seaside villas around Steyne Gardens, Victorian terraces in Central Worthing and Broadwater, plus interwar bungalows in Goring and Ferring.",
+    "notableAreas": [
+      "Goring",
+      "Broadwater",
+      "Tarring",
+      "Ferring",
+      "Findon"
+    ],
+    "conservationNote": "Around 15 conservation areas including Steyne Gardens and Ambrose Place.",
+    "dominantEra": "Regency to interwar coastal."
+  },
+  "croydon": {
+    "postcodes": [
+      "CR0",
+      "CR2",
+      "CR3",
+      "CR7",
+      "CR8",
+      "CR9"
+    ],
+    "houseTypes": "Victorian and Edwardian bay-fronts across Thornton Heath and South Croydon, interwar semis in Selsdon and Coulsdon, plus 1960s-70s Croydon town centre high-rises.",
+    "notableAreas": [
+      "Purley",
+      "South Croydon",
+      "Selsdon",
+      "Thornton Heath",
+      "Coulsdon"
+    ],
+    "conservationNote": "Around 24 conservation areas including South End and Park Hill.",
+    "dominantEra": "Late Victorian and Edwardian suburbia with heavy 1960s CBD rebuild."
+  },
+  "westminster": {
+    "postcodes": [
+      "SW1",
+      "W1",
+      "WC1",
+      "WC2",
+      "W2",
+      "NW1",
+      "NW8"
+    ],
+    "houseTypes": "Georgian squares (Belgravia, Mayfair), Regency terraces around Pimlico and Marylebone, Edwardian mansion blocks in Marylebone and Bayswater, plus modern glass-fronted apartments around Victoria and Nine Elms.",
+    "notableAreas": [
+      "Mayfair",
+      "Marylebone",
+      "Belgravia",
+      "Pimlico",
+      "Victoria",
+      "Paddington",
+      "Soho"
+    ],
+    "conservationNote": "Westminster has 55 conservation areas and thousands of listed buildings - almost any street-facing frame change needs council consent, and works in Belgravia or Mayfair require the tightest specifications.",
+    "dominantEra": "Georgian and Regency terraces, Edwardian mansion blocks."
+  },
+  "camden": {
+    "postcodes": [
+      "NW1",
+      "NW3",
+      "NW5",
+      "WC1",
+      "N1",
+      "NW6"
+    ],
+    "houseTypes": "Georgian terraces around Bloomsbury and Regent's Park, Victorian villas across Hampstead and Belsize Park, plus interwar mansion blocks and 1960s Alexandra Road-style estates.",
+    "notableAreas": [
+      "Bloomsbury",
+      "Hampstead",
+      "Belsize Park",
+      "Kentish Town",
+      "Somers Town",
+      "Primrose Hill"
+    ],
+    "conservationNote": "Camden has around 40 conservation areas including Bloomsbury, Hampstead and Fitzroy Square, with Hampstead one of the most protected village conservation zones in London.",
+    "dominantEra": "Georgian Bloomsbury, Victorian Hampstead."
+  },
+  "kensington": {
+    "postcodes": [
+      "SW3",
+      "SW5",
+      "SW7",
+      "SW10",
+      "W8",
+      "W10",
+      "W11",
+      "W14"
+    ],
+    "houseTypes": "Stucco-fronted Regency and Victorian townhouses around South Kensington and Chelsea, Georgian terraces along the King's Road, plus 1970s brutalist blocks like Trellick Tower in North Kensington.",
+    "notableAreas": [
+      "South Kensington",
+      "Chelsea",
+      "Notting Hill",
+      "Earl's Court",
+      "Holland Park",
+      "World's End"
+    ],
+    "conservationNote": "Around 37 conservation areas covering nearly the entire borough - Kensington Palace Gardens, Chelsea and Notting Hill all carry the tightest window rules in London.",
+    "dominantEra": "Georgian and Regency stucco-fronted terraces."
+  },
+  "hammersmith": {
+    "postcodes": [
+      "W6",
+      "W12",
+      "W14",
+      "SW6",
+      "NW10"
+    ],
+    "houseTypes": "Victorian and Edwardian bay-fronted terraces across Fulham and Shepherd's Bush, Georgian townhouses along the river in Hammersmith, plus interwar mansion blocks and modern White City developments.",
+    "notableAreas": [
+      "Fulham",
+      "Shepherd's Bush",
+      "Hammersmith",
+      "White City",
+      "Parson's Green",
+      "Sands End"
+    ],
+    "conservationNote": "Around 40 conservation areas including Hammersmith Riverside and Bishop's Park, with a distinctly leafy Victorian character in Fulham.",
+    "dominantEra": "Victorian and Edwardian bay-fronted terraces."
+  },
+  "islington": {
+    "postcodes": [
+      "N1",
+      "N5",
+      "N7",
+      "EC1",
+      "N19"
+    ],
+    "houseTypes": "Georgian terraces around Canonbury, Barnsbury and Highbury, Victorian streets across Holloway and Finsbury Park, plus 1970s public housing like Marquess Estate and modern King's Cross Central.",
+    "notableAreas": [
+      "Angel",
+      "Highbury",
+      "Canonbury",
+      "Barnsbury",
+      "Holloway",
+      "Archway"
+    ],
+    "conservationNote": "Around 40 conservation areas including Canonbury, Highbury New Park and Barnsbury - Georgian frontages in Barnsbury are tightly regulated.",
+    "dominantEra": "Georgian terraces plus Victorian expansion."
+  },
+  "hackney": {
+    "postcodes": [
+      "E1",
+      "E2",
+      "E5",
+      "E8",
+      "E9",
+      "N1",
+      "N16"
+    ],
+    "houseTypes": "Georgian terraces in De Beauvoir, Victorian streets across Stoke Newington and Dalston, plus extensive 1960s-70s municipal blocks and modern Dalston Junction developments.",
+    "notableAreas": [
+      "Stoke Newington",
+      "Dalston",
+      "Shoreditch",
+      "Hoxton",
+      "London Fields",
+      "Clapton"
+    ],
+    "conservationNote": "Around 30 conservation areas including De Beauvoir Town, Clissold and Newington Green.",
+    "dominantEra": "Victorian streetscape with significant postwar municipal."
+  },
+  "southwark": {
+    "postcodes": [
+      "SE1",
+      "SE5",
+      "SE15",
+      "SE16",
+      "SE17",
+      "SE22"
+    ],
+    "houseTypes": "Georgian terraces in Bermondsey and Borough, Victorian streets across Camberwell and Peckham, 1960s Aylesbury and Heygate estates, plus post-2000 Bankside towers.",
+    "notableAreas": [
+      "Bermondsey",
+      "Bankside",
+      "Peckham",
+      "Camberwell",
+      "Dulwich",
+      "Nunhead"
+    ],
+    "conservationNote": "Around 40 conservation areas including Bermondsey Street and Dulwich Village - Dulwich Estate governs street-facing frames on its land.",
+    "dominantEra": "Georgian to Victorian, with heavy postwar municipal building."
+  },
+  "lambeth": {
+    "postcodes": [
+      "SE1",
+      "SE11",
+      "SE24",
+      "SE27",
+      "SW2",
+      "SW4",
+      "SW8",
+      "SW9"
+    ],
+    "houseTypes": "Georgian and early Victorian terraces around Kennington and Vauxhall, Victorian streets across Brixton and Clapham, 1960s-70s estates like Loughborough, plus new Nine Elms and Vauxhall apartments.",
+    "notableAreas": [
+      "Brixton",
+      "Clapham",
+      "Kennington",
+      "Streatham",
+      "Herne Hill",
+      "Vauxhall"
+    ],
+    "conservationNote": "Around 40 conservation areas including Clapham Common Old Town and Kennington.",
+    "dominantEra": "Victorian dominant, with Georgian pockets and modern riverside."
+  },
+  "wandsworth": {
+    "postcodes": [
+      "SW11",
+      "SW12",
+      "SW15",
+      "SW17",
+      "SW18",
+      "SW19"
+    ],
+    "houseTypes": "Victorian bay-fronted terraces across Battersea, Clapham South and Balham, Edwardian mansion blocks in Putney, plus 1930s semis on Wandsworth Common and post-2000 Nine Elms towers.",
+    "notableAreas": [
+      "Battersea",
+      "Clapham South",
+      "Putney",
+      "Balham",
+      "Tooting",
+      "Southfields"
+    ],
+    "conservationNote": "Around 45 conservation areas including Battersea Park, Wandsworth Common and Putney Heath.",
+    "dominantEra": "Late Victorian bay-fronted terraces."
+  },
+  "tower-hamlets": {
+    "postcodes": [
+      "E1",
+      "E2",
+      "E3",
+      "E14"
+    ],
+    "houseTypes": "Georgian merchant houses in Spitalfields, Victorian tenements in Whitechapel, 1960s tower blocks across Poplar and Stepney, plus a wall of post-2000 glass in Canary Wharf and Wapping.",
+    "notableAreas": [
+      "Spitalfields",
+      "Whitechapel",
+      "Bethnal Green",
+      "Canary Wharf",
+      "Wapping",
+      "Bow"
+    ],
+    "conservationNote": "Around 60 conservation areas including Spitalfields, Whitechapel and Fournier Street - Spitalfields Georgian terraces are among the most protected in London.",
+    "dominantEra": "Contrast of Georgian conservation zones and 2000s high-rise."
+  },
+  "newham": {
+    "postcodes": [
+      "E6",
+      "E7",
+      "E12",
+      "E13",
+      "E15",
+      "E16"
+    ],
+    "houseTypes": "Victorian and Edwardian terraces across East Ham, Manor Park and Forest Gate, interwar Beckton semis, plus post-2000 Stratford and Royal Docks developments (Olympic legacy).",
+    "notableAreas": [
+      "Stratford",
+      "East Ham",
+      "Forest Gate",
+      "Canning Town",
+      "Royal Docks",
+      "Beckton"
+    ],
+    "conservationNote": "Around 20 conservation areas including Manor Park, Woodgrange Estate and West Ham Park.",
+    "dominantEra": "Late Victorian and Edwardian terraces plus recent regeneration."
+  },
+  "greenwich": {
+    "postcodes": [
+      "SE3",
+      "SE7",
+      "SE8",
+      "SE9",
+      "SE10",
+      "SE18"
+    ],
+    "houseTypes": "Georgian Greenwich waterfront and Blackheath village, Victorian bay-fronts in Charlton and Woolwich, 1960s Ferrier Estate replacements, plus modern Greenwich Peninsula apartments.",
+    "notableAreas": [
+      "Blackheath",
+      "Greenwich",
+      "Charlton",
+      "Eltham",
+      "Woolwich",
+      "Deptford"
+    ],
+    "conservationNote": "Greenwich Maritime is a UNESCO World Heritage Site - Blackheath, Greenwich Park and Eltham all have tight conservation area rules.",
+    "dominantEra": "Georgian core plus Victorian expansion."
+  },
+  "lewisham": {
+    "postcodes": [
+      "SE4",
+      "SE6",
+      "SE12",
+      "SE13",
+      "SE14",
+      "SE23",
+      "SE26"
+    ],
+    "houseTypes": "Victorian and Edwardian bay-fronted terraces across Brockley, Ladywell and Forest Hill, interwar semis in Grove Park and Downham, plus 1960s Excalibur prefabs and modern Lewisham centre blocks.",
+    "notableAreas": [
+      "Brockley",
+      "Forest Hill",
+      "Sydenham",
+      "Blackheath",
+      "Catford",
+      "Deptford"
+    ],
+    "conservationNote": "Around 30 conservation areas including Brockley, Blackheath and Forest Hill.",
+    "dominantEra": "Late Victorian and Edwardian bay-fronts."
+  },
+  "haringey": {
+    "postcodes": [
+      "N4",
+      "N6",
+      "N8",
+      "N10",
+      "N15",
+      "N17",
+      "N22"
+    ],
+    "houseTypes": "Victorian and Edwardian terraces across Hornsey and Harringay, Georgian villas in Highgate, interwar semis in Muswell Hill and Palmers Green, plus 1960s Broadwater Farm estate.",
+    "notableAreas": [
+      "Highgate",
+      "Muswell Hill",
+      "Crouch End",
+      "Tottenham",
+      "Wood Green",
+      "Hornsey"
+    ],
+    "conservationNote": "Around 30 conservation areas including Highgate Village and Muswell Hill - Highgate carries especially tight controls.",
+    "dominantEra": "Edwardian and interwar suburban."
+  },
+  "waltham-forest": {
+    "postcodes": [
+      "E4",
+      "E10",
+      "E11",
+      "E17"
+    ],
+    "houseTypes": "Victorian and Edwardian terraces across Walthamstow and Leyton, interwar semis in Chingford and Highams Park, plus post-2015 developments around Blackhorse Lane.",
+    "notableAreas": [
+      "Walthamstow",
+      "Chingford",
+      "Leyton",
+      "Leytonstone",
+      "Highams Park",
+      "Wood Street"
+    ],
+    "conservationNote": "Around 22 conservation areas including Walthamstow Village and Highams Park.",
+    "dominantEra": "Late Victorian and Edwardian, plus interwar suburbs."
+  },
+  "redbridge": {
+    "postcodes": [
+      "E11",
+      "E18",
+      "IG1",
+      "IG2",
+      "IG3",
+      "IG4",
+      "IG5"
+    ],
+    "houseTypes": "Edwardian bay-fronted terraces across Ilford, interwar semis in Wanstead and Woodford, plus 1960s tower blocks in South Woodford and modern high-rises in central Ilford.",
+    "notableAreas": [
+      "Ilford",
+      "Wanstead",
+      "Woodford",
+      "South Woodford",
+      "Barkingside",
+      "Chadwell Heath"
+    ],
+    "conservationNote": "Around 20 conservation areas including Wanstead Village and Woodford Green.",
+    "dominantEra": "Edwardian and interwar suburbs."
+  },
+  "barking-dagenham": {
+    "postcodes": [
+      "IG11",
+      "RM8",
+      "RM9",
+      "RM10"
+    ],
+    "houseTypes": "Interwar Becontree Estate (once the largest municipal housing estate in the world) dominates the borough - 27,000 near-identical semis. Plus Victorian terraces in central Barking and modern Barking Riverside.",
+    "notableAreas": [
+      "Barking",
+      "Dagenham",
+      "Becontree",
+      "Chadwell Heath",
+      "Rush Green",
+      "Barking Riverside"
+    ],
+    "conservationNote": "Around 5 conservation areas - Becontree Estate itself is being partially designated as an era-defining housing landscape.",
+    "dominantEra": "Interwar municipal (Becontree Estate)."
+  },
+  "havering": {
+    "postcodes": [
+      "RM1",
+      "RM2",
+      "RM11",
+      "RM12",
+      "RM13",
+      "RM14"
+    ],
+    "houseTypes": "Interwar semis dominate Romford, Hornchurch and Upminster, with Victorian terraces around Romford Market and modern estates in Rainham and South Hornchurch.",
+    "notableAreas": [
+      "Romford",
+      "Hornchurch",
+      "Upminster",
+      "Rainham",
+      "Harold Hill",
+      "Elm Park"
+    ],
+    "conservationNote": "Around 15 conservation areas including Hornchurch and Upminster village.",
+    "dominantEra": "Interwar suburban."
+  },
+  "bexley": {
+    "postcodes": [
+      "DA1",
+      "DA5",
+      "DA6",
+      "DA7",
+      "DA8",
+      "DA14",
+      "DA15"
+    ],
+    "houseTypes": "Interwar semis across Bexleyheath and Sidcup, Victorian terraces in Erith and Belvedere, plus 1960s tower blocks and modern Slade Green estates.",
+    "notableAreas": [
+      "Bexleyheath",
+      "Sidcup",
+      "Erith",
+      "Welling",
+      "Crayford",
+      "Belvedere"
+    ],
+    "conservationNote": "Around 20 conservation areas including Old Bexley village and Danson Park.",
+    "dominantEra": "Interwar semi-detached."
+  },
+  "bromley": {
+    "postcodes": [
+      "BR1",
+      "BR2",
+      "BR3",
+      "BR4",
+      "BR5",
+      "BR6",
+      "BR7",
+      "BR8"
+    ],
+    "houseTypes": "Edwardian villas and interwar semis dominate Bromley, Beckenham and West Wickham, with Victorian terraces in central Bromley and modern developments in Elmers End.",
+    "notableAreas": [
+      "Beckenham",
+      "Chislehurst",
+      "Orpington",
+      "West Wickham",
+      "Bickley",
+      "Petts Wood"
+    ],
+    "conservationNote": "Around 45 conservation areas including Chislehurst, Beckenham and Petts Wood.",
+    "dominantEra": "Edwardian and interwar suburbia."
+  },
+  "sutton": {
+    "postcodes": [
+      "SM1",
+      "SM2",
+      "SM3",
+      "SM4",
+      "SM5",
+      "SM6",
+      "SM7"
+    ],
+    "houseTypes": "Interwar semis across Sutton, Cheam and Wallington, Edwardian villas around Belmont, plus 1960s tower blocks in central Sutton and modern Hackbridge developments.",
+    "notableAreas": [
+      "Cheam",
+      "Wallington",
+      "Belmont",
+      "Carshalton",
+      "Worcester Park",
+      "Beddington"
+    ],
+    "conservationNote": "Around 15 conservation areas including Cheam village and Carshalton.",
+    "dominantEra": "Interwar semi-detached suburbia."
+  },
+  "merton": {
+    "postcodes": [
+      "SW17",
+      "SW18",
+      "SW19",
+      "SW20",
+      "CR4"
+    ],
+    "houseTypes": "Victorian and Edwardian bay-fronted terraces across Wimbledon and Southfields, interwar semis in Merton Park and Raynes Park, plus Georgian villas around Wimbledon Common.",
+    "notableAreas": [
+      "Wimbledon",
+      "Southfields",
+      "Raynes Park",
+      "Merton Park",
+      "Colliers Wood",
+      "Mitcham"
+    ],
+    "conservationNote": "Around 25 conservation areas including Wimbledon Common, Merton Park and Wimbledon Village.",
+    "dominantEra": "Late Victorian and interwar."
+  },
+  "kingston": {
+    "postcodes": [
+      "KT1",
+      "KT2",
+      "KT3",
+      "KT4",
+      "KT5",
+      "KT6",
+      "KT9"
+    ],
+    "houseTypes": "Georgian riverside houses in Kingston town centre, Victorian villas along Coombe Hill, interwar semis across Surbiton and Tolworth, plus modern developments around Norbiton.",
+    "notableAreas": [
+      "Surbiton",
+      "New Malden",
+      "Kingston",
+      "Norbiton",
+      "Tolworth",
+      "Chessington"
+    ],
+    "conservationNote": "Around 30 conservation areas including Kingston Old Town and Surbiton.",
+    "dominantEra": "Victorian and interwar suburban."
+  },
+  "richmond": {
+    "postcodes": [
+      "TW1",
+      "TW2",
+      "TW9",
+      "TW10",
+      "TW11",
+      "SW13",
+      "SW14"
+    ],
+    "houseTypes": "Georgian townhouses around Richmond Green and Richmond Hill, Victorian villas in Twickenham and East Sheen, interwar semis in Whitton and Teddington, plus modern riverside apartments.",
+    "notableAreas": [
+      "Richmond",
+      "Twickenham",
+      "Teddington",
+      "East Sheen",
+      "Kew",
+      "Barnes"
+    ],
+    "conservationNote": "Around 70 conservation areas across the borough - Richmond Green, Kew Green and Twickenham Riverside are among the tightest.",
+    "dominantEra": "Georgian to Edwardian, plus interwar."
+  },
+  "hounslow": {
+    "postcodes": [
+      "TW3",
+      "TW4",
+      "TW5",
+      "TW7",
+      "TW8",
+      "TW13",
+      "W4"
+    ],
+    "houseTypes": "Georgian and Victorian villas in Chiswick, Edwardian bay-fronts across Isleworth and Brentford, interwar semis in Hounslow and Feltham, plus post-2000 riverside developments.",
+    "notableAreas": [
+      "Chiswick",
+      "Isleworth",
+      "Brentford",
+      "Feltham",
+      "Cranford",
+      "Osterley"
+    ],
+    "conservationNote": "Around 30 conservation areas including Chiswick, Old Isleworth and Brentford Riverside.",
+    "dominantEra": "Victorian and Edwardian west London suburb."
+  },
+  "ealing": {
+    "postcodes": [
+      "W3",
+      "W5",
+      "W7",
+      "W13",
+      "UB1",
+      "UB2",
+      "UB6"
+    ],
+    "houseTypes": "Victorian and Edwardian bay-fronts across Ealing, West Ealing and Acton, Edwardian mansion blocks in Ealing Broadway, plus interwar Northolt semis and modern Southall developments.",
+    "notableAreas": [
+      "Acton",
+      "Ealing",
+      "Hanwell",
+      "Southall",
+      "Northolt",
+      "Greenford"
+    ],
+    "conservationNote": "Around 35 conservation areas including Ealing Common, Acton Green and Hanwell Broadway.",
+    "dominantEra": "Edwardian west London suburb."
+  },
+  "brent": {
+    "postcodes": [
+      "NW2",
+      "NW6",
+      "NW9",
+      "NW10",
+      "HA0",
+      "HA9"
+    ],
+    "houseTypes": "Victorian and Edwardian terraces across Kilburn and Willesden, interwar semis in Wembley and Kingsbury, plus 1960s-70s tower blocks in Church End and modern Wembley Park high-rises.",
+    "notableAreas": [
+      "Wembley",
+      "Willesden",
+      "Kilburn",
+      "Harlesden",
+      "Kingsbury",
+      "Neasden"
+    ],
+    "conservationNote": "Around 25 conservation areas including Kensal Green and Queen's Park.",
+    "dominantEra": "Edwardian and interwar suburban."
+  },
+  "barnet": {
+    "postcodes": [
+      "N2",
+      "N3",
+      "N10",
+      "N11",
+      "N12",
+      "N20",
+      "NW4",
+      "NW7",
+      "NW11",
+      "HA8"
+    ],
+    "houseTypes": "Interwar semis dominate Finchley, Hendon and Edgware, Georgian pockets in Hampstead Garden Suburb, Victorian streets in East Finchley, plus modern developments in Colindale.",
+    "notableAreas": [
+      "Finchley",
+      "Hendon",
+      "Edgware",
+      "Whetstone",
+      "Hampstead Garden Suburb",
+      "Mill Hill"
+    ],
+    "conservationNote": "Around 15 conservation areas - Hampstead Garden Suburb is one of the most rigorously protected in England, with prescribed window designs.",
+    "dominantEra": "Interwar semi-detached suburbia."
+  },
+  "harrow": {
+    "postcodes": [
+      "HA1",
+      "HA2",
+      "HA3",
+      "HA5",
+      "HA7",
+      "HA8"
+    ],
+    "houseTypes": "Interwar semis dominate the borough, with Victorian streets around Harrow-on-the-Hill, Edwardian villas in Pinner and Wealdstone, plus 1930s Metroland estates in Kenton and Belmont.",
+    "notableAreas": [
+      "Pinner",
+      "Stanmore",
+      "Wealdstone",
+      "Kenton",
+      "Rayners Lane",
+      "Harrow-on-the-Hill"
+    ],
+    "conservationNote": "Around 25 conservation areas including Harrow-on-the-Hill and Pinner village.",
+    "dominantEra": "Interwar Metroland semi-detached."
+  },
+  "hillingdon": {
+    "postcodes": [
+      "UB3",
+      "UB4",
+      "UB7",
+      "UB8",
+      "UB9",
+      "UB10",
+      "HA4",
+      "HA6"
+    ],
+    "houseTypes": "Interwar Metroland semis dominate Ruislip, Uxbridge and Hayes, with Georgian pockets in Uxbridge Old Town and modern developments around Heathrow.",
+    "notableAreas": [
+      "Uxbridge",
+      "Ruislip",
+      "Hayes",
+      "Northwood",
+      "West Drayton",
+      "Yiewsley"
+    ],
+    "conservationNote": "Around 30 conservation areas including Ruislip Village and Uxbridge Old Town.",
+    "dominantEra": "Interwar Metroland."
+  },
+  "enfield": {
+    "postcodes": [
+      "EN1",
+      "EN2",
+      "EN3",
+      "EN4",
+      "N9",
+      "N13",
+      "N14",
+      "N18",
+      "N21"
+    ],
+    "houseTypes": "Interwar semis across Palmers Green and Winchmore Hill, Victorian terraces in Bush Hill Park, plus 1930s Metroland estates in Southgate and modern developments around Meridian Water.",
+    "notableAreas": [
+      "Southgate",
+      "Palmers Green",
+      "Winchmore Hill",
+      "Edmonton",
+      "Ponders End",
+      "Enfield Town"
+    ],
+    "conservationNote": "Around 30 conservation areas including Winchmore Hill Green and Forty Hall.",
+    "dominantEra": "Interwar Metroland and Edwardian."
+  },
+  "perth": {
+    "postcodes": [
+      "PH1",
+      "PH2",
+      "PH14"
+    ],
+    "houseTypes": "Sandstone Victorian tenements and villas around the city centre, Georgian townhouses along Marshall Place, plus interwar bungalows in Craigie and Bridgend.",
+    "notableAreas": [
+      "Bridgend",
+      "Craigie",
+      "Scone",
+      "Bridge of Earn",
+      "Almondbank"
+    ],
+    "conservationNote": "Around 10 conservation areas including Perth Central and Kinnoull Hill.",
+    "dominantEra": "Victorian sandstone."
+  },
+  "stirling": {
+    "postcodes": [
+      "FK7",
+      "FK8",
+      "FK9"
+    ],
+    "houseTypes": "Sandstone Victorian tenements around the town centre, plus Georgian townhouses along King Street and interwar bungalows in Bridge of Allan and Causewayhead.",
+    "notableAreas": [
+      "Bridge of Allan",
+      "Dunblane",
+      "Bannockburn",
+      "Cambusbarron",
+      "Causewayhead"
+    ],
+    "conservationNote": "Around 10 conservation areas including the Old Town and Bridge of Allan.",
+    "dominantEra": "Georgian and Victorian sandstone."
+  },
+  "inverness": {
+    "postcodes": [
+      "IV1",
+      "IV2",
+      "IV3"
+    ],
+    "houseTypes": "Victorian sandstone villas around the Ness Islands, Edwardian terraces in Crown, plus interwar bungalows and modern estates in Culloden and Smithton.",
+    "notableAreas": [
+      "Crown",
+      "Culloden",
+      "Smithton",
+      "Beauly",
+      "Nairn"
+    ],
+    "conservationNote": "Around 6 conservation areas including Inverness Riverside and Crown.",
+    "dominantEra": "Victorian sandstone."
+  },
+  "paisley": {
+    "postcodes": [
+      "PA1",
+      "PA2",
+      "PA3"
+    ],
+    "houseTypes": "Sandstone Victorian tenements dominate the town centre, with 1930s municipal housing in Foxbar and Ferguslie Park, plus interwar bungalows in Ralston.",
+    "notableAreas": [
+      "Ralston",
+      "Elderslie",
+      "Johnstone",
+      "Bishopton",
+      "Renfrew"
+    ],
+    "conservationNote": "Around 4 conservation areas including Paisley Town Centre.",
+    "dominantEra": "Victorian sandstone tenements."
+  },
+  "kirkcaldy": {
+    "postcodes": [
+      "KY1",
+      "KY2"
+    ],
+    "houseTypes": "Sandstone Victorian tenements around the promenade, Edwardian villas along West End, plus interwar bungalows in Templehall and Chapel.",
+    "notableAreas": [
+      "Kinghorn",
+      "Burntisland",
+      "Glenrothes",
+      "Leven",
+      "Cupar"
+    ],
+    "conservationNote": "Around 5 conservation areas including Kirkcaldy Town Centre.",
+    "dominantEra": "Victorian to Edwardian coastal."
+  },
+  "east-kilbride": {
+    "postcodes": [
+      "G74",
+      "G75"
+    ],
+    "houseTypes": "Designated Scotland's first postwar New Town in 1947, so East Kilbride is dominated by 1950s-70s brick semis, low-rise flats and pedestrianised estates around Village and East Mains.",
+    "notableAreas": [
+      "Village",
+      "East Mains",
+      "St Leonards",
+      "Calderwood",
+      "Westwood"
+    ],
+    "conservationNote": "Around 3 conservation areas mostly focused on the pre-New Town village core.",
+    "dominantEra": "Postwar New Town."
+  },
+  "livingston": {
+    "postcodes": [
+      "EH54"
+    ],
+    "houseTypes": "Designated a Scottish New Town in 1962, Livingston is almost entirely 1970s-1980s brick semis and estates across Deans, Craigshill and Ladywell, with a small pre-New Town village core.",
+    "notableAreas": [
+      "Deans",
+      "Craigshill",
+      "Ladywell",
+      "Bathgate",
+      "Broxburn"
+    ],
+    "conservationNote": "Small number of conservation areas mostly at Livingston Village.",
+    "dominantEra": "1970s-1980s New Town."
+  },
+  "falkirk": {
+    "postcodes": [
+      "FK1",
+      "FK2"
+    ],
+    "houseTypes": "Sandstone Victorian tenements around the town centre, Georgian pockets on Callendar Riggs, plus interwar municipal housing and 1960s tower blocks around Bainsford.",
+    "notableAreas": [
+      "Grangemouth",
+      "Bo'ness",
+      "Denny",
+      "Larbert",
+      "Camelon"
+    ],
+    "conservationNote": "Around 12 conservation areas across the district including Falkirk Old Town and Bo'ness.",
+    "dominantEra": "Victorian sandstone plus interwar municipal."
+  },
+  "bangor": {
+    "postcodes": [
+      "LL57"
+    ],
+    "houseTypes": "Victorian slate-quarry terraces along Upper Bangor, Georgian townhouses around the cathedral, plus interwar and postwar university-adjacent semis.",
+    "notableAreas": [
+      "Upper Bangor",
+      "Menai Bridge",
+      "Beaumaris",
+      "Caernarfon",
+      "Llandudno"
+    ],
+    "conservationNote": "Around 5 conservation areas including Bangor Cathedral Precinct and Upper Bangor.",
+    "dominantEra": "Victorian slate era."
+  },
+  "merthyr-tydfil": {
+    "postcodes": [
+      "CF47",
+      "CF48"
+    ],
+    "houseTypes": "Iron and coal-industry Victorian terraces (rows of miners' cottages) dominate the town centre and outer valleys, with interwar municipal housing in Gurnos and Galon Uchaf.",
+    "notableAreas": [
+      "Dowlais",
+      "Aberfan",
+      "Troed-y-rhiw",
+      "Cefn Coed",
+      "Pant"
+    ],
+    "conservationNote": "Around 6 conservation areas including central Merthyr Tydfil and Cyfarthfa.",
+    "dominantEra": "Victorian iron and coal-industry terraces."
+  },
+  "bridgend": {
+    "postcodes": [
+      "CF31",
+      "CF32",
+      "CF35"
+    ],
+    "houseTypes": "Victorian terraces around the town centre, interwar semis in Brackla and Pencoed, plus 1960s-70s municipal housing and modern estates in Broadlands and Broadlands.",
+    "notableAreas": [
+      "Brackla",
+      "Pencoed",
+      "Porthcawl",
+      "Maesteg",
+      "Pyle"
+    ],
+    "conservationNote": "Around 12 conservation areas across the borough including central Bridgend.",
+    "dominantEra": "Victorian and interwar."
+  },
+  "neath": {
+    "postcodes": [
+      "SA10",
+      "SA11",
+      "SA12"
+    ],
+    "houseTypes": "Copper and coal-era Victorian terraces around Melincrythan and Skewen, plus interwar semis in Cimla and modern estates in Bryncoch.",
+    "notableAreas": [
+      "Skewen",
+      "Cimla",
+      "Briton Ferry",
+      "Port Talbot",
+      "Aberavon"
+    ],
+    "conservationNote": "Around 8 conservation areas including central Neath and Aberavon.",
+    "dominantEra": "Victorian mining and copper industry."
+  },
+  "barry": {
+    "postcodes": [
+      "CF62",
+      "CF63"
+    ],
+    "houseTypes": "Late Victorian and Edwardian dock-worker terraces around Barry Docks, Edwardian villas in Romilly Park, plus interwar semis in Colcot and Cadoxton.",
+    "notableAreas": [
+      "Barry Island",
+      "Cadoxton",
+      "Sully",
+      "Penarth",
+      "Dinas Powys"
+    ],
+    "conservationNote": "Around 10 conservation areas including Romilly and Barry Island.",
+    "dominantEra": "Late Victorian and Edwardian dock-era."
+  },
+  "caerphilly": {
+    "postcodes": [
+      "CF83"
+    ],
+    "houseTypes": "Coal-mining Victorian terraces around Trecenydd and Penyrheol, Edwardian villas around the castle, plus interwar and postwar estates in Bedwas and Machen.",
+    "notableAreas": [
+      "Bedwas",
+      "Machen",
+      "Ystrad Mynach",
+      "Nelson",
+      "Bargoed"
+    ],
+    "conservationNote": "Around 8 conservation areas including Caerphilly Castle Ward and Bedwas.",
+    "dominantEra": "Victorian mining-era terraces."
+  },
+  "aberystwyth": {
+    "postcodes": [
+      "SY23"
+    ],
+    "houseTypes": "Regency and Victorian seafront townhouses along Marine Terrace, Edwardian university-adjacent villas around Penglais, plus interwar and postwar estates in Penparcau.",
+    "notableAreas": [
+      "Penglais",
+      "Penparcau",
+      "Waun Fawr",
+      "Machynlleth",
+      "Devil's Bridge"
+    ],
+    "conservationNote": "Around 5 conservation areas including Aberystwyth Central and the Old College.",
+    "dominantEra": "Regency and Victorian coastal."
+  },
+  "winchester": {
+    "postcodes": [
+      "SO22",
+      "SO23"
+    ],
+    "houseTypes": "Medieval and Georgian townhouses around the cathedral, Regency villas in Sleeper's Hill, plus Victorian terraces in Highcliffe and interwar semis in Stanmore.",
+    "notableAreas": [
+      "Stanmore",
+      "Weeke",
+      "St Cross",
+      "Alresford",
+      "Twyford"
+    ],
+    "conservationNote": "The Cathedral Close and city centre are conservation areas with tight rules on street-facing frames.",
+    "dominantEra": "Medieval to Georgian core, Victorian expansion."
+  },
+  "basingstoke": {
+    "postcodes": [
+      "RG21",
+      "RG22",
+      "RG23",
+      "RG24"
+    ],
+    "houseTypes": "Designated a London overspill town in 1961, Basingstoke is mostly 1970s brick estates around Buckskin and South Ham, with Victorian streets in the Old Town and modern developments in Chineham.",
+    "notableAreas": [
+      "Chineham",
+      "Kempshott",
+      "Old Basing",
+      "Sherborne St John",
+      "Overton"
+    ],
+    "conservationNote": "Around 10 conservation areas mostly in the Old Town and Old Basing.",
+    "dominantEra": "1970s London overspill."
+  },
+  "watford": {
+    "postcodes": [
+      "WD17",
+      "WD18",
+      "WD19",
+      "WD24",
+      "WD25"
+    ],
+    "houseTypes": "Victorian terraces around the town centre, Edwardian villas along Cassiobury Park, interwar semis in North Watford, plus modern tower blocks in the town centre.",
+    "notableAreas": [
+      "Cassiobury",
+      "Bushey",
+      "Rickmansworth",
+      "Abbots Langley",
+      "Croxley Green"
+    ],
+    "conservationNote": "Around 15 conservation areas including Cassiobury and central Watford.",
+    "dominantEra": "Victorian and Edwardian core plus interwar."
+  },
+  "fareham": {
+    "postcodes": [
+      "PO14",
+      "PO15",
+      "PO16",
+      "PO17"
+    ],
+    "houseTypes": "Georgian High Street houses, Victorian villas around the town centre, interwar semis in Portchester and Titchfield Common, plus modern estates in Whiteley.",
+    "notableAreas": [
+      "Portchester",
+      "Titchfield",
+      "Warsash",
+      "Whiteley",
+      "Hill Head"
+    ],
+    "conservationNote": "Around 8 conservation areas including Fareham Old Town and Portchester.",
+    "dominantEra": "Georgian to Victorian core, interwar and modern suburbs."
+  },
+  "rochester": {
+    "postcodes": [
+      "ME1",
+      "ME2",
+      "ME3"
+    ],
+    "houseTypes": "Medieval and Tudor timber-framed houses along the High Street, Georgian townhouses around the Cathedral, plus Victorian terraces in Strood and interwar semis in Wainscott.",
+    "notableAreas": [
+      "Chatham",
+      "Strood",
+      "Rainham",
+      "Cuxton",
+      "Hoo"
+    ],
+    "conservationNote": "The Cathedral Precincts and High Street are conservation areas - listed building consent is routine.",
+    "dominantEra": "Medieval to Georgian core."
+  },
+  "chichester": {
+    "postcodes": [
+      "PO19",
+      "PO20"
+    ],
+    "houseTypes": "Georgian townhouses within the Roman walls, Victorian villas around Summersdale, plus interwar semis in Whyke and modern estates in Graylingwell.",
+    "notableAreas": [
+      "Bosham",
+      "Selsey",
+      "East Wittering",
+      "Midhurst",
+      "Petworth"
+    ],
+    "conservationNote": "Around 55 conservation areas across the district - the walled city is one of the most tightly controlled in Sussex.",
+    "dominantEra": "Georgian and Regency."
+  },
+  "weston-super-mare": {
+    "postcodes": [
+      "BS22",
+      "BS23",
+      "BS24"
+    ],
+    "houseTypes": "Regency seafront terraces along Knightstone Road, Victorian and Edwardian villas around Milton, plus interwar bungalows in Worle and Uphill.",
+    "notableAreas": [
+      "Worle",
+      "Uphill",
+      "Milton",
+      "Kewstoke",
+      "Locking"
+    ],
+    "conservationNote": "Around 10 conservation areas including the Grove and Knightstone.",
+    "dominantEra": "Late Victorian and Edwardian seaside resort."
+  },
+  "newquay": {
+    "postcodes": [
+      "TR7",
+      "TR8"
+    ],
+    "houseTypes": "Late Victorian and Edwardian seafront villas along the Great Western Beach, plus interwar bungalows and modern coastal estates in Pentire and Porth.",
+    "notableAreas": [
+      "Pentire",
+      "Porth",
+      "St Columb",
+      "Padstow",
+      "Perranporth"
+    ],
+    "conservationNote": "Around 4 conservation areas including central Newquay and St Columb.",
+    "dominantEra": "Edwardian coastal resort."
+  },
+  "weymouth": {
+    "postcodes": [
+      "DT3",
+      "DT4"
+    ],
+    "houseTypes": "Georgian seafront terraces along the Esplanade (Regency-era spa town), Victorian villas around Rodwell, plus interwar bungalows in Preston and modern estates in Littlemoor.",
+    "notableAreas": [
+      "Portland",
+      "Preston",
+      "Wyke Regis",
+      "Chickerell",
+      "Upwey"
+    ],
+    "conservationNote": "Around 12 conservation areas including the Esplanade and Melcombe Regis.",
+    "dominantEra": "Georgian and Regency seaside."
+  },
+  "penzance": {
+    "postcodes": [
+      "TR18",
+      "TR19",
+      "TR20"
+    ],
+    "houseTypes": "Regency and Victorian seafront terraces along Chapel Street, Georgian townhouses around the harbour, plus Edwardian villas in Alverton and interwar bungalows in Heamoor.",
+    "notableAreas": [
+      "Marazion",
+      "St Ives",
+      "Newlyn",
+      "Mousehole",
+      "St Just"
+    ],
+    "conservationNote": "Around 15 conservation areas across west Cornwall including Chapel Street and St Ives.",
+    "dominantEra": "Regency to Victorian coastal."
+  },
+  "barnstaple": {
+    "postcodes": [
+      "EX31",
+      "EX32",
+      "EX39"
+    ],
+    "houseTypes": "Georgian and Victorian townhouses around the Pannier Market, Edwardian villas in Sticklepath, plus interwar and modern estates in Roundswell and Whiddon Valley.",
+    "notableAreas": [
+      "Bideford",
+      "Ilfracombe",
+      "South Molton",
+      "Braunton",
+      "Instow"
+    ],
+    "conservationNote": "Around 10 conservation areas including Barnstaple town centre and Bideford.",
+    "dominantEra": "Georgian and Victorian market town."
+  },
+  "kings-lynn": {
+    "postcodes": [
+      "PE30",
+      "PE31",
+      "PE32"
+    ],
+    "houseTypes": "Medieval and Georgian townhouses around the Tuesday Market Place and King Staithe, Victorian terraces near the docks, plus interwar semis in Gaywood and North Lynn.",
+    "notableAreas": [
+      "Gaywood",
+      "Downham Market",
+      "Hunstanton",
+      "Terrington",
+      "Snettisham"
+    ],
+    "conservationNote": "Around 8 conservation areas including King's Lynn Historic Core and Hunstanton.",
+    "dominantEra": "Medieval to Georgian merchant town."
+  },
+  "bury-st-edmunds": {
+    "postcodes": [
+      "IP28",
+      "IP29",
+      "IP32",
+      "IP33"
+    ],
+    "houseTypes": "Georgian townhouses around Angel Hill and Abbeygate Street, Victorian terraces in Guildhall, plus Edwardian villas in Northgate and interwar semis in Moreton Hall.",
+    "notableAreas": [
+      "Moreton Hall",
+      "Southgate",
+      "Rougham",
+      "Ixworth",
+      "Newmarket"
+    ],
+    "conservationNote": "Around 12 conservation areas including the Abbey Precincts and Angel Hill.",
+    "dominantEra": "Georgian core."
+  },
+  "great-yarmouth": {
+    "postcodes": [
+      "NR29",
+      "NR30",
+      "NR31"
+    ],
+    "houseTypes": "Georgian rowhouses along South Quay (some of the finest surviving in Norfolk), Regency seafront terraces along Marine Parade, plus Victorian terraces in Central Yarmouth and interwar bungalows in Gorleston.",
+    "notableAreas": [
+      "Gorleston",
+      "Caister",
+      "Hemsby",
+      "Lowestoft",
+      "Ormesby"
+    ],
+    "conservationNote": "Around 10 conservation areas including South Quay and Marine Parade.",
+    "dominantEra": "Georgian and Regency seaside."
+  },
+  "harlow": {
+    "postcodes": [
+      "CM17",
+      "CM18",
+      "CM19",
+      "CM20"
+    ],
+    "houseTypes": "Designated a postwar New Town in 1947, Harlow is largely 1950s-70s brick semis and low-rise estates around Old Harlow and the town centre, with a distinctly Frederick Gibberd master plan.",
+    "notableAreas": [
+      "Old Harlow",
+      "Sawbridgeworth",
+      "Hastingwood",
+      "Little Parndon",
+      "Bush Fair"
+    ],
+    "conservationNote": "Around 8 conservation areas mostly in Old Harlow village.",
+    "dominantEra": "Postwar New Town."
+  },
+  "braintree": {
+    "postcodes": [
+      "CM7",
+      "CM8",
+      "CM77"
+    ],
+    "houseTypes": "Timber-framed medieval houses in Bocking, Georgian townhouses around the High Street, plus Victorian silk-mill workers' terraces and interwar semis in Great Notley.",
+    "notableAreas": [
+      "Bocking",
+      "Great Notley",
+      "Halstead",
+      "Witham",
+      "Coggeshall"
+    ],
+    "conservationNote": "Around 25 conservation areas across the district including Braintree and Bocking Village.",
+    "dominantEra": "Georgian to Victorian silk-industry."
+  },
+  "kettering": {
+    "postcodes": [
+      "NN14",
+      "NN15",
+      "NN16"
+    ],
+    "houseTypes": "Ironstone Victorian terraces (Kettering used local Weldon stone) around the town centre, Edwardian villas in Rockingham Road, plus interwar semis in Wicksteed Park and modern estates in Barton Seagrave.",
+    "notableAreas": [
+      "Barton Seagrave",
+      "Burton Latimer",
+      "Desborough",
+      "Rothwell",
+      "Corby"
+    ],
+    "conservationNote": "Around 8 conservation areas including central Kettering and Rockingham Road.",
+    "dominantEra": "Victorian and Edwardian shoe-industry."
+  },
+  "boston": {
+    "postcodes": [
+      "PE20",
+      "PE21",
+      "PE22"
+    ],
+    "houseTypes": "Georgian townhouses around the Market Place and Stump, medieval merchant houses along Wormgate, plus Victorian terraces and interwar semis in Skirbeck and Fenside.",
+    "notableAreas": [
+      "Skirbeck",
+      "Kirton",
+      "Sutterton",
+      "Wyberton",
+      "Frithville"
+    ],
+    "conservationNote": "Around 5 conservation areas including Boston Market Place and the Stump.",
+    "dominantEra": "Georgian to Victorian."
+  },
+  "skegness": {
+    "postcodes": [
+      "PE24",
+      "PE25"
+    ],
+    "houseTypes": "Late Victorian and Edwardian seafront terraces along Grand Parade, plus extensive interwar bungalow estates in Winthorpe and Ingoldmells (a Lincolnshire coastal signature).",
+    "notableAreas": [
+      "Ingoldmells",
+      "Winthorpe",
+      "Wainfleet",
+      "Alford",
+      "Chapel St Leonards"
+    ],
+    "conservationNote": "Around 3 conservation areas including central Skegness.",
+    "dominantEra": "Late Victorian to interwar seaside."
+  },
+  "solihull": {
+    "postcodes": [
+      "B90",
+      "B91",
+      "B92",
+      "B93"
+    ],
+    "houseTypes": "Interwar semis dominate Solihull and Shirley, Edwardian villas around Solihull town centre, plus modern gated developments in Dickens Heath and Blythe Valley.",
+    "notableAreas": [
+      "Shirley",
+      "Dickens Heath",
+      "Knowle",
+      "Balsall Common",
+      "Dorridge"
+    ],
+    "conservationNote": "Around 20 conservation areas including Solihull Old Village and Knowle.",
+    "dominantEra": "Interwar affluent suburb."
+  },
+  "bromsgrove": {
+    "postcodes": [
+      "B60",
+      "B61"
+    ],
+    "houseTypes": "Georgian High Street townhouses, Victorian villas around the town centre, plus interwar semis in Rock Hill and modern estates in Sidemoor and Charford.",
+    "notableAreas": [
+      "Wythall",
+      "Barnt Green",
+      "Alvechurch",
+      "Catshill",
+      "Belbroughton"
+    ],
+    "conservationNote": "Around 10 conservation areas including Bromsgrove town centre and Barnt Green.",
+    "dominantEra": "Georgian and Victorian."
+  },
+  "cannock": {
+    "postcodes": [
+      "WS11",
+      "WS12",
+      "WS15"
+    ],
+    "houseTypes": "Coal-mining Victorian terraces around the town centre, interwar semis in Bridgtown and Hednesford, plus postwar municipal estates and modern developments in Norton Canes.",
+    "notableAreas": [
+      "Hednesford",
+      "Rugeley",
+      "Bridgtown",
+      "Norton Canes",
+      "Chase Terrace"
+    ],
+    "conservationNote": "Around 6 conservation areas including central Cannock and Chase Terrace.",
+    "dominantEra": "Victorian mining and interwar."
+  },
+  "preston": {
+    "postcodes": [
+      "PR1",
+      "PR2",
+      "PR3",
+      "PR4"
+    ],
+    "houseTypes": "Cotton-mill Victorian terraces across Fishwick and Deepdale, Georgian townhouses around Winckley Square, plus Edwardian villas in Fulwood and interwar semis in Ingol.",
+    "notableAreas": [
+      "Fulwood",
+      "Ingol",
+      "Ashton",
+      "Longridge",
+      "Leyland"
+    ],
+    "conservationNote": "Around 20 conservation areas including Winckley Square and Fulwood.",
+    "dominantEra": "Victorian cotton-industry."
+  },
+  "lancaster": {
+    "postcodes": [
+      "LA1",
+      "LA2"
+    ],
+    "houseTypes": "Georgian townhouses around Dalton Square and the Castle, Victorian streets in Freehold and Bowerham, plus Edwardian villas in Scotforth and interwar semis in Ridge Estate.",
+    "notableAreas": [
+      "Morecambe",
+      "Bowerham",
+      "Scotforth",
+      "Galgate",
+      "Carnforth"
+    ],
+    "conservationNote": "Around 15 conservation areas including central Lancaster and Morecambe seafront.",
+    "dominantEra": "Georgian and Victorian."
+  },
+  "southport": {
+    "postcodes": [
+      "PR8",
+      "PR9"
+    ],
+    "houseTypes": "Grand Victorian and Edwardian seafront villas along Lord Street (one of the widest boulevards in England), plus Regency terraces around Cambridge Road and interwar bungalows in Ainsdale and Birkdale.",
+    "notableAreas": [
+      "Birkdale",
+      "Ainsdale",
+      "Formby",
+      "Churchtown",
+      "Hillside"
+    ],
+    "conservationNote": "Around 15 conservation areas including Lord Street and Birkdale Village.",
+    "dominantEra": "Late Victorian and Edwardian coastal resort."
+  },
+  "carlisle": {
+    "postcodes": [
+      "CA1",
+      "CA2",
+      "CA3"
+    ],
+    "houseTypes": "Sandstone Georgian and Victorian townhouses around the Cathedral and Castle, plus Victorian terraces in Denton Holme and interwar semis in Currock and Belle Vue.",
+    "notableAreas": [
+      "Denton Holme",
+      "Stanwix",
+      "Botcherby",
+      "Brampton",
+      "Longtown"
+    ],
+    "conservationNote": "Around 15 conservation areas including the historic core and Stanwix.",
+    "dominantEra": "Georgian and Victorian sandstone."
+  },
+  "barrow-in-furness": {
+    "postcodes": [
+      "LA13",
+      "LA14"
+    ],
+    "houseTypes": "Late Victorian and Edwardian shipyard-worker terraces (Barrow grew rapidly from 1860s), plus interwar semis in Barrow Island and Roose, and modern estates in Ormsgill.",
+    "notableAreas": [
+      "Walney Island",
+      "Ulverston",
+      "Dalton-in-Furness",
+      "Askam",
+      "Barrow Island"
+    ],
+    "conservationNote": "Around 5 conservation areas including central Barrow.",
+    "dominantEra": "Late Victorian shipbuilding boom."
+  },
+  "halifax": {
+    "postcodes": [
+      "HX1",
+      "HX2",
+      "HX3"
+    ],
+    "houseTypes": "Yorkshire stone weavers' cottages and Victorian mill terraces across the town, Edwardian villas around Savile Park, plus interwar semis in King Cross and Ovenden.",
+    "notableAreas": [
+      "Sowerby Bridge",
+      "Elland",
+      "Brighouse",
+      "Hebden Bridge",
+      "Todmorden"
+    ],
+    "conservationNote": "Around 20 conservation areas across Calderdale including Halifax Town Centre and Hebden Bridge.",
+    "dominantEra": "Victorian stone mill-era."
+  },
+  "bridlington": {
+    "postcodes": [
+      "YO15",
+      "YO16"
+    ],
+    "houseTypes": "Regency and Victorian seafront villas around The Esplanade, Edwardian terraces in Central Bridlington, plus interwar bungalows in Sewerby and Flamborough.",
+    "notableAreas": [
+      "Sewerby",
+      "Flamborough",
+      "Filey",
+      "Driffield",
+      "Hornsea"
+    ],
+    "conservationNote": "Around 6 conservation areas including Old Town Bridlington and Sewerby.",
+    "dominantEra": "Regency to Victorian seaside."
+  },
+  "beverley": {
+    "postcodes": [
+      "HU17"
+    ],
+    "houseTypes": "Medieval and Georgian townhouses around the Minster and Saturday Market, plus Victorian terraces along Norwood and interwar semis in Molescroft and Woodmansey.",
+    "notableAreas": [
+      "Molescroft",
+      "Woodmansey",
+      "Cottingham",
+      "Cherry Burton",
+      "Walkington"
+    ],
+    "conservationNote": "The Minster Precinct and Saturday Market are within a large central conservation area with strict rules.",
+    "dominantEra": "Medieval to Georgian."
+  }
+}

@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import ContactForm from '../components/ContactForm.astro';
+import QuoteFunnel from '../components/QuoteFunnel.astro';
 import siteConfig from '../data/site.config.json';
 import intents from '../data/intents.json';
 import cities from '../data/cities.json';
@@ -40,9 +40,8 @@ const faqSchema = {
           {siteConfig.disclosureText && <li>Vetted installers only</li>}
         </ul>
       </div>
-      <div class="hero-form-card card">
-        <h2>Get a free quote</h2>
-        <ContactForm />
+      <div class="hero-form-card">
+        <QuoteFunnel idSuffix="hero" />
       </div>
     </div>
   </section>
@@ -66,7 +65,7 @@ const faqSchema = {
       <div class="grid grid-3">
         {intents.map((i) => (
           <div class="card">
-            <a href={`/${i.slug}-${cities[0].slug}/`}>
+            <a href={`/services/${i.slug}/`}>
               {i.icon && <span class="icon">{i.icon}</span>}
               <h3>{i.label}</h3>
               <p>{i.searchIntent}</p>
@@ -102,10 +101,43 @@ const faqSchema = {
         <p>Don't see your town? Call us, we likely still cover it.</p>
       </div>
       <ul class="pill-list">
-        {cities.map((c) => (
-          <li><a class="pill" href={`/${intents[0].slug}-${c.slug}/`}>{c.name}</a></li>
-        ))}
+        {cities.map((c, idx) => {
+          const rotated = intents[idx % intents.length];
+          return (
+            <li><a class="pill" href={`/${rotated.slug}-${c.slug}/`}>{c.name}</a></li>
+          );
+        })}
       </ul>
+    </div>
+  </section>
+
+  <section class="price-guide">
+    <div class="container">
+      <div class="section-title">
+        <h2>UK price guide</h2>
+        <p>Typical ranges based on market data. Actual quotes depend on your city, spec and property.</p>
+      </div>
+      <div class="price-guide-table-wrap">
+        <table class="price-guide-table">
+          <thead>
+            <tr><th>Service</th><th>Typical UK range (installed)</th></tr>
+          </thead>
+          <tbody>
+            {intents.map((i) => (
+              <tr>
+                <td>{i.label}</td>
+                <td>{i.basePriceRange
+                  ? `£${i.basePriceRange[0].toLocaleString()} - £${i.basePriceRange[1].toLocaleString()}`
+                  : i.priceFrom}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="price-guide-note">Get a free tailored quote and see the exact price for your project.</p>
+      <div class="cta-row" style="justify-content:center;">
+        <a class="btn btn-accent" href="/quote">Get my free quote</a>
+      </div>
     </div>
   </section>
 
@@ -141,4 +173,14 @@ const faqSchema = {
       </div>
     </section>
   )}
+
+  <section class="final-cta">
+    <div class="container final-cta-inner">
+      <div>
+        <h2>Ready to compare quotes?</h2>
+        <p>Free, no obligation, no cold calls. Vetted local installers only.</p>
+      </div>
+      <a class="btn btn-accent" href="/quote">Get my free quote</a>
+    </div>
+  </section>
 </BaseLayout>
