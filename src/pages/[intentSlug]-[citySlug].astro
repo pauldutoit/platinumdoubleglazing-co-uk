@@ -1,7 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import ContactForm from '../components/ContactForm.astro';
 import siteConfig from '../data/site.config.json';
 import cities from '../data/cities.json';
 import intents from '../data/intents.json';
@@ -246,9 +245,17 @@ const faqSchema = faqs.length
 
       <aside class="city-sidebar" aria-label="Get a quote">
         <div class="quote-sticky card">
-          <h2>Free quote for {city}</h2>
-          <p class="quote-sticky-sub">Compare vetted installers. Under a minute, no cold calls.</p>
-          <ContactForm compact city={city} intent={intent} />
+          <h2>Free {intent.toLowerCase()} quote in {city}</h2>
+          <p class="quote-sticky-sub">Compare vetted installers. 60 seconds, no cold calls.</p>
+          <ul class="quote-sticky-trust">
+            <li>&#10003; FENSA-registered installers</li>
+            <li>&#10003; Up to 3 quotes to compare</li>
+            <li>&#10003; 10-year typical guarantee</li>
+          </ul>
+          <a class="btn btn-accent btn-block" href={`/quote?city=${citySlug}&intent=${intentSlug}`}>Start my free quote &rarr;</a>
+          {siteConfig.phoneEnabled !== false && (
+            <p class="quote-sticky-alt">or call <a href={telHref}>{siteConfig.phone}</a></p>
+          )}
         </div>
       </aside>
     </div>

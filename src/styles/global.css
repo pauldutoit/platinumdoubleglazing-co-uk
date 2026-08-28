@@ -281,10 +281,14 @@ ul { padding-left: 1.25rem; }
 .city-grid { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 2.5rem; align-items: start; }
 .city-main { min-width: 0; }
 .city-sidebar { position: sticky; top: 90px; }
-.quote-sticky { padding: 1.25rem 1.35rem; }
-.quote-sticky h2 { font-size: 1.05rem; margin-bottom: 0.25rem; }
+.quote-sticky { padding: 1.35rem 1.5rem; }
+.quote-sticky h2 { font-size: 1.05rem; margin-bottom: 0.35rem; }
 .quote-sticky-sub { font-size: 0.85rem; color: var(--color-muted); margin: 0 0 1rem; }
-.quote-sticky .lead-form.is-compact { max-width: none; }
+.quote-sticky-trust { list-style: none; padding: 0; margin: 0 0 1.15rem; display: grid; gap: 0.4rem; font-size: 0.85rem; }
+.quote-sticky-trust li { color: var(--color-body); }
+.quote-sticky-alt { text-align: center; font-size: 0.85rem; color: var(--color-muted); margin: 0.75rem 0 0; }
+.quote-sticky-alt a { color: var(--color-primary-dark); font-weight: 700; }
+.btn-block { display: block; text-align: center; width: 100%; box-sizing: border-box; }
 @media (max-width: 960px) {
   .city-grid { grid-template-columns: 1fr; }
   .city-sidebar { position: static; }
@@ -402,12 +406,9 @@ ul { padding-left: 1.25rem; }
 /* Footer disclosure (independent comparison-service model) */
 .site-footer .footer-disclosure { max-width: 640px; margin: 0 auto 1rem; font-size: 0.8rem; color: var(--color-muted); font-style: italic; }
 
-/* Hero with inline quote form */
-.hero-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 2.5rem; align-items: start; }
-.hero-form-card { padding: 1.5rem 1.6rem; max-width: 460px; margin-left: auto; }
-.hero-form-card h2 { font-size: 1.1rem; margin-bottom: 0.25rem; }
-.hero-form-sub { font-size: 0.85rem; color: var(--color-muted); margin: 0 0 1rem; }
-.hero-form-card .lead-form.is-compact { max-width: none; }
+/* Hero with inline quote funnel */
+.hero-grid { display: grid; grid-template-columns: 1.05fr 0.95fr; gap: 2.5rem; align-items: start; }
+.hero-form-card { max-width: 460px; margin-left: auto; width: 100%; }
 @media (max-width: 860px) {
   .hero-grid { grid-template-columns: 1fr; }
 }

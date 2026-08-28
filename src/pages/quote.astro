@@ -1,32 +1,9 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import QuoteFunnel from '../components/QuoteFunnel.astro';
 import siteConfig from '../data/site.config.json';
-import cities from '../data/cities.json';
-import intents from '../data/intents.json';
 
 const testimonial = siteConfig.testimonials?.[0];
-const turnstileSiteKey = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY ?? '';
-
-const cityLookup = cities.map((c) => ({ slug: c.slug, name: c.name }));
-const intentLookup = intents.map((i) => ({ slug: i.slug, label: i.label }));
-
-const propertyTypes = [
-  { value: 'detached', label: 'Detached house' },
-  { value: 'semi-detached', label: 'Semi-detached house' },
-  { value: 'terraced', label: 'Terraced house' },
-  { value: 'flat', label: 'Flat / apartment' },
-  { value: 'bungalow', label: 'Bungalow' },
-  { value: 'other', label: 'Other' },
-];
-
-const timeframes = [
-  { value: 'asap', label: 'As soon as possible' },
-  { value: '1-3months', label: '1-3 months' },
-  { value: '3-6months', label: '3-6 months' },
-  { value: 'planning', label: 'More than 6 months / just researching' },
-];
-
-const unitCounts = ['1', '2', '3', '4', '5', '6-10', '11+'];
 ---
 
 <BaseLayout
@@ -34,7 +11,7 @@ const unitCounts = ['1', '2', '3', '4', '5', '6-10', '11+'];
   description="Free, no-obligation quotes from vetted local installers. Takes under a minute."
   indexable={false}
 >
-  <div class="quote-page container container-narrow">
+  <div class="quote-page container">
     <div class="quote-header">
       <h1 id="quote-headline">Get your free, no-obligation quotes</h1>
       <p class="quote-subline">Takes 60 seconds &bull; No cold calls &bull; Vetted installers only</p>
@@ -49,275 +26,31 @@ const unitCounts = ['1', '2', '3', '4', '5', '6-10', '11+'];
       )}
     </div>
 
-    <div class="progress-bar" data-progress>
-      <div class="progress-step is-active" data-step-marker="1"><span>1</span> Service</div>
-      <div class="progress-step" data-step-marker="2"><span>2</span> Property</div>
-      <div class="progress-step" data-step-marker="3"><span>3</span> Location</div>
-      <div class="progress-step" data-step-marker="4"><span>4</span> Your details</div>
-    </div>
-
-    <form id="quote-funnel" class="lead-form-funnel card" novalidate>
-      <input type="text" name="company" id="company" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0" />
-      <input type="hidden" name="city" value="" />
-      <input type="hidden" name="intent" value="" />
-
-      <!-- STEP 1 : Service -->
-      <fieldset class="form-step is-active" data-step="1">
-        <legend><h2>What are you looking to install or replace?</h2></legend>
-        <div class="option-grid">
-          {intents.map((i) => (
-            <label class="option-card">
-              <input type="radio" name="service_type" value={i.slug} required />
-              <span class="option-icon">{i.icon ?? '⬜'}</span>
-              <span class="option-label">{i.label}</span>
-              <span class="option-desc">{i.priceFrom}</span>
-            </label>
-          ))}
-          <label class="option-card">
-            <input type="radio" name="service_type" value="not-sure" />
-            <span class="option-icon">?</span>
-            <span class="option-label">Not sure</span>
-            <span class="option-desc">I'd like advice</span>
-          </label>
-        </div>
-        <div class="step-nav">
-          <button type="button" class="btn btn-accent" data-next>Continue &rarr;</button>
-        </div>
-      </fieldset>
-
-      <!-- STEP 2 : Property -->
-      <fieldset class="form-step" data-step="2">
-        <legend><h2>Tell us about your property</h2></legend>
-        <div class="form-row">
-          <div class="form-group">
-            <label for="unit_count">How many units?</label>
-            <select id="unit_count" name="unit_count" required>
-              <option value="">Select...</option>
-              {unitCounts.map((n) => <option value={n}>{n === '1' ? '1 unit' : `${n} units`}</option>)}
-            </select>
-          </div>
-          <div class="form-group">
-            <label for="property_type">Property type</label>
-            <select id="property_type" name="property_type" required>
-              <option value="">Select...</option>
-              {propertyTypes.map((p) => <option value={p.value}>{p.label}</option>)}
-            </select>
-          </div>
-        </div>
-        <div class="form-group">
-          <label>Do you own the property?</label>
-          <p class="field-hint">This service is only for homeowners deciding on the work.</p>
-          <div class="radio-row">
-            <label class="radio-opt"><input type="radio" name="ownership" value="yes" required /> Yes, I own it</label>
-            <label class="radio-opt"><input type="radio" name="ownership" value="renting" /> I'm renting</label>
-            <label class="radio-opt"><input type="radio" name="ownership" value="other" /> Other</label>
-          </div>
-        </div>
-        <div class="step-nav">
-          <button type="button" class="btn btn-outline" data-prev>&larr; Back</button>
-          <button type="button" class="btn btn-accent" data-next>Continue &rarr;</button>
-        </div>
-      </fieldset>
-
-      <!-- STEP 3 : Location -->
-      <fieldset class="form-step" data-step="3">
-        <legend><h2>Where is the property?</h2></legend>
-        <div class="form-group">
-          <label for="postcode">Postcode</label>
-          <input type="text" id="postcode" name="postcode" placeholder="e.g. SW1A 1AA" maxlength="8" required />
-          <span class="field-hint">We match you with installers who cover your postcode.</span>
-        </div>
-        <div class="form-group">
-          <label>When are you looking to have the work done?</label>
-          <p class="field-hint">We currently only cover projects starting within 6 months.</p>
-          <div class="option-grid-sm">
-            {timeframes.map((t) => (
-              <label class="option-sm">
-                <input type="radio" name="timeframe" value={t.value} required />
-                {t.label}
-              </label>
-            ))}
-          </div>
-        </div>
-        <div class="step-nav">
-          <button type="button" class="btn btn-outline" data-prev>&larr; Back</button>
-          <button type="button" class="btn btn-accent" data-next>Continue &rarr;</button>
-        </div>
-      </fieldset>
-
-      <!-- STEP 4 : Contact -->
-      <fieldset class="form-step" data-step="4">
-        <legend><h2>Almost done - where should we send your quotes?</h2></legend>
-        <p class="step-sub">Your details are shared only with vetted installers in your area.</p>
-        <div class="form-group">
-          <label for="name">Full name</label>
-          <input type="text" id="name" name="name" placeholder="e.g. John Smith" required />
-        </div>
-        <div class="form-row">
-          <div class="form-group">
-            <label for="email">Email address</label>
-            <input type="email" id="email" name="email" placeholder="you@example.com" required />
-          </div>
-          <div class="form-group">
-            <label for="phone">Phone number</label>
-            <input type="tel" id="phone" name="phone" placeholder="07700 000000" required />
-          </div>
-        </div>
-        <div class="form-group">
-          <label class="checkbox-label">
-            <input type="checkbox" name="consent" value="1" required />
-            I agree to be contacted about my quote by up to 3 vetted installers, and I've read the <a href="/politique-de-confidentialite">privacy policy</a>.
-          </label>
-        </div>
-        {turnstileSiteKey && (
-          <div class="cf-turnstile" data-sitekey={turnstileSiteKey}></div>
-        )}
-        <div class="step-nav">
-          <button type="button" class="btn btn-outline" data-prev>&larr; Back</button>
-          <button type="submit" class="btn btn-accent btn-lg">Get my free quotes &rarr;</button>
-        </div>
-        <p class="form-note">&#128274; Your information is secure and never sold to unrelated third parties.</p>
-        <p class="form-status" data-status role="status"></p>
-      </fieldset>
-    </form>
+    <QuoteFunnel idSuffix="page" />
   </div>
 </BaseLayout>
 
-<script type="application/json" id="quote-lookup-data" set:html={JSON.stringify({ cities: cityLookup, intents: intentLookup })} />
-
-{turnstileSiteKey && (
-  <script async defer src="https://challenges.cloudflare.com/turnstile/v0/api.js"></script>
-)}
-
 <script>
-  const data = JSON.parse(document.getElementById('quote-lookup-data')!.textContent!);
+  // Personalise headline from ?city=&intent=
   const params = new URLSearchParams(window.location.search);
-  const citySlug = params.get('city') ?? '';
-  const intentSlug = params.get('intent') ?? '';
-
-  const city = data.cities.find((c: { slug: string }) => c.slug === citySlug);
-  const intent = data.intents.find((i: { slug: string }) => i.slug === intentSlug);
-
-  const form = document.getElementById('quote-funnel') as HTMLFormElement | null;
-  if (form) {
-    // Preselect service from ?intent= if valid
-    if (intent) {
-      const preselect = form.querySelector<HTMLInputElement>(`input[name="service_type"][value="${intent.slug}"]`);
-      if (preselect) preselect.checked = true;
+  const cityParam = params.get('city') ?? '';
+  const intentParam = params.get('intent') ?? '';
+  if (cityParam || intentParam) {
+    const headline = document.getElementById('quote-headline');
+    if (headline) {
+      const cityLabel = cityParam.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+      const intentLabel = intentParam.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+      headline.textContent = cityLabel && intentLabel
+        ? `Get your free ${intentLabel} quotes for ${cityLabel}`
+        : cityLabel
+          ? `Get your free quotes for ${cityLabel}`
+          : `Get your free ${intentLabel} quotes`;
     }
-    // Stash city + intent for the payload
-    (form.querySelector('input[name="city"]') as HTMLInputElement).value = city?.name ?? '';
-    (form.querySelector('input[name="intent"]') as HTMLInputElement).value = intent?.label ?? '';
-  }
-
-  // Personalise headline
-  const headline = document.getElementById('quote-headline');
-  if (headline && (city || intent)) {
-    headline.textContent = city && intent
-      ? `Get your free ${intent.label} quotes for ${city.name}`
-      : city
-        ? `Get your free quotes for ${city.name}`
-        : `Get your free ${intent.label} quotes`;
-  }
-
-  // Step navigation
-  const steps = Array.from(document.querySelectorAll<HTMLElement>('.form-step'));
-  const markers = Array.from(document.querySelectorAll<HTMLElement>('[data-step-marker]'));
-  let current = 1;
-
-  const activate = (n: number) => {
-    steps.forEach((s) => s.classList.toggle('is-active', parseInt(s.dataset.step ?? '0', 10) === n));
-    markers.forEach((m) => {
-      const mn = parseInt(m.dataset.stepMarker ?? '0', 10);
-      m.classList.toggle('is-active', mn === n);
-      m.classList.toggle('is-done', mn < n);
-    });
-    current = n;
-    // Scroll the funnel back to the top so users always start each step in view.
-    document.querySelector('.progress-bar')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
-  };
-
-  const validateStep = (n: number): boolean => {
-    const step = steps.find((s) => parseInt(s.dataset.step ?? '0', 10) === n);
-    if (!step) return true;
-    const inputs = step.querySelectorAll<HTMLInputElement | HTMLSelectElement>('[required]');
-    for (const el of Array.from(inputs)) {
-      if (el.type === 'radio') {
-        const group = step.querySelectorAll<HTMLInputElement>(`input[name="${el.name}"]`);
-        if (![...group].some((g) => g.checked)) {
-          el.focus();
-          alert('Please pick an option to continue.');
-          return false;
-        }
-      } else if (!el.value) {
-        el.focus();
-        return false;
-      }
-    }
-    return true;
-  };
-
-  document.querySelectorAll('[data-next]').forEach((btn) => {
-    btn.addEventListener('click', () => {
-      if (!validateStep(current)) return;
-      activate(current + 1);
-    });
-  });
-  document.querySelectorAll('[data-prev]').forEach((btn) => {
-    btn.addEventListener('click', () => activate(current - 1));
-  });
-
-  // Submit handler
-  if (form) {
-    form.addEventListener('submit', async (event) => {
-      event.preventDefault();
-      if (!validateStep(4)) return;
-
-      const status = form.querySelector<HTMLParagraphElement>('[data-status]');
-      const submitBtn = form.querySelector<HTMLButtonElement>('button[type="submit"]');
-      const fd = new FormData(form);
-      const turnstileToken = (fd.get('cf-turnstile-response') as string) || '';
-
-      const payload = {
-        name: fd.get('name'),
-        phone: fd.get('phone'),
-        email: fd.get('email'),
-        company: fd.get('company'),
-        city: fd.get('city'),
-        intent: fd.get('intent'),
-        service_type: fd.get('service_type'),
-        unit_count: fd.get('unit_count'),
-        property_type: fd.get('property_type'),
-        ownership: fd.get('ownership'),
-        postcode: fd.get('postcode'),
-        timeframe: fd.get('timeframe'),
-        consent: fd.get('consent') === '1',
-        turnstileToken,
-      };
-
-      if (submitBtn) submitBtn.disabled = true;
-      if (status) { status.textContent = 'Sending...'; status.dataset.state = ''; }
-
-      try {
-        const res = await fetch('/api/lead', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify(payload),
-        });
-        if (!res.ok) throw new Error('request failed');
-        form.reset();
-        window.location.href = '/thank-you';
-      } catch (err) {
-        if (status) { status.textContent = 'Something went wrong, please try again in a moment.'; status.dataset.state = 'error'; }
-        if (submitBtn) submitBtn.disabled = false;
-      }
-    });
   }
 </script>
 
 <style>
   .quote-page { padding: 2rem 1.5rem 4rem; max-width: 780px; margin: 0 auto; }
-  .container-narrow { max-width: 780px; margin: 0 auto; }
   .quote-header { text-align: center; margin-bottom: 1.5rem; }
   .quote-header h1 { margin-bottom: 0.5rem; }
   .quote-subline { color: var(--color-muted); font-size: 0.95rem; margin-bottom: 0.5rem; }
@@ -328,95 +61,4 @@ const unitCounts = ['1', '2', '3', '4', '5', '6-10', '11+'];
   }
   .quote-testimonial p { margin: 0 0 0.4rem; font-style: italic; }
   .quote-testimonial cite { font-style: normal; font-weight: 700; font-size: 0.85rem; }
-
-  /* Progress bar */
-  .progress-bar {
-    display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.25rem;
-    margin: 1.5rem 0;
-    position: relative;
-  }
-  .progress-step {
-    display: flex; flex-direction: column; align-items: center; gap: 0.35rem;
-    font-size: 0.8rem; font-weight: 700; color: var(--color-muted);
-    text-align: center; padding: 0 0.25rem;
-  }
-  .progress-step span {
-    display: inline-flex; align-items: center; justify-content: center;
-    width: 2rem; height: 2rem; border-radius: 50%;
-    background: var(--color-border); color: var(--color-muted);
-    font-weight: 800; font-size: 0.9rem;
-  }
-  .progress-step.is-active { color: var(--color-primary-dark); }
-  .progress-step.is-active span { background: var(--color-primary); color: #fff; }
-  .progress-step.is-done { color: var(--color-primary); }
-  .progress-step.is-done span { background: var(--color-primary); color: #fff; }
-
-  /* Funnel */
-  .lead-form-funnel { padding: 1.75rem; border: 0; }
-  .form-step { border: 0; padding: 0; margin: 0; display: none; }
-  .form-step.is-active { display: block; }
-  .form-step legend { padding: 0; margin: 0 0 1rem; }
-  .form-step legend h2 { font-size: 1.2rem; margin: 0; }
-
-  .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
-  @media (max-width: 560px) { .form-row { grid-template-columns: 1fr; } }
-  .form-group { display: grid; gap: 0.35rem; margin-bottom: 1rem; }
-  .form-group label { font-weight: 700; font-size: 0.9rem; color: var(--color-ink); }
-  .form-group input, .form-group select, .form-group textarea {
-    padding: 0.7rem 0.85rem;
-    border: 1px solid var(--color-border);
-    border-radius: var(--radius-sm);
-    font: inherit;
-    color: var(--color-ink);
-    background: var(--color-surface);
-  }
-  .form-group input:focus, .form-group select:focus {
-    outline: none; border-color: var(--color-primary);
-    box-shadow: 0 0 0 3px var(--color-primary-tint);
-  }
-  .field-hint { font-size: 0.85rem; color: var(--color-muted); margin: 0; }
-
-  /* Radio / option cards */
-  .option-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.75rem; }
-  .option-card {
-    display: grid; gap: 0.35rem; padding: 1rem;
-    border: 2px solid var(--color-border); border-radius: var(--radius-sm);
-    text-align: center; cursor: pointer; background: var(--color-surface);
-    transition: border-color 0.15s ease, background 0.15s ease;
-  }
-  .option-card input { position: absolute; opacity: 0; pointer-events: none; }
-  .option-card:hover { border-color: var(--color-primary); }
-  .option-card:has(input:checked) { border-color: var(--color-primary); background: var(--color-primary-tint); }
-  .option-icon { font-size: 1.5rem; }
-  .option-label { font-weight: 700; color: var(--color-ink); font-size: 0.95rem; }
-  .option-desc { font-size: 0.8rem; color: var(--color-muted); }
-
-  .option-grid-sm { display: grid; gap: 0.5rem; }
-  .option-sm {
-    display: flex; align-items: center; gap: 0.75rem;
-    padding: 0.75rem 1rem; border: 1px solid var(--color-border);
-    border-radius: var(--radius-sm); cursor: pointer; background: var(--color-surface);
-  }
-  .option-sm:has(input:checked) { border-color: var(--color-primary); background: var(--color-primary-tint); }
-  .option-sm input { margin: 0; }
-
-  .radio-row { display: flex; flex-wrap: wrap; gap: 0.75rem; }
-  .radio-opt {
-    display: inline-flex; align-items: center; gap: 0.5rem;
-    padding: 0.5rem 0.85rem; border: 1px solid var(--color-border);
-    border-radius: 999px; cursor: pointer; background: var(--color-surface);
-    font-size: 0.9rem;
-  }
-  .radio-opt:has(input:checked) { border-color: var(--color-primary); background: var(--color-primary-tint); color: var(--color-primary-dark); font-weight: 700; }
-
-  .checkbox-label { display: flex; align-items: flex-start; gap: 0.6rem; font-size: 0.9rem; line-height: 1.5; }
-  .checkbox-label input { margin-top: 0.2rem; }
-
-  .step-sub { color: var(--color-muted); margin-bottom: 1rem; font-size: 0.95rem; }
-  .step-nav { display: flex; justify-content: space-between; gap: 0.5rem; margin-top: 1.5rem; flex-wrap: wrap; }
-  .step-nav .btn:only-child { margin-left: auto; }
-  .btn-lg { padding: 0.9rem 1.75rem; font-size: 1rem; }
-  .form-note { text-align: center; color: var(--color-muted); font-size: 0.85rem; margin: 1rem 0 0; }
-  .form-status { font-size: 0.9rem; margin: 0.75rem 0 0; text-align: center; min-height: 1.2em; }
-  .form-status[data-state='error'] { color: #b00020; }
 </style>
