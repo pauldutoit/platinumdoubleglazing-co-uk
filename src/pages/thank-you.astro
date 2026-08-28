@@ -1,0 +1,54 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import siteConfig from '../data/site.config.json';
+---
+
+<BaseLayout
+  title={`Thank you | ${siteConfig.siteName}`}
+  description="Thanks for your request. We'll be in touch shortly."
+  indexable={false}
+>
+  <div class="container thank-you">
+    <div class="thank-you-card card">
+      <div class="thank-you-icon" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M20 6L9 17l-5-5" />
+        </svg>
+      </div>
+      <h1>Thanks, we've got your request</h1>
+      <p class="lede">One of our vetted installers will be in touch within one working day with a free, no-obligation quote.</p>
+      <ul class="thank-you-next">
+        <li><strong>Check your inbox</strong> - keep an eye out for our confirmation email (check spam if you don't see it).</li>
+        <li><strong>Expect a call</strong> from a local installer during working hours.</li>
+        <li><strong>No obligation</strong> - compare quotes, walk away if you want to.</li>
+      </ul>
+      <div class="thank-you-cta">
+        <a class="btn btn-accent" href="/">Back to home</a>
+        <a class="btn btn-outline" href="/areas">Browse all areas</a>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .thank-you { padding: 3rem 1.5rem 4rem; max-width: 640px; }
+  .thank-you-card { padding: 2.5rem 2rem; text-align: center; }
+  .thank-you-icon {
+    width: 64px; height: 64px; margin: 0 auto 1.25rem;
+    display: flex; align-items: center; justify-content: center;
+    background: var(--color-primary-tint); color: var(--color-primary);
+    border-radius: 50%;
+  }
+  .thank-you-icon svg { width: 32px; height: 32px; }
+  .thank-you-next {
+    list-style: none; padding: 0; margin: 1.5rem 0;
+    display: grid; gap: 0.75rem; text-align: left;
+  }
+  .thank-you-next li {
+    padding: 0.75rem 1rem;
+    background: var(--color-surface-alt);
+    border-radius: var(--radius-sm);
+    font-size: 0.95rem;
+  }
+  .thank-you-cta { display: flex; gap: 0.75rem; justify-content: center; flex-wrap: wrap; margin-top: 1.5rem; }
+</style>

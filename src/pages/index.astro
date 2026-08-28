@@ -109,6 +109,36 @@ const faqSchema = {
     </div>
   </section>
 
+  <section class="price-guide">
+    <div class="container">
+      <div class="section-title">
+        <h2>UK price guide</h2>
+        <p>Typical ranges based on market data. Actual quotes depend on your city, spec and property.</p>
+      </div>
+      <div class="price-guide-table-wrap">
+        <table class="price-guide-table">
+          <thead>
+            <tr><th>Service</th><th>Typical UK range (installed)</th></tr>
+          </thead>
+          <tbody>
+            {intents.map((i) => (
+              <tr>
+                <td>{i.label}</td>
+                <td>{i.basePriceRange
+                  ? `£${i.basePriceRange[0].toLocaleString()} - £${i.basePriceRange[1].toLocaleString()}`
+                  : i.priceFrom}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="price-guide-note">Get a free tailored quote and see the exact price for your project.</p>
+      <div class="cta-row" style="justify-content:center;">
+        <a class="btn btn-accent" href="/quote">Get my free quote</a>
+      </div>
+    </div>
+  </section>
+
   {siteConfig.testimonials && (
     <section class="section section-alt">
       <div class="container">
@@ -141,4 +171,14 @@ const faqSchema = {
       </div>
     </section>
   )}
+
+  <section class="final-cta">
+    <div class="container final-cta-inner">
+      <div>
+        <h2>Ready to compare quotes?</h2>
+        <p>Free, no obligation, no cold calls. Vetted local installers only.</p>
+      </div>
+      <a class="btn btn-accent" href="/quote">Get my free quote</a>
+    </div>
+  </section>
 </BaseLayout>

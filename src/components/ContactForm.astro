@@ -99,8 +99,10 @@ const turnstileSiteKey = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY ?? '';
           body: JSON.stringify(payload),
         });
         if (!res.ok) throw new Error('request failed');
-        if (status) { status.textContent = 'Thanks, we will be in touch shortly.'; status.dataset.state = 'success'; }
+        if (status) { status.textContent = 'Thanks, redirecting...'; status.dataset.state = 'success'; }
         form.reset();
+        window.location.href = '/thank-you';
+        return;
       } catch (err) {
         if (status) { status.textContent = 'Something went wrong, please call us instead.'; status.dataset.state = 'error'; }
       } finally {
