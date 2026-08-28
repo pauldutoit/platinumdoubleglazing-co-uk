@@ -25,6 +25,17 @@ const ALLOWED_INTENT_LABELS = new Set(intents.map((i) => i.label));
 const ALLOWED_CITY_SLUGS = new Set(cities.map((c) => c.slug));
 const ALLOWED_CITY_NAMES = new Set(cities.map((c) => c.name));
 
+// Funnel whitelist enums - values MUST match /quote.astro
+const ALLOWED_SERVICE_TYPE = new Set([...intents.map((i) => i.slug), 'not-sure']);
+const ALLOWED_UNIT_COUNT = new Set(['1', '2', '3', '4', '5', '6-10', '11+']);
+const ALLOWED_PROPERTY_TYPE = new Set(['detached', 'semi-detached', 'terraced', 'flat', 'bungalow', 'other']);
+const ALLOWED_OWNERSHIP = new Set(['yes', 'renting', 'other']);
+const ALLOWED_TIMEFRAME = new Set(['asap', '1-3months', '3-6months', 'planning']);
+
+// UK outward+inward postcode (permissive but shape-checked). Rejects garbage
+// like '12345' or 'ABCDEFG' while accepting real formats.
+const UK_POSTCODE_RE = /^[A-Z]{1,2}\d[A-Z\d]?\s*\d[A-Z]{2}$/i;
+
 const RATE_LIMIT_MAX = 5;
 const RATE_LIMIT_WINDOW_SECONDS = 3600;
 
@@ -36,7 +47,12 @@ export async function onRequestPost({ request, env }) {
     return jsonResponse({ ok: false, error: 'invalid_json' }, 400);
   }
 
-  const { name, phone, email, message, company, city, intent, turnstileToken } = body;
+  const {
+    name, phone, email, message, company, city, intent, turnstileToken,
+    // Funnel-specific fields (present when submitted from /quote, absent from
+    // the compact hero/city-sidebar form which stays a simple 3-field capture).
+    service_type, unit_count, property_type, ownership, postcode, timeframe, consent,
+  } = body;
 
   // 3. Honeypot: real users never fill this field.
   if (company) {
@@ -63,6 +79,25 @@ export async function onRequestPost({ request, env }) {
   const safeIntent = normalizeEnum(intent, ALLOWED_INTENT_SLUGS, ALLOWED_INTENT_LABELS);
   const safeCity = normalizeEnum(city, ALLOWED_CITY_SLUGS, ALLOWED_CITY_NAMES);
 
+  // Funnel whitelist: unknown values are dropped rather than rejecting the
+  // whole submission - lets the same endpoint handle both the compact form
+  // (funnel fields absent) and the full /quote funnel.
+  const safeServiceType = ALLOWED_SERVICE_TYPE.has(String(service_type ?? '')) ? String(service_type) : '';
+  const safeUnitCount = ALLOWED_UNIT_COUNT.has(String(unit_count ?? '')) ? String(unit_count) : '';
+  const safePropertyType = ALLOWED_PROPERTY_TYPE.has(String(property_type ?? '')) ? String(property_type) : '';
+  const safeOwnership = ALLOWED_OWNERSHIP.has(String(ownership ?? '')) ? String(ownership) : '';
+  const safeTimeframe = ALLOWED_TIMEFRAME.has(String(timeframe ?? '')) ? String(timeframe) : '';
+  const rawPostcode = sanitizeText(postcode ?? '', 10);
+  const safePostcode = rawPostcode && UK_POSTCODE_RE.test(rawPostcode) ? rawPostcode.toUpperCase() : '';
+
+  // If the funnel was used (service_type present), require postcode + consent
+  // - these are the two hard qualifiers we won't ship a lead without.
+  const isFunnelLead = !!service_type;
+  if (isFunnelLead) {
+    if (!safePostcode) return jsonResponse({ ok: false, error: 'invalid_postcode' }, 400);
+    if (!consent) return jsonResponse({ ok: false, error: 'consent_required' }, 400);
+  }
+
   // 2. Turnstile
   if (env.TURNSTILE_SECRET_KEY) {
     const verified = await verifyTurnstile(turnstileToken, env.TURNSTILE_SECRET_KEY, request);
@@ -83,18 +118,27 @@ export async function onRequestPost({ request, env }) {
     await env.LEAD_RATE_KV.put(key, String(count + 1), { expirationTtl: RATE_LIMIT_WINDOW_SECONDS });
   }
 
-  const subject = `New lead - ${safeIntent || 'general'} - ${safeCity || 'unknown city'}`;
+  const leadLabel = safeServiceType || safeIntent || 'general';
+  const locationLabel = safePostcode || safeCity || 'unknown';
+  const subject = `New lead - ${leadLabel} - ${locationLabel}`;
   const text = [
     `Name: ${cleanName}`,
     `Phone: ${cleanPhone}`,
     `Email: ${cleanEmail}`,
     `City: ${safeCity || 'n/a'}`,
+    `Postcode: ${safePostcode || 'n/a'}`,
     `Intent: ${safeIntent || 'n/a'}`,
+    isFunnelLead ? `Service picked: ${safeServiceType || 'n/a'}` : null,
+    isFunnelLead ? `Units: ${safeUnitCount || 'n/a'}` : null,
+    isFunnelLead ? `Property type: ${safePropertyType || 'n/a'}` : null,
+    isFunnelLead ? `Ownership: ${safeOwnership || 'n/a'}` : null,
+    isFunnelLead ? `Timeframe: ${safeTimeframe || 'n/a'}` : null,
+    isFunnelLead ? `Consent: ${consent ? 'yes' : 'no'}` : null,
     `IP: ${ip}`,
     '',
     'Message:',
     cleanMessage || '(no message)',
-  ].join('\n');
+  ].filter((l) => l !== null).join('\n');
 
   try {
     const res = await fetch('https://api.resend.com/emails', {
