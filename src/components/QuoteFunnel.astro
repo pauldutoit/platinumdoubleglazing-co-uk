@@ -94,11 +94,13 @@ const formId = `quote-funnel${idSuffix ? `-${idSuffix}` : ''}`;
       </div>
       <div class="form-group">
         <label>Do you own the property?</label>
+        <p class="field-hint">We can only match homeowners with installers - insurance and warranties require the property owner's authorisation.</p>
         <div class="radio-row">
           <label class="radio-opt"><input type="radio" name="ownership" value="yes" required /> Yes, I own it</label>
           <label class="radio-opt"><input type="radio" name="ownership" value="renting" /> I'm renting</label>
           <label class="radio-opt"><input type="radio" name="ownership" value="other" /> Other</label>
         </div>
+        <p class="disqualifier" data-disqualifier="ownership" hidden>Thanks for your interest. We only cover work authorised by the property owner - please have the owner submit the quote request.</p>
       </div>
       <div class="step-nav">
         <button type="button" class="btn btn-outline" data-prev>&larr; Back</button>
@@ -119,6 +121,7 @@ const formId = `quote-funnel${idSuffix ? `-${idSuffix}` : ''}`;
       </div>
       <div class="form-group">
         <label>When are you looking to have the work done?</label>
+        <p class="field-hint">We only match projects starting within the next 6 months.</p>
         <div class="option-grid-sm">
           {timeframes.map((t) => (
             <label class="option-sm">
@@ -127,6 +130,7 @@ const formId = `quote-funnel${idSuffix ? `-${idSuffix}` : ''}`;
             </label>
           ))}
         </div>
+        <p class="disqualifier" data-disqualifier="timeframe" hidden>Thanks for your interest. We only match projects starting within the next 6 months - come back closer to your project date.</p>
       </div>
       <div class="step-nav">
         <button type="button" class="btn btn-outline" data-prev>&larr; Back</button>
@@ -218,6 +222,29 @@ const formId = `quote-funnel${idSuffix ? `-${idSuffix}` : ''}`;
       wrap?.scrollIntoView({ behavior: 'smooth', block: 'start' });
     };
 
+    // Hard qualifiers - block progress at step level when the answer would
+    // produce a lead an installer can't act on.
+    const DISQUALIFIERS = {
+      ownership: (v) => v !== 'yes',
+      timeframe: (v) => v === 'planning',
+    };
+
+    const checkDisqualifier = (step) => {
+      for (const el of step.querySelectorAll('[data-disqualifier]')) {
+        el.hidden = true;
+      }
+      for (const name of Object.keys(DISQUALIFIERS)) {
+        const picked = step.querySelector(`input[name="${name}"]:checked`);
+        if (!picked) continue;
+        if (DISQUALIFIERS[name](picked.value)) {
+          const msg = step.querySelector(`[data-disqualifier="${name}"]`);
+          if (msg) msg.hidden = false;
+          return false;
+        }
+      }
+      return true;
+    };
+
     const validateStep = (n) => {
       const step = steps.find((s) => parseInt(s.dataset.step, 10) === n);
       if (!step) return true;
@@ -233,8 +260,13 @@ const formId = `quote-funnel${idSuffix ? `-${idSuffix}` : ''}`;
           el.focus();
           return false;
         }
+        // Native minlength for textareas
+        if (el.tagName === 'TEXTAREA' && el.minLength && el.value.trim().length < el.minLength) {
+          el.focus();
+          return false;
+        }
       }
-      return true;
+      return checkDisqualifier(step);
     };
 
     form.querySelectorAll('[data-next]').forEach((btn) => {
@@ -338,6 +370,13 @@ const formId = `quote-funnel${idSuffix ? `-${idSuffix}` : ''}`;
     box-shadow: 0 0 0 3px var(--color-primary-tint);
   }
   .field-hint { font-size: 0.8rem; color: var(--color-muted); margin: 0; }
+  .disqualifier {
+    margin: 0.5rem 0 0; padding: 0.65rem 0.85rem;
+    background: color-mix(in srgb, #b00020 8%, transparent);
+    border-left: 3px solid #b00020;
+    border-radius: var(--radius-sm);
+    color: #7a0018; font-size: 0.85rem;
+  }
 
   .option-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.5rem; margin-bottom: 0.5rem; }
   @media (max-width: 560px) { .option-grid { grid-template-columns: repeat(2, 1fr); } }

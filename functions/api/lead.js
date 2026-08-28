@@ -36,6 +36,18 @@ const ALLOWED_TIMEFRAME = new Set(['asap', '1-3months', '3-6months', 'planning']
 // like '12345' or 'ABCDEFG' while accepting real formats.
 const UK_POSTCODE_RE = /^[A-Z]{1,2}\d[A-Z\d]?\s*\d[A-Z]{2}$/i;
 
+// UK phone: strip formatting, then match 10-11 digits with optional +44 or 0.
+// Deliberately permissive - the real safety net is Turnstile + rate limit,
+// not a phone regex.
+const UK_PHONE_RE = /^(?:\+?44|0)\d{9,10}$/;
+
+const MESSAGE_MIN_LEN = 15;
+
+// Hard qualifiers - a funnel lead with any of these is rejected server-side
+// on top of the client-side gate so a determined bypass still fails.
+const DISQUALIFIED_OWNERSHIP = new Set(['renting', 'other']);
+const DISQUALIFIED_TIMEFRAME = new Set(['planning']);
+
 const RATE_LIMIT_MAX = 5;
 const RATE_LIMIT_WINDOW_SECONDS = 3600;
 
@@ -73,6 +85,9 @@ export async function onRequestPost({ request, env }) {
   if (!isValidEmail(cleanEmail)) {
     return jsonResponse({ ok: false, error: 'invalid_email' }, 400);
   }
+  if (!isValidUkPhone(cleanPhone)) {
+    return jsonResponse({ ok: false, error: 'invalid_phone' }, 400);
+  }
 
   // 4. Whitelist enum: intent and city can be passed as slug OR display name
   // by the client, accept either but drop unknown values instead of failing.
@@ -91,15 +106,21 @@ export async function onRequestPost({ request, env }) {
   const safePostcode = rawPostcode && UK_POSTCODE_RE.test(rawPostcode) ? rawPostcode.toUpperCase() : '';
   const safeAddress = sanitizeText(address_line1 ?? '', 160);
 
-  // If the funnel was used (service_type present), require postcode, address,
-  // message and consent - these are the hard qualifiers we won't ship a lead
-  // without.
+  // If the funnel was used (service_type present), require every hard
+  // qualifier: address, postcode, project brief, consent, ownership=yes,
+  // timeframe within 6 months. Rejects at the API even if the client-side
+  // gate is bypassed.
   const isFunnelLead = !!service_type;
   if (isFunnelLead) {
     if (!safePostcode) return jsonResponse({ ok: false, error: 'invalid_postcode' }, 400);
     if (!safeAddress) return jsonResponse({ ok: false, error: 'address_required' }, 400);
-    if (!cleanMessage || cleanMessage.length < 15) return jsonResponse({ ok: false, error: 'message_required' }, 400);
+    if (!cleanMessage || cleanMessage.length < MESSAGE_MIN_LEN) return jsonResponse({ ok: false, error: 'message_required' }, 400);
     if (!consent) return jsonResponse({ ok: false, error: 'consent_required' }, 400);
+    if (DISQUALIFIED_OWNERSHIP.has(safeOwnership)) return jsonResponse({ ok: false, error: 'homeowner_only' }, 400);
+    if (DISQUALIFIED_TIMEFRAME.has(safeTimeframe)) return jsonResponse({ ok: false, error: 'out_of_scope_timeframe' }, 400);
+    if (!safeServiceType) return jsonResponse({ ok: false, error: 'service_required' }, 400);
+    if (!safeUnitCount) return jsonResponse({ ok: false, error: 'unit_count_required' }, 400);
+    if (!safePropertyType) return jsonResponse({ ok: false, error: 'property_type_required' }, 400);
   }
 
   // 2. Turnstile
@@ -193,6 +214,11 @@ function sanitizeText(value, maxLen) {
 
 function isValidEmail(value) {
   return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(value);
+}
+
+function isValidUkPhone(value) {
+  const digits = String(value).replace(/[\s()\-.]/g, '');
+  return UK_PHONE_RE.test(digits);
 }
 
 function normalizeEnum(value, slugSet, labelSet) {
