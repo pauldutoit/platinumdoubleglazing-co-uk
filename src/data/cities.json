@@ -68,10 +68,10 @@
     "indexable": false,
     "nearby": [
       "paisley",
-      "motherwell",
-      "hamilton",
       "east-kilbride",
-      "dumbarton"
+      "edinburgh",
+      "aberdeen",
+      "dundee"
     ]
   },
   {
@@ -82,11 +82,11 @@
     "pf": 0.88,
     "indexable": false,
     "nearby": [
-      "birkenhead",
-      "st-helens",
       "southport",
-      "bootle",
-      "widnes"
+      "manchester",
+      "blackpool",
+      "warrington",
+      "blackburn"
     ]
   },
   {
@@ -98,10 +98,10 @@
     "indexable": false,
     "nearby": [
       "bath",
-      "clevedon",
-      "nailsea",
-      "keynsham",
-      "portishead"
+      "plymouth",
+      "exeter",
+      "swindon",
+      "bournemouth"
     ]
   },
   {
@@ -116,7 +116,7 @@
       "barnsley",
       "doncaster",
       "chesterfield",
-      "worksop"
+      "leeds"
     ]
   },
   {
@@ -128,10 +128,10 @@
     "indexable": false,
     "nearby": [
       "livingston",
-      "musselburgh",
-      "bonnyrigg",
-      "dalkeith",
-      "penicuik"
+      "glasgow",
+      "aberdeen",
+      "dundee",
+      "perth"
     ]
   },
   {
@@ -143,10 +143,10 @@
     "indexable": false,
     "nearby": [
       "loughborough",
-      "hinckley",
-      "coalville",
-      "melton-mowbray",
-      "market-harborough"
+      "nottingham",
+      "derby",
+      "northampton",
+      "lincoln"
     ]
   },
   {
@@ -158,10 +158,10 @@
     "indexable": false,
     "nearby": [
       "birmingham",
-      "kenilworth",
       "nuneaton",
       "rugby",
-      "leamington-spa"
+      "leamington-spa",
+      "stoke-on-trent"
     ]
   },
   {
@@ -174,9 +174,9 @@
     "nearby": [
       "leeds",
       "keighley",
-      "bingley",
-      "shipley",
-      "ilkley"
+      "sheffield",
+      "kingston-upon-hull",
+      "york"
     ]
   },
   {
@@ -189,9 +189,9 @@
     "nearby": [
       "derby",
       "mansfield",
-      "beeston",
-      "long-eaton",
-      "hucknall"
+      "leicester",
+      "northampton",
+      "lincoln"
     ]
   },
   {
@@ -203,10 +203,10 @@
     "indexable": false,
     "nearby": [
       "beverley",
-      "cottingham",
       "bridlington",
-      "goole",
-      "brough"
+      "leeds",
+      "sheffield",
+      "bradford"
     ]
   },
   {
@@ -217,11 +217,11 @@
     "pf": 0.86,
     "indexable": false,
     "nearby": [
-      "newcastle-under-lyme",
       "stafford",
-      "leek",
       "crewe",
-      "stone"
+      "birmingham",
+      "coventry",
+      "wolverhampton"
     ]
   },
   {
@@ -249,9 +249,9 @@
     "nearby": [
       "torquay",
       "exeter",
-      "paignton",
-      "newton-abbot",
-      "totnes"
+      "bristol",
+      "swindon",
+      "bournemouth"
     ]
   },
   {
@@ -263,10 +263,10 @@
     "indexable": false,
     "nearby": [
       "portsmouth",
-      "eastleigh",
       "fareham",
-      "totton",
-      "chandlers-ford"
+      "reading",
+      "oxford",
+      "milton-keynes"
     ]
   },
   {
@@ -278,10 +278,10 @@
     "indexable": false,
     "nearby": [
       "slough",
-      "wokingham",
-      "bracknell",
-      "newbury",
-      "basingstoke"
+      "basingstoke",
+      "southampton",
+      "portsmouth",
+      "oxford"
     ]
   },
   {
@@ -294,9 +294,9 @@
     "nearby": [
       "nottingham",
       "burton-upon-trent",
-      "ilkeston",
-      "heanor",
-      "matlock"
+      "leicester",
+      "northampton",
+      "lincoln"
     ]
   },
   {
@@ -308,10 +308,10 @@
     "indexable": false,
     "nearby": [
       "sunderland",
-      "gateshead",
-      "north-shields",
-      "south-shields",
-      "durham"
+      "durham",
+      "middlesbrough",
+      "hartlepool",
+      "darlington"
     ]
   },
   {
@@ -324,9 +324,9 @@
     "nearby": [
       "newcastle-upon-tyne",
       "durham",
-      "houghton-le-spring",
-      "washington",
-      "peterlee"
+      "middlesbrough",
+      "hartlepool",
+      "darlington"
     ]
   },
   {
@@ -337,11 +337,11 @@
     "pf": 0.9,
     "indexable": false,
     "nearby": [
-      "inverurie",
-      "stonehaven",
-      "ellon",
-      "westhill",
-      "peterhead"
+      "glasgow",
+      "edinburgh",
+      "dundee",
+      "perth",
+      "stirling"
     ]
   },
   {
@@ -354,9 +354,9 @@
     "nearby": [
       "southampton",
       "fareham",
-      "gosport",
-      "havant",
-      "waterlooville"
+      "reading",
+      "oxford",
+      "milton-keynes"
     ]
   },
   {
@@ -369,9 +369,9 @@
     "nearby": [
       "leeds",
       "harrogate",
-      "selby",
       "scarborough",
-      "malton"
+      "sheffield",
+      "bradford"
     ]
   },
   {
@@ -382,11 +382,11 @@
     "pf": 1.15,
     "indexable": false,
     "nearby": [
-      "abingdon",
-      "witney",
-      "bicester",
-      "didcot",
-      "banbury"
+      "southampton",
+      "reading",
+      "portsmouth",
+      "milton-keynes",
+      "brighton"
     ]
   },
   {
@@ -397,11 +397,11 @@
     "pf": 1.14,
     "indexable": false,
     "nearby": [
-      "ely",
-      "huntingdon",
-      "st-ives",
-      "newmarket",
-      "royston"
+      "norwich",
+      "ipswich",
+      "luton",
+      "peterborough",
+      "colchester"
     ]
   },
   {
@@ -413,10 +413,10 @@
     "indexable": false,
     "nearby": [
       "neath",
-      "port-talbot",
-      "llanelli",
       "bridgend",
-      "merthyr-tydfil"
+      "merthyr-tydfil",
+      "cardiff",
+      "newport"
     ]
   },
   {
@@ -428,10 +428,10 @@
     "indexable": false,
     "nearby": [
       "barry",
-      "penarth",
       "caerphilly",
-      "pontypridd",
-      "bridgend"
+      "bridgend",
+      "swansea",
+      "newport"
     ]
   },
   {
@@ -444,9 +444,9 @@
     "nearby": [
       "great-yarmouth",
       "kings-lynn",
-      "thetford",
-      "lowestoft",
-      "dereham"
+      "cambridge",
+      "ipswich",
+      "luton"
     ]
   },
   {
@@ -458,10 +458,10 @@
     "indexable": false,
     "nearby": [
       "bury-st-edmunds",
-      "lowestoft",
-      "felixstowe",
       "colchester",
-      "stowmarket"
+      "cambridge",
+      "norwich",
+      "luton"
     ]
   },
   {
@@ -473,10 +473,10 @@
     "indexable": false,
     "nearby": [
       "bedford",
-      "dunstable",
       "stevenage",
-      "hertford",
-      "watford"
+      "watford",
+      "cambridge",
+      "norwich"
     ]
   },
   {
@@ -489,9 +489,9 @@
     "nearby": [
       "torquay",
       "taunton",
-      "newton-abbot",
-      "sidmouth",
-      "crediton"
+      "bristol",
+      "plymouth",
+      "swindon"
     ]
   },
   {
@@ -505,8 +505,8 @@
       "stockton-on-tees",
       "hartlepool",
       "darlington",
-      "redcar",
-      "thornaby"
+      "newcastle-upon-tyne",
+      "sunderland"
     ]
   },
   {
@@ -518,10 +518,10 @@
     "indexable": false,
     "nearby": [
       "cambridge",
-      "stamford",
-      "spalding",
-      "march",
-      "wisbech"
+      "norwich",
+      "ipswich",
+      "luton",
+      "colchester"
     ]
   },
   {
@@ -535,8 +535,8 @@
       "bedford",
       "northampton",
       "luton",
-      "aylesbury",
-      "leighton-buzzard"
+      "southampton",
+      "reading"
     ]
   },
   {
@@ -547,11 +547,11 @@
     "pf": 0.92,
     "indexable": false,
     "nearby": [
-      "wellingborough",
       "kettering",
-      "daventry",
-      "rushden",
-      "towcester"
+      "leicester",
+      "nottingham",
+      "derby",
+      "lincoln"
     ]
   },
   {
@@ -563,10 +563,10 @@
     "indexable": false,
     "nearby": [
       "perth",
-      "arbroath",
-      "montrose",
-      "blairgowrie",
-      "forfar"
+      "glasgow",
+      "edinburgh",
+      "aberdeen",
+      "stirling"
     ]
   },
   {
@@ -579,9 +579,9 @@
     "nearby": [
       "bristol",
       "oxford",
-      "chippenham",
       "bath",
-      "devizes"
+      "plymouth",
+      "exeter"
     ]
   },
   {
@@ -594,9 +594,9 @@
     "nearby": [
       "ipswich",
       "chelmsford",
-      "clacton-on-sea",
       "braintree",
-      "halstead"
+      "cambridge",
+      "norwich"
     ]
   },
   {
@@ -611,7 +611,7 @@
       "southend-on-sea",
       "basildon",
       "braintree",
-      "witham"
+      "cambridge"
     ]
   },
   {
@@ -624,9 +624,9 @@
     "nearby": [
       "chelmsford",
       "basildon",
-      "rayleigh",
-      "leigh-on-sea",
-      "rochford"
+      "cambridge",
+      "norwich",
+      "ipswich"
     ]
   },
   {
@@ -637,11 +637,11 @@
     "pf": 1.1,
     "indexable": false,
     "nearby": [
-      "hove",
       "worthing",
       "eastbourne",
-      "lewes",
-      "shoreham-by-sea"
+      "southampton",
+      "reading",
+      "portsmouth"
     ]
   },
   {
@@ -653,10 +653,10 @@
     "indexable": false,
     "nearby": [
       "poole",
-      "christchurch",
       "weymouth",
-      "dorchester",
-      "blandford"
+      "bristol",
+      "plymouth",
+      "exeter"
     ]
   },
   {
@@ -668,10 +668,10 @@
     "indexable": false,
     "nearby": [
       "cheltenham",
-      "stroud",
-      "tewkesbury",
-      "cirencester",
-      "dursley"
+      "bristol",
+      "plymouth",
+      "exeter",
+      "swindon"
     ]
   },
   {
@@ -683,10 +683,10 @@
     "indexable": false,
     "nearby": [
       "gloucester",
-      "stroud",
-      "cirencester",
-      "evesham",
-      "tewkesbury"
+      "bristol",
+      "plymouth",
+      "exeter",
+      "swindon"
     ]
   },
   {
@@ -697,11 +697,11 @@
     "pf": 0.84,
     "indexable": false,
     "nearby": [
-      "lytham-st-annes",
-      "fleetwood",
-      "garstang",
       "blackburn",
-      "burnley"
+      "burnley",
+      "manchester",
+      "liverpool",
+      "warrington"
     ]
   },
   {
@@ -712,11 +712,11 @@
     "pf": 0.91,
     "indexable": false,
     "nearby": [
-      "widnes",
-      "runcorn",
-      "northwich",
-      "st-helens",
-      "wigan"
+      "wigan",
+      "manchester",
+      "liverpool",
+      "blackpool",
+      "blackburn"
     ]
   },
   {
@@ -730,8 +730,8 @@
       "wolverhampton",
       "shrewsbury",
       "stafford",
-      "bridgnorth",
-      "market-drayton"
+      "birmingham",
+      "coventry"
     ]
   },
   {
@@ -745,8 +745,8 @@
       "birmingham",
       "kidderminster",
       "redditch",
-      "malvern",
-      "droitwich"
+      "coventry",
+      "stoke-on-trent"
     ]
   },
   {
@@ -758,10 +758,10 @@
     "indexable": false,
     "nearby": [
       "bristol",
-      "frome",
-      "trowbridge",
-      "radstock",
-      "keynsham"
+      "plymouth",
+      "exeter",
+      "swindon",
+      "bournemouth"
     ]
   },
   {
@@ -774,9 +774,9 @@
     "nearby": [
       "grantham",
       "gainsborough",
-      "sleaford",
       "boston",
-      "market-rasen"
+      "leicester",
+      "nottingham"
     ]
   },
   {
@@ -803,10 +803,10 @@
     "indexable": false,
     "nearby": [
       "burnley",
-      "accrington",
-      "darwen",
-      "clitheroe",
-      "bury"
+      "bury",
+      "manchester",
+      "liverpool",
+      "blackpool"
     ]
   },
   {
@@ -820,8 +820,8 @@
       "leeds",
       "bradford",
       "halifax",
-      "dewsbury",
-      "wakefield"
+      "wakefield",
+      "sheffield"
     ]
   },
   {
@@ -833,10 +833,10 @@
     "indexable": false,
     "nearby": [
       "bournemouth",
-      "christchurch",
-      "wareham",
-      "swanage",
-      "blandford"
+      "bristol",
+      "plymouth",
+      "exeter",
+      "swindon"
     ]
   },
   {
@@ -849,9 +849,9 @@
     "nearby": [
       "brighton",
       "hastings",
-      "lewes",
-      "hailsham",
-      "seaford"
+      "southampton",
+      "reading",
+      "portsmouth"
     ]
   },
   {
@@ -863,10 +863,10 @@
     "indexable": false,
     "nearby": [
       "eastbourne",
-      "bexhill",
-      "rye",
-      "battle",
-      "tunbridge-wells"
+      "tunbridge-wells",
+      "southampton",
+      "reading",
+      "portsmouth"
     ]
   },
   {
@@ -878,10 +878,10 @@
     "indexable": false,
     "nearby": [
       "rochester",
-      "sittingbourne",
-      "tonbridge",
       "ashford",
-      "faversham"
+      "southampton",
+      "reading",
+      "portsmouth"
     ]
   },
   {
@@ -894,9 +894,9 @@
     "nearby": [
       "southend-on-sea",
       "chelmsford",
-      "thurrock",
-      "wickford",
-      "billericay"
+      "cambridge",
+      "norwich",
+      "ipswich"
     ]
   },
   {
@@ -908,10 +908,10 @@
     "indexable": false,
     "nearby": [
       "telford",
-      "oswestry",
-      "market-drayton",
-      "bridgnorth",
-      "whitchurch"
+      "birmingham",
+      "coventry",
+      "stoke-on-trent",
+      "wolverhampton"
     ]
   },
   {
@@ -923,10 +923,10 @@
     "indexable": false,
     "nearby": [
       "woking",
-      "farnham",
-      "farnborough",
-      "aldershot",
-      "leatherhead"
+      "southampton",
+      "reading",
+      "portsmouth",
+      "oxford"
     ]
   },
   {
@@ -937,11 +937,11 @@
     "pf": 1.12,
     "indexable": false,
     "nearby": [
-      "windsor",
       "reading",
-      "maidenhead",
-      "uxbridge",
-      "staines"
+      "southampton",
+      "portsmouth",
+      "oxford",
+      "milton-keynes"
     ]
   },
   {
@@ -954,9 +954,9 @@
     "nearby": [
       "luton",
       "watford",
-      "hertford",
-      "harpenden",
-      "hatfield"
+      "cambridge",
+      "norwich",
+      "ipswich"
     ]
   },
   {
@@ -968,10 +968,10 @@
     "indexable": false,
     "nearby": [
       "guildford",
-      "farnborough",
-      "camberley",
-      "leatherhead",
-      "epsom"
+      "southampton",
+      "reading",
+      "portsmouth",
+      "oxford"
     ]
   },
   {
@@ -983,10 +983,10 @@
     "indexable": false,
     "nearby": [
       "bolton",
-      "leigh",
-      "standish",
-      "skelmersdale",
-      "chorley"
+      "manchester",
+      "liverpool",
+      "blackpool",
+      "warrington"
     ]
   },
   {
@@ -1001,7 +1001,7 @@
       "wigan",
       "bury",
       "salford",
-      "leigh"
+      "liverpool"
     ]
   },
   {
@@ -1029,9 +1029,9 @@
     "nearby": [
       "manchester",
       "bolton",
-      "eccles",
-      "trafford",
-      "bury"
+      "bury",
+      "liverpool",
+      "blackpool"
     ]
   },
   {
@@ -1043,10 +1043,10 @@
     "indexable": false,
     "nearby": [
       "manchester",
-      "macclesfield",
-      "wilmslow",
-      "hazel-grove",
-      "cheadle"
+      "liverpool",
+      "blackpool",
+      "warrington",
+      "blackburn"
     ]
   },
   {
@@ -1060,8 +1060,8 @@
       "manchester",
       "bury",
       "oldham",
-      "heywood",
-      "littleborough"
+      "liverpool",
+      "blackpool"
     ]
   },
   {
@@ -1074,9 +1074,9 @@
     "nearby": [
       "manchester",
       "rochdale",
-      "ashton-under-lyne",
-      "mossley",
-      "shaw"
+      "liverpool",
+      "blackpool",
+      "warrington"
     ]
   },
   {
@@ -1088,10 +1088,10 @@
     "indexable": false,
     "nearby": [
       "blackburn",
-      "nelson",
-      "colne",
-      "accrington",
-      "clitheroe"
+      "manchester",
+      "liverpool",
+      "blackpool",
+      "warrington"
     ]
   },
   {
@@ -1105,8 +1105,8 @@
       "sunderland",
       "middlesbrough",
       "darlington",
-      "bishop-auckland",
-      "consett"
+      "newcastle-upon-tyne",
+      "hartlepool"
     ]
   },
   {
@@ -1120,8 +1120,8 @@
       "middlesbrough",
       "durham",
       "stockton-on-tees",
-      "newton-aycliffe",
-      "bishop-auckland"
+      "newcastle-upon-tyne",
+      "sunderland"
     ]
   },
   {
@@ -1136,7 +1136,7 @@
       "darlington",
       "hartlepool",
       "durham",
-      "billingham"
+      "newcastle-upon-tyne"
     ]
   },
   {
@@ -1149,9 +1149,9 @@
     "nearby": [
       "leeds",
       "barnsley",
-      "pontefract",
-      "normanton",
-      "dewsbury"
+      "sheffield",
+      "bradford",
+      "kingston-upon-hull"
     ]
   },
   {
@@ -1165,8 +1165,8 @@
       "sheffield",
       "rotherham",
       "barnsley",
-      "thorne",
-      "mexborough"
+      "leeds",
+      "bradford"
     ]
   },
   {
@@ -1181,7 +1181,7 @@
       "wakefield",
       "doncaster",
       "rotherham",
-      "penistone"
+      "leeds"
     ]
   },
   {
@@ -1195,8 +1195,8 @@
       "sheffield",
       "barnsley",
       "doncaster",
-      "maltby",
-      "wath-upon-dearne"
+      "leeds",
+      "bradford"
     ]
   },
   {
@@ -1209,9 +1209,9 @@
     "nearby": [
       "nottingham",
       "chesterfield",
-      "worksop",
-      "kirkby-in-ashfield",
-      "sutton-in-ashfield"
+      "leicester",
+      "derby",
+      "northampton"
     ]
   },
   {
@@ -1225,8 +1225,8 @@
       "sheffield",
       "derby",
       "mansfield",
-      "matlock",
-      "alfreton"
+      "leicester",
+      "nottingham"
     ]
   },
   {
@@ -1240,8 +1240,8 @@
       "derby",
       "lichfield",
       "tamworth",
-      "rugeley",
-      "swadlincote"
+      "birmingham",
+      "coventry"
     ]
   },
   {
@@ -1253,10 +1253,10 @@
     "indexable": false,
     "nearby": [
       "worcester",
-      "stourbridge",
       "redditch",
-      "bridgnorth",
-      "bewdley"
+      "birmingham",
+      "coventry",
+      "stoke-on-trent"
     ]
   },
   {
@@ -1270,8 +1270,8 @@
       "birmingham",
       "worcester",
       "bromsgrove",
-      "evesham",
-      "kidderminster"
+      "kidderminster",
+      "coventry"
     ]
   },
   {
@@ -1284,9 +1284,9 @@
     "nearby": [
       "coventry",
       "leamington-spa",
-      "hinckley",
-      "bedworth",
-      "atherstone"
+      "birmingham",
+      "stoke-on-trent",
+      "wolverhampton"
     ]
   },
   {
@@ -1314,9 +1314,9 @@
     "nearby": [
       "birmingham",
       "wolverhampton",
-      "stourbridge",
       "walsall",
-      "kidderminster"
+      "kidderminster",
+      "coventry"
     ]
   },
   {
@@ -1330,8 +1330,8 @@
       "birmingham",
       "tamworth",
       "walsall",
-      "burntwood",
-      "rugeley"
+      "coventry",
+      "stoke-on-trent"
     ]
   },
   {
@@ -1344,9 +1344,9 @@
     "nearby": [
       "birmingham",
       "lichfield",
-      "atherstone",
       "nuneaton",
-      "rugeley"
+      "coventry",
+      "stoke-on-trent"
     ]
   },
   {
@@ -1360,8 +1360,8 @@
       "stoke-on-trent",
       "lichfield",
       "cannock",
-      "stone",
-      "rugeley"
+      "birmingham",
+      "coventry"
     ]
   },
   {
@@ -1374,9 +1374,9 @@
     "nearby": [
       "coventry",
       "warwick",
-      "stratford-upon-avon",
       "nuneaton",
-      "kenilworth"
+      "birmingham",
+      "stoke-on-trent"
     ]
   },
   {
@@ -1389,9 +1389,9 @@
     "nearby": [
       "leamington-spa",
       "coventry",
-      "stratford-upon-avon",
-      "kenilworth",
-      "rugby"
+      "rugby",
+      "birmingham",
+      "stoke-on-trent"
     ]
   },
   {
@@ -1406,7 +1406,7 @@
       "northampton",
       "leamington-spa",
       "nuneaton",
-      "daventry"
+      "birmingham"
     ]
   },
   {
@@ -1418,10 +1418,10 @@
     "indexable": false,
     "nearby": [
       "worcester",
-      "ledbury",
-      "leominster",
-      "abergavenny",
-      "ross-on-wye"
+      "birmingham",
+      "coventry",
+      "stoke-on-trent",
+      "wolverhampton"
     ]
   },
   {
@@ -1433,10 +1433,10 @@
     "indexable": false,
     "nearby": [
       "cardiff",
-      "pontypool",
       "caerphilly",
-      "cwmbran",
-      "abergavenny"
+      "swansea",
+      "wrexham",
+      "bangor"
     ]
   },
   {
@@ -1448,10 +1448,10 @@
     "indexable": false,
     "nearby": [
       "chester",
-      "mold",
-      "rhyl",
-      "oswestry",
-      "llangollen"
+      "swansea",
+      "cardiff",
+      "newport",
+      "bangor"
     ]
   },
   {
@@ -1464,9 +1464,9 @@
     "nearby": [
       "wrexham",
       "crewe",
-      "northwich",
-      "mold",
-      "ellesmere-port"
+      "manchester",
+      "liverpool",
+      "blackpool"
     ]
   },
   {
@@ -1479,9 +1479,9 @@
     "nearby": [
       "chester",
       "stoke-on-trent",
-      "nantwich",
-      "sandbach",
-      "congleton"
+      "manchester",
+      "liverpool",
+      "blackpool"
     ]
   },
   {
@@ -1495,8 +1495,8 @@
       "leicester",
       "nottingham",
       "derby",
-      "coalville",
-      "shepshed"
+      "northampton",
+      "lincoln"
     ]
   },
   {
@@ -1510,8 +1510,8 @@
       "luton",
       "northampton",
       "milton-keynes",
-      "st-neots",
-      "biggleswade"
+      "cambridge",
+      "norwich"
     ]
   },
   {
@@ -1524,9 +1524,9 @@
     "nearby": [
       "nottingham",
       "lincoln",
-      "stamford",
-      "sleaford",
-      "newark-on-trent"
+      "leicester",
+      "derby",
+      "northampton"
     ]
   },
   {
@@ -1539,9 +1539,9 @@
     "nearby": [
       "lincoln",
       "doncaster",
-      "retford",
-      "worksop",
-      "scunthorpe"
+      "scunthorpe",
+      "leicester",
+      "nottingham"
     ]
   },
   {
@@ -1555,8 +1555,8 @@
       "doncaster",
       "grimsby",
       "gainsborough",
-      "goole",
-      "beverley"
+      "beverley",
+      "leeds"
     ]
   },
   {
@@ -1568,10 +1568,10 @@
     "indexable": false,
     "nearby": [
       "scunthorpe",
-      "hull",
-      "louth",
-      "cleethorpes",
-      "immingham"
+      "leeds",
+      "sheffield",
+      "bradford",
+      "kingston-upon-hull"
     ]
   },
   {
@@ -1584,9 +1584,9 @@
     "nearby": [
       "york",
       "bridlington",
-      "whitby",
-      "filey",
-      "pickering"
+      "leeds",
+      "sheffield",
+      "bradford"
     ]
   },
   {
@@ -1599,9 +1599,9 @@
     "nearby": [
       "leeds",
       "york",
-      "ripon",
-      "knaresborough",
-      "skipton"
+      "sheffield",
+      "bradford",
+      "kingston-upon-hull"
     ]
   },
   {
@@ -1613,10 +1613,10 @@
     "indexable": false,
     "nearby": [
       "bradford",
-      "skipton",
-      "bingley",
-      "ilkley",
-      "haworth"
+      "leeds",
+      "sheffield",
+      "kingston-upon-hull",
+      "york"
     ]
   },
   {
@@ -1628,10 +1628,10 @@
     "indexable": false,
     "nearby": [
       "southampton",
-      "amesbury",
-      "andover",
-      "romsey",
-      "fordingbridge"
+      "bristol",
+      "plymouth",
+      "exeter",
+      "swindon"
     ]
   },
   {
@@ -1642,11 +1642,11 @@
     "pf": 0.88,
     "indexable": false,
     "nearby": [
-      "falmouth",
-      "redruth",
-      "camborne",
       "penzance",
-      "newquay"
+      "newquay",
+      "bristol",
+      "plymouth",
+      "exeter"
     ]
   },
   {
@@ -1658,10 +1658,10 @@
     "indexable": false,
     "nearby": [
       "exeter",
-      "paignton",
-      "newton-abbot",
-      "brixham",
-      "totnes"
+      "bristol",
+      "plymouth",
+      "swindon",
+      "bournemouth"
     ]
   },
   {
@@ -1673,10 +1673,10 @@
     "indexable": false,
     "nearby": [
       "exeter",
-      "bridgwater",
       "yeovil",
-      "glastonbury",
-      "minehead"
+      "bristol",
+      "plymouth",
+      "swindon"
     ]
   },
   {
@@ -1688,10 +1688,10 @@
     "indexable": false,
     "nearby": [
       "taunton",
-      "dorchester",
-      "sherborne",
-      "chard",
-      "wincanton"
+      "bristol",
+      "plymouth",
+      "exeter",
+      "swindon"
     ]
   },
   {
@@ -1703,10 +1703,10 @@
     "indexable": false,
     "nearby": [
       "maidstone",
-      "tonbridge",
-      "sevenoaks",
-      "crowborough",
-      "east-grinstead"
+      "southampton",
+      "reading",
+      "portsmouth",
+      "oxford"
     ]
   },
   {
@@ -1719,9 +1719,9 @@
     "nearby": [
       "maidstone",
       "folkestone",
-      "tenterden",
-      "romney-marsh",
-      "hythe"
+      "southampton",
+      "reading",
+      "portsmouth"
     ]
   },
   {
@@ -1734,9 +1734,9 @@
     "nearby": [
       "dover",
       "ashford",
-      "hythe",
-      "deal",
-      "sandwich"
+      "southampton",
+      "reading",
+      "portsmouth"
     ]
   },
   {
@@ -1748,10 +1748,10 @@
     "indexable": false,
     "nearby": [
       "folkestone",
-      "deal",
-      "sandwich",
-      "margate",
-      "canterbury"
+      "southampton",
+      "reading",
+      "portsmouth",
+      "oxford"
     ]
   },
   {
@@ -1762,11 +1762,11 @@
     "pf": 1.02,
     "indexable": false,
     "nearby": [
-      "margate",
-      "whitstable",
-      "faversham",
       "ashford",
-      "ramsgate"
+      "southampton",
+      "reading",
+      "portsmouth",
+      "oxford"
     ]
   },
   {
@@ -1779,9 +1779,9 @@
     "nearby": [
       "slough",
       "oxford",
-      "maidenhead",
-      "amersham",
-      "beaconsfield"
+      "southampton",
+      "reading",
+      "portsmouth"
     ]
   },
   {
@@ -1793,10 +1793,10 @@
     "indexable": false,
     "nearby": [
       "luton",
-      "hertford",
-      "welwyn-garden-city",
-      "hatfield",
-      "hitchin"
+      "cambridge",
+      "norwich",
+      "ipswich",
+      "peterborough"
     ]
   },
   {
@@ -1808,10 +1808,10 @@
     "indexable": false,
     "nearby": [
       "brighton",
-      "horsham",
-      "gatwick",
-      "east-grinstead",
-      "burgess-hill"
+      "southampton",
+      "reading",
+      "portsmouth",
+      "oxford"
     ]
   },
   {
@@ -1823,10 +1823,10 @@
     "indexable": false,
     "nearby": [
       "brighton",
-      "shoreham-by-sea",
-      "littlehampton",
-      "horsham",
-      "steyning"
+      "southampton",
+      "reading",
+      "portsmouth",
+      "oxford"
     ]
   },
   {
@@ -1837,11 +1837,1151 @@
     "pf": 1.2,
     "indexable": false,
     "nearby": [
-      "london",
       "sutton",
       "bromley",
-      "purley",
-      "thornton-heath"
+      "lambeth",
+      "lewisham",
+      "wandsworth"
     ]
+  },
+  {
+    "slug": "westminster",
+    "name": "Westminster",
+    "pf": 1.25,
+    "nearby": [
+      "camden",
+      "kensington",
+      "lambeth",
+      "islington",
+      "southwark"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "camden",
+    "name": "Camden",
+    "pf": 1.25,
+    "nearby": [
+      "westminster",
+      "islington",
+      "haringey",
+      "barnet",
+      "brent"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "kensington",
+    "name": "Kensington and Chelsea",
+    "pf": 1.25,
+    "nearby": [
+      "westminster",
+      "hammersmith",
+      "wandsworth",
+      "brent",
+      "camden"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "hammersmith",
+    "name": "Hammersmith and Fulham",
+    "pf": 1.25,
+    "nearby": [
+      "kensington",
+      "ealing",
+      "wandsworth",
+      "hounslow",
+      "brent"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "islington",
+    "name": "Islington",
+    "pf": 1.25,
+    "nearby": [
+      "camden",
+      "hackney",
+      "haringey",
+      "westminster",
+      "southwark"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "hackney",
+    "name": "Hackney",
+    "pf": 1.2,
+    "nearby": [
+      "islington",
+      "tower-hamlets",
+      "haringey",
+      "newham",
+      "waltham-forest"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "southwark",
+    "name": "Southwark",
+    "pf": 1.2,
+    "nearby": [
+      "lambeth",
+      "lewisham",
+      "westminster",
+      "tower-hamlets",
+      "wandsworth"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "lambeth",
+    "name": "Lambeth",
+    "pf": 1.2,
+    "nearby": [
+      "southwark",
+      "wandsworth",
+      "westminster",
+      "lewisham",
+      "croydon"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "wandsworth",
+    "name": "Wandsworth",
+    "pf": 1.2,
+    "nearby": [
+      "lambeth",
+      "hammersmith",
+      "kensington",
+      "merton",
+      "richmond"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "tower-hamlets",
+    "name": "Tower Hamlets",
+    "pf": 1.2,
+    "nearby": [
+      "hackney",
+      "newham",
+      "southwark",
+      "islington",
+      "waltham-forest"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "newham",
+    "name": "Newham",
+    "pf": 1.15,
+    "nearby": [
+      "tower-hamlets",
+      "hackney",
+      "waltham-forest",
+      "redbridge",
+      "greenwich"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "greenwich",
+    "name": "Greenwich",
+    "pf": 1.15,
+    "nearby": [
+      "lewisham",
+      "newham",
+      "bexley",
+      "southwark",
+      "bromley"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "lewisham",
+    "name": "Lewisham",
+    "pf": 1.15,
+    "nearby": [
+      "greenwich",
+      "southwark",
+      "lambeth",
+      "bromley",
+      "croydon"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "haringey",
+    "name": "Haringey",
+    "pf": 1.15,
+    "nearby": [
+      "islington",
+      "camden",
+      "hackney",
+      "enfield",
+      "waltham-forest"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "waltham-forest",
+    "name": "Waltham Forest",
+    "pf": 1.15,
+    "nearby": [
+      "hackney",
+      "haringey",
+      "redbridge",
+      "newham",
+      "enfield"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "redbridge",
+    "name": "Redbridge",
+    "pf": 1.15,
+    "nearby": [
+      "waltham-forest",
+      "newham",
+      "havering",
+      "barking-dagenham",
+      "enfield"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "barking-dagenham",
+    "name": "Barking and Dagenham",
+    "pf": 1.1,
+    "nearby": [
+      "redbridge",
+      "newham",
+      "havering",
+      "greenwich",
+      "bexley"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "havering",
+    "name": "Havering",
+    "pf": 1.1,
+    "nearby": [
+      "barking-dagenham",
+      "redbridge",
+      "newham",
+      "bexley",
+      "basildon"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "bexley",
+    "name": "Bexley",
+    "pf": 1.15,
+    "nearby": [
+      "greenwich",
+      "bromley",
+      "havering",
+      "barking-dagenham",
+      "london"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "bromley",
+    "name": "Bromley",
+    "pf": 1.15,
+    "nearby": [
+      "croydon",
+      "lewisham",
+      "bexley",
+      "greenwich",
+      "sutton"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "sutton",
+    "name": "Sutton",
+    "pf": 1.15,
+    "nearby": [
+      "croydon",
+      "merton",
+      "kingston",
+      "bromley",
+      "wandsworth"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "merton",
+    "name": "Merton",
+    "pf": 1.2,
+    "nearby": [
+      "wandsworth",
+      "sutton",
+      "kingston",
+      "lambeth",
+      "richmond"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "kingston",
+    "name": "Kingston upon Thames",
+    "pf": 1.2,
+    "nearby": [
+      "richmond",
+      "merton",
+      "sutton",
+      "hounslow",
+      "wandsworth"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "richmond",
+    "name": "Richmond upon Thames",
+    "pf": 1.2,
+    "nearby": [
+      "kingston",
+      "hounslow",
+      "wandsworth",
+      "merton",
+      "hammersmith"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "hounslow",
+    "name": "Hounslow",
+    "pf": 1.15,
+    "nearby": [
+      "richmond",
+      "ealing",
+      "hammersmith",
+      "kingston",
+      "hillingdon"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "ealing",
+    "name": "Ealing",
+    "pf": 1.2,
+    "nearby": [
+      "hammersmith",
+      "hounslow",
+      "brent",
+      "hillingdon",
+      "harrow"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "brent",
+    "name": "Brent",
+    "pf": 1.2,
+    "nearby": [
+      "ealing",
+      "harrow",
+      "barnet",
+      "camden",
+      "kensington"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "barnet",
+    "name": "Barnet",
+    "pf": 1.15,
+    "nearby": [
+      "brent",
+      "harrow",
+      "camden",
+      "haringey",
+      "enfield"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "harrow",
+    "name": "Harrow",
+    "pf": 1.15,
+    "nearby": [
+      "brent",
+      "barnet",
+      "ealing",
+      "hillingdon",
+      "watford"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "hillingdon",
+    "name": "Hillingdon",
+    "pf": 1.1,
+    "nearby": [
+      "harrow",
+      "ealing",
+      "hounslow",
+      "slough",
+      "watford"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "enfield",
+    "name": "Enfield",
+    "pf": 1.15,
+    "nearby": [
+      "haringey",
+      "waltham-forest",
+      "barnet",
+      "redbridge",
+      "stevenage"
+    ],
+    "county": "Greater London",
+    "region": "London",
+    "indexable": false
+  },
+  {
+    "slug": "perth",
+    "name": "Perth",
+    "pf": 0.95,
+    "nearby": [
+      "dundee",
+      "stirling",
+      "edinburgh",
+      "falkirk",
+      "kirkcaldy"
+    ],
+    "county": "Perth and Kinross",
+    "region": "Scotland",
+    "indexable": false
+  },
+  {
+    "slug": "stirling",
+    "name": "Stirling",
+    "pf": 0.95,
+    "nearby": [
+      "falkirk",
+      "perth",
+      "glasgow",
+      "east-kilbride",
+      "edinburgh"
+    ],
+    "county": "Stirling",
+    "region": "Scotland",
+    "indexable": false
+  },
+  {
+    "slug": "inverness",
+    "name": "Inverness",
+    "pf": 0.9,
+    "nearby": [
+      "aberdeen",
+      "perth",
+      "dundee",
+      "stirling",
+      "falkirk"
+    ],
+    "county": "Highland",
+    "region": "Scotland",
+    "indexable": false
+  },
+  {
+    "slug": "paisley",
+    "name": "Paisley",
+    "pf": 0.9,
+    "nearby": [
+      "glasgow",
+      "east-kilbride",
+      "stirling",
+      "falkirk",
+      "livingston"
+    ],
+    "county": "Renfrewshire",
+    "region": "Scotland",
+    "indexable": false
+  },
+  {
+    "slug": "kirkcaldy",
+    "name": "Kirkcaldy",
+    "pf": 0.85,
+    "nearby": [
+      "edinburgh",
+      "perth",
+      "dundee",
+      "falkirk",
+      "livingston"
+    ],
+    "county": "Fife",
+    "region": "Scotland",
+    "indexable": false
+  },
+  {
+    "slug": "east-kilbride",
+    "name": "East Kilbride",
+    "pf": 0.9,
+    "nearby": [
+      "glasgow",
+      "paisley",
+      "stirling",
+      "falkirk",
+      "edinburgh"
+    ],
+    "county": "South Lanarkshire",
+    "region": "Scotland",
+    "indexable": false
+  },
+  {
+    "slug": "livingston",
+    "name": "Livingston",
+    "pf": 0.95,
+    "nearby": [
+      "edinburgh",
+      "falkirk",
+      "stirling",
+      "kirkcaldy",
+      "glasgow"
+    ],
+    "county": "West Lothian",
+    "region": "Scotland",
+    "indexable": false
+  },
+  {
+    "slug": "falkirk",
+    "name": "Falkirk",
+    "pf": 0.85,
+    "nearby": [
+      "stirling",
+      "livingston",
+      "edinburgh",
+      "glasgow",
+      "kirkcaldy"
+    ],
+    "county": "Falkirk",
+    "region": "Scotland",
+    "indexable": false
+  },
+  {
+    "slug": "bangor",
+    "name": "Bangor",
+    "pf": 0.85,
+    "nearby": [
+      "wrexham",
+      "chester",
+      "aberystwyth",
+      "liverpool",
+      "crewe"
+    ],
+    "county": "Gwynedd",
+    "region": "Wales",
+    "indexable": false
+  },
+  {
+    "slug": "merthyr-tydfil",
+    "name": "Merthyr Tydfil",
+    "pf": 0.85,
+    "nearby": [
+      "cardiff",
+      "caerphilly",
+      "bridgend",
+      "newport",
+      "neath"
+    ],
+    "county": "Merthyr Tydfil",
+    "region": "Wales",
+    "indexable": false
+  },
+  {
+    "slug": "bridgend",
+    "name": "Bridgend",
+    "pf": 0.9,
+    "nearby": [
+      "cardiff",
+      "swansea",
+      "neath",
+      "barry",
+      "newport"
+    ],
+    "county": "Bridgend",
+    "region": "Wales",
+    "indexable": false
+  },
+  {
+    "slug": "neath",
+    "name": "Neath",
+    "pf": 0.85,
+    "nearby": [
+      "swansea",
+      "bridgend",
+      "merthyr-tydfil",
+      "cardiff",
+      "newport"
+    ],
+    "county": "Neath Port Talbot",
+    "region": "Wales",
+    "indexable": false
+  },
+  {
+    "slug": "barry",
+    "name": "Barry",
+    "pf": 0.9,
+    "nearby": [
+      "cardiff",
+      "bridgend",
+      "newport",
+      "caerphilly",
+      "swansea"
+    ],
+    "county": "Vale of Glamorgan",
+    "region": "Wales",
+    "indexable": false
+  },
+  {
+    "slug": "caerphilly",
+    "name": "Caerphilly",
+    "pf": 0.9,
+    "nearby": [
+      "cardiff",
+      "newport",
+      "merthyr-tydfil",
+      "bridgend",
+      "barry"
+    ],
+    "county": "Caerphilly",
+    "region": "Wales",
+    "indexable": false
+  },
+  {
+    "slug": "aberystwyth",
+    "name": "Aberystwyth",
+    "pf": 0.85,
+    "nearby": [
+      "bangor",
+      "wrexham",
+      "chester",
+      "shrewsbury",
+      "bridgend"
+    ],
+    "county": "Ceredigion",
+    "region": "Wales",
+    "indexable": false
+  },
+  {
+    "slug": "winchester",
+    "name": "Winchester",
+    "region": "South East England",
+    "county": "Hampshire",
+    "pf": 1.1,
+    "nearby": [
+      "southampton",
+      "basingstoke",
+      "portsmouth",
+      "fareham",
+      "salisbury"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "basingstoke",
+    "name": "Basingstoke",
+    "region": "South East England",
+    "county": "Hampshire",
+    "pf": 1.05,
+    "nearby": [
+      "reading",
+      "winchester",
+      "southampton",
+      "guildford",
+      "woking"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "watford",
+    "name": "Watford",
+    "region": "South East England",
+    "county": "Hertfordshire",
+    "pf": 1.15,
+    "nearby": [
+      "st-albans",
+      "harrow",
+      "hillingdon",
+      "stevenage",
+      "southampton"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "fareham",
+    "name": "Fareham",
+    "region": "South East England",
+    "county": "Hampshire",
+    "pf": 1.05,
+    "nearby": [
+      "portsmouth",
+      "southampton",
+      "winchester",
+      "guildford",
+      "bournemouth"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "rochester",
+    "name": "Rochester",
+    "region": "South East England",
+    "county": "Kent",
+    "pf": 1.05,
+    "nearby": [
+      "maidstone",
+      "ashford",
+      "tunbridge-wells",
+      "bexley",
+      "southampton"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "chichester",
+    "name": "Chichester",
+    "region": "South East England",
+    "county": "West Sussex",
+    "pf": 1.05,
+    "nearby": [
+      "portsmouth",
+      "worthing",
+      "brighton",
+      "fareham",
+      "crawley"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "weston-super-mare",
+    "name": "Weston-super-Mare",
+    "region": "South West England",
+    "county": "Somerset",
+    "pf": 0.95,
+    "nearby": [
+      "bristol",
+      "taunton",
+      "bath",
+      "yeovil",
+      "gloucester"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "newquay",
+    "name": "Newquay",
+    "region": "South West England",
+    "county": "Cornwall",
+    "pf": 0.95,
+    "nearby": [
+      "truro",
+      "penzance",
+      "plymouth",
+      "torquay",
+      "exeter"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "weymouth",
+    "name": "Weymouth",
+    "region": "South West England",
+    "county": "Dorset",
+    "pf": 0.95,
+    "nearby": [
+      "bournemouth",
+      "poole",
+      "yeovil",
+      "taunton",
+      "salisbury"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "penzance",
+    "name": "Penzance",
+    "region": "South West England",
+    "county": "Cornwall",
+    "pf": 0.9,
+    "nearby": [
+      "truro",
+      "newquay",
+      "plymouth",
+      "torquay",
+      "exeter"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "barnstaple",
+    "name": "Barnstaple",
+    "region": "South West England",
+    "county": "Devon",
+    "pf": 0.9,
+    "nearby": [
+      "exeter",
+      "taunton",
+      "plymouth",
+      "torquay",
+      "truro"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "kings-lynn",
+    "name": "King's Lynn",
+    "region": "East of England",
+    "county": "Norfolk",
+    "pf": 0.9,
+    "nearby": [
+      "peterborough",
+      "norwich",
+      "cambridge",
+      "boston",
+      "bury-st-edmunds"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "bury-st-edmunds",
+    "name": "Bury St Edmunds",
+    "region": "East of England",
+    "county": "Suffolk",
+    "pf": 0.95,
+    "nearby": [
+      "ipswich",
+      "cambridge",
+      "colchester",
+      "kings-lynn",
+      "norwich"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "great-yarmouth",
+    "name": "Great Yarmouth",
+    "region": "East of England",
+    "county": "Norfolk",
+    "pf": 0.9,
+    "nearby": [
+      "norwich",
+      "ipswich",
+      "kings-lynn",
+      "bury-st-edmunds",
+      "cambridge"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "harlow",
+    "name": "Harlow",
+    "region": "East of England",
+    "county": "Essex",
+    "pf": 1,
+    "nearby": [
+      "chelmsford",
+      "stevenage",
+      "basildon",
+      "colchester",
+      "st-albans"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "braintree",
+    "name": "Braintree",
+    "region": "East of England",
+    "county": "Essex",
+    "pf": 0.95,
+    "nearby": [
+      "chelmsford",
+      "colchester",
+      "basildon",
+      "harlow",
+      "bury-st-edmunds"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "kettering",
+    "name": "Kettering",
+    "region": "East Midlands",
+    "county": "Northamptonshire",
+    "pf": 0.9,
+    "nearby": [
+      "northampton",
+      "peterborough",
+      "leicester",
+      "bedford",
+      "loughborough"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "boston",
+    "name": "Boston",
+    "region": "East Midlands",
+    "county": "Lincolnshire",
+    "pf": 0.85,
+    "nearby": [
+      "lincoln",
+      "peterborough",
+      "grantham",
+      "kings-lynn",
+      "scunthorpe"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "skegness",
+    "name": "Skegness",
+    "region": "East Midlands",
+    "county": "Lincolnshire",
+    "pf": 0.85,
+    "nearby": [
+      "boston",
+      "lincoln",
+      "grimsby",
+      "grantham",
+      "peterborough"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "solihull",
+    "name": "Solihull",
+    "region": "West Midlands",
+    "county": "West Midlands",
+    "pf": 1,
+    "nearby": [
+      "birmingham",
+      "coventry",
+      "warwick",
+      "leamington-spa",
+      "redditch"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "bromsgrove",
+    "name": "Bromsgrove",
+    "region": "West Midlands",
+    "county": "Worcestershire",
+    "pf": 0.95,
+    "nearby": [
+      "redditch",
+      "kidderminster",
+      "worcester",
+      "birmingham",
+      "coventry"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "cannock",
+    "name": "Cannock",
+    "region": "West Midlands",
+    "county": "Staffordshire",
+    "pf": 0.9,
+    "nearby": [
+      "walsall",
+      "wolverhampton",
+      "stafford",
+      "lichfield",
+      "burton-upon-trent"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "preston",
+    "name": "Preston",
+    "region": "North West England",
+    "county": "Lancashire",
+    "pf": 0.9,
+    "nearby": [
+      "blackburn",
+      "blackpool",
+      "burnley",
+      "warrington",
+      "wigan"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "lancaster",
+    "name": "Lancaster",
+    "region": "North West England",
+    "county": "Lancashire",
+    "pf": 0.9,
+    "nearby": [
+      "preston",
+      "blackpool",
+      "blackburn",
+      "burnley",
+      "warrington"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "southport",
+    "name": "Southport",
+    "region": "North West England",
+    "county": "Merseyside",
+    "pf": 0.95,
+    "nearby": [
+      "liverpool",
+      "preston",
+      "blackpool",
+      "warrington",
+      "wigan"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "carlisle",
+    "name": "Carlisle",
+    "region": "North West England",
+    "county": "Cumbria",
+    "pf": 0.85,
+    "nearby": [
+      "lancaster",
+      "preston",
+      "newcastle-upon-tyne",
+      "durham",
+      "blackpool"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "barrow-in-furness",
+    "name": "Barrow-in-Furness",
+    "region": "North West England",
+    "county": "Cumbria",
+    "pf": 0.85,
+    "nearby": [
+      "lancaster",
+      "preston",
+      "blackpool",
+      "carlisle",
+      "blackburn"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "halifax",
+    "name": "Halifax",
+    "region": "Yorkshire and the Humber",
+    "county": "West Yorkshire",
+    "pf": 0.9,
+    "nearby": [
+      "huddersfield",
+      "bradford",
+      "keighley",
+      "leeds",
+      "wakefield"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "bridlington",
+    "name": "Bridlington",
+    "region": "Yorkshire and the Humber",
+    "county": "East Riding of Yorkshire",
+    "pf": 0.85,
+    "nearby": [
+      "scarborough",
+      "york",
+      "kingston-upon-hull",
+      "grimsby",
+      "harrogate"
+    ],
+    "indexable": false
+  },
+  {
+    "slug": "beverley",
+    "name": "Beverley",
+    "region": "Yorkshire and the Humber",
+    "county": "East Riding of Yorkshire",
+    "pf": 0.9,
+    "nearby": [
+      "kingston-upon-hull",
+      "york",
+      "scarborough",
+      "grimsby",
+      "bridlington"
+    ],
+    "indexable": false
   }
 ]

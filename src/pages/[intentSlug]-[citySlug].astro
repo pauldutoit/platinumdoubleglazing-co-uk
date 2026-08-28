@@ -6,18 +6,41 @@ import siteConfig from '../data/site.config.json';
 import cities from '../data/cities.json';
 import intents from '../data/intents.json';
 import cityEnrichment from '../data/cityEnrichment.json';
+import intentEnrichment from '../data/intentEnrichment.json';
 
 export async function getStaticPaths() {
   const entries = await getCollection('cityContent');
-  return entries.map((entry) => ({
-    params: { intentSlug: entry.data.intentSlug, citySlug: entry.data.citySlug },
-    props: { entry },
-  }));
+  const byKey = new Map<string, typeof entries[number]>();
+  for (const e of entries) byKey.set(`${e.data.intentSlug}::${e.data.citySlug}`, e);
+
+  const paths = [];
+  for (const city of cities) {
+    for (const intent of intents) {
+      const entry = byKey.get(`${intent.slug}::${city.slug}`) ?? null;
+      paths.push({
+        params: { intentSlug: intent.slug, citySlug: city.slug },
+        props: { entry, cityMeta: city, intentMeta: intent },
+      });
+    }
+  }
+  return paths;
 }
 
-const { entry } = Astro.props;
-const { Content } = await render(entry);
-const { city, citySlug, intent, intentSlug, indexable, metaTitle, metaDescription } = entry.data;
+const { entry, cityMeta, intentMeta } = Astro.props as any;
+const hasContent = !!entry;
+const Content = hasContent ? (await render(entry)).Content : null;
+
+const city: string = entry?.data.city ?? cityMeta.name;
+const citySlug: string = entry?.data.citySlug ?? cityMeta.slug;
+const intent: string = entry?.data.intent ?? intentMeta.label;
+const intentSlug: string = entry?.data.intentSlug ?? intentMeta.slug;
+// Fallback pages (no LLM body yet) are hard-set to noindex to avoid thin content.
+const indexable: boolean = hasContent ? entry.data.indexable : false;
+const metaTitle: string = entry?.data.metaTitle ?? `${intentMeta.label} in ${cityMeta.name} | ${siteConfig.siteName}`;
+const priceRangeStr = intentMeta.basePriceRange
+  ? `from £${Math.round(intentMeta.basePriceRange[0] * (cityMeta.pf ?? 1))}`
+  : intentMeta.priceFrom ?? '';
+const metaDescription: string = entry?.data.metaDescription ?? `${intentMeta.label} in ${cityMeta.name} ${priceRangeStr}. Free, no-obligation quotes from vetted local installers.`;
 
 // Extract FAQ pairs from the FAQ section of the raw markdown body, so we can
 // emit a FAQPage JSON-LD without touching the visible content (which is still
@@ -41,7 +64,9 @@ function extractFaqs(markdown: string): { question: string; answer: string }[] {
   return faqs;
 }
 
-const faqs = extractFaqs(entry.body ?? '');
+const faqs = hasContent ? extractFaqs(entry.body ?? '') : [];
+type IntentEnrichment = { hubIntro?: string; hubBody?: string[]; hubTips?: string[]; commonSpecs?: string };
+const intentExtra: IntentEnrichment = (intentEnrichment as Record<string, IntentEnrichment>)[intentSlug] ?? {};
 
 const cityRecord = cities.find((c) => c.slug === citySlug);
 type CityEnrichment = { postcodes?: string[]; houseTypes?: string; notableAreas?: string[]; conservationNote?: string; dominantEra?: string };
@@ -144,7 +169,19 @@ const faqSchema = faqs.length
           </tbody>
         </table>
 
-        <Content />
+        {hasContent && Content ? <Content /> : (
+          <div class="fallback-body">
+            <p class="lede">Looking for {intent.toLowerCase()} in {city}? Compare free, no-obligation quotes from vetted local installers in your area. Typical prices in {city} sit around {priceRangeStr} depending on unit count and specification.</p>
+            {intentExtra.hubIntro && <p>{intentExtra.hubIntro}</p>}
+            {(intentExtra.hubBody ?? []).slice(0, 1).map((para) => <p>{para}</p>)}
+            {intentExtra.commonSpecs && (
+              <>
+                <h2>Popular specs for {intent.toLowerCase()}</h2>
+                <p>{intentExtra.commonSpecs}</p>
+              </>
+            )}
+          </div>
+        )}
 
         {(enrichment.houseTypes || enrichment.notableAreas?.length || enrichment.conservationNote || enrichment.dominantEra) && (
           <section class="local-context">
