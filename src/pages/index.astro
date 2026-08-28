@@ -42,7 +42,8 @@ const faqSchema = {
       </div>
       <div class="hero-form-card card">
         <h2>Get a free quote</h2>
-        <ContactForm />
+        <p class="hero-form-sub">Takes under a minute. No cold calls.</p>
+        <ContactForm compact />
       </div>
     </div>
   </section>
@@ -66,7 +67,7 @@ const faqSchema = {
       <div class="grid grid-3">
         {intents.map((i) => (
           <div class="card">
-            <a href={`/${i.slug}-${cities[0].slug}/`}>
+            <a href={`/services/${i.slug}/`}>
               {i.icon && <span class="icon">{i.icon}</span>}
               <h3>{i.label}</h3>
               <p>{i.searchIntent}</p>
@@ -102,9 +103,12 @@ const faqSchema = {
         <p>Don't see your town? Call us, we likely still cover it.</p>
       </div>
       <ul class="pill-list">
-        {cities.map((c) => (
-          <li><a class="pill" href={`/${intents[0].slug}-${c.slug}/`}>{c.name}</a></li>
-        ))}
+        {cities.map((c, idx) => {
+          const rotated = intents[idx % intents.length];
+          return (
+            <li><a class="pill" href={`/${rotated.slug}-${c.slug}/`}>{c.name}</a></li>
+          );
+        })}
       </ul>
     </div>
   </section>

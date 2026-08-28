@@ -105,6 +105,20 @@ const primaryIntentSlug = intents[0]?.slug ?? 'casement-windows';
         </span>
         {siteConfig.siteName}
       </a>
+
+      <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="primary-nav">
+        <span></span><span></span><span></span>
+      </button>
+
+      <nav id="primary-nav" class="primary-nav" aria-label="Primary">
+        <ul>
+          {intents.map((i) => (
+            <li><a href={`/services/${i.slug}/`}>{i.shortLabel ?? i.label}</a></li>
+          ))}
+          <li><a href="/areas">Areas</a></li>
+        </ul>
+      </nav>
+
       <div class="header-actions">
         {siteConfig.phoneEnabled !== false ? (
           <Fragment>
@@ -116,6 +130,19 @@ const primaryIntentSlug = intents[0]?.slug ?? 'casement-windows';
         )}
       </div>
     </header>
+
+    <script is:inline>
+      (function () {
+        var btn = document.querySelector('.nav-toggle');
+        var nav = document.getElementById('primary-nav');
+        if (!btn || !nav) return;
+        btn.addEventListener('click', function () {
+          var open = nav.classList.toggle('is-open');
+          btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+          btn.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+        });
+      })();
+    </script>
     <main>
       <slot />
     </main>
@@ -138,7 +165,7 @@ const primaryIntentSlug = intents[0]?.slug ?? 'casement-windows';
           <h4>Services</h4>
           <ul class="footer-links">
             {intents.map((i) => (
-              <li><a href={`/${i.slug}-${popularCities[0]?.slug ?? cities[0].slug}/`}>{i.shortLabel ?? i.label}</a></li>
+              <li><a href={`/services/${i.slug}/`}>{i.shortLabel ?? i.label}</a></li>
             ))}
           </ul>
         </div>

@@ -1,12 +1,17 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 import siteConfig from '../data/site.config.json';
+import intents from '../data/intents.json';
 
 export const GET: APIRoute = async () => {
   const entries = await getCollection('cityContent');
   const indexableEntries = entries.filter((e) => e.data.indexable);
 
-  const staticUrls = ['/'];
+  const staticUrls = [
+    '/',
+    '/areas',
+    ...intents.map((i) => `/services/${i.slug}/`),
+  ];
 
   const urls = [
     ...staticUrls,

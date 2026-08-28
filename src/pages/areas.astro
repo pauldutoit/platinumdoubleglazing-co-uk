@@ -10,34 +10,112 @@ const regions = [...new Set(cities.map((c) => c.region))].sort();
 <BaseLayout
   title={`All areas we cover | ${siteConfig.siteName}`}
   description={`Every city and service ${siteConfig.siteName} covers, grouped by region.`}
-  indexable={false}
 >
   <div class="container" style="padding-top: 1.5rem;">
     <nav class="breadcrumb" aria-label="breadcrumb"><a href="/">Home</a> / All areas</nav>
     <h1>All areas we cover</h1>
     <p class="lede">Every city and service in one place. Pick a city below to see all services available there.</p>
 
-    {regions.map((region) => (
-      <section class="section" style="padding-top: 1.5rem;">
-        <h2>{region}</h2>
-        <div class="areas-grid">
-          {cities.filter((c) => c.region === region).map((c) => (
-            <div class="areas-city">
-              <h3>{c.name}</h3>
-              <ul class="pill-list">
-                {intents.map((i) => (
-                  <li><a class="pill" href={`/${i.slug}-${c.slug}/`}>{i.shortLabel ?? i.label}</a></li>
-                ))}
-              </ul>
-            </div>
-          ))}
-        </div>
-      </section>
-    ))}
+    <section class="services-nav-strip">
+      <h2>Browse by service</h2>
+      <ul class="pill-list">
+        {intents.map((i) => (
+          <li><a class="pill" href={`/services/${i.slug}/`}>{i.label}</a></li>
+        ))}
+      </ul>
+    </section>
+
+    <div class="areas-search card">
+      <label for="areas-search-input" class="sr-only">Search for your town or city</label>
+      <input
+        id="areas-search-input"
+        type="search"
+        placeholder="Search for your town or city..."
+        autocomplete="off"
+        aria-controls="areas-list"
+      />
+      <p id="areas-search-status" class="areas-search-status" role="status" aria-live="polite"></p>
+    </div>
+
+    <div id="areas-list" data-total={cities.length}>
+      {regions.map((region) => (
+        <section class="section areas-region" data-region-section style="padding-top: 1.5rem;">
+          <h2>{region}</h2>
+          <div class="areas-grid">
+            {cities.filter((c) => c.region === region).map((c) => (
+              <div class="areas-city" data-city-card data-city-name={c.name.toLowerCase()}>
+                <h3>{c.name}</h3>
+                <ul class="pill-list">
+                  {intents.map((i) => (
+                    <li><a class="pill" href={`/${i.slug}-${c.slug}/`}>{i.shortLabel ?? i.label}</a></li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+          <p class="areas-region-empty" data-region-empty hidden>No matches in this region.</p>
+        </section>
+      ))}
+    </div>
+    <p id="areas-search-empty" class="areas-search-empty" hidden>No town or city matches your search. Try a different spelling or <a href="/quote">request a quote anyway</a> - we likely still cover it.</p>
   </div>
 </BaseLayout>
+
+<script>
+  const input = document.getElementById('areas-search-input');
+  const list = document.getElementById('areas-list');
+  const status = document.getElementById('areas-search-status');
+  const emptyMsg = document.getElementById('areas-search-empty');
+  if (input && list && status && emptyMsg) {
+    const cards = Array.from(list.querySelectorAll('[data-city-card]'));
+    const regionSections = Array.from(list.querySelectorAll('[data-region-section]'));
+    const total = cards.length;
+
+    const applyFilter = (raw) => {
+      const q = raw.trim().toLowerCase();
+      let visible = 0;
+      cards.forEach((card) => {
+        const name = card.getAttribute('data-city-name') || '';
+        const match = q === '' || name.includes(q);
+        (card as HTMLElement).hidden = !match;
+        if (match) visible++;
+      });
+      regionSections.forEach((section) => {
+        const anyVisible = Array.from(section.querySelectorAll('[data-city-card]')).some((c) => !(c as HTMLElement).hidden);
+        (section as HTMLElement).hidden = !anyVisible;
+      });
+      emptyMsg.hidden = visible !== 0;
+      status.textContent = q === '' ? '' : `${visible} of ${total} areas match`;
+    };
+
+    input.addEventListener('input', (e) => applyFilter((e.target as HTMLInputElement).value));
+  }
+</script>
 
 <style>
   .areas-grid { display: grid; gap: 1.5rem; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); }
   .areas-city h3 { font-size: 1rem; margin-bottom: 0.5rem; }
+  .areas-search { padding: 1rem 1.25rem; margin: 1.5rem 0 0; display: grid; gap: 0.5rem; max-width: 520px; }
+  .areas-search input {
+    padding: 0.75rem 0.9rem;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-sm);
+    font: inherit;
+    color: var(--color-ink);
+    background: var(--color-surface);
+  }
+  .areas-search input:focus { outline: none; border-color: var(--color-primary); box-shadow: 0 0 0 3px var(--color-primary-tint); }
+  .areas-search-status { margin: 0; font-size: 0.85rem; color: var(--color-muted); min-height: 1.2em; }
+  .areas-search-empty {
+    padding: 1rem 1.25rem;
+    background: var(--color-surface-alt);
+    border-radius: var(--radius-sm);
+    font-size: 0.95rem;
+    color: var(--color-body);
+    max-width: 520px;
+    margin: 1rem 0 0;
+  }
+  .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); border: 0; }
+  .services-nav-strip { margin: 1.5rem 0; }
+  .services-nav-strip h2 { font-size: 1rem; margin: 0 0 0.5rem; color: var(--color-muted); text-transform: uppercase; letter-spacing: 0.04em; }
 </style>

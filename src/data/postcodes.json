@@ -1,0 +1,23 @@
+{
+  "_note": "Postcode districts (outward codes) rendered on city pages. Real, verifiable data - not spun. Add a city's slug here when you can list its actual districts; omit when unsure. Empty/missing = no postcode block rendered on that page.",
+  "london": ["E1", "EC1", "N1", "NW1", "SE1", "SW1", "W1", "WC1", "W2", "N7", "SE15"],
+  "manchester": ["M1", "M2", "M3", "M4", "M14", "M15", "M20", "M21"],
+  "birmingham": ["B1", "B2", "B3", "B4", "B5", "B15", "B16", "B29"],
+  "leeds": ["LS1", "LS2", "LS3", "LS6", "LS8", "LS11", "LS17"],
+  "bristol": ["BS1", "BS2", "BS3", "BS4", "BS6", "BS8", "BS9"],
+  "glasgow": ["G1", "G2", "G3", "G4", "G12", "G13", "G20", "G41"],
+  "liverpool": ["L1", "L2", "L3", "L8", "L15", "L17", "L18"],
+  "sheffield": ["S1", "S2", "S3", "S6", "S7", "S10", "S11"],
+  "edinburgh": ["EH1", "EH2", "EH3", "EH8", "EH9", "EH10", "EH12"],
+  "newcastle": ["NE1", "NE2", "NE3", "NE4", "NE6", "NE7"],
+  "nottingham": ["NG1", "NG2", "NG3", "NG7", "NG8"],
+  "cardiff": ["CF10", "CF11", "CF14", "CF23", "CF24"],
+  "croydon": ["CR0", "CR2", "CR3", "CR7", "CR8", "CR9"],
+  "brighton": ["BN1", "BN2", "BN3"],
+  "cambridge": ["CB1", "CB2", "CB3", "CB4", "CB5"],
+  "oxford": ["OX1", "OX2", "OX3", "OX4"],
+  "reading": ["RG1", "RG2", "RG4", "RG6", "RG30"],
+  "southampton": ["SO14", "SO15", "SO16", "SO17", "SO18"],
+  "york": ["YO1", "YO10", "YO23", "YO24", "YO26", "YO30", "YO31"],
+  "bath": ["BA1", "BA2"]
+}
