@@ -4,7 +4,7 @@ citySlug: "portsmouth"
 intent: "Sash Windows"
 intentSlug: "sash-windows"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Sash Windows in Portsmouth | Platinum Double Glazing"
 metaDescription: "Double-glazed sash window replacement in Portsmouth from £618. Conservation-area experience, free quotes."
 generatedAt: "2026-08-27"

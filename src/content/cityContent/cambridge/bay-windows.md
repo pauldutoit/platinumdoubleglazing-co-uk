@@ -4,7 +4,7 @@ citySlug: "cambridge"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "East of England"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Cambridge | Platinum Double Glazing"
 metaDescription: "Bay window installation in Cambridge from £1368. Structural checks included, free no-obligation quotes."
 generatedAt: "2026-08-27"

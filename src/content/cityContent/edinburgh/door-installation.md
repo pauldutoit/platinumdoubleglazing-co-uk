@@ -4,7 +4,7 @@ citySlug: "edinburgh"
 intent: "Door Installation"
 intentSlug: "door-installation"
 region: "Scotland"
-indexable: false
+indexable: true
 metaTitle: "Door Installation in Edinburgh | Platinum Double Glazing"
 metaDescription: "Composite & uPVC door installation in Edinburgh from £808. Multi-point locking, free quotes."
 generatedAt: "2026-08-27"

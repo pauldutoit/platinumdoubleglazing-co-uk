@@ -4,7 +4,7 @@ citySlug: "cambridge"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "East of England"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Cambridge | Platinum Double Glazing"
 metaDescription: "A-rated casement windows in Cambridge from £399. Free quotes from FENSA-registered installers."
 generatedAt: "2026-08-27"

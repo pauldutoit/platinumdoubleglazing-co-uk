@@ -4,7 +4,7 @@ citySlug: "portsmouth"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Portsmouth | Platinum Double Glazing"
 metaDescription: "Bay window installation in Portsmouth from £1236. Structural checks included, free no-obligation quotes."
 generatedAt: "2026-08-27"

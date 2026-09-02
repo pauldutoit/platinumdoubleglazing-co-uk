@@ -4,7 +4,7 @@ citySlug: "leicester"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Leicester | Platinum Double Glazing"
 metaDescription: "Bay window installation in Leicester from £1068. Structural checks included, free no-obligation quotes."
 generatedAt: "2026-08-27"

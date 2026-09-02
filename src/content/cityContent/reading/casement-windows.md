@@ -4,7 +4,7 @@ citySlug: "reading"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Reading | Platinum Double Glazing"
 metaDescription: "A-rated casement windows in Reading from £392. Free quotes from FENSA-registered installers."
 generatedAt: "2026-08-27"

@@ -4,7 +4,7 @@ citySlug: "nottingham"
 intent: "Sash Windows"
 intentSlug: "sash-windows"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "Sash Windows in Nottingham | Platinum Double Glazing"
 metaDescription: "Double-glazed sash window replacement in Nottingham from £534. Conservation-area experience, free quotes."
 generatedAt: "2026-08-27"

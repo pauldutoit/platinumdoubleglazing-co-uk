@@ -4,7 +4,7 @@ citySlug: "swansea"
 intent: "Door Installation"
 intentSlug: "door-installation"
 region: "Wales"
-indexable: false
+indexable: true
 metaTitle: "Door Installation in Swansea | Platinum Double Glazing"
 metaDescription: "Composite & uPVC door installation in Swansea from £731. Multi-point locking, free quotes."
 generatedAt: "2026-08-27"

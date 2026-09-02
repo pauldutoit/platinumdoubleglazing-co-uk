@@ -4,7 +4,7 @@ citySlug: "london"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "Greater London"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in London | Platinum Double Glazing"
 metaDescription: "A-rated casement window installation across London, from £438. Free no-obligation quotes from vetted local installers."
 generatedAt: "2026-08-27"

@@ -4,7 +4,7 @@ citySlug: "portsmouth"
 intent: "Window Repair"
 intentSlug: "window-repair"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Window Repair in Portsmouth | Platinum Double Glazing"
 metaDescription: "Fast window repairs in Portsmouth from £92. Misted units, hinges & locks fixed, free quotes."
 generatedAt: "2026-08-27"

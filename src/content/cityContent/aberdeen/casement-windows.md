@@ -4,7 +4,7 @@ citySlug: "aberdeen"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "Scotland"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Aberdeen | Platinum Double Glazing"
 metaDescription: "A-rated casement windows in Aberdeen from £315. Free quotes from FENSA-registered installers."
 generatedAt: "2026-08-27"

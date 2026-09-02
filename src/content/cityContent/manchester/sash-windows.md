@@ -4,7 +4,7 @@ citySlug: "manchester"
 intent: "Sash Windows"
 intentSlug: "sash-windows"
 region: "North West England"
-indexable: false
+indexable: true
 metaTitle: "Sash Windows in Manchester | Platinum Double Glazing"
 metaDescription: "Double-glazed sash window replacement in Manchester from £540. Conservation-area experience, free quotes."
 generatedAt: "2026-08-27"

@@ -4,7 +4,7 @@ citySlug: "aberdeen"
 intent: "Sash Windows"
 intentSlug: "sash-windows"
 region: "Scotland"
-indexable: false
+indexable: true
 metaTitle: "Sash Windows in Aberdeen | Platinum Double Glazing"
 metaDescription: "Double-glazed sash window replacement in Aberdeen from £540. Conservation-area experience, free quotes."
 generatedAt: "2026-08-27"

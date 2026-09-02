@@ -4,7 +4,7 @@ citySlug: "portsmouth"
 intent: "Door Installation"
 intentSlug: "door-installation"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Door Installation in Portsmouth | Platinum Double Glazing"
 metaDescription: "Composite & uPVC door installation in Portsmouth from £876. Multi-point locking, free quotes."
 generatedAt: "2026-08-27"

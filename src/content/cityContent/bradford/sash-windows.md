@@ -4,7 +4,7 @@ citySlug: "bradford"
 intent: "Sash Windows"
 intentSlug: "sash-windows"
 region: "Yorkshire and the Humber"
-indexable: false
+indexable: true
 metaTitle: "Sash Windows in Bradford | Platinum Double Glazing"
 metaDescription: "Double-glazed sash window replacement in Bradford from £516. Conservation-area experience, free quotes."
 generatedAt: "2026-08-27"

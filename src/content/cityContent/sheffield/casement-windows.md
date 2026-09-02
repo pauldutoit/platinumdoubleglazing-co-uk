@@ -4,7 +4,7 @@ citySlug: "sheffield"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "Yorkshire and the Humber"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Sheffield | Platinum Double Glazing"
 metaDescription: "A-rated casement windows in Sheffield from £305. Free quotes from FENSA-registered installers."
 generatedAt: "2026-08-27"

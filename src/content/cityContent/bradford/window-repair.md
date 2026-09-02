@@ -4,7 +4,7 @@ citySlug: "bradford"
 intent: "Window Repair"
 intentSlug: "window-repair"
 region: "Yorkshire and the Humber"
-indexable: false
+indexable: true
 metaTitle: "Window Repair in Bradford | Platinum Double Glazing"
 metaDescription: "Fast window repairs in Bradford from £77. Misted units, hinges & locks fixed, free quotes."
 generatedAt: "2026-08-27"

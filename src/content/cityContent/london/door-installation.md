@@ -4,7 +4,7 @@ citySlug: "london"
 intent: "Door Installation"
 intentSlug: "door-installation"
 region: "London"
-indexable: false
+indexable: true
 metaTitle: "Door Installation in London | Platinum Double Glazing"
 metaDescription: "Composite & uPVC door installation in London from £1063. Multi-point locking, free quotes."
 generatedAt: "2026-08-27"

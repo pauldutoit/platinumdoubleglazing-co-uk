@@ -4,7 +4,7 @@ citySlug: "coventry"
 intent: "Sash Windows"
 intentSlug: "sash-windows"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Sash Windows in Coventry | Platinum Double Glazing"
 metaDescription: "Double-glazed sash window replacement in Coventry from £546. Conservation-area experience, free quotes."
 generatedAt: "2026-08-27"

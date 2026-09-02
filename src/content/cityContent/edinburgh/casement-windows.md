@@ -4,7 +4,7 @@ citySlug: "edinburgh"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "Scotland"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Edinburgh | Platinum Double Glazing"
 metaDescription: "A-rated casement windows in Edinburgh from £333. Free quotes from FENSA-registered installers."
 generatedAt: "2026-08-27"

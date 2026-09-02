@@ -4,7 +4,7 @@ citySlug: "oxford"
 intent: "Door Installation"
 intentSlug: "door-installation"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Door Installation in Oxford | Platinum Double Glazing"
 metaDescription: "Composite & uPVC door installation in Oxford from £977. Multi-point locking, free quotes."
 generatedAt: "2026-08-27"

@@ -4,7 +4,7 @@ citySlug: "nottingham"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Nottingham | Platinum Double Glazing"
 metaDescription: "A-rated casement windows in Nottingham from £312. Free quotes from FENSA-registered installers."
 generatedAt: "2026-08-27"

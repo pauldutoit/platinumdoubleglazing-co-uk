@@ -4,7 +4,7 @@ citySlug: "plymouth"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "South West England"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Plymouth | Platinum Double Glazing"
 metaDescription: "Bay window installation in Plymouth from £1080. Structural checks included, free no-obligation quotes."
 generatedAt: "2026-08-27"

@@ -4,7 +4,7 @@ citySlug: "newcastle-upon-tyne"
 intent: "Window Repair"
 intentSlug: "window-repair"
 region: "North East England"
-indexable: false
+indexable: true
 metaTitle: "Window Repair in Newcastle upon Tyne | Platinum Glazing"
 metaDescription: "Fast window repairs in Newcastle upon Tyne from £76. Misted units, hinges & locks fixed, free quotes."
 generatedAt: "2026-08-27"

@@ -4,7 +4,7 @@ citySlug: "swansea"
 intent: "Sash Windows"
 intentSlug: "sash-windows"
 region: "Wales"
-indexable: false
+indexable: true
 metaTitle: "Sash Windows in Swansea | Platinum Double Glazing"
 metaDescription: "Double-glazed sash window replacement in Swansea from £516. Conservation-area experience, free quotes."
 generatedAt: "2026-08-27"

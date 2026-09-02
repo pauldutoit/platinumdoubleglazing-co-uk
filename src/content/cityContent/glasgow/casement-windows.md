@@ -4,7 +4,7 @@ citySlug: "glasgow"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "Scotland"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Glasgow | Platinum Double Glazing"
 metaDescription: "A-rated casement windows in Glasgow from £308. Free quotes from FENSA-registered installers."
 generatedAt: "2026-08-27"

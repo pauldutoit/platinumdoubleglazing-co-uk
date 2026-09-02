@@ -4,7 +4,7 @@ citySlug: "london"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "London"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in London | Platinum Double Glazing"
 metaDescription: "Bay window installation in London from £1500. Structural checks included, free no-obligation quotes."
 generatedAt: "2026-08-27"

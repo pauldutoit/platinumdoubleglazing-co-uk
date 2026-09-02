@@ -4,7 +4,7 @@ citySlug: "reading"
 intent: "Door Installation"
 intentSlug: "door-installation"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Door Installation in Reading | Platinum Double Glazing"
 metaDescription: "Composite & uPVC door installation in Reading from £952. Multi-point locking, free quotes."
 generatedAt: "2026-08-27"

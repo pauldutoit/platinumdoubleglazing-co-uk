@@ -4,7 +4,7 @@ citySlug: "nottingham"
 intent: "Door Installation"
 intentSlug: "door-installation"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "Door Installation in Nottingham | Platinum Double Glazing"
 metaDescription: "Composite & uPVC door installation in Nottingham from £757. Multi-point locking, free quotes."
 generatedAt: "2026-08-27"

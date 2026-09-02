@@ -4,7 +4,7 @@ citySlug: "glasgow"
 intent: "Sash Windows"
 intentSlug: "sash-windows"
 region: "Scotland"
-indexable: false
+indexable: true
 metaTitle: "Sash Windows in Glasgow | Platinum Double Glazing"
 metaDescription: "Double-glazed sash window replacement in Glasgow from £528. Conservation-area experience, free quotes."
 generatedAt: "2026-08-27"

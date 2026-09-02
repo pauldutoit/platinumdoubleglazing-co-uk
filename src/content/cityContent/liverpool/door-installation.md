@@ -4,7 +4,7 @@ citySlug: "liverpool"
 intent: "Door Installation"
 intentSlug: "door-installation"
 region: "North West England"
-indexable: false
+indexable: true
 metaTitle: "Door Installation in Liverpool | Platinum Double Glazing"
 metaDescription: "Composite & uPVC door installation in Liverpool from £748. Multi-point locking, free quotes."
 generatedAt: "2026-08-27"

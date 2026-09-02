@@ -4,7 +4,7 @@ citySlug: "cardiff"
 intent: "Door Installation"
 intentSlug: "door-installation"
 region: "Wales"
-indexable: false
+indexable: true
 metaTitle: "Door Installation in Cardiff | Platinum Double Glazing"
 metaDescription: "Composite & uPVC door installation in Cardiff from £748. Multi-point locking, free quotes."
 generatedAt: "2026-08-27"

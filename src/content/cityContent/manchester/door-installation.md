@@ -4,7 +4,7 @@ citySlug: "manchester"
 intent: "Door Installation"
 intentSlug: "door-installation"
 region: "North West England"
-indexable: false
+indexable: true
 metaTitle: "Door Installation in Manchester | Platinum Double Glazing"
 metaDescription: "Composite & uPVC door installation in Manchester from £765. Multi-point locking, free quotes."
 generatedAt: "2026-08-27"

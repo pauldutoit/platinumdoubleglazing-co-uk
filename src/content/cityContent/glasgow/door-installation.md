@@ -4,7 +4,7 @@ citySlug: "glasgow"
 intent: "Door Installation"
 intentSlug: "door-installation"
 region: "Scotland"
-indexable: false
+indexable: true
 metaTitle: "Door Installation in Glasgow | Platinum Double Glazing"
 metaDescription: "Composite & uPVC door installation in Glasgow from £748. Multi-point locking, free quotes."
 generatedAt: "2026-08-27"

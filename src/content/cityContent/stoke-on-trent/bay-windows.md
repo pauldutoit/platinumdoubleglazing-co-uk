@@ -4,7 +4,7 @@ citySlug: "stoke-on-trent"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Stoke-on-Trent | Platinum Double Glazing"
 metaDescription: "Bay window installation in Stoke-on-Trent from £1032. Structural checks included, free no-obligation quotes."
 generatedAt: "2026-08-27"

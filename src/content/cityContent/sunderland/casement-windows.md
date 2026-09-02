@@ -4,7 +4,7 @@ citySlug: "sunderland"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "North East England"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Sunderland | Platinum Double Glazing"
 metaDescription: "A-rated casement windows in Sunderland from £291. Free quotes from FENSA-registered installers."
 generatedAt: "2026-08-27"

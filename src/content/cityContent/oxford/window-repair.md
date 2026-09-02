@@ -4,7 +4,7 @@ citySlug: "oxford"
 intent: "Window Repair"
 intentSlug: "window-repair"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Window Repair in Oxford | Platinum Double Glazing"
 metaDescription: "Fast window repairs in Oxford from £102. Misted units, hinges & locks fixed, free quotes."
 generatedAt: "2026-08-27"

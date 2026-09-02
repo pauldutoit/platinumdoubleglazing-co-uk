@@ -4,7 +4,7 @@ citySlug: "leeds"
 intent: "Window Repair"
 intentSlug: "window-repair"
 region: "Yorkshire and the Humber"
-indexable: false
+indexable: true
 metaTitle: "Window Repair in Leeds | Platinum Double Glazing"
 metaDescription: "Fast window repairs in Leeds from £78. Misted units, hinges & locks fixed, free quotes."
 generatedAt: "2026-08-27"

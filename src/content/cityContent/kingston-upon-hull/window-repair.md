@@ -4,7 +4,7 @@ citySlug: "kingston-upon-hull"
 intent: "Window Repair"
 intentSlug: "window-repair"
 region: "Yorkshire and the Humber"
-indexable: false
+indexable: true
 metaTitle: "Window Repair in Kingston upon Hull | Platinum Glazing"
 metaDescription: "Fast window repairs in Kingston upon Hull from £75. Misted units, hinges & locks fixed, free quotes."
 generatedAt: "2026-08-27"

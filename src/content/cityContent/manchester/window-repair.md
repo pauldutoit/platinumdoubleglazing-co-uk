@@ -4,7 +4,7 @@ citySlug: "manchester"
 intent: "Window Repair"
 intentSlug: "window-repair"
 region: "North West England"
-indexable: false
+indexable: true
 metaTitle: "Window Repair in Manchester | Platinum Double Glazing"
 metaDescription: "Fast window repairs in Manchester from £80. Misted units, hinges & locks fixed, free quotes."
 generatedAt: "2026-08-27"

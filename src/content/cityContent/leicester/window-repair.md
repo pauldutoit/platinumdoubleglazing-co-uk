@@ -4,7 +4,7 @@ citySlug: "leicester"
 intent: "Window Repair"
 intentSlug: "window-repair"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "Window Repair in Leicester | Platinum Double Glazing"
 metaDescription: "Fast window repairs in Leicester from £79. Misted units, hinges & locks fixed, free quotes."
 generatedAt: "2026-08-27"

@@ -4,7 +4,7 @@ citySlug: "liverpool"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "North West England"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Liverpool | Platinum Double Glazing"
 metaDescription: "Bay window installation in Liverpool from £1056. Structural checks included, free no-obligation quotes."
 generatedAt: "2026-08-27"

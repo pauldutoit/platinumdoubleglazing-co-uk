@@ -4,7 +4,7 @@ citySlug: "norwich"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "East of England"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Norwich | Platinum Double Glazing"
 metaDescription: "A-rated casement windows in Norwich from £319. Free quotes from FENSA-registered installers."
 generatedAt: "2026-08-27"

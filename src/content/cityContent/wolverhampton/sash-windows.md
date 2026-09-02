@@ -4,7 +4,7 @@ citySlug: "wolverhampton"
 intent: "Sash Windows"
 intentSlug: "sash-windows"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Sash Windows in Wolverhampton | Platinum Double Glazing"
 metaDescription: "Double-glazed sash window replacement in Wolverhampton from £540. Conservation-area experience, free quotes."
 generatedAt: "2026-08-27"

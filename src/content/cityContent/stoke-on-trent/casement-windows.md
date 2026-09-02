@@ -4,7 +4,7 @@ citySlug: "stoke-on-trent"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Stoke-on-Trent | Platinum Glazing"
 metaDescription: "A-rated casement windows in Stoke-on-Trent from £301. Free quotes from FENSA-registered installers."
 generatedAt: "2026-08-27"

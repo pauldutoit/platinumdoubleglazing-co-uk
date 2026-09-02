@@ -4,7 +4,7 @@ citySlug: "birmingham"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Birmingham | Platinum Double Glazing"
 metaDescription: "A-rated casement windows in Birmingham from £322. Free quotes from FENSA-registered installers."
 generatedAt: "2026-08-27"

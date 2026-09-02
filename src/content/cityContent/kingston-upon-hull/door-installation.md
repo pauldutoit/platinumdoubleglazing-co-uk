@@ -4,7 +4,7 @@ citySlug: "kingston-upon-hull"
 intent: "Door Installation"
 intentSlug: "door-installation"
 region: "Yorkshire and the Humber"
-indexable: false
+indexable: true
 metaTitle: "Door Installation in Kingston upon Hull | Platinum Glazing"
 metaDescription: "Composite & uPVC door installation in Kingston upon Hull from £714. Multi-point locking, free quotes."
 generatedAt: "2026-08-27"

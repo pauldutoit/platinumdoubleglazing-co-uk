@@ -4,7 +4,7 @@ citySlug: "birmingham"
 intent: "Window Repair"
 intentSlug: "window-repair"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Window Repair in Birmingham | Platinum Double Glazing"
 metaDescription: "Fast window repairs in Birmingham from £82. Misted units, hinges & locks fixed, free quotes."
 generatedAt: "2026-08-27"

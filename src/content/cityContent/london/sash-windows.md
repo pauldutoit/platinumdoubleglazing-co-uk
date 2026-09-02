@@ -4,7 +4,7 @@ citySlug: "london"
 intent: "Sash Windows"
 intentSlug: "sash-windows"
 region: "London"
-indexable: false
+indexable: true
 metaTitle: "Sash Windows in London | Platinum Double Glazing"
 metaDescription: "Double-glazed sash window replacement in London from £750. Conservation-area experience, free quotes."
 generatedAt: "2026-08-27"

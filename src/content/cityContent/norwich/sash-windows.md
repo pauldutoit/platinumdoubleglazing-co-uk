@@ -4,7 +4,7 @@ citySlug: "norwich"
 intent: "Sash Windows"
 intentSlug: "sash-windows"
 region: "East of England"
-indexable: false
+indexable: true
 metaTitle: "Sash Windows in Norwich | Platinum Double Glazing"
 metaDescription: "Double-glazed sash window replacement in Norwich from £546. Conservation-area experience, free quotes."
 generatedAt: "2026-08-27"

@@ -4,7 +4,7 @@ citySlug: "norwich"
 intent: "Window Repair"
 intentSlug: "window-repair"
 region: "East of England"
-indexable: false
+indexable: true
 metaTitle: "Window Repair in Norwich | Platinum Double Glazing"
 metaDescription: "Fast window repairs in Norwich from £81. Misted units, hinges & locks fixed, free quotes."
 generatedAt: "2026-08-27"

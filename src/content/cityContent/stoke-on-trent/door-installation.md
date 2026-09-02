@@ -4,7 +4,7 @@ citySlug: "stoke-on-trent"
 intent: "Door Installation"
 intentSlug: "door-installation"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Door Installation in Stoke-on-Trent | Platinum Glazing"
 metaDescription: "Composite & uPVC door installation in Stoke-on-Trent from £731. Multi-point locking, free quotes."
 generatedAt: "2026-08-27"

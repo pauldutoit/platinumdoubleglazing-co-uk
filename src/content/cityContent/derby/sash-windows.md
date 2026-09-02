@@ -4,7 +4,7 @@ citySlug: "derby"
 intent: "Sash Windows"
 intentSlug: "sash-windows"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "Sash Windows in Derby | Platinum Double Glazing"
 metaDescription: "Double-glazed sash window replacement in Derby from £528. Conservation-area experience, free quotes."
 generatedAt: "2026-08-27"

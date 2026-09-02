@@ -4,7 +4,7 @@ citySlug: "southampton"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Southampton | Platinum Double Glazing"
 metaDescription: "Bay window installation in Southampton from £1260. Structural checks included, free no-obligation quotes."
 generatedAt: "2026-08-27"

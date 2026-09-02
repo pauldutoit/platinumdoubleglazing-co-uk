@@ -4,7 +4,7 @@ citySlug: "sunderland"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "North East England"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Sunderland | Platinum Double Glazing"
 metaDescription: "Bay window installation in Sunderland from £996. Structural checks included, free no-obligation quotes."
 generatedAt: "2026-08-27"

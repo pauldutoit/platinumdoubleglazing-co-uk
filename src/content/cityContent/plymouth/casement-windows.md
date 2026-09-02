@@ -4,7 +4,7 @@ citySlug: "plymouth"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "South West England"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Plymouth | Platinum Double Glazing"
 metaDescription: "A-rated casement windows in Plymouth from £315. Free quotes from FENSA-registered installers."
 generatedAt: "2026-08-27"

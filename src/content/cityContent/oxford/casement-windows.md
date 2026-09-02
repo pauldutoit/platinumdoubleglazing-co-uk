@@ -4,7 +4,7 @@ citySlug: "oxford"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Oxford | Platinum Double Glazing"
 metaDescription: "A-rated casement windows in Oxford from £402. Free quotes from FENSA-registered installers."
 generatedAt: "2026-08-27"

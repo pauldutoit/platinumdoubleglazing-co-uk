@@ -4,7 +4,7 @@ citySlug: "newcastle-upon-tyne"
 intent: "Door Installation"
 intentSlug: "door-installation"
 region: "North East England"
-indexable: false
+indexable: true
 metaTitle: "Door Installation in Newcastle upon Tyne | Platinum Glazing"
 metaDescription: "Composite & uPVC door installation in Newcastle upon Tyne from £723. Multi-point locking, free quotes."
 generatedAt: "2026-08-27"

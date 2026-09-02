@@ -4,7 +4,7 @@ citySlug: "bristol"
 intent: "Sash Windows"
 intentSlug: "sash-windows"
 region: "South West England"
-indexable: false
+indexable: true
 metaTitle: "Sash Windows in Bristol | Platinum Double Glazing"
 metaDescription: "Double-glazed sash window replacement in Bristol from £588. Conservation-area experience, free quotes."
 generatedAt: "2026-08-27"

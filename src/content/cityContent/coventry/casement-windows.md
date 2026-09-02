@@ -4,7 +4,7 @@ citySlug: "coventry"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Coventry | Platinum Double Glazing"
 metaDescription: "A-rated casement windows in Coventry from £319. Free quotes from FENSA-registered installers."
 generatedAt: "2026-08-27"

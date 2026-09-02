@@ -4,7 +4,7 @@ citySlug: "london"
 intent: "Window Repair"
 intentSlug: "window-repair"
 region: "London"
-indexable: false
+indexable: true
 metaTitle: "Window Repair in London | Platinum Double Glazing"
 metaDescription: "Fast window repairs in London from £111. Misted units, hinges & locks fixed, free quotes."
 generatedAt: "2026-08-27"

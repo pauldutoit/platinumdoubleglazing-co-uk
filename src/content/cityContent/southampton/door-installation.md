@@ -4,7 +4,7 @@ citySlug: "southampton"
 intent: "Door Installation"
 intentSlug: "door-installation"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Door Installation in Southampton | Platinum Double Glazing"
 metaDescription: "Composite & uPVC door installation in Southampton from £893. Multi-point locking, free quotes."
 generatedAt: "2026-08-27"

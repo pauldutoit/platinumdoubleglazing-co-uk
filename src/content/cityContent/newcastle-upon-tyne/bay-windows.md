@@ -4,7 +4,7 @@ citySlug: "newcastle-upon-tyne"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "North East England"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Newcastle upon Tyne | Platinum Glazing"
 metaDescription: "Bay window installation in Newcastle upon Tyne from £1020. Structural checks included, free no-obligation quotes."
 generatedAt: "2026-08-27"

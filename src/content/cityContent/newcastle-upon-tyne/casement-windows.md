@@ -4,7 +4,7 @@ citySlug: "newcastle-upon-tyne"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "North East England"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Newcastle upon Tyne | Platinum Glazing"
 metaDescription: "A-rated casement windows in Newcastle upon Tyne from £298. Free quotes from FENSA-registered installers."
 generatedAt: "2026-08-27"

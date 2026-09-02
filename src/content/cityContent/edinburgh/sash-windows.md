@@ -4,7 +4,7 @@ citySlug: "edinburgh"
 intent: "Sash Windows"
 intentSlug: "sash-windows"
 region: "Scotland"
-indexable: false
+indexable: true
 metaTitle: "Sash Windows in Edinburgh | Platinum Double Glazing"
 metaDescription: "Double-glazed sash window replacement in Edinburgh from £570. Conservation-area experience, free quotes."
 generatedAt: "2026-08-27"

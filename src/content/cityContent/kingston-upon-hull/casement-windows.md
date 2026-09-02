@@ -4,7 +4,7 @@ citySlug: "kingston-upon-hull"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "Yorkshire and the Humber"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Kingston upon Hull | Platinum Glazing"
 metaDescription: "A-rated casement windows in Kingston upon Hull from £294. Free quotes from FENSA-registered installers."
 generatedAt: "2026-08-27"

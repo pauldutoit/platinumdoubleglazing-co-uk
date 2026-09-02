@@ -4,7 +4,7 @@ citySlug: "norwich"
 intent: "Door Installation"
 intentSlug: "door-installation"
 region: "East of England"
-indexable: false
+indexable: true
 metaTitle: "Door Installation in Norwich | Platinum Double Glazing"
 metaDescription: "Composite & uPVC door installation in Norwich from £774. Multi-point locking, free quotes."
 generatedAt: "2026-08-27"

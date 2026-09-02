@@ -4,7 +4,7 @@ citySlug: "glasgow"
 intent: "Window Repair"
 intentSlug: "window-repair"
 region: "Scotland"
-indexable: false
+indexable: true
 metaTitle: "Window Repair in Glasgow | Platinum Double Glazing"
 metaDescription: "Fast window repairs in Glasgow from £78. Misted units, hinges & locks fixed, free quotes."
 generatedAt: "2026-08-27"

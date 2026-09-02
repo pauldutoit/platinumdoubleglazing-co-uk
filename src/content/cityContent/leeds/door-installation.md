@@ -4,7 +4,7 @@ citySlug: "leeds"
 intent: "Door Installation"
 intentSlug: "door-installation"
 region: "Yorkshire and the Humber"
-indexable: false
+indexable: true
 metaTitle: "Door Installation in Leeds | Platinum Double Glazing"
 metaDescription: "Composite & uPVC door installation in Leeds from £748. Multi-point locking, free quotes."
 generatedAt: "2026-08-27"

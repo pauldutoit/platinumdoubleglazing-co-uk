@@ -4,7 +4,7 @@ citySlug: "kingston-upon-hull"
 intent: "Sash Windows"
 intentSlug: "sash-windows"
 region: "Yorkshire and the Humber"
-indexable: false
+indexable: true
 metaTitle: "Sash Windows in Kingston upon Hull | Platinum Glazing"
 metaDescription: "Double-glazed sash window replacement in Kingston upon Hull from £504. Conservation-area experience, free quotes."
 generatedAt: "2026-08-27"

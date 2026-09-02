@@ -4,7 +4,7 @@ citySlug: "reading"
 intent: "Sash Windows"
 intentSlug: "sash-windows"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Sash Windows in Reading | Platinum Double Glazing"
 metaDescription: "Double-glazed sash window replacement in Reading from £672. Conservation-area experience, free quotes."
 generatedAt: "2026-08-27"

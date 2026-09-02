@@ -4,7 +4,7 @@ citySlug: "coventry"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Coventry | Platinum Double Glazing"
 metaDescription: "Bay window installation in Coventry from £1092. Structural checks included, free no-obligation quotes."
 generatedAt: "2026-08-27"

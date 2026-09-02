@@ -4,7 +4,7 @@ citySlug: "cambridge"
 intent: "Door Installation"
 intentSlug: "door-installation"
 region: "East of England"
-indexable: false
+indexable: true
 metaTitle: "Door Installation in Cambridge | Platinum Double Glazing"
 metaDescription: "Composite & uPVC door installation in Cambridge from £969. Multi-point locking, free quotes."
 generatedAt: "2026-08-27"

@@ -4,7 +4,7 @@ citySlug: "leeds"
 intent: "Sash Windows"
 intentSlug: "sash-windows"
 region: "Yorkshire and the Humber"
-indexable: false
+indexable: true
 metaTitle: "Sash Windows in Leeds | Platinum Double Glazing"
 metaDescription: "Double-glazed sash window replacement in Leeds from £528. Conservation-area experience, free quotes."
 generatedAt: "2026-08-27"

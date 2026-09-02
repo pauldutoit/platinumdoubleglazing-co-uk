@@ -4,7 +4,7 @@ citySlug: "southampton"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "South East England"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Southampton | Platinum Double Glazing"
 metaDescription: "A-rated casement windows in Southampton from £368. Free quotes from FENSA-registered installers."
 generatedAt: "2026-08-27"

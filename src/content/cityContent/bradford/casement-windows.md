@@ -4,7 +4,7 @@ citySlug: "bradford"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "Yorkshire and the Humber"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Bradford | Platinum Double Glazing"
 metaDescription: "A-rated casement windows in Bradford from £301. Free quotes from FENSA-registered installers."
 generatedAt: "2026-08-27"

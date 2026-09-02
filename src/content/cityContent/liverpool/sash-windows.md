@@ -4,7 +4,7 @@ citySlug: "liverpool"
 intent: "Sash Windows"
 intentSlug: "sash-windows"
 region: "North West England"
-indexable: false
+indexable: true
 metaTitle: "Sash Windows in Liverpool | Platinum Double Glazing"
 metaDescription: "Double-glazed sash window replacement in Liverpool from £528. Conservation-area experience, free quotes."
 generatedAt: "2026-08-27"

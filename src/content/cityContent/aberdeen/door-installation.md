@@ -4,7 +4,7 @@ citySlug: "aberdeen"
 intent: "Door Installation"
 intentSlug: "door-installation"
 region: "Scotland"
-indexable: false
+indexable: true
 metaTitle: "Door Installation in Aberdeen | Platinum Double Glazing"
 metaDescription: "Composite & uPVC door installation in Aberdeen from £765. Multi-point locking, free quotes."
 generatedAt: "2026-08-27"

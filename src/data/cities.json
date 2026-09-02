@@ -5,7 +5,7 @@
     "county": "Greater London",
     "region": "London",
     "pf": 1.25,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "croydon",
       "bromley",
@@ -20,7 +20,7 @@
     "county": "West Midlands",
     "region": "West Midlands",
     "pf": 0.92,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "wolverhampton",
       "coventry",
@@ -35,7 +35,7 @@
     "county": "Greater Manchester",
     "region": "North West England",
     "pf": 0.9,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "salford",
       "stockport",
@@ -50,7 +50,7 @@
     "county": "West Yorkshire",
     "region": "Yorkshire and the Humber",
     "pf": 0.88,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "bradford",
       "wakefield",
@@ -65,7 +65,7 @@
     "county": "Glasgow City",
     "region": "Scotland",
     "pf": 0.88,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "paisley",
       "east-kilbride",
@@ -80,7 +80,7 @@
     "county": "Merseyside",
     "region": "North West England",
     "pf": 0.88,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "southport",
       "manchester",
@@ -95,7 +95,7 @@
     "county": "Bristol",
     "region": "South West England",
     "pf": 0.98,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "bath",
       "plymouth",
@@ -110,7 +110,7 @@
     "county": "South Yorkshire",
     "region": "Yorkshire and the Humber",
     "pf": 0.87,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "rotherham",
       "barnsley",
@@ -125,7 +125,7 @@
     "county": "City of Edinburgh",
     "region": "Scotland",
     "pf": 0.95,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "livingston",
       "glasgow",
@@ -140,7 +140,7 @@
     "county": "Leicestershire",
     "region": "East Midlands",
     "pf": 0.89,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "loughborough",
       "nottingham",
@@ -155,7 +155,7 @@
     "county": "West Midlands",
     "region": "West Midlands",
     "pf": 0.91,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "birmingham",
       "nuneaton",
@@ -170,7 +170,7 @@
     "county": "West Yorkshire",
     "region": "Yorkshire and the Humber",
     "pf": 0.86,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "leeds",
       "keighley",
@@ -185,7 +185,7 @@
     "county": "Nottinghamshire",
     "region": "East Midlands",
     "pf": 0.89,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "derby",
       "mansfield",
@@ -200,7 +200,7 @@
     "county": "East Riding of Yorkshire",
     "region": "Yorkshire and the Humber",
     "pf": 0.84,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "beverley",
       "bridlington",
@@ -215,7 +215,7 @@
     "county": "Staffordshire",
     "region": "West Midlands",
     "pf": 0.86,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "stafford",
       "crewe",
@@ -230,7 +230,7 @@
     "county": "West Midlands",
     "region": "West Midlands",
     "pf": 0.9,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "birmingham",
       "walsall",
@@ -245,7 +245,7 @@
     "county": "Devon",
     "region": "South West England",
     "pf": 0.9,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "torquay",
       "exeter",
@@ -260,7 +260,7 @@
     "county": "Hampshire",
     "region": "South East England",
     "pf": 1.05,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "portsmouth",
       "fareham",
@@ -275,7 +275,7 @@
     "county": "Berkshire",
     "region": "South East England",
     "pf": 1.12,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "slough",
       "basingstoke",
@@ -290,7 +290,7 @@
     "county": "Derbyshire",
     "region": "East Midlands",
     "pf": 0.88,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "nottingham",
       "burton-upon-trent",
@@ -305,7 +305,7 @@
     "county": "Tyne and Wear",
     "region": "North East England",
     "pf": 0.85,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "sunderland",
       "durham",
@@ -320,7 +320,7 @@
     "county": "Tyne and Wear",
     "region": "North East England",
     "pf": 0.83,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "newcastle-upon-tyne",
       "durham",
@@ -335,7 +335,7 @@
     "county": "Aberdeen City",
     "region": "Scotland",
     "pf": 0.9,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "glasgow",
       "edinburgh",
@@ -350,7 +350,7 @@
     "county": "Hampshire",
     "region": "South East England",
     "pf": 1.03,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "southampton",
       "fareham",
@@ -365,7 +365,7 @@
     "county": "North Yorkshire",
     "region": "Yorkshire and the Humber",
     "pf": 0.92,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "leeds",
       "harrogate",
@@ -380,7 +380,7 @@
     "county": "Oxfordshire",
     "region": "South East England",
     "pf": 1.15,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "southampton",
       "reading",
@@ -395,7 +395,7 @@
     "county": "Cambridgeshire",
     "region": "East of England",
     "pf": 1.14,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "norwich",
       "ipswich",
@@ -410,7 +410,7 @@
     "county": "City and County of Swansea",
     "region": "Wales",
     "pf": 0.86,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "neath",
       "bridgend",
@@ -425,7 +425,7 @@
     "county": "Cardiff",
     "region": "Wales",
     "pf": 0.88,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "barry",
       "caerphilly",
@@ -440,7 +440,7 @@
     "county": "Norfolk",
     "region": "East of England",
     "pf": 0.91,
-    "indexable": false,
+    "indexable": true,
     "nearby": [
       "great-yarmouth",
       "kings-lynn",

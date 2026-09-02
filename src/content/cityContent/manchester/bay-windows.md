@@ -4,7 +4,7 @@ citySlug: "manchester"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "North West England"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Manchester | Platinum Double Glazing"
 metaDescription: "Bay window installation in Manchester from £1080. Structural checks included, free no-obligation quotes."
 generatedAt: "2026-08-27"

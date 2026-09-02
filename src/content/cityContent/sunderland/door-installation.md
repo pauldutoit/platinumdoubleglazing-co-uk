@@ -4,7 +4,7 @@ citySlug: "sunderland"
 intent: "Door Installation"
 intentSlug: "door-installation"
 region: "North East England"
-indexable: false
+indexable: true
 metaTitle: "Door Installation in Sunderland | Platinum Double Glazing"
 metaDescription: "Composite & uPVC door installation in Sunderland from £706. Multi-point locking, free quotes."
 generatedAt: "2026-08-27"

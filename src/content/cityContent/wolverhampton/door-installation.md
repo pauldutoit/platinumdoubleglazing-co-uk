@@ -4,7 +4,7 @@ citySlug: "wolverhampton"
 intent: "Door Installation"
 intentSlug: "door-installation"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Door Installation in Wolverhampton | Platinum Glazing"
 metaDescription: "Composite & uPVC door installation in Wolverhampton from £765. Multi-point locking, free quotes."
 generatedAt: "2026-08-27"

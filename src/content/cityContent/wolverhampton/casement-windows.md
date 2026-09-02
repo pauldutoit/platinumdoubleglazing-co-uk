@@ -4,7 +4,7 @@ citySlug: "wolverhampton"
 intent: "Casement Windows"
 intentSlug: "casement-windows"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Casement Windows in Wolverhampton | Platinum Double Glazing"
 metaDescription: "A-rated casement windows in Wolverhampton from £315. Free quotes from FENSA-registered installers."
 generatedAt: "2026-08-27"

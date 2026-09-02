@@ -4,7 +4,7 @@ citySlug: "bristol"
 intent: "Door Installation"
 intentSlug: "door-installation"
 region: "South West England"
-indexable: false
+indexable: true
 metaTitle: "Door Installation in Bristol | Platinum Double Glazing"
 metaDescription: "Composite & uPVC door installation in Bristol from £833. Multi-point locking, free quotes."
 generatedAt: "2026-08-27"

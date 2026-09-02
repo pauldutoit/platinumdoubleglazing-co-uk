@@ -4,7 +4,7 @@ citySlug: "derby"
 intent: "Door Installation"
 intentSlug: "door-installation"
 region: "East Midlands"
-indexable: false
+indexable: true
 metaTitle: "Door Installation in Derby | Platinum Double Glazing"
 metaDescription: "Composite & uPVC door installation in Derby from £748. Multi-point locking, free quotes."
 generatedAt: "2026-08-27"

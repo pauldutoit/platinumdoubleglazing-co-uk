@@ -4,7 +4,7 @@ citySlug: "edinburgh"
 intent: "Bay Windows"
 intentSlug: "bay-windows"
 region: "Scotland"
-indexable: false
+indexable: true
 metaTitle: "Bay Windows in Edinburgh | Platinum Double Glazing"
 metaDescription: "Bay window installation in Edinburgh from £1140. Structural checks included, free no-obligation quotes."
 generatedAt: "2026-08-27"

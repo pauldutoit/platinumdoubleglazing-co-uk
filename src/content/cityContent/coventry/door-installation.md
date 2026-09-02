@@ -4,7 +4,7 @@ citySlug: "coventry"
 intent: "Door Installation"
 intentSlug: "door-installation"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Door Installation in Coventry | Platinum Double Glazing"
 metaDescription: "Composite & uPVC door installation in Coventry from £774. Multi-point locking, free quotes."
 generatedAt: "2026-08-27"

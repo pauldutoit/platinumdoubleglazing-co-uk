@@ -4,7 +4,7 @@ citySlug: "newcastle-upon-tyne"
 intent: "Sash Windows"
 intentSlug: "sash-windows"
 region: "North East England"
-indexable: false
+indexable: true
 metaTitle: "Sash Windows in Newcastle upon Tyne | Platinum Glazing"
 metaDescription: "Double-glazed sash window replacement in Newcastle upon Tyne from £510. Conservation-area experience, free quotes."
 generatedAt: "2026-08-27"

@@ -4,7 +4,7 @@ citySlug: "stoke-on-trent"
 intent: "Sash Windows"
 intentSlug: "sash-windows"
 region: "West Midlands"
-indexable: false
+indexable: true
 metaTitle: "Sash Windows in Stoke-on-Trent | Platinum Double Glazing"
 metaDescription: "Double-glazed sash window replacement in Stoke-on-Trent from £516. Conservation-area experience, free quotes."
 generatedAt: "2026-08-27"
